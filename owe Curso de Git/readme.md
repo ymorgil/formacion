@@ -1,4 +1,4 @@
-# 💠 Curso de Git
+# :cyclone: Curso de Git
 
 |  |  |
 |---|---|
