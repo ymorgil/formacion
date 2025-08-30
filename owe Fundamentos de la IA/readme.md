@@ -76,9 +76,8 @@ Framework de código abierto desarrollado por Google para construir y entrenar m
 
 - Cell magics (%%): afectan a toda la celda donde se colocan.
 
-
 ## Resolución de un problema de clasificación en Python
 
 ## Resolución de un problema de Deep Learning en Python
-
+>Keras es una biblioteca de alto nivel para construir redes neuronales, que originalmente se diseñó como una interfaz para TensorFlow, pero también es compatible con Theano y CNTK. Su objetivo es hacer que la construcción, entrenamiento y evaluación de redes neuronales profundas sea más fácil y rápida. Keras permite crear redes neuronales de manera modular, flexible y concisa.
 # 💠Conclusiones
