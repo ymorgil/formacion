@@ -25,7 +25,7 @@ nav:
         - Grammar: ingles/02grammar.md
 
 plugins:
-   - glightbox
+   - glightbox # Cuando el usuario hace clic en una imagen se abre en una ventana emergente (lightbox)
 
 extra_css:
    - assets/css/extra.css
