@@ -4,7 +4,23 @@
 
 ---
 
-> 🗺️ **Mapa rápido:** Hay 4 tiempos en cada grupo (presente, pasado, futuro) → **12 en total**.
+## 📊 Resumen — Los 12 tiempos de un vistazo
+
+| # | Tiempo | Ejemplo | ¿Esencial? |
+|---|---|---|---|
+| 1 | Present Simple | She **works** every day. | 🚀 |
+| 2 | Present Continuous | She **is working** now. | 🚀 |
+| 3 | Present Perfect | She **has worked** here for years. | 🚀 |
+| 4 | Present Perfect Continuous | She **has been working** all morning. | — |
+| 5 | Past Simple | She **worked** yesterday. | 🚀 |
+| 6 | Past Continuous | She **was working** when I called. | 🚀 |
+| 7 | Past Perfect | She **had worked** there before. | — |
+| 8 | Past Perfect Continuous | She **had been working** for hours. | — |
+| 9 | Future Simple (Will) | She **will work** tomorrow. | 🚀 |
+| 10 | Be Going To | She **is going to work** next week. | 🚀 |
+| 11 | Future Continuous | She **will be working** at noon. | — |
+| 12 | Future Perfect | She **will have worked** 10 years by then. | — |
+
 > Los marcados con 🚀 son los **7 imprescindibles** que debes dominar primero.
 
 ---
@@ -18,11 +34,9 @@ Acciones habituales, rutinas, hechos permanentes o verdades universales. Es el t
 
 **Estructura:**
 
-| Forma | Estructura |
-|---|---|
-| ✅ Afirmativa | Subject + verb (+ **-s** en 3ª persona) |
-| ❌ Negativa | Subject + **do/does not** + verb |
-| ❓ Interrogativa | **Do/Does** + subject + verb? |
+| ✅ Afirmativa | ❌ Negativa | ❓ Interrogativa |
+|---|---|---|
+| Subject + verb (+ **-s** en 3ª persona) | Subject + **do/does not** + verb | **Do/Does** + subject + verb? |
 
 **Marcadores de tiempo:** always, usually, often, sometimes, never, every day, on Mondays.
 
@@ -41,11 +55,9 @@ Acciones que están ocurriendo en este momento o en un periodo temporal cercano.
 
 **Estructura:**
 
-| Forma | Estructura |
-|---|---|
-| ✅ Afirmativa | Subject + **am/is/are** + verb**-ing** |
-| ❌ Negativa | Subject + **am/is/are not** + verb**-ing** |
-| ❓ Interrogativa | **Am/Is/Are** + subject + verb**-ing**? |
+| ✅ Afirmativa | ❌ Negativa | ❓ Interrogativa |
+|---|---|---|
+| Subject + **am/is/are** + verb**-ing** | Subject + **am/is/are not** + verb**-ing** | **Am/Is/Are** + subject + verb**-ing**? |
 
 **Marcadores de tiempo:** now, right now, at the moment, currently, today, this week.
 
@@ -57,18 +69,16 @@ Acciones que están ocurriendo en este momento o en un periodo temporal cercano.
 
 ---
 
-### Present Perfect 🚀
+### 🚀 Present Perfect
 
 **¿Qué expresa?**
 Acciones pasadas con relevancia en el presente: experiencias de vida, acciones recién terminadas o situaciones que empezaron en el pasado y siguen ahora.
 
 **Estructura:**
 
-| Forma | Estructura |
-|---|---|
-| ✅ Afirmativa | Subject + **have/has** + past participle |
-| ❌ Negativa | Subject + **have/has not** + past participle |
-| ❓ Interrogativa | **Have/Has** + subject + past participle? |
+| ✅ Afirmativa | ❌ Negativa | ❓ Interrogativa |
+|---|---|---|
+| Subject + **have/has** + past participle | Subject + **have/has not** + past participle | **Have/Has** + subject + past participle? |
 
 **Marcadores de tiempo:** already, yet, just, ever, never, recently, since, for.
 
@@ -87,11 +97,9 @@ Acción que empezó en el pasado y sigue en el presente, con énfasis en la **du
 
 **Estructura:**
 
-| Forma | Estructura |
-|---|---|
-| ✅ Afirmativa | Subject + **have/has been** + verb**-ing** |
-| ❌ Negativa | Subject + **have/has not been** + verb**-ing** |
-| ❓ Interrogativa | **Have/Has** + subject + **been** + verb**-ing**? |
+| ✅ Afirmativa | ❌ Negativa | ❓ Interrogativa |
+|---|---|---|
+| Subject + **have/has been** + verb**-ing** | Subject + **have/has not been** + verb**-ing** | **Have/Has** + subject + **been** + verb**-ing**? |
 
 **Marcadores de tiempo:** for, since, all day, all morning, lately, recently.
 
@@ -112,11 +120,9 @@ Acciones completadas en un momento concreto del pasado. Es el tiempo narrativo p
 
 **Estructura:**
 
-| Forma | Estructura |
-|---|---|
-| ✅ Afirmativa | Subject + verb**-ed** *(o irregular)* |
-| ❌ Negativa | Subject + **did not** + verb (base) |
-| ❓ Interrogativa | **Did** + subject + verb (base)? |
+| ✅ Afirmativa | ❌ Negativa | ❓ Interrogativa |
+|---|---|---|
+| Subject + verb**-ed** *(o irregular)* | Subject + **did not** + verb (base) | **Did** + subject + verb (base)? |
 
 **Marcadores de tiempo:** yesterday, last week/month/year, ago, in 2010, then, when.
 
@@ -135,11 +141,9 @@ Acción que estaba en progreso en un momento del pasado. Muy usado para describi
 
 **Estructura:**
 
-| Forma | Estructura |
-|---|---|
-| ✅ Afirmativa | Subject + **was/were** + verb**-ing** |
-| ❌ Negativa | Subject + **was/were not** + verb**-ing** |
-| ❓ Interrogativa | **Was/Were** + subject + verb**-ing**? |
+| ✅ Afirmativa | ❌ Negativa | ❓ Interrogativa |
+|---|---|---|
+| Subject + **was/were** + verb**-ing** | Subject + **was/were not** + verb**-ing** | **Was/Were** + subject + verb**-ing**? |
 
 **Marcadores de tiempo:** while, when, at that moment, at 8 o'clock yesterday.
 
@@ -158,11 +162,9 @@ Acción ocurrida **antes** de otro momento o acción en el pasado. El "pasado de
 
 **Estructura:**
 
-| Forma | Estructura |
-|---|---|
-| ✅ Afirmativa | Subject + **had** + past participle |
-| ❌ Negativa | Subject + **had not** + past participle |
-| ❓ Interrogativa | **Had** + subject + past participle? |
+| ✅ Afirmativa | ❌ Negativa | ❓ Interrogativa |
+|---|---|---|
+| Subject + **had** + past participle | Subject + **had not** + past participle | **Had** + subject + past participle? |
 
 **Marcadores de tiempo:** already, just, never, before, after, by the time, when.
 
@@ -181,11 +183,9 @@ Acción que estuvo en progreso durante un tiempo antes de otro momento pasado. �
 
 **Estructura:**
 
-| Forma | Estructura |
-|---|---|
-| ✅ Afirmativa | Subject + **had been** + verb**-ing** |
-| ❌ Negativa | Subject + **had not been** + verb**-ing** |
-| ❓ Interrogativa | **Had** + subject + **been** + verb**-ing**? |
+| ✅ Afirmativa | ❌ Negativa | ❓ Interrogativa |
+|---|---|---|
+| Subject + **had been** + verb**-ing** | Subject + **had not been** + verb**-ing** | **Had** + subject + **been** + verb**-ing**? |
 
 **Marcadores de tiempo:** for, since, all day, before, when, by the time.
 
@@ -205,11 +205,9 @@ Decisiones espontáneas, predicciones, promesas y ofrecimientos. Es el futuro m�
 
 **Estructura:**
 
-| Forma | Estructura |
-|---|---|
-| ✅ Afirmativa | Subject + **will** + verb (base) |
-| ❌ Negativa | Subject + **will not (won't)** + verb (base) |
-| ❓ Interrogativa | **Will** + subject + verb (base)? |
+| ✅ Afirmativa | ❌ Negativa | ❓ Interrogativa |
+|---|---|---|
+| Subject + **will** + verb (base) | Subject + **will not (won't)** + verb (base) | **Will** + subject + verb (base)? |
 
 **Marcadores de tiempo:** tomorrow, next week, soon, in the future, in 2030, probably.
 
@@ -228,11 +226,9 @@ Intenciones ya decididas y predicciones basadas en evidencias presentes. La dife
 
 **Estructura:**
 
-| Forma | Estructura |
-|---|---|
-| ✅ Afirmativa | Subject + **am/is/are going to** + verb (base) |
-| ❌ Negativa | Subject + **am/is/are not going to** + verb (base) |
-| ❓ Interrogativa | **Am/Is/Are** + subject + **going to** + verb (base)? |
+| ✅ Afirmativa | ❌ Negativa | ❓ Interrogativa |
+|---|---|---|
+| Subject + **am/is/are going to** + verb (base) | Subject + **am/is/are not going to** + verb (base) | **Am/Is/Are** + subject + **going to** + verb (base)? |
 
 **Marcadores de tiempo:** tonight, next month, this summer, soon.
 
@@ -251,11 +247,9 @@ Acción que estará en progreso en un momento concreto del futuro. También se u
 
 **Estructura:**
 
-| Forma | Estructura |
-|---|---|
-| ✅ Afirmativa | Subject + **will be** + verb**-ing** |
-| ❌ Negativa | Subject + **will not be** + verb**-ing** |
-| ❓ Interrogativa | **Will** + subject + **be** + verb**-ing**? |
+| ✅ Afirmativa | ❌ Negativa | ❓ Interrogativa |
+|---|---|---|
+| Subject + **will be** + verb**-ing** | Subject + **will not be** + verb**-ing** | **Will** + subject + **be** + verb**-ing**? |
 
 **Marcadores de tiempo:** at this time tomorrow, this time next week, in two hours.
 
@@ -273,11 +267,9 @@ Acción que estará **completada** antes de un momento futuro. Equivale al "para
 
 **Estructura:**
 
-| Forma | Estructura |
-|---|---|
-| ✅ Afirmativa | Subject + **will have** + past participle |
-| ❌ Negativa | Subject + **will not have** + past participle |
-| ❓ Interrogativa | **Will** + subject + **have** + past participle? |
+| ✅ Afirmativa | ❌ Negativa | ❓ Interrogativa |
+|---|---|---|
+| Subject + **will have** + past participle | Subject + **will not have** + past participle | **Will** + subject + **have** + past participle? |
 
 **Marcadores de tiempo:** by tomorrow, by next year, by the time, by then.
 
@@ -285,25 +277,6 @@ Acción que estará **completada** antes de un momento futuro. Equivale al "para
 - **By** next June, I **will have finished** my degree. *(Para el próximo junio, habré terminado mi carrera.)*
 - She **won't have read** the report by then. *(Ella no habrá leído el informe para entonces.)*
 - **Will** you **have saved** enough money by December? *(¿Habrás ahorrado suficiente dinero para diciembre?)*
-
----
-
-## 📊 Resumen — Los 12 tiempos de un vistazo
-
-| # | Tiempo | Ejemplo | ¿Esencial? |
-|---|---|---|---|
-| 1 | Present Simple | She **works** every day. | 🚀 |
-| 2 | Present Continuous | She **is working** now. | 🚀 |
-| 3 | Present Perfect | She **has worked** here for years. | 🚀 |
-| 4 | Present Perfect Continuous | She **has been working** all morning. | — |
-| 5 | Past Simple | She **worked** yesterday. | 🚀 |
-| 6 | Past Continuous | She **was working** when I called. | 🚀 |
-| 7 | Past Perfect | She **had worked** there before. | — |
-| 8 | Past Perfect Continuous | She **had been working** for hours. | — |
-| 9 | Future Simple (Will) | She **will work** tomorrow. | 🚀 |
-| 10 | Be Going To | She **is going to work** next week. | 🚀 |
-| 11 | Future Continuous | She **will be working** at noon. | — |
-| 12 | Future Perfect | She **will have worked** 10 years by then. | — |
 
 ---
 

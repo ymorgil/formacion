@@ -22,7 +22,9 @@ nav:
    - Inicio: index.md
    - Inglés:
         - Apuntes: ingles/01introing.md
-        - Grammar: ingles/02grammar.md
+        - Verbos: ingles/02verbos.md
+        - Grammar: ingles/03grammar.md
+        - Phrasal: ingles/04phrasal.md
 
 plugins:
    - glightbox # Cuando el usuario hace clic en una imagen se abre en una ventana emergente (lightbox)
