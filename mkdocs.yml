@@ -23,9 +23,9 @@ nav:
    - Inglés:
         - Recursos: ingles/01introing.md
         - Verbos: ingles/02verbos.md
-        - Grammar: ingles/03grammar.md
+        - Modales: ingles/03modales.md
         - Phrasal: ingles/04phrasal.md
-
+        - Grammar: ingles/05grammar.md
 plugins:
    - glightbox # Cuando el usuario hace clic en una imagen se abre en una ventana emergente (lightbox)
 
