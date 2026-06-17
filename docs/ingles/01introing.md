@@ -83,18 +83,18 @@ Plataformas completas que trabajan listening, reading, writing y/o speaking a la
 
 ## 📱 Aplicaciones
  
-Apps para practicar inglés desde el móvil en cualquier momento.
- 
-| App | Plataforma | Qué trabaja | Destacado | Enlace |
-|---|---|---|---|---|
-| Duolingo | iOS / Android | Vocabulario, gramática, escucha | Gamificada, ideal para hábito diario | [duolingo.com](https://www.duolingo.com) |
-| Babbel | iOS / Android | Todas las habilidades | Lecciones cortas con diálogos reales | [babbel.com](https://www.babbel.com) |
-| Busuu | iOS / Android | Todas las habilidades | Correcciones de nativos incluidas | [busuu.com](https://www.busuu.com) |
-| Anki | iOS / Android / PC | Vocabulario (flashcards) | Sistema de repetición espaciada muy eficaz | [apps.ankiweb.net](https://apps.ankiweb.net) |
-| ELSA Speak | iOS / Android | Pronunciación y speaking | IA que detecta errores de pronunciación | [elsaspeak.com](https://elsaspeak.com) |
-| Cake | iOS / Android | Listening + speaking | Aprende con vídeos y frases del mundo real | [mycake.ai](https://mycake.ai) |
-| Tandem | iOS / Android | Speaking + writing | Intercambio de idiomas con nativos | [tandem.net](https://www.tandem.net) |
-| Speeko | iOS / Android | Speaking y confianza oral | Ejercicios guiados de expresión oral | [speeko.co](https://www.speeko.co) |
+| # | App | Enfoque principal | Nivel ideal | Precio |
+|---|-----|-------------------|-------------|--------|
+| 1 | **Duolingo** | Vocabulario · Gramática · Gamificación | A2 → B1 | Freemium |
+| 2 | **Busuu** | Escritura · Corrección por nativos | A2 → B2 | Freemium |
+| 3 | **Anki** | Vocabulario · Tarjetas con repetición espaciada | Todos los niveles | Gratis |
+| 4 | **Elsa Speak** | Pronunciación · Corrección con IA | A2 → B2 | Freemium |
+| 5 | **Memrise** | Vocabulario real · Vídeos de nativos | A2 → B1 | Freemium |
+| 6 | **BBC Learning English** | Comprensión · Noticias · Listening | A2 → B2 | Gratis |
+| 7 | **HelloTalk** | Intercambio lingüístico · Chat con nativos | A2 → B2 | Freemium |
+| 8 | **Cake** | Expresiones · Vídeos cortos · Shadowing | A2 → B1 | Gratis |
+| 9 | **Lingodeer** | Gramática · Lecciones estructuradas | A2 → B1 | Freemium |
+| 10 | **English Central** | Listening · Pronunciación · Vídeos reales | A2 → B2 | Freemium |
  
 ## 🔊 Podcasts 
 
