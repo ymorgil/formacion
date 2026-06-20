@@ -1,16 +1,42 @@
 # ✒️ Gramática Inglesa — Guía de Referencia
 
+## 📗 Adverbios de Frecuencia
+> Un adverbio es una palabra que modifica o describe a un **verbo**, a un **adjetivo** o a **otro adverbio**. Nos indica *cómo, cuándo, dónde* o *con qué frecuencia* ocurre una acción.
+
+> 🎯 Lo más importante no es saber el significado de todos los adverbios, sino saber **colocarlos correctamente en la oración**. Los errores de posición restan muchos puntos en el examen *Cambridge B2 First (Use of English)*.
+
+> Se utilizan para indicar con qué regularidad hacemos una actividad.
+
+| Adverbio | Significado | Frecuencia | Ejemplo en Inglés |
+| :--- | :--- | :---: | :--- |
+| **Always** | Siempre | 100% | *I **always** study English in the morning.* |
+| **Usually** | Normalmente | 85% | *We **usually** watch series with subtitles.* |
+| **Often** | A menudo | 70% | *She **often** listens to British podcasts.* |
+| **Sometimes** | A veces | 50% | *They **sometimes** practice speaking together.* |
+| **Hardly ever / Seldom** | Casi nunca | 10% | *He **hardly ever** watches TV.* |
+| **Never** | Nunca | 0% | *I **never** forget my homework.* |
+
+**REGLA DE LA POSICIÓN**
+
+``Regla 1: Con verbos normales (Antes del verbo)``
+El adverbio se coloca justo **antes** del verbo principal. **Verbo normal:** El verbo es débil, necesita que el adverbio lo "proteja" desde atrás (Adverbio + Verbo).
+
+* **Estructura:** Sujeto + `Adverbio` + **Verbo** + Complemento
+* *Example:* *You `always` **speak** English well.*
+
+`Regla 2: Con el verbo TO BE (Después del verbo)`
+
+El adverbio se coloca **después** del verbo *to be* (am, is, are, was, were). **Verbo TO BE:** El verbo *to be* es el rey del inglés, es fuerte y se pone primero (Verbo TO BE + Adverbio).
+
+* **Estructura:** Sujeto + **Verbo TO BE** + `Adverbio` + Complemento
+* *Example:* *She **is** `usually` punctual for her classes.*
+
 ## 📗 Artículos
-> Los **artículos** son palabras que acompañan a los sustantivos para indicar si nos referimos a algo específico o general, conocido o desconocido. En inglés hay tres: **the**, **a** y **an**.
+> Los **artículos** son palabras que acompañan a los sustantivos para indicar si nos referimos a algo específico o general, conocido o desconocido. 
 
-### Artículo definido: `the`
+**Artículo definido: `the` (el / la / los / las)**
+
 Se usa **the** cuando hablamos de algo específico o ya mencionado, tanto con sustantivos contables como incontables.
-
-| Palabra | Significado | Ejemplo |
-|--------|-------------|---------|
-| the | el / la / los / las | *The sun is bright today.* — El sol está brillante hoy. |
-
-**¿Cuándo usar `the`?**
 
 | Situación | Ejemplo |
 |-----------|---------|
@@ -19,17 +45,19 @@ Se usa **the** cuando hablamos de algo específico o ya mencionado, tanto con su
 | Con nombres geográficos (ríos, mares, cadenas montañosas) | *The Amazon, The Alps, The Pacific* |
 | Con superlativos | *She is the best student.* |
 
-### Artículos indefinidos: `a` / `an`
-Se usan con sustantivos contables en singular cuando hablamos de algo por primera vez o de manera general.
+**Artículos indefinidos: `a` / `an`**
+
+Se usan con sustantivos contables en singular cuando hablamos de algo por primera vez o de manera general. 
+**Regla clave:** Se usa **an** antes de palabras que comienzan con sonido vocálico: *an apple, an hour, an umbrella*.
 
 | Palabra | Significado | Ejemplo |
 |--------|-------------|---------|
 | a | un / una | *I have a cat.* — Tengo un gato. |
 | an | un / una (antes de vocal) | *She is an engineer.* — Ella es una ingeniera. |
 
-> **Regla clave:** Se usa **an** antes de palabras que comienzan con sonido vocálico: *an apple, an hour, an umbrella*.
+> 
 
-### Sin artículo (Zero Article)
+**Sin artículo (Zero Article)**
 
 | Situación | Ejemplo |
 |-----------|---------|
@@ -350,3 +378,7 @@ A diferencia de las conjunciones básicas, estos conectores no solo unen frases,
 | in conclusion / to sum up | en conclusión / en resumen | *To sum up, the project was a success.* |
 | in other words | en otras palabras | *The task is overdue. In other words, we're behind schedule.* |
 | as far as ... is concerned | en lo que respecta a | *As far as the budget is concerned, we are on track.* |
+
+
+
+
