@@ -1,9 +1,5 @@
 # Guía de pronunciación del inglés
 
-Todos los ejemplos son palabras del texto de *El Retrato de Dorian Gray*.
-
----
-
 ## Consonantes difíciles
 
 | Letra(s) | Cómo pronunciarlo | Ejemplos del texto |
@@ -15,8 +11,6 @@ Todos los ejemplos son palabras del texto de *El Retrato de Dorian Gray*.
 | **j / dj** | La "j" inglesa suena como "dj" suave, como "Yolanda" pero más fuerte. Nunca como la "j" española (jamón). | just → DJAST / jade → DJEID |
 | **sh** | Como la "sh" de "shhhh" (silencio). Labios un poco hacia adelante. | shouldering → SHOUL-der-ing |
 
----
-
 ## Vocales largas y cortas
 
 | Sonido | Cómo pronunciarlo | Ejemplos del texto |
@@ -27,9 +21,7 @@ Todos los ejemplos son palabras del texto de *El Retrato de Dorian Gray*.
 | **a (sola)** | A veces suena como "ei" (palabras largas), a veces como "a" corta. | awake → a-WEIK / amidst → a-MIDST |
 | **u / o (tónica)** | Muchas veces suena como una "a" muy oscura, casi "ar". | burden → BER-den / sudden → SUD-en / custom → KAS-tem |
 
----
-
-## Letras mudas (no se pronuncian)
+## Letras mudas 
 
 | Combinación | Qué pasa | Ejemplos del texto |
 |-------------|----------|--------------------|
@@ -37,8 +29,6 @@ Todos los ejemplos son palabras del texto de *El Retrato de Dorian Gray*.
 | **k antes de n** | La "k" no se pronuncia cuando va seguida de "n". | know → NOU / knee → NII |
 | **e final** | La "e" al final de una palabra casi nunca se pronuncia, pero alarga la vocal anterior. | awake → a-WEIK / flamelike → FLEIM-laik |
 | **l en "ould"** | La "l" de "ould" es muda. | should → SHUD / would → WUD / could → KUD |
-
----
 
 ## El acento (stress)
 
