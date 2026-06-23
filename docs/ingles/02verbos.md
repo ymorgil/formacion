@@ -17,8 +17,7 @@
 
 ## 🚀 PRESENTE
 
-### Present Simple 🟢
-**Estructura:**
+### 🟢Present Simple 
 
 | ✅ Afirmativa | ❌ Negativa | ❓ Interrogativa |
 |---|---|---|
@@ -32,10 +31,8 @@ always, usually, often, sometimes, never, every day, on Mondays.
 - She **works** in a hospital. *(Ella trabaja en un hospital.)*
 - I **don't eat** meat. *(No como carne.)*
 - **Do** you **speak** English? *(¿Hablas inglés?)*
-- The sun **rises** in the east. *(El sol sale por el este.)*
 
-### Present Continuous 🟢
-**Estructura:**
+### 🟢Present Continuous
 
 | ✅ Afirmativa | ❌ Negativa | ❓ Interrogativa |
 |---|---|---|
@@ -48,10 +45,8 @@ always, usually, often, sometimes, never, every day, on Mondays.
 - I **am studying** for my exam. *(Estoy estudiando para mi examen.)*
 - She **isn't watching** TV right now. *(Ella no está viendo la tele ahora mismo.)*
 - **Are** they **coming** to the party tonight? *(¿Vienen a la fiesta esta noche?)*
-- We **are moving** to a new flat next month. *(Nos mudamos a un piso nuevo el mes que viene.)*
 
-### Present Perfect 🟢
-**Estructura:**
+### 🟢Present Perfect
 
 | ✅ Afirmativa | ❌ Negativa | ❓ Interrogativa |
 |---|---|---|
@@ -64,10 +59,8 @@ always, usually, often, sometimes, never, every day, on Mondays.
 - I **have visited** London twice. *(He visitado Londres dos veces.)*
 - She **hasn't finished** her homework yet. *(Ella todavía no ha terminado sus deberes.)*
 - **Have** you **ever eaten** sushi? *(¿Has comido sushi alguna vez?)*
-- He **has just** left the office. *(Acaba de salir de la oficina.)*
 
 ### Present Perfect Continuous
-**Estructura:**
 
 | ✅ Afirmativa | ❌ Negativa | ❓ Interrogativa |
 |---|---|---|
@@ -80,12 +73,9 @@ always, usually, often, sometimes, never, every day, on Mondays.
 - I **have been learning** English for two years. *(Llevo dos años aprendiendo inglés.)*
 - She **has been working** here since 2020. *(Lleva trabajando aquí desde 2020.)*
 - **Have** you **been waiting** long? *(¿Llevas mucho tiempo esperando?)*
-- He looks tired — he **has been running**. *(Parece cansado; ha estado corriendo.)*
 
 ## 🚀 PASADO
-
-###  Past Simple 🟢
-**Estructura:**
+###  🟢Past Simple
 
 | ✅ Afirmativa | ❌ Negativa | ❓ Interrogativa |
 |---|---|---|
@@ -98,10 +88,8 @@ always, usually, often, sometimes, never, every day, on Mondays.
 - I **visited** my grandparents last weekend. *(Visité a mis abuelos el fin de semana pasado.)*
 - She **didn't go** to the party. *(Ella no fue a la fiesta.)*
 - **Did** you **see** that film? *(¿Viste esa película?)*
-- He **woke** up late and **missed** the bus. *(Se levantó tarde y perdió el autobús.)*
 
-###  Past Continuous 🟢
-**Estructura:**
+###  🟢Past Continuous
 
 | ✅ Afirmativa | ❌ Negativa | ❓ Interrogativa |
 |---|---|---|
@@ -114,10 +102,8 @@ always, usually, often, sometimes, never, every day, on Mondays.
 - I **was cooking** when she called me. *(Estaba cocinando cuando ella me llamó.)*
 - They **weren't sleeping** at midnight. *(No estaban durmiendo a medianoche.)*
 - **Was** he **watching** the match? *(¿Estaba viendo el partido?)*
-- While I **was reading**, it **started** to rain. *(Mientras leía, empezó a llover.)*
 
 ### Past Perfect
-**Estructura:**
 
 | ✅ Afirmativa | ❌ Negativa | ❓ Interrogativa |
 |---|---|---|
@@ -130,10 +116,8 @@ always, usually, often, sometimes, never, every day, on Mondays.
 - When I arrived, the film **had already started**. *(Cuando llegué, la película ya había empezado.)*
 - She **hadn't eaten** anything all day. *(No había comido nada en todo el día.)*
 - **Had** you **met** him before the conference? *(¿Le habías conocido antes de la conferencia?)*
-- He felt sick because he **had eaten** too much. *(Se sentía mal porque había comido demasiado.)*
 
 ### Past Perfect Continuous
-**Estructura:**
 
 | ✅ Afirmativa | ❌ Negativa | ❓ Interrogativa |
 |---|---|---|
@@ -149,8 +133,7 @@ always, usually, often, sometimes, never, every day, on Mondays.
 
 ## 🚀 FUTURO
 
-### Future Simple — Will 🟢
-**Estructura:**
+### 🟢Future Simple — Will
 
 | ✅ Afirmativa | ❌ Negativa | ❓ Interrogativa |
 |---|---|---|
@@ -163,10 +146,8 @@ always, usually, often, sometimes, never, every day, on Mondays.
 - I **will call** you tomorrow. *(Te llamaré mañana.)*
 - She **won't be** at the office on Friday. *(Ella no estará en la oficina el viernes.)*
 - **Will** you **help** me with this? *(¿Me ayudarás con esto?)*
-- I think it **will rain** this afternoon. *(Creo que lloverá esta tarde.)*
 
-### Be Going To 🟢
-**Estructura:**
+### 🟢Be Going To
 
 | ✅ Afirmativa | ❌ Negativa | ❓ Interrogativa |
 |---|---|---|
@@ -179,10 +160,8 @@ always, usually, often, sometimes, never, every day, on Mondays.
 - I **am going to study** abroad next year. *(Voy a estudiar en el extranjero el año que viene.)*
 - She **isn't going to** take the job. *(Ella no va a aceptar el trabajo.)*
 - **Are** you **going to** watch the game? *(¿Vas a ver el partido?)*
-- Look at those clouds — it **is going to** rain! *(¡Mira esas nubes, va a llover!)*
 
 ### Future Continuous
-**Estructura:**
 
 | ✅ Afirmativa | ❌ Negativa | ❓ Interrogativa |
 |---|---|---|
@@ -197,7 +176,6 @@ always, usually, often, sometimes, never, every day, on Mondays.
 - **Will** you **be using** the car tonight? *(¿Estarás usando el coche esta noche?)*
 
 ### Future Perfect
-**Estructura:**
 
 | ✅ Afirmativa | ❌ Negativa | ❓ Interrogativa |
 |---|---|---|
@@ -210,3 +188,23 @@ always, usually, often, sometimes, never, every day, on Mondays.
 - **By** next June, I **will have finished** my degree. *(Para el próximo junio, habré terminado mi carrera.)*
 - She **won't have read** the report by then. *(Ella no habrá leído el informe para entonces.)*
 - **Will** you **have saved** enough money by December? *(¿Habrás ahorrado suficiente dinero para diciembre?)*
+
+## 🚀 Verbos Modales
+> Los verbos modales no son tiempos verbales, pero son igual de esenciales. Modifican el significado del verbo principal expresando posibilidad, obligación, permiso, habilidad o consejo. **No llevan -s en 3ª persona y siempre van seguidos de verbo en infinitivo sin to** *(excepto ought to)*.
+
+| ✅ Afirmativa | ❌ Negativa | ❓ Interrogativa |
+|---|---|---|
+| Subject + **modal** + verb (base) | Subject + **modal + not** + verb (base) | **Modal** + subject + verb (base)? |
+
+| Modal | Uso principal | Equivalente en español | Expresa | Ejemplos |
+|---|---|---|---|---|
+| **can** | Habilidad / permiso informal | poder / saber | Capacidad o habilidad en el presente.<br>También se usa para pedir o dar permiso de forma informal. | She **can speak** three languages. *(Ella puede hablar tres idiomas.)*<br>**Can** I use your phone? *(¿Puedo usar tu teléfono?)*<br>He **can't swim**. *(Él no sabe nadar.)* |
+| **could** | Habilidad pasada / posibilidad / petición educada | podría / podía | Habilidad en el pasado.<br>En el presente expresa posibilidad o peticiones más formales y educadas que **can**. | I **could run** very fast when I was young. *(Podía correr muy rápido cuando era joven.)*<br>**Could** you help me, please? *(¿Podría ayudarme, por favor?)*<br>It **could rain** later. *(Podría llover más tarde.)* |
+| **must** | Obligación fuerte / deducción lógica | deber / tener que | Obligación fuerte que viene del hablante.<br>También expresa una deducción lógica casi segura (**debe de ser**). | You **must wear** a seatbelt. *(Debes ponerte el cinturón de seguridad.)*<br>She **must be** tired after that trip. *(Debe de estar cansada después de ese viaje.)*<br>You **mustn't** smoke here. *(No debes fumar aquí.)* |
+| **have to** | Obligación externa | tener que | Obligación que viene de fuera: reglas, leyes, circunstancias.<br>A diferencia de **must**, la obligación no parte del hablante. | I **have to** wear a uniform at work. *(Tengo que llevar uniforme en el trabajo.)*<br>She **doesn't have to** come if she doesn't want to. *(Ella no tiene que venir si no quiere.)*<br>**Do** you **have to** work on Saturdays? *(¿Tienes que trabajar los sábados?)* |
+| **should** | Consejo / recomendación | debería | Consejo, recomendación o lo que se considera correcto o conveniente.<br>Equivale al "deberías" en español. | You **should study** more. *(Deberías estudiar más.)*<br>She **shouldn't eat** so much sugar. *(Ella no debería comer tanto azúcar.)*<br>**Should** I call him? *(¿Debería llamarle?)* |
+| **may** | Permiso formal / posibilidad | poder (formal) / puede que | Permiso de forma formal o posibilidad en el presente/futuro.<br>Más formal que **can** para pedir permiso. | **May** I come in? *(¿Puedo pasar?)*<br>It **may snow** tomorrow. *(Puede que nieve mañana.)*<br>You **may leave** when you finish. *(Puedes irte cuando termines.)* |
+| **might** | Posibilidad remota | puede que / quizás | Posibilidad menor o más incierta que **may**.<br>Expresa algo que **quizás** ocurra pero no es muy probable. | I **might go** to the party, I'm not sure. *(Puede que vaya a la fiesta, no estoy seguro.)*<br>She **might not** come today. *(Puede que no venga hoy.)*<br>Take an umbrella — it **might rain**. *(Lleva paraguas, puede que llueva.)* |
+| **would** | Condicional / petición muy educada / hábito pasado | gustaría / haría | Forma condicional (**me gustaría, haría**) y peticiones muy corteses.<br>También sirve para hablar de hábitos pasados. | I **would like** a coffee, please. *(Me gustaría un café, por favor.)*<br>**Would** you **mind** closing the door? *(¿Le importaría cerrar la puerta?)*<br>When I was a child, we **would visit** my grandparents every summer. *(Cuando era niño, visitábamos a mis abuelos cada verano.)* |
+
+

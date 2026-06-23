@@ -23,11 +23,12 @@ nav:
    - Inglés:
         - Recursos: ingles/01introing.md
         - Verbos: ingles/02verbos.md
-        - Modales: ingles/03modales.md
         - Phrasal: ingles/04phrasal.md
         - Grammar I: ingles/05grammar.md
         - Grammar II: ingles/05grammar2.md
         - Pronunciación: ingles/06pronu.md
+        - Dudas: ingles/10dudas.md
+        - Audiobooks: ingles/20audiobooks.md
 plugins:
    - glightbox # Cuando el usuario hace clic en una imagen se abre en una ventana emergente (lightbox)
 

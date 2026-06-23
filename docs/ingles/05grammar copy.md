@@ -2,136 +2,56 @@
 Este índice está organizado por bloques estratégicos según el impacto real en el examen de Cambridge B2 (*Use of English* y *Writing*). 
 
 
-## 📗 1. Discourse Markers 
-*Este bloque es **vital** para el B2. Te dará los puntos clave en el Writing y en las partes 1 y 2 del Use of English.*
-> Los conectores (*linking words*) y **marcadores del discurso** (*discourse markers*) son palabras o expresiones que organizan las ideas y dan cohesión al texto o al habla. 
+## 🟥 1: Conectores y Discourse Markers
+*Este bloque es vital para el B2. Te dará los puntos clave en el Writing y en las partes 1 y 2 del Use of English.*
 
-### Conectores
-
-| CONTRASTE Y CONCESIÓN | Significado | Uso | Ejemplo |
-|---------|-------------|-----|---------|
-| however | sin embargo | Une dos oraciones independientes. Va seguido de coma. | *It was expensive. However, it was worth it.* |
-| nevertheless | no obstante, aun así | Concesión formal; admite algo pero mantiene posición | *The plan had flaws. Nevertheless, we proceeded.* |
-| nonetheless | aun así, de todas formas | Similar a nevertheless; ligeramente más informal | *It was difficult. Nonetheless, she succeeded.* |
-| although / even though | aunque | Introduce una cláusula subordinada de concesión | *Although it was raining, we went out.* |
-| whereas | mientras que / en cambio | Contrasta dos ideas directamente en la misma oración | *She loves the city, whereas he prefers the countryside.* |
-| while | mientras que / aunque | Similar a whereas; también puede expresar simultaneidad | *While I understand your point, I disagree.* |
-| on the other hand | por otro lado | Introduce el punto de vista contrario | *It's fast. On the other hand, it's unreliable.* |
-| in spite of / despite | a pesar de | Seguido de sustantivo o gerundio (no de oración) | *Despite the rain, they played the match.* |
-
----
-
-| CAUSA Y CONSECUENCIA | Significado | Ejemplo |
-|---------|-------------|---------|
-| therefore | por lo tanto | *She missed the train. Therefore, she was late.* |
-| as a result | como resultado | *He didn't study. As a result, he failed the exam.* |
-| consequently | en consecuencia | *The road was icy. Consequently, many accidents occurred.* |
-| due to | debido a (+ sustantivo) | *The flight was delayed due to bad weather.* |
-| owing to | a causa de (+ sustantivo) | *Owing to staff shortages, the shop closed early.* |
-| since / because | porque / ya que | *Since it was late, we decided to leave.* |
-| so | así que (informal) | *It was raining, so we stayed in.* |
-
----
-
-| ADICIÓN Y ÉNFASIS | Significado | Ejemplo |
-|---------|-------------|---------|
-| furthermore | además (formal) | *The hotel was comfortable. Furthermore, the staff were excellent.* |
-| moreover | es más, además | *It's cheaper. Moreover, it's more efficient.* |
-| in addition (to) | además de | *In addition to the salary, there are great benefits.* |
-| what is more | es más | *She speaks French. What is more, she's fluent in Mandarin.* |
-| not only...but also | no solo...sino también | *Not only is it fast, but it's also reliable.* |
-| indeed | de hecho, efectivamente | *This is indeed a very complex situation.* |
-
----
-
-| ILUSTRACIÓN Y EJEMPLIFICACIÓN | Significado | Ejemplo |
-|---------|-------------|---------|
-| for example / for instance | por ejemplo | *Many factors affect health. For example, diet and sleep.* |
-| such as | como, tal como | *Soft skills such as communication are highly valued.* |
-| in particular / particularly | en particular | *I enjoy travelling, particularly in Europe.* |
-| that is (to say) / i.e. | es decir | *The deadline is the end of Q1, that is, the 31st of March.* |
-
----
-
-| ORDEN Y ESTRUCTURA DEL DISCURSO | Significado | Ejemplo |
-|---------|-------------|---------|
-| firstly / secondly / finally | en primer lugar / en segundo lugar / por último | *Firstly, consider the cost. Secondly, think about the time.* |
-| to begin with | para empezar | *To begin with, let me explain the context.* |
-| in conclusion / to sum up | en conclusión / en resumen | *To sum up, the project was a success.* |
-| in other words | en otras palabras | *The task is overdue. In other words, we're behind schedule.* |
-| as far as ... is concerned | en lo que respecta a | *As far as the budget is concerned, we are on track.* |
+### Conectores y Discourse Markers (Nivel B2)
+* Contraste y concesión (*although, despite, however, whereas...*)
+* Causa y consecuencia (*due to, therefore, as a result, since...*)
+* Adición y énfasis (*furthermore, in addition, besides...*)
+* Ilustración y ejemplificación (*for instance, such as...*)
+* Orden y estructura del discurso (*firstly, turning to, in conclusion...*)
 
 ### Conjunciones
-*Una conjunción es una palabra que une dos oraciones, cláusulas o palabras. Sin ellas, las frases quedarían sueltas y desconectadas. Son fundamentales para construir un discurso fluido y cohesionado, especialmente en un nivel B2.*
+* Coordinantes (FANBOYS)
+* Subordinantes
+* Correlativas
 
-**Coordinantes (FANBOYS)**
-Unen dos oraciones o elementos del mismo nivel gramatical.
+---
 
-| Palabra | Significado | Ejemplo |
-|--------|-------------|---------|
-| for | porque, pues | *She was tired, for she had worked all day.* — Estaba cansada, pues había trabajado todo el día. |
-| and | y | *I like coffee and tea.* — Me gustan el café y el té. |
-| nor | ni | *He doesn't smoke, nor does he drink.* — No fuma ni bebe. |
-| but | pero, sino | *It's cold but sunny.* — Hace frío pero está soleado. |
-| or | o | *Do you want coffee or tea?* — ¿Quieres café o té? |
-| yet | sin embargo, pero | *She's young, yet very wise.* — Es joven, pero muy sabia. |
-| so | así que, entonces | *It was late, so we left.* — Era tarde, así que nos fuimos. |
-
-**Subordinantes**
-Introducen una cláusula subordinada que depende de la oración principal.
-
-| Palabra | Significado | Ejemplo |
-|--------|-------------|---------|
-| because | porque | *I stayed home because it was raining.* — Me quedé en casa porque llovía. |
-| although | aunque | *Although it was late, she kept working.* — Aunque era tarde, siguió trabajando. |
-| even though | aunque (con más énfasis) | *Even though he's rich, he's unhappy.* — Aunque es rico, es infeliz. |
-| if | si (condicional) | *I'll help you if you ask me.* — Te ayudaré si me lo pides. |
-| unless | a menos que | *Don't go unless you're ready.* — No vayas a menos que estés listo. |
-| while | mientras, aunque | *She listens to music while she works.* — Escucha música mientras trabaja. |
-| when | cuando | *Call me when you arrive.* — Llámame cuando llegues. |
-| as soon as | en cuanto, tan pronto como | *I'll call you as soon as I land.* — Te llamo en cuanto aterrice. |
-| since | ya que, desde que | *Since you're here, let's start.* — Ya que estás aquí, empecemos. |
-| so that | para que, de modo que | *Speak clearly so that everyone understands.* |
-| until | hasta que | *Wait here until I return.* — Espera aquí hasta que vuelva. |
-| as long as | siempre que, mientras que | *You can stay as long as you behave.* — Puedes quedarte siempre que te portes bien. |
-
-**Correlativas**
-Funcionan en pares para conectar dos ideas equivalentes.
-
-| Par | Significado | Ejemplo |
-|-----|-------------|---------|
-| both...and | tanto...como | *Both Tom and Lisa came.* — Tanto Tom como Lisa vinieron. |
-| either...or | o...o | *You can either stay or go.* — Puedes quedarte o irte. |
-| neither...nor | ni...ni | *Neither Mark nor Sue called.* — Ni Mark ni Sue llamaron. |
-| not only...but also | no solo...sino también | *She is not only smart but also kind.* — No solo es inteligente sino también amable. |
-
-## 📗 2. Cuantificadores
+## 🟨 2: Cuantificadores e Indefinidos
 *Claves absolutas para los ejercicios de rellenar huecos (Use of English Part 2) y transformaciones (Part 4).*
 
+### Cuantificadores de Cantidad y Grupo
 * Much / Many / A lot of
 * All / Most / Both
 
-
-## 🟩 3. Pronombres (Prioridad: MEDIA)
-*Sección única para dominar las referencias, evitar repetir palabras y situar acciones.*
-
-### Pronombres
-* Tabla principal (Sujeto, Objeto, Posesivos)
-* Reflexivos (-self / -selves)
-* Demostrativos (this / that / these / those)
-* Indefinidos (some / any y compuestos con -one / -body / -thing / -where)
-
-### Estructuras
-* Existe: There is / There are
-* Preguntas: Wh- Questions y combinaciones con How
-* Frecuencia: Adverbios de frecuencia
-
-
-
+### Pronombres y Determinantes Indefinidos
+* some / any
+* Compuestos con -one / -body / -thing / -where
 
 ---
 
-## 🟦 BLOQUE 4: Preposiciones y Artículos *
+## 🟩 3: Referencias, Precisión y Modificadores
+*Estructuras esenciales para dar cohesión a los textos, no repetir palabras y situar las acciones.*
+
+### Pronombres Personales y Referencias
+* Tabla principal (Sujeto, Objeto, Posesivos)
+* Reflexivos: -self / -selves
+* Demostrativos: this / that / these / those
+* Estructura de existencia: There is / There are
+
+### Palabras Interrogativas (Wh- Questions)
+* Tabla principal
+* Combinaciones con How
+* Usos especiales y diferencias clave (nivel B2)
+
+### Adverbios de Frecuencia
+* Posición correcta en la frase y usos avanzados en B2
+
+---
+
+## 🟦 BLOQUE 4: Preposiciones y Artículos
 *En el B2 esto se evalúa de forma indirecta pero constante. Un error aquí penaliza la fluidez en tu Writing.*
 
 ### Preposiciones
@@ -382,6 +302,8 @@ Ejemplos de relaciones que expresan: *The book is **on** the table* (lugar), *Sh
 | up | hacia arriba | *The cat jumped up the tree.* — El gato subió al árbol. |
 | down | hacia abajo | *She ran down the stairs.* — Bajó las escaleras corriendo. |
 
+
+
 ---
 
 ## 📗 Palabras Interrogativas (Wh- Questions)
@@ -431,67 +353,4 @@ Ejemplo: *Where **do** you **live**?* / *What **has** she **said**?*
 > **Preguntas indirectas (nivel B2):** Cuando **why, what, where**, etc. se usan en preguntas indirectas, el orden cambia a sujeto + verbo (sin inversión):
 > - Directa: *Where does she live?*
 > - Indirecta: *Do you know **where she lives**?*
-
-## 📗 Conectores y Discourse Markers (Nivel B2)
-> Los **conectores** (*linking words*) y **marcadores del discurso** (*discourse markers*) son palabras o expresiones que organizan las ideas y dan cohesión al texto o al habla. Son esenciales para expresarse con fluidez y precisión en un nivel B2, tanto por escrito como oralmente.
-
-A diferencia de las conjunciones básicas, estos conectores no solo unen frases, sino que también indican la **relación lógica** entre las ideas: contraste, consecuencia, causa, adición, ilustración, etc.
-
-### Contraste y concesión
-
-| Conector | Significado | Uso | Ejemplo |
-|---------|-------------|-----|---------|
-| however | sin embargo | Une dos oraciones independientes. Va seguido de coma. | *It was expensive. However, it was worth it.* |
-| nevertheless | no obstante, aun así | Concesión formal; admite algo pero mantiene posición | *The plan had flaws. Nevertheless, we proceeded.* |
-| nonetheless | aun así, de todas formas | Similar a nevertheless; ligeramente más informal | *It was difficult. Nonetheless, she succeeded.* |
-| although / even though | aunque | Introduce una cláusula subordinada de concesión | *Although it was raining, we went out.* |
-| whereas | mientras que / en cambio | Contrasta dos ideas directamente en la misma oración | *She loves the city, whereas he prefers the countryside.* |
-| while | mientras que / aunque | Similar a whereas; también puede expresar simultaneidad | *While I understand your point, I disagree.* |
-| on the other hand | por otro lado | Introduce el punto de vista contrario | *It's fast. On the other hand, it's unreliable.* |
-| in spite of / despite | a pesar de | Seguido de sustantivo o gerundio (no de oración) | *Despite the rain, they played the match.* |
-
-### Causa y consecuencia
-
-| Conector | Significado | Ejemplo |
-|---------|-------------|---------|
-| therefore | por lo tanto | *She missed the train. Therefore, she was late.* |
-| as a result | como resultado | *He didn't study. As a result, he failed the exam.* |
-| consequently | en consecuencia | *The road was icy. Consequently, many accidents occurred.* |
-| due to | debido a (+ sustantivo) | *The flight was delayed due to bad weather.* |
-| owing to | a causa de (+ sustantivo) | *Owing to staff shortages, the shop closed early.* |
-| since / because | porque / ya que | *Since it was late, we decided to leave.* |
-| so | así que (informal) | *It was raining, so we stayed in.* |
-
-### Adición y énfasis
-
-| Conector | Significado | Ejemplo |
-|---------|-------------|---------|
-| furthermore | además (formal) | *The hotel was comfortable. Furthermore, the staff were excellent.* |
-| moreover | es más, además | *It's cheaper. Moreover, it's more efficient.* |
-| in addition (to) | además de | *In addition to the salary, there are great benefits.* |
-| what is more | es más | *She speaks French. What is more, she's fluent in Mandarin.* |
-| not only...but also | no solo...sino también | *Not only is it fast, but it's also reliable.* |
-| indeed | de hecho, efectivamente | *This is indeed a very complex situation.* |
-
-### Ilustración y ejemplificación
-
-| Conector | Significado | Ejemplo |
-|---------|-------------|---------|
-| for example / for instance | por ejemplo | *Many factors affect health. For example, diet and sleep.* |
-| such as | como, tal como | *Soft skills such as communication are highly valued.* |
-| in particular / particularly | en particular | *I enjoy travelling, particularly in Europe.* |
-| that is (to say) / i.e. | es decir | *The deadline is the end of Q1, that is, the 31st of March.* |
-
-### Orden y estructura del discurso
-
-| Conector | Significado | Ejemplo |
-|---------|-------------|---------|
-| firstly / secondly / finally | en primer lugar / en segundo lugar / por último | *Firstly, consider the cost. Secondly, think about the time.* |
-| to begin with | para empezar | *To begin with, let me explain the context.* |
-| in conclusion / to sum up | en conclusión / en resumen | *To sum up, the project was a success.* |
-| in other words | en otras palabras | *The task is overdue. In other words, we're behind schedule.* |
-| as far as ... is concerned | en lo que respecta a | *As far as the budget is concerned, we are on track.* |
-
-
-
 
