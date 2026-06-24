@@ -1,109 +1,89 @@
 # ✒️ Índice de Gramática B2 
-Este índice está organizado por bloques estratégicos según el impacto real en el examen de Cambridge B2 (*Use of English* y *Writing*). 
-
-
 ## 📗 1. Discourse Markers 
-*Este bloque es **vital** para el B2. Te dará los puntos clave en el Writing y en las partes 1 y 2 del Use of English.*
 > Los conectores (*linking words*) y **marcadores del discurso** (*discourse markers*) son palabras o expresiones que organizan las ideas y dan cohesión al texto o al habla. 
 
 ### Conectores
 
-| CONTRASTE Y CONCESIÓN | Significado | Uso | Ejemplo |
-|---------|-------------|-----|---------|
-| however | sin embargo | Une dos oraciones independientes. Va seguido de coma. | *It was expensive. However, it was worth it.* |
-| nevertheless | no obstante, aun así | Concesión formal; admite algo pero mantiene posición | *The plan had flaws. Nevertheless, we proceeded.* |
-| nonetheless | aun así, de todas formas | Similar a nevertheless; ligeramente más informal | *It was difficult. Nonetheless, she succeeded.* |
-| although / even though | aunque | Introduce una cláusula subordinada de concesión | *Although it was raining, we went out.* |
-| whereas | mientras que / en cambio | Contrasta dos ideas directamente en la misma oración | *She loves the city, whereas he prefers the countryside.* |
-| while | mientras que / aunque | Similar a whereas; también puede expresar simultaneidad | *While I understand your point, I disagree.* |
-| on the other hand | por otro lado | Introduce el punto de vista contrario | *It's fast. On the other hand, it's unreliable.* |
-| in spite of / despite | a pesar de | Seguido de sustantivo o gerundio (no de oración) | *Despite the rain, they played the match.* |
-
----
-
-| CAUSA Y CONSECUENCIA | Significado | Ejemplo |
-|---------|-------------|---------|
-| therefore | por lo tanto | *She missed the train. Therefore, she was late.* |
-| as a result | como resultado | *He didn't study. As a result, he failed the exam.* |
-| consequently | en consecuencia | *The road was icy. Consequently, many accidents occurred.* |
-| due to | debido a (+ sustantivo) | *The flight was delayed due to bad weather.* |
-| owing to | a causa de (+ sustantivo) | *Owing to staff shortages, the shop closed early.* |
-| since / because | porque / ya que | *Since it was late, we decided to leave.* |
-| so | así que (informal) | *It was raining, so we stayed in.* |
-
----
-
-| ADICIÓN Y ÉNFASIS | Significado | Ejemplo |
-|---------|-------------|---------|
-| furthermore | además (formal) | *The hotel was comfortable. Furthermore, the staff were excellent.* |
-| moreover | es más, además | *It's cheaper. Moreover, it's more efficient.* |
-| in addition (to) | además de | *In addition to the salary, there are great benefits.* |
-| what is more | es más | *She speaks French. What is more, she's fluent in Mandarin.* |
-| not only...but also | no solo...sino también | *Not only is it fast, but it's also reliable.* |
-| indeed | de hecho, efectivamente | *This is indeed a very complex situation.* |
-
----
-
-| ILUSTRACIÓN Y EJEMPLIFICACIÓN | Significado | Ejemplo |
-|---------|-------------|---------|
-| for example / for instance | por ejemplo | *Many factors affect health. For example, diet and sleep.* |
-| such as | como, tal como | *Soft skills such as communication are highly valued.* |
-| in particular / particularly | en particular | *I enjoy travelling, particularly in Europe.* |
-| that is (to say) / i.e. | es decir | *The deadline is the end of Q1, that is, the 31st of March.* |
-
----
-
-| ORDEN Y ESTRUCTURA DEL DISCURSO | Significado | Ejemplo |
-|---------|-------------|---------|
-| firstly / secondly / finally | en primer lugar / en segundo lugar / por último | *Firstly, consider the cost. Secondly, think about the time.* |
-| to begin with | para empezar | *To begin with, let me explain the context.* |
-| in conclusion / to sum up | en conclusión / en resumen | *To sum up, the project was a success.* |
-| in other words | en otras palabras | *The task is overdue. In other words, we're behind schedule.* |
-| as far as ... is concerned | en lo que respecta a | *As far as the budget is concerned, we are on track.* |
+| Conectores | Pronunciación | Significado | Uso | Ejemplo |
+|----------|---------------|-------------|-----|---------|
+|**CONTRASTE Y CONCESIÓN**|||||
+| however | /haʊˈɛvər/ | sin embargo | Une dos oraciones independientes; suele ir seguido de coma | It was expensive. However, it was worth it. |
+| nevertheless | /ˌnɛvərðəˈlɛs/ | no obstante, aun así | Concesión formal; introduce contraste manteniendo la idea principal | The plan had flaws. Nevertheless, we proceeded. |
+| nonetheless | /ˌnʌnðəˈlɛs/ | aun así, de todas formas | Similar a "nevertheless", ligeramente menos formal | It was difficult. Nonetheless, she succeeded. |
+| although | /ɔːlˈðoʊ/ | aunque | Introduce una oración subordinada de contraste | Although it was raining, we went out. |
+| even though | /ˈiːvən ðoʊ/ | aunque (énfasis fuerte) | Refuerza la concesión en una oración subordinada | Even though he was tired, he kept working. |
+| whereas | /weərˈæz/ | mientras que | Contrasta dos ideas dentro de la misma oración | She loves the city, whereas he prefers the countryside. |
+| while | /waɪl/ | mientras que / aunque | Expresa contraste o simultaneidad según el contexto | While I understand your point, I disagree. |
+| on the other hand | /ɒn ði ˈʌðər hænd/ | por otro lado | Introduce una idea opuesta o alternativa | It's fast. On the other hand, it's unreliable. |
+| in spite of | /ɪn spaɪt ʌv/ | a pesar de | Va seguido de sustantivo o gerundio | In spite of the rain, they played the match. |
+| despite | /dɪˈspaɪt/ | a pesar de | Uso formal similar a "in spite of" | Despite the rain, they played the match. |
+|**CAUSA Y CONSECUENCIA**|||||
+| therefore | /ˈðɛərfɔːr/ | por lo tanto | Introduce una consecuencia lógica | She missed the train. Therefore, she was late. |
+| as a result | /æz ə rɪˈzʌlt/ | como resultado | Conecta causa directa con consecuencia | He didn't study. As a result, he failed the exam. |
+| consequently | /ˈkɒnsɪkwəntli/ | en consecuencia | Expresa resultado lógico o natural | The road was icy. Consequently, many accidents occurred. |
+| due to | /djuː tuː/ | debido a | Introduce causa seguida de sustantivo | The flight was delayed due to bad weather. |
+| owing to | /ˈoʊɪŋ tuː/ | a causa de | Similar a "due to", algo más formal | Owing to staff shortages, the shop closed early. |
+| since | /sɪns/ | ya que | Introduce causa conocida o evidente | Since it was late, we decided to leave. |
+| because | /bɪˈkɒz/ | porque | Explica la razón directa de algo | We stayed in because it was raining. |
+| so | /soʊ/ | así que | Conector informal de consecuencia | It was raining, so we stayed in. |
+|**ADICIÓN Y ÉNFASIS**|||||
+| furthermore | /ˈfɜːrðərmɔːr/ | además | Añade información extra de forma formal | The hotel was comfortable. Furthermore, the staff were excellent. |
+| moreover | /mɔːrˈoʊvər/ | es más | Refuerza una idea anterior añadiendo otra | It's cheaper. Moreover, it's more efficient. |
+| in addition (to) | /ɪn əˈdɪʃən/ | además de | Añade información adicional | In addition to the salary, there are great benefits. |
+| what is more | /wɒt ɪz mɔːr/ | es más | Refuerza y amplía una idea | She speaks French. What is more, she's fluent in Mandarin. |
+| not only...but also | /nɒt ˈoʊnli bʌt ˈɔːlsoʊ/ | no solo... sino también | Estructura enfática de adición | Not only is it fast, but it is also reliable. |
+| indeed | /ɪnˈdiːd/ | de hecho | Confirma o refuerza una afirmación | This is indeed a very complex situation. |
+|**ILUSTRACIÓN Y EJEMPLIFICACIÓN**|||||
+| for example | /fɔːr ɪɡˈzæmpəl/ | por ejemplo | Introduce un caso ilustrativo | Many factors affect health. For example, diet and sleep. |
+| for instance | /fɔːr ˈɪnstəns/ | por ejemplo | Similar a "for example" | Some sports, for instance football, are very popular. |
+| such as | /sʌtʃ æz/ | como | Introduce ejemplos específicos dentro de un grupo | Soft skills such as communication are essential. |
+| in particular | /ɪn pərˈtɪkjələr/ | en particular | Destaca un elemento específico | I enjoy travelling, in particular in Europe. |
+| particularly | /pərˈtɪkjələrli/ | especialmente | Enfatiza un caso concreto | I like fruits, particularly apples. |
+| that is (to say) | /ðæt ɪz/ | es decir | Aclara o reformula una idea | The deadline is Q1, that is, the 31st of March. |
+| i.e. | /aɪ ˈiː/ | es decir | Abreviatura formal de aclaración | The meeting is on Friday, i.e., the last working day. |
+|**ORDEN Y ESTRUCTURA DEL DISCURSO**|||||
+| firstly | /ˈfɜːrstli/ | en primer lugar | Marca orden en discurso | Firstly, consider the cost. |
+| secondly | /ˈsɛkəndli/ | en segundo lugar | Continúa una secuencia ordenada | Secondly, think about the time. |
+| finally | /ˈfaɪnəli/ | por último | Cierra una secuencia | Finally, we reviewed the results. |
+| to begin with | /tuː bɪˈɡɪn wɪð/ | para empezar | Introduce el primer punto | To begin with, let me explain the context. |
+| in conclusion | /ɪn kənˈkluːʒən/ | en conclusión | Resume ideas principales | In conclusion, the project was a success. |
+| to sum up | /tuː sʌm ʌp/ | en resumen | Sintetiza información | To sum up, the results were positive. |
+| in other words | /ɪn ˈʌðər wɜːrdz/ | en otras palabras | Reformula una idea | The task is overdue. In other words, we're late. |
+| as far as ... is concerned | /æz fɑːr æz ... ɪz kənˈsɜːrnd/ | en lo que respecta a | Introduce un tema específico | As far as the budget is concerned, we are on track. |
 
 ### Conjunciones
-*Una conjunción es una palabra que une dos oraciones, cláusulas o palabras. Sin ellas, las frases quedarían sueltas y desconectadas. Son fundamentales para construir un discurso fluido y cohesionado, especialmente en un nivel B2.*
+>Una conjunción es una palabra que une dos oraciones, cláusulas o palabras. Sin ellas, las frases quedarían sueltas y desconectadas. Son fundamentales para construir un discurso fluido y cohesionado, especialmente en un nivel B2.
 
-**Coordinantes (FANBOYS)**
-Unen dos oraciones o elementos del mismo nivel gramatical.
+| Palabra | Pronunciación | Significado | Uso | Ejemplo |
+|--------|---------------|-------------|-----|---------|
+|**Coordinantes (FANBOYS)**||||`Unen dos oraciones o elementos del mismo nivel gramatical`|
+| for | /fɔːr/ | porque, pues | Conector coordinante que introduce causa explicativa | She was tired, for she had worked all day. — Estaba cansada, pues había trabajado todo el día. |
+| and | /ænd/ | y | Une elementos o ideas del mismo nivel | I like coffee and tea. — Me gustan el café y el té. |
+| nor | /nɔːr/ | ni | Añade una negación adicional tras una negación previa | He doesn't smoke, nor does he drink. — No fuma ni bebe. |
+| but | /bʌt/ | pero, sino | Contrasta dos ideas | It's cold but sunny. — Hace frío pero está soleado. |
+| or | /ɔːr/ | o | Presenta alternativas | Do you want coffee or tea? — ¿Quieres café o té? |
+| yet | /jɛt/ | sin embargo, pero | Introduce contraste inesperado | She's young, yet very wise. — Es joven, pero muy sabia. |
+| so | /soʊ/ | así que, entonces | Indica consecuencia | It was late, so we left. — Era tarde, así que nos fuimos. |
+|**Subordinantes**||||`Introducen una cláusula subordinada que depende de la oración principal`|
+| because | /bɪˈkɔːz/ | porque | Introduce la razón de la acción principal | I stayed home because it was raining. — Me quedé en casa porque llovía. |
+| although | /ɔːlˈðoʊ/ | aunque | Introduce una concesión | Although it was late, she kept working. — Aunque era tarde, siguió trabajando. |
+| even though | /ˈiːvən ðoʊ/ | aunque (énfasis) | Refuerza una idea de contraste fuerte | Even though he's rich, he's unhappy. — Aunque es rico, es infeliz. |
+| if | /ɪf/ | si | Introduce condición | I'll help you if you ask me. — Te ayudaré si te lo pides. |
+| unless | /ʌnˈlɛs/ | a menos que | Marca condición negativa | Don't go unless you're ready. — No vayas a menos que estés listo. |
+| while | /waɪl/ | mientras, aunque | Indica simultaneidad o contraste | She listens to music while she works. — Escucha música mientras trabaja. |
+| when | /wɛn/ | cuando | Indica tiempo | Call me when you arrive. — Llámame cuando llegues. |
+| as soon as | /æz suːn æz/ | en cuanto | Marca inmediatez temporal | I'll call you as soon as I land. — Te llamo en cuanto aterrice. |
+| since | /sɪns/ | ya que, desde que | Introduce causa o punto de inicio | Since you're here, let's start. — Ya que estás aquí, empecemos. |
+| so that | /soʊ ðæt/ | para que | Indica propósito | Speak clearly so that everyone understands. — Habla claro para que todos entiendan. |
+| until | /ʌnˈtɪl/ | hasta que | Marca límite temporal | Wait here until I return. — Espera aquí hasta que vuelva. |
+| as long as | /æz lɔːŋ æz/ | siempre que | Indica condición de duración | You can stay as long as you behave. — Puedes quedarte siempre que te portes bien. |
+|**Correlativas**||||`Funcionan en pares para conectar dos ideas equivalentes`|
+| both...and | /boʊθ ænd/ | tanto...como | Conecta dos elementos afirmativos equivalentes | Both Tom and Lisa came. — Tanto Tom como Lisa vinieron. |
+| either...or | /ˈaɪðər ɔːr/ | o...o | Ofrece alternativas | You can either stay or go. — Puedes quedarte o irte. |
+| neither...nor | /ˈniːðər nɔːr/ | ni...ni | Niega dos elementos | Neither Mark nor Sue called. — Ni Mark ni Sue llamaron. |
+| not only...but also | /nɒt ˈoʊnli bʌt ˈɔːlsoʊ/ | no solo...sino también | Añade información extra enfatizada | She is not only smart but also kind. — No solo es inteligente sino también amable. |
 
-| Palabra | Significado | Ejemplo |
-|--------|-------------|---------|
-| for | porque, pues | *She was tired, for she had worked all day.* — Estaba cansada, pues había trabajado todo el día. |
-| and | y | *I like coffee and tea.* — Me gustan el café y el té. |
-| nor | ni | *He doesn't smoke, nor does he drink.* — No fuma ni bebe. |
-| but | pero, sino | *It's cold but sunny.* — Hace frío pero está soleado. |
-| or | o | *Do you want coffee or tea?* — ¿Quieres café o té? |
-| yet | sin embargo, pero | *She's young, yet very wise.* — Es joven, pero muy sabia. |
-| so | así que, entonces | *It was late, so we left.* — Era tarde, así que nos fuimos. |
 
-**Subordinantes**
-Introducen una cláusula subordinada que depende de la oración principal.
-
-| Palabra | Significado | Ejemplo |
-|--------|-------------|---------|
-| because | porque | *I stayed home because it was raining.* — Me quedé en casa porque llovía. |
-| although | aunque | *Although it was late, she kept working.* — Aunque era tarde, siguió trabajando. |
-| even though | aunque (con más énfasis) | *Even though he's rich, he's unhappy.* — Aunque es rico, es infeliz. |
-| if | si (condicional) | *I'll help you if you ask me.* — Te ayudaré si me lo pides. |
-| unless | a menos que | *Don't go unless you're ready.* — No vayas a menos que estés listo. |
-| while | mientras, aunque | *She listens to music while she works.* — Escucha música mientras trabaja. |
-| when | cuando | *Call me when you arrive.* — Llámame cuando llegues. |
-| as soon as | en cuanto, tan pronto como | *I'll call you as soon as I land.* — Te llamo en cuanto aterrice. |
-| since | ya que, desde que | *Since you're here, let's start.* — Ya que estás aquí, empecemos. |
-| so that | para que, de modo que | *Speak clearly so that everyone understands.* |
-| until | hasta que | *Wait here until I return.* — Espera aquí hasta que vuelva. |
-| as long as | siempre que, mientras que | *You can stay as long as you behave.* — Puedes quedarte siempre que te portes bien. |
-
-**Correlativas**
-Funcionan en pares para conectar dos ideas equivalentes.
-
-| Par | Significado | Ejemplo |
-|-----|-------------|---------|
-| both...and | tanto...como | *Both Tom and Lisa came.* — Tanto Tom como Lisa vinieron. |
-| either...or | o...o | *You can either stay or go.* — Puedes quedarte o irte. |
-| neither...nor | ni...ni | *Neither Mark nor Sue called.* — Ni Mark ni Sue llamaron. |
-| not only...but also | no solo...sino también | *She is not only smart but also kind.* — No solo es inteligente sino también amable. |
 
 ## 📗 2. Cuantificadores
 *Claves absolutas para los ejercicios de rellenar huecos (Use of English Part 2) y transformaciones (Part 4).*

@@ -21,14 +21,14 @@ theme:
 nav:
    - Inicio: index.md
    - Inglés:
-        - Recursos: ingles/01introing.md
+        - Grammar I: ingles/01grammar.md
+        - Grammar II: ingles/05grammar2.md
         - Verbos: ingles/02verbos.md
         - Phrasal: ingles/04phrasal.md
-        - Grammar I: ingles/05grammar.md
-        - Grammar II: ingles/05grammar2.md
         - Pronunciación: ingles/06pronu.md
         - Dudas: ingles/10dudas.md
         - Audiobooks: ingles/20audiobooks.md
+        - Recursos: ingles/recursos.md
 plugins:
    - glightbox # Cuando el usuario hace clic en una imagen se abre en una ventana emergente (lightbox)
 
@@ -37,3 +37,4 @@ extra_css:
 
 markdown_extensions:
    - attr_list
+   - tables

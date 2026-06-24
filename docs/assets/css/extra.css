@@ -53,3 +53,8 @@ img {
   display: table !important;
   width: auto !important;
 }
+
+.tabla-igual table {
+  width: 100% !important;
+  table-layout: fixed;
+}
