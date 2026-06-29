@@ -1,27 +1,37 @@
 # 🇬🇧 RECURSOS PARA APRENDER INGLÉS.
 > Guía de recursos online y apps para mejorar tu inglés, organizada por habilidad y nivel.
 
+## 🎯 Tests de Nivel de Inglés Gratuitos
 
-    🎧 Listening — BBC, VOA, Elllo, TED-Ed, ESL Pod…
-    📖 Reading — News in Levels, Breaking News English, Simple Wikipedia…
-    🗣️ Speaking — iTalki, Tandem, Cambly, Forvo…
-    ✍️ Writing — Write & Improve (Cambridge), Grammarly, HiNative…
-    🌐 Mix — Plataformas completas como British Council, FluentU, Lingoda…
-    📱 Aplicaciones — Duolingo, Babbel, ELSA Speak, Anki, Cake…
+| Recurso | Descripción (Gratis)| Enlace |
+|---|---|---|
+| British Council | 50 preguntas de gramática y vocabulario, sin registro, resultado inmediato con tu nivel CEFR | [learnenglish.britishcouncil.org](https://learnenglish.britishcouncil.org/english-levels/online-english-level-test) |
+| Cambridge English | Test oficial de Cambridge para saber qué examen te conviene, sin registro, resultado instantáneo en unos 10 min | [cambridgeenglish.org](https://www.cambridgeenglish.org/test-your-english/) |
+| EF SET | Test completo de Reading y Listening en unos 15 min, sin registro, te da un certificado gratuito descargable | [efset.org](https://www.efset.org/quick-check/) |
+| Preply | 36 preguntas, sin registro, resultado inmediato con tu nivel CEFR en unos 5 min | [preply.com](https://preply.com/en/language-tests/english) |
+| Test-English | 60 preguntas de gramática sin límite de tiempo, sin registro, ves las respuestas al terminar | [test-english.com](https://test-english.com/level-test/) |
+| Exam English | Tests separados por habilidad (gramática, vocabulario, reading), sin registro, corrección inmediata | [examenglish.com](https://www.examenglish.com/leveltest/) |
+| Engxam | 25 preguntas en unos 5 min, sin registro, resultado en escala CEFR con gráfico visual | [engxam.com](https://engxam.com/english-level-test/) |
+| Strommeninc | Sin registro, resultado inmediato con nivel CEFR en unos 5 min, opción de certificado gratuito | [strommeninc.com](https://strommeninc.com/language-tests/english-level-test/) |
+|---|**(no se si son gratis)**|---|
+| Oxford Online Placement Test (demo) | Versión demo del test oficial de Oxford, adaptativo según tus respuestas | [oxfordenglishtesting.com](https://www.oxfordenglishtesting.com/defaultLearner.aspx) |
+| Duolingo English Test (práctica) | Test de práctica gratuito del examen oficial de Duolingo |[englishtest.duolingo.com](https://englishtest.duolingo.com/applicants) |
+| Pearson English | Test de nivel con resultado en escala A1–C2 y recomendaciones de estudio | [pearsonenglish.com](https://www.pearsonenglish.com/languages/english/test-your-english.html) |
+| Longman (Pearson) | Test clásico de nivel con 75 preguntas adaptativas | [longman.com](https://www.longman.com/englishpages/ltlt.html) |
+| ESL Fast | Tests rápidos por nivel con corrección inmediata | [eslfast.com](https://www.eslfast.com/robot/level_test/) |
+| ISE (Trinity) demo | Test de práctica orientado a certificaciones Trinity | [trinitycollege.com](https://www.trinitycollege.com/qualifications/english-language/ISE) |
 
 ## 🎧 Listening
  
-Entrena el oído con podcasts, vídeos y audios adaptados a tu nivel.
- 
 | Recurso | Descripción | Nivel | Enlace |
 |---|---|---|---|
-| BBC Learning English | Podcasts, noticias y ejercicios de escucha con transcripciones | A2–B1 | [bbclearningenglish.com](https://www.bbc.co.uk/learningenglish) |
-| ESL Pod | Diálogos cotidianos explicados despacio y con claridad | A2–B1 | [eslpod.com](https://www.eslpod.com) |
-| VOA Learning English | Noticias en inglés simplificado con audio y texto | B1 | [learningenglish.voanews.com](https://learningenglish.voanews.com) |
-| Elllo | Más de 3000 escuchas con ejercicios interactivos y transcripciones | A2–B1 | [elllo.org](https://www.elllo.org) |
-| TED-Ed | Vídeos educativos cortos con subtítulos en inglés | B1 | [ed.ted.com](https://ed.ted.com) |
-| EnglishClass101 (YouTube) | Canal con lecciones de escucha por niveles | A2–B1 | [youtube.com/@EnglishClass101](https://www.youtube.com/@EnglishClass101) |
-| Dreaming Spanish (English) | Método de inmersión con vídeos comprensibles | A2–B1 | [english.dreamingspanish.com](https://english.dreamingspanish.com) |
+| BBC Learning English | Podcasts, noticias y ejercicios de escucha con transcripciones |[bbclearningenglish.com](https://www.bbc.co.uk/learningenglish) |
+| ESL Pod | Diálogos cotidianos explicados despacio y con claridad | [eslpod.com](https://www.eslpod.com) |
+| VOA Learning English | Noticias en inglés simplificado con audio y texto | [learningenglish.voanews.com](https://learningenglish.voanews.com) |
+| Elllo | Más de 3000 escuchas con ejercicios interactivos y transcripciones | [elllo.org](https://www.elllo.org) |
+| TED-Ed | Vídeos educativos cortos con subtítulos en inglés | [ed.ted.com](https://ed.ted.com) |
+| EnglishClass101 (YouTube) | Canal con lecciones de escucha por niveles | [youtube.com/@EnglishClass101](https://www.youtube.com/@EnglishClass101) |
+| Dreaming Spanish (English) | Método de inmersión con vídeos comprensibles | [english.dreamingspanish.com](https://english.dreamingspanish.com) |
  
 ## 📖 Reading
  
@@ -111,4 +121,17 @@ Plataformas completas que trabajan listening, reading, writing y/o speaking a la
 | Culips ESL Podcast | Conversaciones auténticas con explicaciones de vocabulario y cultura | B1–B2 | [esl.culips.com](https://esl.culips.com) |
 | English Learning for Curious Minds | Historias y curiosidades del mundo real narradas en inglés claro | B2–C1 | [leonardoenglish.com](https://www.leonardoenglish.com) |
  
+##  📺 Youtube 
 
+| Canal | Descripción | Enlace |
+|---|---|---|
+| BBC Learning English | Vídeo nuevo cada día: gramática, vocabulario, pronunciación y noticias actuales. Ideal para todos los niveles con subtítulos y transcripciones | [youtube.com/@bbclearningenglish](https://www.youtube.com/@bbclearningenglish) |
+| EnglishClass101 | Cientos de vídeos estructurados por nivel más TV en vivo 24/7 en YouTube Live para practicar en cualquier momento | [youtube.com/@EnglishClass101](https://www.youtube.com/@EnglishClass101) |
+| Speak English With Vanessa | Profesora con más de 10 años de experiencia, publica cada viernes. Enfocada en hablar con naturalidad, confianza y fluidez | [youtube.com/@SpeakEnglishWithVanessa](https://www.youtube.com/@SpeakEnglishWithVanessa) |
+| VOA Learning English | Canal respaldado por el gobierno de EE.UU. con noticias en inglés simplificado, subtítulos y curso gratuito de 52 semanas | [youtube.com/@VOALearningEnglish](https://www.youtube.com/@VOALearningEnglish) |
+| Rachel's English | Especializada en pronunciación americana: entonación, fonética y cómo sonar natural. Muy útil para mejorar el oído | [youtube.com/@rachelsenglish](https://www.youtube.com/@rachelsenglish) |
+| Easy English | No son clases formales, sino conversaciones reales grabadas en la calle. Perfecto para acostumbrarse al inglés hablado de verdad | [youtube.com/@EasyEnglishTeam](https://www.youtube.com/@EasyEnglishTeam) |
+| English with Jennifer | Ideal para construir una base sólida: gramática, conversación, verbos frasales y cláusulas. Cuenta con invitados expertos | [youtube.com/@JenniferESL](https://www.youtube.com/@JenniferESL) |
+| Speak English With Mr. Duncan | Profesor británico que emite en directo tres días por semana desde Inglaterra. Clases divertidas sobre slang, noticias, cultura y más | [youtube.com/@DuncaninChina](https://www.youtube.com/@DuncaninChina) |
+| Business English Pod | Para quienes necesitan inglés profesional: reuniones, presentaciones, negociaciones, finanzas y vocabulario corporativo | [youtube.com/@businessenglishpod](https://www.youtube.com/@businessenglishpod) |
+| Amigos Ingleses | Canal español (una pareja de inglés-española) con vídeos de alta calidad explicados en español. Muy útil para hispanohablantes | [youtube.com/@AmigosIngleses](https://www.youtube.com/@AmigosIngleses) |
