@@ -1,6 +1,80 @@
 # 🇬🇧 RECURSOS PARA APRENDER INGLÉS.
-> Guía de recursos online y apps para mejorar tu inglés, organizada por habilidad y nivel.
 
+## 🎧 Listening
+ 
+| Recurso | Descripción | Enlace |
+|---|---|---|---|
+| BBC Learning English | Podcasts, noticias y ejercicios de escucha con transcripciones |[bbclearningenglish.com](https://www.bbc.co.uk/learningenglish) |
+| ESL Pod | Diálogos cotidianos explicados despacio y con claridad | [eslpod.com](https://www.eslpod.com) |
+| VOA Learning English | Noticias en inglés simplificado con audio y texto | [learningenglish.voanews.com](https://learningenglish.voanews.com) |
+| Elllo | Más de 3000 escuchas con ejercicios interactivos y transcripciones | [elllo.org](https://www.elllo.org) |
+| TED-Ed | Vídeos educativos cortos con subtítulos en inglés | [ed.ted.com](https://ed.ted.com) |
+| EnglishClass101 (YouTube) | Canal con lecciones de escucha por niveles | [youtube.com/@EnglishClass101](https://www.youtube.com/@EnglishClass101) |
+| Dreaming Spanish (English) | Método de inmersión con vídeos comprensibles | [english.dreamingspanish.com](https://english.dreamingspanish.com) |
+ 
+## 📖 Reading
+ 
+| Recurso | Descripción | Enlace |
+|---|---|---|---|
+| British Council – Reading | Textos con preguntas de comprensión clasificados por nivel  | [learnenglish.britishcouncil.org](https://learnenglish.britishcouncil.org/skills/reading) |
+| News in Levels | Noticias reales reescritas en 3 niveles de dificultad  | [newsinlevels.com](https://www.newsinlevels.com) |
+| Readworks | Textos no ficción con preguntas; ideal para práctica intensiva | [readworks.org](https://www.readworks.org) |
+| Oxford Graded Readers | Libros adaptados clasificados por nivel (A2–B1)  | [elt.oup.com/catalogue/items/global/graded_readers](https://elt.oup.com/catalogue/items/global/graded_readers) |
+| Breaking News English | Noticias en 7 niveles con ejercicios de vocabulario y comprensión  | [breakingnewsenglish.com](https://www.breakingnewsenglish.com) |
+| Simple English Wikipedia | Wikipedia en inglés simplificado | [simple.wikipedia.org](https://simple.wikipedia.org) |
+| Lingua.com | Textos cortos con ejercicios de comprensión por nivel | [lingua.com/english/reading](https://www.lingua.com/english/reading) |
+ 
+## 🗣️ Speaking
+ 
+| Recurso | Descripción | Nivel | Enlace |
+|---|---|---|---|
+| iTalki | Clases con profesores nativos o intercambios de idiomas | A2–B1 | [italki.com](https://www.italki.com) |
+| Tandem | App para encontrar hablantes nativos e intercambiar idiomas | A2–B1 | [tandem.net](https://www.tandem.net) |
+| Speaky | Comunidad global para practicar conversación por texto y voz | A2–B1 | [speaky.com](https://www.speaky.com) |
+| Cambly | Conversaciones en directo con nativos bajo demanda | B1 | [cambly.com](https://www.cambly.com) |
+| British Council – Speaking | Actividades y consejos para mejorar la expresión oral | A2–B1 | [learnenglish.britishcouncil.org/skills/speaking](https://learnenglish.britishcouncil.org/skills/speaking) |
+| Pocketalk / Google Meet Subtitles | Practica hablando con subtítulos en tiempo real para comprobar tu pronunciación | A2–B1 | [meet.google.com](https://meet.google.com) |
+| Forvo | Pronunciación de palabras grabada por nativos de todo el mundo | A2–B1 | [forvo.com](https://forvo.com) |
+ 
+## ✍️ Writing
+ 
+| Recurso | Descripción | Nivel | Enlace |
+|---|---|---|---|
+| British Council – Writing | Ejercicios de redacción con ejemplos y correcciones | A2–B1 | [learnenglish.britishcouncil.org/skills/writing](https://learnenglish.britishcouncil.org/skills/writing) |
+| Lang-8 / HiNative | Escribe textos y recibe correcciones de nativos | A2–B1 | [hinative.com](https://hinative.com) |
+| Grammarly | Corrector gramatical y de estilo para escribir con más seguridad | A2–B1 | [grammarly.com](https://www.grammarly.com) |
+| Write & Improve (Cambridge) | Herramienta oficial de Cambridge para practicar redacción con feedback automático | A2–B1 | [writeandimprove.com](https://writeandimprove.com) |
+| Purdue OWL | Guía exhaustiva de gramática y redacción en inglés | B1 | [owl.purdue.edu](https://owl.purdue.edu/owl/english_as_a_second_language) |
+| TextRanch | Corrección de textos por parte de editores nativos (versión gratuita disponible) | A2–B1 | [textranch.com](https://textranch.com) |
+| Hemingway Editor | Analiza la claridad y legibilidad de tu escritura | B1 | [hemingwayapp.com](https://hemingwayapp.com) |
+ 
+## 🌐 Habilidades combinadas
+ 
+| Recurso | Qué incluye | Nivel | Enlace |
+|---|---|---|---|
+| British Council – LearnEnglish | Listening + Reading + Writing + Speaking + Gramática + Vocabulario | A2–B1 | [learnenglish.britishcouncil.org](https://learnenglish.britishcouncil.org) |
+| Coursera – English for Career Development | Curso completo de inglés profesional (todas las habilidades) | B1 | [coursera.org](https://www.coursera.org/learn/careerdevelopment) |
+| Cambridge English Online | Recursos oficiales Cambridge para el nivel B1 PET | A2–B1 | [cambridgeenglish.org](https://www.cambridgeenglish.org/learning-english) |
+| Lingoda | Clases en vivo con profesores, cubre todas las habilidades | A2–B1 | [lingoda.com](https://www.lingoda.com) |
+| Preply | Clases online + biblioteca de ejercicios y tests de nivel | A2–B1 | [preply.com](https://preply.com) |
+| FluentU | Vídeos reales en inglés con subtítulos interactivos y ejercicios | A2–B1 | [fluentu.com](https://www.fluentu.com) |
+| Engoo | Lecciones diarias en texto + audio + ejercicios interactivos | A2–B1 | [engoo.com](https://engoo.com/app/daily-news) |
+ 
+## 📱 Aplicaciones
+ 
+| # | App | Enfoque principal | Nivel ideal | Precio |
+|---|-----|-------------------|-------------|--------|
+| 1 | **Duolingo** | Vocabulario · Gramática · Gamificación | A2 → B1 | Freemium |
+| 2 | **Busuu** | Escritura · Corrección por nativos | A2 → B2 | Freemium |
+| 3 | **Anki** | Vocabulario · Tarjetas con repetición espaciada | Todos los niveles | Gratis |
+| 4 | **Elsa Speak** | Pronunciación · Corrección con IA | A2 → B2 | Freemium |
+| 5 | **Memrise** | Vocabulario real · Vídeos de nativos | A2 → B1 | Freemium |
+| 6 | **BBC Learning English** | Comprensión · Noticias · Listening | A2 → B2 | Gratis |
+| 7 | **HelloTalk** | Intercambio lingüístico · Chat con nativos | A2 → B2 | Freemium |
+| 8 | **Cake** | Expresiones · Vídeos cortos · Shadowing | A2 → B1 | Gratis |
+| 9 | **Lingodeer** | Gramática · Lecciones estructuradas | A2 → B1 | Freemium |
+| 10 | **English Central** | Listening · Pronunciación · Vídeos reales | A2 → B2 | Freemium |
+ 
 ## 🎯 Tests de Nivel de Inglés Gratuitos
 
 | Recurso | Descripción (Gratis)| Enlace |
@@ -21,91 +95,6 @@
 | ESL Fast | Tests rápidos por nivel con corrección inmediata | [eslfast.com](https://www.eslfast.com/robot/level_test/) |
 | ISE (Trinity) demo | Test de práctica orientado a certificaciones Trinity | [trinitycollege.com](https://www.trinitycollege.com/qualifications/english-language/ISE) |
 
-## 🎧 Listening
- 
-| Recurso | Descripción | Nivel | Enlace |
-|---|---|---|---|
-| BBC Learning English | Podcasts, noticias y ejercicios de escucha con transcripciones |[bbclearningenglish.com](https://www.bbc.co.uk/learningenglish) |
-| ESL Pod | Diálogos cotidianos explicados despacio y con claridad | [eslpod.com](https://www.eslpod.com) |
-| VOA Learning English | Noticias en inglés simplificado con audio y texto | [learningenglish.voanews.com](https://learningenglish.voanews.com) |
-| Elllo | Más de 3000 escuchas con ejercicios interactivos y transcripciones | [elllo.org](https://www.elllo.org) |
-| TED-Ed | Vídeos educativos cortos con subtítulos en inglés | [ed.ted.com](https://ed.ted.com) |
-| EnglishClass101 (YouTube) | Canal con lecciones de escucha por niveles | [youtube.com/@EnglishClass101](https://www.youtube.com/@EnglishClass101) |
-| Dreaming Spanish (English) | Método de inmersión con vídeos comprensibles | [english.dreamingspanish.com](https://english.dreamingspanish.com) |
- 
-## 📖 Reading
- 
-Mejora tu comprensión lectora con textos adaptados a tu nivel.
- 
-| Recurso | Descripción | Nivel | Enlace |
-|---|---|---|---|
-| British Council – Reading | Textos con preguntas de comprensión clasificados por nivel | A2–B1 | [learnenglish.britishcouncil.org](https://learnenglish.britishcouncil.org/skills/reading) |
-| News in Levels | Noticias reales reescritas en 3 niveles de dificultad | A2–B1 | [newsinlevels.com](https://www.newsinlevels.com) |
-| Readworks | Textos no ficción con preguntas; ideal para práctica intensiva | B1 | [readworks.org](https://www.readworks.org) |
-| Oxford Graded Readers | Libros adaptados clasificados por nivel (A2–B1) | A2–B1 | [elt.oup.com/catalogue/items/global/graded_readers](https://elt.oup.com/catalogue/items/global/graded_readers) |
-| Breaking News English | Noticias en 7 niveles con ejercicios de vocabulario y comprensión | A2–B1 | [breakingnewsenglish.com](https://www.breakingnewsenglish.com) |
-| Simple English Wikipedia | Wikipedia en inglés simplificado | A2–B1 | [simple.wikipedia.org](https://simple.wikipedia.org) |
-| Lingua.com | Textos cortos con ejercicios de comprensión por nivel | A2–B1 | [lingua.com/english/reading](https://www.lingua.com/english/reading) |
- 
-## 🗣️ Speaking
- 
-Practica la expresión oral con recursos interactivos y comunidades de hablantes.
- 
-| Recurso | Descripción | Nivel | Enlace |
-|---|---|---|---|
-| iTalki | Clases con profesores nativos o intercambios de idiomas | A2–B1 | [italki.com](https://www.italki.com) |
-| Tandem | App para encontrar hablantes nativos e intercambiar idiomas | A2–B1 | [tandem.net](https://www.tandem.net) |
-| Speaky | Comunidad global para practicar conversación por texto y voz | A2–B1 | [speaky.com](https://www.speaky.com) |
-| Cambly | Conversaciones en directo con nativos bajo demanda | B1 | [cambly.com](https://www.cambly.com) |
-| British Council – Speaking | Actividades y consejos para mejorar la expresión oral | A2–B1 | [learnenglish.britishcouncil.org/skills/speaking](https://learnenglish.britishcouncil.org/skills/speaking) |
-| Pocketalk / Google Meet Subtitles | Practica hablando con subtítulos en tiempo real para comprobar tu pronunciación | A2–B1 | [meet.google.com](https://meet.google.com) |
-| Forvo | Pronunciación de palabras grabada por nativos de todo el mundo | A2–B1 | [forvo.com](https://forvo.com) |
- 
-## ✍️ Writing
- 
-Desarrolla tu escritura en inglés con ejercicios y corrección.
- 
-| Recurso | Descripción | Nivel | Enlace |
-|---|---|---|---|
-| British Council – Writing | Ejercicios de redacción con ejemplos y correcciones | A2–B1 | [learnenglish.britishcouncil.org/skills/writing](https://learnenglish.britishcouncil.org/skills/writing) |
-| Lang-8 / HiNative | Escribe textos y recibe correcciones de nativos | A2–B1 | [hinative.com](https://hinative.com) |
-| Grammarly | Corrector gramatical y de estilo para escribir con más seguridad | A2–B1 | [grammarly.com](https://www.grammarly.com) |
-| Write & Improve (Cambridge) | Herramienta oficial de Cambridge para practicar redacción con feedback automático | A2–B1 | [writeandimprove.com](https://writeandimprove.com) |
-| Purdue OWL | Guía exhaustiva de gramática y redacción en inglés | B1 | [owl.purdue.edu](https://owl.purdue.edu/owl/english_as_a_second_language) |
-| TextRanch | Corrección de textos por parte de editores nativos (versión gratuita disponible) | A2–B1 | [textranch.com](https://textranch.com) |
-| Hemingway Editor | Analiza la claridad y legibilidad de tu escritura | B1 | [hemingwayapp.com](https://hemingwayapp.com) |
- 
-
-## 🌐 Habilidades combinadas
- 
-Plataformas completas que trabajan listening, reading, writing y/o speaking a la vez.
- 
-| Recurso | Qué incluye | Nivel | Enlace |
-|---|---|---|---|
-| British Council – LearnEnglish | Listening + Reading + Writing + Speaking + Gramática + Vocabulario | A2–B1 | [learnenglish.britishcouncil.org](https://learnenglish.britishcouncil.org) |
-| Coursera – English for Career Development | Curso completo de inglés profesional (todas las habilidades) | B1 | [coursera.org](https://www.coursera.org/learn/careerdevelopment) |
-| Cambridge English Online | Recursos oficiales Cambridge para el nivel B1 PET | A2–B1 | [cambridgeenglish.org](https://www.cambridgeenglish.org/learning-english) |
-| Lingoda | Clases en vivo con profesores, cubre todas las habilidades | A2–B1 | [lingoda.com](https://www.lingoda.com) |
-| Preply | Clases online + biblioteca de ejercicios y tests de nivel | A2–B1 | [preply.com](https://preply.com) |
-| FluentU | Vídeos reales en inglés con subtítulos interactivos y ejercicios | A2–B1 | [fluentu.com](https://www.fluentu.com) |
-| Engoo | Lecciones diarias en texto + audio + ejercicios interactivos | A2–B1 | [engoo.com](https://engoo.com/app/daily-news) |
- 
-
-## 📱 Aplicaciones
- 
-| # | App | Enfoque principal | Nivel ideal | Precio |
-|---|-----|-------------------|-------------|--------|
-| 1 | **Duolingo** | Vocabulario · Gramática · Gamificación | A2 → B1 | Freemium |
-| 2 | **Busuu** | Escritura · Corrección por nativos | A2 → B2 | Freemium |
-| 3 | **Anki** | Vocabulario · Tarjetas con repetición espaciada | Todos los niveles | Gratis |
-| 4 | **Elsa Speak** | Pronunciación · Corrección con IA | A2 → B2 | Freemium |
-| 5 | **Memrise** | Vocabulario real · Vídeos de nativos | A2 → B1 | Freemium |
-| 6 | **BBC Learning English** | Comprensión · Noticias · Listening | A2 → B2 | Gratis |
-| 7 | **HelloTalk** | Intercambio lingüístico · Chat con nativos | A2 → B2 | Freemium |
-| 8 | **Cake** | Expresiones · Vídeos cortos · Shadowing | A2 → B1 | Gratis |
-| 9 | **Lingodeer** | Gramática · Lecciones estructuradas | A2 → B1 | Freemium |
-| 10 | **English Central** | Listening · Pronunciación · Vídeos reales | A2 → B2 | Freemium |
- 
 ## 🔊 Podcasts 
 
 | Recurso | Descripción | Nivel | Enlace |
