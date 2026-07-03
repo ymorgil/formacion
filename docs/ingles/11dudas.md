@@ -27,6 +27,8 @@ Hay tres palabras supercomunes con las que NUNCA se pone to porque la propia pal
 - **ABROAD** (al extranjero): Se dice go abroad (nunca go to abroad).
 - **DOWNTOWN** (al centro de la ciudad): Se dice go downtown.
 
+> Con actividades deportivas o de ocio, se usa "go + verbo-ing", no "go to + verbo".
+
 ## EVEN
 "Even" actúa como un adverbio de intensidad. Se utiliza para añadir énfasis o para expresar que algo es sorprendente, inesperado o extremo. En español lo solemos traducir como "incluso", "hasta" o "ni siquiera" (cuando va en negativa con not).
 

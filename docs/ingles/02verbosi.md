@@ -1,4 +1,4 @@
-# Verbos Irregulares en Inglés
+# Verbos Irregulares
 
 | Infinitivo | Pasado Simple | Participio Pasado | Significado | Pronunciación (Infinitivo) |
 |-----------|--------------|------------------|-------------|---------------------------|
