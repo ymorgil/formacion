@@ -132,6 +132,18 @@ Los pronombres cambian de forma según la función que cumplen en la frase: si h
 | 3ª plural (Ellos) | they | them | their | theirs | themselves |
 |**Ejemplo**|**I** love this book. *(Yo amo este libro.)*|This book teaches **me** a lot. *(Este libro me enseña mucho a mí.)*|This is **my** jacket. *(Esta es mi chaqueta.)*|That one is **yours**. *(Aquella es la tuya.)*|They painted the house **themselves**. *(Ellos mismos pintaron la casa / La pintaron por sí mismos.)*|
 
+### Impersonales
+<hr style="height: 2px; background-color: #3aa; margin-top: -20px;" >
+| Pronombre | Pronunciación | Significado | Uso | Ejemplo |
+|---|---|---|---|---|
+| it | it | (sin traducción directa) | Sujeto impersonal para clima, hora, distancia, valoraciones | **It** is raining. / **It** is 5 o'clock. / **It**'s important to study. |
+| there | der | hay, existe | Introduce la existencia de algo (*there is / there are*) | **There** is a problem with the report. |
+| one | uán | uno/a, se | Registro formal; generaliza sin especificar sujeto | **One** should always check the facts before publishing. |
+| you | iú | uno/a, se (informal) | Generaliza en registro coloquial; sustituye a *one* | **You** never know what might happen. |
+| they | déi | (ellos, sin especificar) | Sujeto vago; autoridades, gente en general, rumores | **They** say it's going to snow tomorrow. |
+| we | uí | nosotros (impersonal) | Generaliza incluyendo al hablante y a la humanidad en general | **We** need to protect the environment. |
+| people | PÍ-pol | la gente | Generaliza de forma neutra, muy común en *speaking* | **People** think social media is harmless. |
+
 ### Demostrativos
 <hr style="height: 2px; background-color: #3aa; margin-top: -20px;" >
 Los *demonstratives* indican la **distancia** (física o temporal) entre el hablante y el objeto o idea al que se refiere. En B2/C1 se usan también como herramientas de **cohesión textual** (*this idea*, *these factors*, *those findings*).
@@ -295,204 +307,135 @@ Las *Wh- questions* preguntan por información específica. En B2/C1 debes domin
 - **Error muy frecuente**: invertir sujeto y verbo dentro de la pregunta indirecta, como si fuera una pregunta directa.
   > ~~Could you tell me where **is** the station?~~ → Could you tell me where **the station is**.
 
+- **What vs. Which**: se usa *what* cuando las opciones son ilimitadas o no se especifican, y *which* cuando las opciones son limitadas o conocidas.
+  > *What music do you like?* / *Which of these songs do you prefer?*
 
-## ✒️✒️✒️✒️✒️
+- **Why — respuesta con *because* o *to + infinitivo***: las preguntas con *why* pueden responderse dando una razón con *because* o un propósito con *to + infinitivo*.
+  > *Why are you studying English?* → *Because I need it for work.* / *To get a better job.*
 
+- **How — no solo "cómo", sino también "en qué estado"**: *how* no siempre pregunta por el modo en que se hace algo, también se usa para preguntar por el estado o la valoración de algo.
+  > *How are you?* (¿Cómo estás?) / *How was the trip?* (¿Qué tal el viaje?)
 
 ## 🟩 Adverbios
 
 ### Frecuencia
 Los *adverbs of frequency* indican **con qué regularidad** ocurre algo. En B2/C1 se evalúa no solo el uso correcto sino también la **posición** en la oración y el registro (formal vs. informal).
- 
+
 | Adverb | Pronunciación | Significado | Frecuencia aproximada | Posición en la oración |
 |---|---|---|---|---|
-| always | /ˈɔːlweɪz/ | siempre | 100% | Antes del verbo principal; después de *to be* |
-| almost always | /ˈɔːlməʊst ˈɔːlweɪz/ | casi siempre | ~95% | Antes del verbo principal |
-| usually | /ˈjuːʒuəli/ | normalmente | ~80% | Antes del verbo principal; después de *to be* |
-| generally | /ˈdʒɛnərəli/ | generalmente | ~75% | Antes del verbo principal o al inicio |
-| normally | /ˈnɔːməli/ | normalmente | ~75% | Antes del verbo principal o al inicio |
-| often | /ˈɒfən/ | a menudo | ~60% | Antes del verbo principal; después de *to be* |
-| frequently | /ˈfriːkwəntli/ | frecuentemente | ~60% | Antes del verbo principal o al inicio (más formal) |
-| sometimes | /ˈsʌmtaɪmz/ | a veces | ~50% | Flexible: inicio, antes del verbo, o al final |
-| occasionally | /əˈkeɪʒənəli/ | ocasionalmente | ~30% | Flexible; inicio o antes del verbo |
-| rarely | /ˈrɛərli/ | raramente | ~10% | Antes del verbo principal; después de *to be* |
-| seldom | /ˈsɛldəm/ | pocas veces (formal) | ~10% | Antes del verbo principal; inicio posible con inversión |
-| hardly ever | /ˈhɑːdli ˈɛvər/ | casi nunca | ~5% | Antes del verbo principal |
-| never | /ˈnɛvər/ | nunca | 0% | Antes del verbo principal; después de *to be* |
- 
-**Frequency Expressions**:  Estas expresiones van normalmente **al inicio o al final** de la oración.
- 
+| always | ÓL-ueis | siempre | 100% | Antes del verbo principal; después de *to be* |
+| almost always | ÓL-moust ÓL-ueis | casi siempre | ~95% | Antes del verbo principal |
+| usually | IÚ-shu-a-li | normalmente | ~80% | Antes del verbo principal; después de *to be* |
+| generally | CHÉ-ne-ra-li | generalmente | ~75% | Antes del verbo principal o al inicio |
+| normally | NÓR-ma-li | normalmente | ~75% | Antes del verbo principal o al inicio |
+| often | Ó-fen | a menudo | ~60% | Antes del verbo principal; después de *to be* |
+| frequently | FRÍ-kuent-li | frecuentemente | ~60% | Antes del verbo principal o al inicio (más formal) |
+| sometimes | SÁM-taims | a veces | ~50% | Flexible: inicio, antes del verbo, o al final |
+| occasionally | o-KÉI-sho-na-li | ocasionalmente | ~30% | Flexible; inicio o antes del verbo |
+| rarely | RÉR-li | raramente | ~10% | Antes del verbo principal; después de *to be* |
+| seldom | SÉL-dom | pocas veces (formal) | ~10% | Antes del verbo principal; inicio posible con inversión |
+| hardly ever | JÁRD-li É-ver | casi nunca | ~5% | Antes del verbo principal |
+| never | NÉ-ver | nunca | 0% | Antes del verbo principal; después de *to be* |
+
+### Expresiones
+Estas expresiones de frecuencia van normalmente **al inicio o al final** de la oración.
+
 | Expression | Pronunciación | Significado | Ejemplo |
 |---|---|---|---|
-| once a week / month / year | /wʌns ə wiːk/ | una vez a la semana/mes/año | I go to the gym **once a week**. |
-| twice a day | /twaɪs ə deɪ/ | dos veces al día | She takes the medication **twice a day**. |
-| every other day | /ˈɛvri ˈʌðər deɪ/ | cada dos días | He trains **every other day**. |
-| from time to time | /frəm taɪm tə taɪm/ | de vez en cuando | **From time to time**, we review our strategy. |
-| on a regular basis | /ɒn ə ˈrɛɡjʊlər ˈbeɪsɪs/ | de forma regular (formal) | Meetings are held **on a regular basis**. |
-| every now and then | /ˈɛvri naʊ ən ðɛn/ | de vez en cuando (informal) | **Every now and then**, I go hiking. |
-| at times | /æt taɪmz/ | en ocasiones (formal) | **At times**, the workload can be overwhelming. |
- 
-> ⚠️ **Regla de posición clave:**
-> 
-> - **Con *to be*:** el adverbio va **después**: *She **is** always punctual.*
-> - **Con verbo auxiliar:** el adverbio va **entre** el auxiliar y el verbo principal: *She has **never** been late.*
-> 
+| once a week / month / year | uáns e uík | una vez a la semana/mes/año | I go to the gym **once a week**. |
+| twice a day | tuáis e déi | dos veces al día | She takes the medication **twice a day**. |
+| every other day | É-vri Á-der déi | cada dos días | He trains **every other day**. |
+| from time to time | from táim tu táim | de vez en cuando | **From time to time**, we review our strategy. |
+| on a regular basis | on e RÉ-guiu-lar BÉI-sis | de forma regular (formal) | Meetings are held **on a regular basis**. |
+| every now and then | É-vri náu and den | de vez en cuando (informal) | **Every now and then**, I go hiking. |
+| at times | at táims | en ocasiones (formal) | **At times**, the workload can be overwhelming. |
 
-**REGLA DE LA POSICIÓN**
+**Usos avanzados (B2/C1)**
 
-``Regla 1: Con verbos normales (Antes del verbo)``
-El adverbio se coloca justo **antes** del verbo principal. **Verbo normal:** El verbo es débil, necesita que el adverbio lo "proteja" desde atrás (Adverbio + Verbo).
+- **Regla de posición clave**: con *to be*, el adverbio va **después** del verbo; con un verbo auxiliar, el adverbio va **entre** el auxiliar y el verbo principal.
+  > *She **is** always punctual.*
+  >
+  > *She has **never** been late.*
 
-* **Estructura:** Sujeto + `Adverbio` + **Verbo** + Complemento
-* *Example:* *You `always` **speak** English well.*
+- **Inversión formal con adverbios negativos (*never*, *rarely*, *seldom*, *hardly*)**: en registro formal o writing, estos adverbios se colocan al principio de la frase y provocan **inversión** del sujeto y el auxiliar (como en las preguntas). Si no hay auxiliar, se añade *do/does/did*.
+  > *I have never seen such dedication.* → **Never have I seen** such dedication.
+  >
+  > *She rarely complains.* → **Rarely does she complain**.
 
-`Regla 2: Con el verbo TO BE (Después del verbo)`
-El adverbio se coloca **después** del verbo *to be* (am, is, are, was, were). **Verbo TO BE:** El verbo *to be* es el rey del inglés, es fuerte y se pone primero (Verbo TO BE + Adverbio).
+- **Con verbos modales y perfectos, el adverbio va tras el primer auxiliar**: cuando hay más de un verbo auxiliar (modal + perfecto, por ejemplo), el adverbio de frecuencia se coloca justo después del **primer** auxiliar, no al final de toda la cadena verbal.
+  > *She will have finished.* → She **will always have finished** on time.
+  >
+  > *He could have arrived.* → He **could never have arrived** so early.
 
-* **Estructura:** Sujeto + **Verbo TO BE** + `Adverbio` + Complemento
-* *Example:* *She **is** `usually` punctual for her classes.*
+- **Adverbios que rompen la regla general (*usually*, *often*, *sometimes*) pueden ir también al principio o al final de la frase para dar énfasis**: a diferencia de *always/never*, estos admiten posición inicial o final sin sonar forzado, cambiando ligeramente el foco de la información.
+  > *We go there often.* / **Sometimes**, we go there. / We go there **sometimes**.
 
-**Inversión formal con *never*, *rarely*, *seldom*:** *Never **have** I seen such dedication.* (estructura muy valorada en B2/C1 writing)
+- **Diferencia entre *already*, *still* y *yet* (muy confundidos en B2/C1)**: *already* se usa en afirmativas (sorpresa o algo antes de lo esperado) y suele ir entre auxiliar y verbo; *still* indica continuidad y va antes del verbo principal o después de *to be*; *yet* se usa en negativas e interrogativas y va al final.
+  > *She has **already** left.* / *He **still** works there.* / *Have you finished **yet**?*
 
-##
-##
-
-## 🟩 3. Pronombres
-*Sección única para dominar las referencias, evitar repetir palabras y situar acciones.*
-
-
-### Estructuras
-* Existe: There is / There are
-* Preguntas: Wh- Questions y combinaciones con How
-* Frecuencia: Adverbios de frecuencia
-
----
-
-## 🟦 BLOQUE 4: Preposiciones y Artículos *
-*En el B2 esto se evalúa de forma indirecta pero constante. Un error aquí penaliza la fluidez en tu Writing.*
-
-### Preposiciones
-* De lugar
-* De tiempo
-* De movimiento
+- **Posición especial con *enough***: a diferencia de otros adverbios, *enough* siempre va **después** del adjetivo o adverbio que modifica (nunca antes), aunque con sustantivos va delante.
+  > *He isn't old enough.* (NO ~~enough old~~) / *We don't have enough time.*
 
 ### Artículos
-* Uso de "a/an", "the" y el artículo cero (cuándo no poner nada, clave en B2)
 
+| Artículo | Pronunciación | Significado | Uso | Ejemplo |
+|---|---|---|---|---|
+| a | e | un/a | Antes de sonido consonántico; sustantivo contable singular, no específico | I saw **a** dog in the park. |
+| an | an | un/a | Antes de sonido vocálico; sustantivo contable singular, no específico | She bought **an** umbrella. |
+| the | de / di | el/la/los/las | Referencia específica o ya conocida por el hablante y el oyente | **The** book you gave me was excellent. |
+| Ø (artículo cero) | — | (sin artículo) | Sustantivos plurales o incontables en sentido general; nombres propios, comidas, idiomas, deportes | **Ø Dogs** are loyal animals. / She speaks **Ø French**. |
 
-## 📗 Artículos
-> Los **artículos** son palabras que acompañan a los sustantivos para indicar si nos referimos a algo específico o general, conocido o desconocido. 
+**Usos avanzados (B2/C1)**
 
-**Artículo definido: `the` (el / la / los / las)**
+- **A/an según el sonido, no la letra**: se elige según cómo suena la palabra, no según si empieza por vocal o consonante escrita.
+  > **an** hour (sonido vocálico) / **a** university (suena "iú-", consonante).
 
-Se usa **the** cuando hablamos de algo específico o ya mencionado, tanto con sustantivos contables como incontables.
+- **The con superlativos y únicos**: se usa *the* con superlativos, ordinales y elementos únicos en el contexto.
+  > **The** best solution is often **the** simplest one.
 
-| Situación | Ejemplo |
-|-----------|---------|
-| Algo único o ya mencionado | *I saw a dog. The dog was big.* |
-| Con sustantivos incontables específicos | *The water in this lake is cold.* |
-| Con nombres geográficos (ríos, mares, cadenas montañosas) | *The Amazon, The Alps, The Pacific* |
-| Con superlativos | *She is the best student.* |
+- **Artículo cero con nombres de comidas y transporte**: en expresiones fijas como *by car*, *have breakfast*, *at school*, no se usa artículo aunque en español sí lo llevemos.
+  > We usually have **Ø breakfast** at 7. / He goes to work **by Ø car**.
 
-**Artículos indefinidos: `a` / `an`**
+- **The con nombres geográficos específicos**: ríos, cadenas montañosas, océanos y países en plural llevan *the*, pero continentes, países singulares y ciudades normalmente no.
+  > **The** Amazon flows through **Ø Brazil**, near **the** Andes.
 
-Se usan con sustantivos contables en singular cuando hablamos de algo por primera vez o de manera general. 
-**Regla clave:** Se usa **an** antes de palabras que comienzan con sonido vocálico: *an apple, an hour, an umbrella*.
-
-| Palabra | Significado | Ejemplo |
-|--------|-------------|---------|
-| a | un / una | *I have a cat.* — Tengo un gato. |
-| an | un / una (antes de vocal) | *She is an engineer.* — Ella es una ingeniera. |
-
-> 
-
-**Sin artículo (Zero Article)**
-
-| Situación | Ejemplo |
-|-----------|---------|
-| Sustantivos incontables en general | *Water is essential.* / *Love is beautiful.* |
-| Sustantivos contables en plural generales | *Dogs are loyal animals.* |
-| Nombres propios, países, idiomas | *Spain, English, Maria* |
-
-### There is / There are
-Se usan para indicar la existencia o presencia de algo.
-
-| Estructura | Significado | Ejemplo |
-|-----------|-------------|---------|
-| There is | Hay (singular o incontable) | *There is a book on the table.* — Hay un libro en la mesa. |
-| There are | Hay (plural) | *There are three cats in the garden.* — Hay tres gatos en el jardín. |
-| There isn't | No hay (singular) | *There isn't any milk.* — No hay leche. |
-| There aren't | No hay (plural) | *There aren't any chairs.* — No hay sillas. |
-| Is there? | ¿Hay? (singular) | *Is there a pharmacy nearby?* — ¿Hay una farmacia cerca? |
-| Are there? | ¿Hay? (plural) | *Are there any tickets left?* — ¿Quedan entradas? |
-
-
+- **Diferencia de significado según el artículo**: cambiar el artículo puede cambiar el sentido de la oración (genérico vs. específico).
+  > **Ø Life** is unpredictable. (la vida en general) vs. **The life** he led was full of adventure. (una vida concreta)
 
 ## 📗 Preposiciones
-> Una **preposición** es una palabra que indica la relación entre dos elementos de la oración: puede expresar lugar, tiempo, movimiento, causa, etc. Siempre va seguida de un sustantivo, pronombre o gerundio.
+Palabra que indica la relación entre dos elementos de la oración: puede expresar lugar, tiempo, movimiento, causa, etc. Siempre va seguida de un sustantivo, pronombre o gerundio.
 
-Ejemplos de relaciones que expresan: *The book is **on** the table* (lugar), *She arrives **at** 9* (tiempo), *He walked **into** the room* (movimiento).
-
-### De lugar
-
-| Palabra | Significado | Ejemplo |
-|--------|-------------|---------|
-| in | en (interior) | *The keys are in the drawer.* — Las llaves están en el cajón. |
-| on | sobre, en (superficie) | *The book is on the table.* — El libro está sobre la mesa. |
-| at | en (punto específico) | *She is at the door.* — Ella está en la puerta. |
-| under | debajo de | *The cat is under the bed.* — El gato está debajo de la cama. |
-| above | encima de, sobre | *The lamp is above the desk.* — La lámpara está sobre el escritorio. |
-| between | entre (dos) | *The bank is between the café and the school.* |
-| among | entre (varios) | *She is among friends.* — Está entre amigos. |
-| next to | al lado de | *Sit next to me.* — Siéntate a mi lado. |
-| behind | detrás de | *The car is behind the house.* — El coche está detrás de la casa. |
-| in front of | delante de | *He stood in front of the mirror.* — Se puso delante del espejo. |
-
-### De tiempo
-
-| Palabra | Significado | Ejemplo |
-|--------|-------------|---------|
-| in | en (meses, años, siglos, partes del día) | *I was born in 1990. / In the morning.* |
-| on | en (días, fechas específicas) | *The meeting is on Monday.* — La reunión es el lunes. |
-| at | a (horas exactas, momentos) | *The class starts at 9 o'clock.* — La clase empieza a las 9. |
-| since | desde (punto de inicio) | *She has lived here since 2010.* — Vive aquí desde 2010. |
-| for | durante, por (duración) | *I studied for two hours.* — Estudié durante dos horas. |
-| before | antes de | *Call me before noon.* — Llámame antes del mediodía. |
-| after | después de | *We'll eat after the show.* — Comeremos después del espectáculo. |
-| during | durante | *Don't talk during the movie.* — No hables durante la película. |
-| until / till | hasta (límite temporal) | *Wait until I come back.* — Espera hasta que vuelva. |
-| by | para (límite de tiempo) | *Finish it by Friday.* — Termínalo para el viernes. |
-
-### De movimiento
-
-| Palabra | Significado | Ejemplo |
-|--------|-------------|---------|
-| to | a, hacia (destino) | *I'm going to the gym.* — Voy al gimnasio. |
-| from | de, desde (origen) | *She came from Italy.* — Ella vino de Italia. |
-| into | dentro de (movimiento) | *He walked into the room.* — Entró en la habitación. |
-| out of | fuera de (movimiento) | *She got out of the car.* — Salió del coche. |
-| through | a través de | *We drove through the tunnel.* — Condujimos por el túnel. |
-| across | a través de (superficie) | *They swam across the river.* — Cruzaron el río a nado. |
-| along | a lo largo de | *We walked along the beach.* — Caminamos por la playa. |
-| up | hacia arriba | *The cat jumped up the tree.* — El gato subió al árbol. |
-| down | hacia abajo | *She ran down the stairs.* — Bajó las escaleras corriendo. |
-
----
-
-## 📗 Palabras Interrogativas (Wh- Questions)
-### Usos especiales y diferencias clave (nivel B2)
-
-> **What vs. Which:**
-> - Usa **what** cuando las opciones son ilimitadas o no se especifican: *What music do you like?*
-> - Usa **which** cuando las opciones son limitadas o conocidas: *Which of these songs do you prefer?*
-
-> **Why — respuesta con `because` o `to + infinitivo`:**
-> - *Why are you studying English?* → *Because I need it for work.* / *To get a better job.*
-
-> **How — no solo "cómo", sino también "en qué estado":**
-> - *How are you?* — ¿Cómo estás?
-> - *How was the trip?* — ¿Qué tal el viaje?
-
-> **Preguntas indirectas (nivel B2):** Cuando **why, what, where**, etc. se usan en preguntas indirectas, el orden cambia a sujeto + verbo (sin inversión):
-> - Directa: *Where does she live?*
-> - Indirecta: *Do you know **where she lives**?*
+| Palabra | Pronunciación | Significado | Ejemplo |
+|--------|---------------|-------------|---------|
+|**De Lugar**||||
+| in | in | en (interior) | *The keys are in the drawer.* — Las llaves están en el cajón. |
+| on | on | sobre, en (superficie) | *The book is on the table.* — El libro está sobre la mesa. |
+| at | at | en (punto específico) | *She is at the door.* — Ella está en la puerta. |
+| under | ÁN-der | debajo de | *The cat is under the bed.* — El gato está debajo de la cama. |
+| above | e-BÁV | encima de, sobre | *The lamp is above the desk.* — La lámpara está sobre el escritorio. |
+| between | bi-TUÍN | entre (dos) | *The bank is between the café and the school.* |
+| among | e-MÁNG | entre (varios) | *She is among friends.* — Está entre amigos. |
+| next to | nekst tu | al lado de | *Sit next to me.* — Siéntate a mi lado. |
+| behind | bi-JÁIND | detrás de | *The car is behind the house.* — El coche está detrás de la casa. |
+| in front of | in front ov | delante de | *He stood in front of the mirror.* — Se puso delante del espejo. |
+|**De Tiempo**||||
+| in | in | en (meses, años, siglos, partes del día) | *I was born in 1990. / In the morning.* |
+| on | on | en (días, fechas específicas) | *The meeting is on Monday.* — La reunión es el lunes. |
+| at | at | a (horas exactas, momentos) | *The class starts at 9 o'clock.* — La clase empieza a las 9. |
+| since | sins | desde (punto de inicio) | *She has lived here since 2010.* — Vive aquí desde 2010. |
+| for | for | durante, por (duración) | *I studied for two hours.* — Estudié durante dos horas. |
+| before | bi-FÓR | antes de | *Call me before noon.* — Llámame antes del mediodía. |
+| after | ÁF-ter | después de | *We'll eat after the show.* — Comeremos después del espectáculo. |
+| during | DIÚ-ring | durante | *Don't talk during the movie.* — No hables durante la película. |
+| until / till | an-TÍL / til | hasta (límite temporal) | *Wait until I come back.* — Espera hasta que vuelva. |
+| by | bái | para (límite de tiempo) | *Finish it by Friday.* — Termínalo para el viernes. |
+|**De Movimiento**||||
+| to | tu | a, hacia (destino) | *I'm going to the gym.* — Voy al gimnasio. |
+| from | from | de, desde (origen) | *She came from Italy.* — Ella vino de Italia. |
+| into | ÍN-tu | dentro de (movimiento) | *He walked into the room.* — Entró en la habitación. |
+| out of | áut ov | fuera de (movimiento) | *She got out of the car.* — Salió del coche. |
+| through | zru | a través de | *We drove through the tunnel.* — Condujimos por el túnel. |
+| across | e-KRÓS | a través de (superficie) | *They swam across the river.* — Cruzaron el río a nado. |
+| along | e-LÓNG | a lo largo de | *We walked along the beach.* — Caminamos por la playa. |
+| up | ap | hacia arriba | *The cat jumped up the tree.* — El gato subió al árbol. |
+| down | dáun | hacia abajo | *She ran down the stairs.* — Bajó las escaleras corriendo. |
