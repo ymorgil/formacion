@@ -29,8 +29,6 @@ Las oraciones condicionales expresan una condición y su consecuencia, y se divi
   > If I were you... → **Were I you**, I would study tonight.
   > If she had studied... → **Had she studied** harder, she would have passed.
 
-
-## ✒️✒️✒️✒️✒️
 ## 📗 2. REPORTED SPEECH
 El Reported Speech (estilo indirecto) es la estructura gramatical que usamos para contar lo que otra persona dijo, pero sin repetir sus palabras exactas
 
@@ -39,7 +37,7 @@ El Reported Speech (estilo indirecto) es la estructura gramatical que usamos par
 - **Indirect Speech** (Estilo indirecto / Reported Speech): Cuentas lo que alguien dijo, pero sin comillas y adaptando el tiempo verbal, los pronombres, etc. 
 > She said (that) **she was tired.**
 
-### Backshift
+**Regla N°1: Debes aprender que, en el reported speech, los tiempos verbales cambian.**
 Para pasar del estilo directo al indirecto, la regla general es dar un "paso atrás" en el tiempo verbal (**Backshift**).
 
 | Direct Speech  | Reported Speech | Ejemplo |
@@ -47,24 +45,31 @@ Para pasar del estilo directo al indirecto, la regla general es dar un "paso atr
 | Present Simple | Past Simple | "I **like** pizza" → He said he **liked** pizza. |
 | Present Continuous | Past Continuous | "I **am working**" → She said she **was working**. |
 | Past Simple | Past Perfect | "I **went** home" → He said he **had gone** home. |
-| Present Perfect | Past Perfect | "I **have finished**" → She said she **had finished**. |
 | Past Continuous | Past Perfect Continuous | "I **was sleeping**" → He said he **had been sleeping**. |
+| Present Perfect | Past Perfect | "I **have finished**" → She said she **had finished**. |
 | will | would | "I **will call** you" → She said she **would call** me. |
+
+**Regla N°2: Los tiempos verbales de los verbos modales, también conocidos como modal verbs en inglés, también cambian.**
+
+| Direct Speech  | Reported Speech | Ejemplo |
+|---|---|---|
 | can | could | "I **can swim**" → He said he **could swim**. |
 | may | might | "I **may come**" → She said she **might come**. |
 | must | had to | "I **must go**" → He said he **had to go**. |
 
-*Nota: El Past Perfect, Would, Could, Should y Might NO cambian.*
+> Nota: El Past Perfect, Would, Could, Should y Might NO cambian.
 
-### Cambios de Tiempo y Espacio
-* *Today* $\rightarrow$ **That day**
-* *Yesterday* $\rightarrow$ **The day before** / **The previous day**
-* *Tomorrow* $\rightarrow$ **The following day** / **The next day**
-* *Now* $\rightarrow$ **Then** / **At that moment**
-* *Here* $\rightarrow$ **There**
-* *This* $\rightarrow$ **That**
+**Regla N°3: Los adverbios de tiempo también cambian.**
 
-### Reporting Verbs
+
+* *Today* **That day**
+* *Yesterday*  **The day before** / **The previous day**
+* *Tomorrow*  **The following day** / **The next day**
+* *Now*  **Then** / **At that moment**
+* *Here*  **There**
+* *This*  **That**
+
+**REPORTING VERBS**
 
 * **SAY:** No lleva pronombre de persona inmediatamente detrás.
     * *She said (that) she was tired.* ($\checkmark$)
@@ -73,35 +78,37 @@ Para pasar del estilo directo al indirecto, la regla general es dar un "paso atr
     * *She told **me** (that) she was tired.* ($\checkmark$)
     * *She told that...* ($\times$)
 
-### Reported Questions
+**REPORTED QUESTIONS**
+
 Ya no se usa la estructura de pregunta (auxiliar + sujeto). Se usa la estructura de frase afirmativa (sujeto + verbo) y no llevan signo de interrogación.
 
 * **Preguntas de Sí/No (se añade IF / WHETHER):**
-    * Directo: *"Do you like football?"* $\rightarrow$ Indirecto: *He asked me **if/whether** I **liked** football.*
+    * Directo: *"Do you like football?"* ➞ Indirecto: *He asked me **if/whether** I **liked** football.*
 * **Preguntas con Wh- (se mantiene la partícula Wh-):**
-    * Directo: *"Where do you live?"* $\rightarrow$ Indirecto: *She asked me **where** I **lived**.*
+    * Directo: *"Where do you live?"* ➞Indirecto: *She asked me **where** I **lived**.*
 
 ##  📗 3. THE PASSIVE VOICE
+La voz pasiva en inglés se usa para dar protagonismo a quien o qué recibe la acción, en lugar de quien la realiza. Su estructura básica es: 
 
-**Estructura General**
-`Objeto de la activa + Verbo TO BE (en el tiempo correcto) + Past Participle (3ª columna / -ed)`
+`Objeto de la activa + Verbo TO BE (conjugado) + Past Participle (3ª columna / -ed) (+ by + agente)`
 
 ### Transformación de Tiempos
-* **Present Simple:** *They clean the office.* $\rightarrow$ *The office **is cleaned**.*
-* **Past Simple:** *They built the house.* $\rightarrow$ *The house **was built**.*
-* **Present Perfect:** *They have chosen the winner.* $\rightarrow$ *The winner **has been chosen**.*
-* **Future (Will):** *They will cancel the match.* $\rightarrow$ *The match **will be cancelled**.*
-* **Modales:** *You must sign the form.* $\rightarrow$ *The form **must be signed**.*
+* **Present Simple:** *They clean the office.* ➞ *The office **is cleaned**.*
+* **Past Simple:** *They built the house.* ➞ *The house **was built**.*
+* **Present Perfect:** *They have chosen the winner.* ➞ *The winner **has been chosen**.*
+* **Future (Will):** *They will cancel the match.* ➞ *The match **will be cancelled**.*
+* **Modales:** *You must sign the form.* ➞ *The form **must be signed**.*
 
-### El Agente (BY)
+### El Agente (by)
 Solo se añade `by + persona` al final si es estrictamente necesario o importante saber quién hizo la acción.
+
 * *The book was written **by Cervantes**.* (Importante).
 * *The thief was arrested.* (No hace falta poner *by the police*, se sobreentiende).
 
 ### Pasivas Impersonales 
-(Estructuras avanzadas para el Writing B2)
 
-Sirven para dar opiniones generales u oficiales de manera formal.
+Sirven para dar opiniones generales u oficiales de manera formal. (Estructuras avanzadas para el Writing B2) 
+
 * **It + Pasiva + THAT + frase:**
     * *It **is said that** coffee is good for health.* (Se dice que el café es bueno para la salud).
     * *It **is believed that** the criminal escaped.* (Se cree que el criminal escapó).
