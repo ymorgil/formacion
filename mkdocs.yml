@@ -31,6 +31,7 @@ nav:
         - 12 Duolingo: ingles/12duo.md
         - 13 Pronunciación: ingles/13pronu.md
         - 20 Audiobooks: ingles/20audiobooks.md
+        - 21 Vocabulario: ingles/21vocab.md
 
 plugins:
    - glightbox # Cuando el usuario hace clic en una imagen se abre en una ventana emergente (lightbox)
