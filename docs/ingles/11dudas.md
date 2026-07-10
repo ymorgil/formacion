@@ -40,3 +40,28 @@ Hay tres palabras supercomunes con las que NUNCA se pone to porque la propia pal
 
 - Even if... (Incluso si... / Aunque...): I will go even if it rains.
 - Even though... (Aunque... - con mucha fuerza): Even though she was tired, she finished the report.
+
+## Too vs. Too Much vs. Too Many
+
+1. Usamos **too** a secas cuando va antes de una característica (adjetivo) o de la forma en que se hace algo (adverbio). Significa que algo supera el límite de lo aceptable.
+    - Ejemplo 1: This B2 exam is too difficult for now. (Este examen de B2 es demasiado difícil por ahora).
+    - Ejemplo 2: You are speaking too fast; I can't understand you. (Estás hablando demasiado rápido; no puedo entenderte).
+2. Usamos **too much** cuando hablamos de una cantidad excesiva de algo que no se puede contar en unidades (dinero, tiempo, agua, información, azúcar).
+    - Ejemplo 1: I have too much homework today. (Tengo demasiada tarea hoy - homework es incontable en inglés).
+    - Ejemplo 2: There is too much traffic in London. (Hay demasiado tráfico en Londres).
+
+3. Usamos **too many** cuando hablamos de una cantidad excesiva de cosas o personas que sí se pueden contar una por una (libros, coches, errores, personas).
+    - Ejemplo 1: There are too many new words to learn. (Hay demasiadas palabras nuevas que aprender).
+    - Ejemplo 2: I made too many mistakes in the listening test. (Cometí demasiados errores en la prueba de escucha).
+
+## Pedir cosas de forma natural
+
+1. **"Can I get...?"** (Informal / Registro Estándar) 
+Es la forma más común, rápida y nativa de pedir algo en una cafetería, una tienda o un bar de comida rápida. Es muy natural y suena amigable.
+      - Ejemplo 1: Hi! Can I get a chocolate muffin, please? (¡Hola! ¿Me das una magdalena de chocolate, por favor?).
+      - Ejemplo 2: * Can I get the bill, please?* (¿Me cobras / me traes la cuenta, por favor?).
+
+1. **"Could I have...?"** (Formal / Registro Educado)
+Es un paso más arriba en educación. Se usa en restaurantes más formales, cuando hablas con desconocidos, en hoteles o situaciones de atención al cliente. En el examen B2 (especialmente en el Speaking o en cartas formales), esta es la opción que te dará más puntos.
+      - Ejemplo 1: Excuse me, could I have some more water, please? (Disculpe, ¿podría ponerme un poco más de agua, por favor?).
+      - Ejemplo 2: * Could I have a look at the menu, please?* (¿Podría echar un vistazo al menú, por favor?).
