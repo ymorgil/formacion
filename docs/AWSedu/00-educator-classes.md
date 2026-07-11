@@ -1,0 +1,44 @@
+# ☁️ AWS Academy — Educator Classes
+
+Catálogo completo de las clases disponibles en el **AWS Academy Educator Dashboard**, con una descripción breve de cada una (investigada en internet, ya que el catálogo no incluye descripción) y los servicios AWS que se trabajan.
+
+**Leyenda de estado:** ✅ apuntes hechos · 🔄 en proceso · ❌ pendiente
+
+| Curso | Descripción | Servicios clave | Estado |
+|---|---|---|---|
+| Educator Getting Started with AWS Academy - Spanish (Spain) | Curso obligatorio de incorporación para educadores nuevos en AWS Academy: presenta el programa, el rol de TPM, los Learner Labs, el proceso "ready-to-teach" y cómo gestionar una clase. | Portal AWS Academy, Learner Lab | ❌ |
+| AWS Academy Machine Learning Foundations [64789] - Educator | Curso introductorio de IA y machine learning: selecciona y aplica servicios de ML de AWS para resolver problemas de negocio, y permite etiquetar, entrenar y desplegar un modelo de ML propio. | SageMaker, Rekognition, Comprehend, Forecast | ❌ |
+| AWS Academy Machine Learning for Natural Language Processing [64706] - Educator | Curso de continuación de ML Foundations centrado en NLP: análisis de sentimiento, modelado de temas, transcripción y traducción de texto multimedia usando servicios de machine learning de AWS. | Comprehend, Transcribe, Translate, SageMaker | ❌ |
+| AWS Academy Learner Lab - Educator | Sandbox personal en una cuenta AWS real con presupuesto y tiempo limitados, sin necesidad de tarjeta de crédito, para practicar libremente con servicios AWS. | EC2, S3, VPC, IAM | ❌ |
+| AWS Academy Lab Project - Microservices and CI/CD Pipeline Builder [65003] - Educator | Proyecto final sin guía paso a paso: dividir una aplicación monolítica en microservicios en contenedores y construir un pipeline CI/CD con despliegue blue/green usando al menos 11 servicios de AWS. | Cloud9, ECR, ECS/Fargate, ALB, CodePipeline, CodeBuild | ❌ |
+| AWS Academy Lab Project - Cloud Web Application Builder [65016] - Educator | Proyecto final sin guía paso a paso: diseñar y desplegar una aplicación web respaldada por base de datos, escalable, altamente disponible y segura, siguiendo el AWS Well-Architected Framework. | EC2, RDS, VPC, Elastic Load Balancing, Auto Scaling | ❌ |
+| AWS Academy Lab Project - Cloud Security Builder [65002] - Educator | Proyecto final en 4 fases: asegurar el acceso a un bucket S3, proteger redes virtuales, cifrar datos en reposo con AWS KMS y crear un sistema de monitorización de incidentes. | S3, VPC, KMS, CloudWatch, AWS Config, CloudTrail | ❌ |
+| AWS Academy Lab Project - Cloud Data Pipeline Builder [64995] - Educator | Proyecto final sin guía paso a paso: construir un pipeline de analítica que ingiere, transforma, analiza y visualiza datos de clickstream web siguiendo el AWS Well-Architected Framework. | S3, Glue, Athena, QuickSight, Kinesis, Lambda | ❌ |
+| AWS Academy Introduction to Cloud: Semester 2 [65009] - Educator | Segundo semestre del curso introductorio de computación en la nube para K-12: profundiza en servicios, arquitecturas y buenas prácticas de AWS con prácticas en Learner Lab. | EC2, S3, IAM, Learner Lab | ❌ |
+| AWS Academy Introduction to Cloud: Semester 1 [64887] - Educator | Primer semestre del curso introductorio de computación en la nube para K-12: explora servicios, aplicaciones y casos de uso de AWS y desarrolla pensamiento computacional. | EC2, S3, IAM, Learner Lab | ❌ |
+| AWS Academy Generative AI Foundations (Spanish LATAM) [141310] - Educator | Curso introductorio (nivel 100) sobre conceptos, capacidades y casos de uso de la IA generativa en AWS, con foco en valor de negocio y prácticas de IA responsable. | Amazon Bedrock, Amazon Q, PartyRock, SageMaker | ❌ |
+| AWS Academy Generative AI Foundations [118816] - Educator | Curso introductorio (nivel 100) sobre conceptos, capacidades y casos de uso de la IA generativa en AWS, con foco en valor de negocio y prácticas de IA responsable. | Amazon Bedrock, Amazon Q, PartyRock, SageMaker | ❌ |
+| AWS Academy Engineering Operations Technician [64704] - Educator | Curso introductorio para el rol de técnico de operaciones de ingeniería en un centro de datos: fundamentos de electricidad, infraestructura física, baterías y generadores. | Infraestructura física de data center, electricidad, refrigeración | ❌ |
+| AWS Academy Data Engineering [64707] - Educator | Curso que enseña a diseñar, construir y mantener canalizaciones de datos en AWS: ingestión, almacenamiento, transformación, catalogación y analítica con S3, Glue, Redshift y Kinesis. | S3, Glue, Redshift, Kinesis, EMR, Lambda | ❌ |
+| AWS Academy Data Center Technician [64705] - Educator | Curso introductorio para el rol de técnico de centro de datos: fundamentos físicos, eléctricos, de refrigeración y de seguridad de las instalaciones de un data center. | Infraestructura física de data center, electricidad, refrigeración | ❌ |
+| AWS Academy Cloud Security Foundations [65195] - Educator | Curso introductorio de ciberseguridad en la nube: principios de seguridad, cifrado, IAM, subredes públicas/privadas, ACL de red, balanceadores de carga y monitorización con CloudTrail y CloudWatch. | IAM, VPC, KMS, CloudTrail, CloudWatch, Load Balancer | ❌ |
+| AWS Academy Cloud Operations [64982] - Educator | Curso de nivel asociado orientado a roles de DevOps y operaciones en la nube: automatización, despliegues repetibles, gestión de instancias EC2, VPC, bases de datos y CloudFormation. | EC2, CloudFormation, Systems Manager, Auto Scaling, CloudWatch, Route 53 | ❌ |
+| AWS Academy Cloud Foundations [64800] - Educator | Curso introductorio oficial de AWS: conceptos básicos de computación en la nube, cómputo, almacenamiento, bases de datos, redes, seguridad y modelo de precios de AWS. | EC2, S3, VPC, IAM, RDS, Lambda | ❌ |
+| AWS Academy Cloud Developing [64884] - Educator | Curso de nivel asociado para desarrollar aplicaciones escalables en la nube con AWS: cómputo, almacenamiento, bases de datos, herramientas de desarrollador y despliegue automatizado con SAM. | EC2, Lambda, S3, DynamoDB, CodeCommit, CodeBuild, SQS, SNS | ❌ |
+| AWS Academy Cloud Architecting - Educator (Spanish LATAM) | Curso de nivel asociado sobre diseño de infraestructura en AWS: almacenamiento, redes, bases de datos, alta disponibilidad, y arquitecturas serverless y desacopladas. | EC2, S3, VPC, RDS, DynamoDB, Lambda, API Gateway, CloudFormation | ❌ |
+| AWS Academy Cloud Architecting - Educator | Curso de nivel asociado sobre diseño de infraestructura en AWS: almacenamiento, redes, bases de datos, alta disponibilidad, y arquitecturas serverless y desacopladas. | EC2, S3, VPC, RDS, DynamoDB, Lambda, API Gateway, CloudFormation | ❌ |
+| AWS Academy Cloud Architecting [64697] - Educator | Curso de nivel asociado sobre diseño de infraestructura en AWS: almacenamiento, redes, bases de datos, alta disponibilidad, y arquitecturas serverless y desacopladas. | EC2, S3, VPC, RDS, DynamoDB, Lambda, API Gateway, CloudFormation | ❌ |
+
+Sources:
+- [AWS Academy Class Descriptions (Stanly Community College)](https://www.stanly.edu/academics/it-academy/aws-academy/aws-class-description.html)
+- [AWS Academy Machine Learning Foundations — Montgomery County CC](https://www.mc3.edu/courses/bipct-1649-aws-academy-machine-learning-foundations)
+- [AWS Academy ML for NLP — GitHub outline](https://github.com/tharoosha/AWS-Academy-Machine-Learning-for-Natural-Language-Processing)
+- [AWS Academy Lab Project - Cloud Data Pipeline Builder — Medium](https://medium.com/@jacquelinastanley/aws-academy-lab-project-cloud-data-pipeline-builder-122979-35333812facc)
+- [AWS Academy Lab Project - Cloud Web Application Builder — Towards AWS](https://towardsaws.com/building-a-highly-available-scalable-web-application-aws-academy-lab-project-fbb9ec2914c3)
+- [AWS Academy Lab Project - Microservices and CI/CD Pipeline Builder — Towards AWS](https://towardsaws.com/building-microservices-and-a-ci-cd-pipeline-aws-academy-lab-project-f8a2977058f3)
+- [AWS Academy Lab Project - Cloud Security Builder — Towards AWS](https://towardsaws.com/cloud-security-builder-aws-academy-lab-project-036c25a6fb00)
+- [AWS Academy Introduction to Cloud Semester 1/2 — MoHESR Skills Hub](https://skillshub.mohesr.gov.eg/index.php/courses/44-aws-academy-introduction-to-cloud-semester-1)
+- [AWS Academy Generative AI Foundations — University of Denver](https://professional.du.edu/courses/aws-academy-generative-ai-foundations)
+- [AWS Academy Engineering Operations Technician — GitHub](https://github.com/MarwanAl-Obaidi/AWS-Academy-Engineering-Operations-Technician)
+- [AWS Academy Data Center Technician — Delaware JobLink](https://joblink.delaware.gov/etp/public/institution_programs/2991)
+- [Educator Getting Started with AWS Academy — uniparthenope.it](https://www.awsacademyuniparthenope.org/courses/educator-getting-started-with-aws-academy/)

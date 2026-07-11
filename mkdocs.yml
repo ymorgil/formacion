@@ -32,6 +32,26 @@ nav:
         - 13 Pronunciación: ingles/13pronu.md
         - 20 Audiobooks: ingles/20audiobooks.md
         - 21 Vocabulario: ingles/21vocab.md
+   - EOI:
+        - 00 Introducción: EOI/00-introduccion.md
+        - 01 Estructura del examen: EOI/01-estructura-examen.md
+        - 02 Tiempos verbales: EOI/02-tiempos-verbales.md
+        - 03 Comprensión: EOI/03-comprension.md
+        - 04 Expresión escrita: EOI/04-expresion-escrita.md
+        - 05 Expresión oral: EOI/05-expresion-oral.md
+        - 06 Plan de estudio: EOI/06-plan-de-estudio.md
+   - Trade:
+        - 00 Introducción: trade/00-introduccion.md
+        - 01 Tipos de activos: trade/01-tipos-de-activos.md
+        - 02 Órdenes y mercados: trade/02-ordenes-y-mercados.md
+        - 03 Riesgo, diversificación y fiscalidad: trade/03-riesgo-diversificacion-fiscalidad.md
+        - 04 Glosario y primeros pasos: trade/04-glosario-primeros-pasos.md
+   - Criptomonedas:
+        - 00 Introducción y blockchain: criptomonedas/00-introduccion-blockchain.md
+        - 01 Monederos y wallets: criptomonedas/01-monederos-wallets.md
+        - 02 Exchanges, seguridad y regulación: criptomonedas/02-exchanges-seguridad-regulacion.md
+        - 03 Tipos de criptoactivos: criptomonedas/03-tipos-de-criptoactivos.md
+        - 04 Primeros pasos prácticos: criptomonedas/04-primeros-pasos-practicos.md
 
 plugins:
    - glightbox # Cuando el usuario hace clic en una imagen se abre en una ventana emergente (lightbox)
