@@ -5,29 +5,38 @@ Las oraciones condicionales expresan una condición y su consecuencia, y se divi
 
 | Tipo | Estructura | Uso y ejemplo |
 |---|---|---|
-| **Zero Conditional** | If/When + Present Simple, ... Present Simple | Verdades universales y hechos científicos que siempre se cumplen.</br> *If you **heat** water to 100°C, it **boils**.* </br> *Plants **die** if they **don't get** enough water.* |
-| **First Conditional** | If + Present Simple, ... will + infinitivo | Situaciones reales o muy probables en el futuro.</br> *If it **rains** tomorrow, I **will stay** at home.* </br> *If you **study** hard, you **will pass** the exam.* |
-| **Second Conditional** | If + Past Simple, ... would + infinitivo | Situaciones hipotéticas o imaginarias en el presente/futuro, poco probables o imposibles; también para dar consejos.</br> *If I **had** more money, I **would buy** a car.* </br> *If I **were** you, I **would study** tonight.* |
-| **Third Conditional** | If + Past Perfect, ... would have + participio | Situaciones hipotéticas en el pasado; arrepentimientos o hechos ya imposibles de cambiar.</br> *If she **had studied** harder, she **would have passed**.* </br> *If we **had taken** a taxi, we **wouldn't have missed** the train.* |
-| **Mixed Conditional** | If + Past Perfect, ... would + infinitivo | Condición no cumplida en el pasado con consecuencia en el presente.</br> *If I **had won** the lottery yesterday, I **would be** rich today.* |
+| **Zero Conditional** | If/When + Present Simple, ... Present Simple | **Verdades universales y hechos científicos que siempre se cumplen.**</br> *If you **heat** water to 100°C, it **boils**.* </br> *Plants **die** if they **don't get** enough water.* |
+| **First Conditional** | If + Present Simple, ... will + infinitivo | **Situaciones reales o muy probables en el futuro.**</br> *If it **rains** tomorrow, I **will stay** at home.* </br> *If you **study** hard, you **will pass** the exam.* |
+| **Second Conditional** | If + Past Simple, ... would + infinitivo | **Situaciones hipotéticas o imaginarias en el presente/futuro, poco probables o imposibles; también para dar consejos.**</br> *If I **had** more money, I **would buy** a car.* </br> *If I **were** you, I **would study** tonight.* |
+| **Third Conditional** | If + Past Perfect, ... would have + participio | **Situaciones hipotéticas en el pasado; arrepentimientos o hechos ya imposibles de cambiar.**</br> *If she **had studied** harder, she **would have passed**.* </br> *If we **had taken** a taxi, we **wouldn't have missed** the train.* |
+| **Mixed Conditional** | If + Past Perfect, ... would + infinitivo <br>If + Past Simple, ... would have + participio| **Condición no cumplida en el pasado con consecuencia en el presente.**</br> *If I **had won** the lottery yesterday, I **would be** rich today.* <br>If I weren't so shy, I would have spoken to her at the party yesterday.|
 
 **Usos avanzados (B2/C1)**
 
-- **First Conditional con otros modales**: en el resultado se puede sustituir *will* por *can*, *must* o *should* para dar permiso, obligación o consejo.
-  > If you finish early, you **can** leave.
-
-- **Second Conditional — "were" para todas las personas**: con el verbo *to be*, el uso formal y más correcto exige *were* incluso con *I/he/she/it*, aunque en el habla informal se oiga *was*.
-  > If I **were** you, I would study tonight.
-
-- **Unless como alternativa a "if not"**: *unless* equivale a *if... not* y se usa sobre todo en el primer condicional.
-  > If it doesn't rain, we'll go. → **Unless** it rains, we'll go.
+- **Unless alternativa a "if not"**: Se usa sobre todo en el primer condicional.Detrás de unless el verbo va en afirmativo
+> If it doesn't rain, we'll go. → **Unless** it rains, we'll go.
 
 - **As long as / provided that / providing**: introducen una condición estricta, equivalente a "siempre y cuando" o "con la condición de que"; muy usados en registro formal.
-  > You can come **as long as** you pay for your drink.
+> You can come **as long as** you pay for your drink.
 
-- **Inversión formal (sin "if")**: en registro muy formal o escrito, se puede omitir *if* invirtiendo el sujeto y el auxiliar, especialmente en segundo y tercer condicional.
-  > If I were you... → **Were I you**, I would study tonight.
-  > If she had studied... → **Had she studied** harder, she would have passed.
+---
+
+- **First Conditional con modales**: en el resultado se puede sustituir *will* por *can*, *must* o *should* para dar permiso, obligación o consejo.
+> If you finish early, you **can** leave.
+
+- **Second Conditional — "were" para todas las personas**: con el verbo *to be*, el uso formal y más correcto exige *were* incluso con *I/he/she/it*.
+> If I **were** you, I would study tonight.
+
+---
+
+- **Inversión formal (sin "if")**: en registro muy formal o escrito, se puede omitir *if* invirtiendo el sujeto y el auxiliar (como en las preguntas) , especialmente en segundo y tercer condicional.
+> If I won the lottery, I would travel → Were I to win the lottery, I would travel
+>
+>If + sujeto + past, usamos Were + sujeto + to + infinitivo
+>
+>If she had studied... → **Had she studied** harder, she would have passed.
+
+
 
 ## 📗 2. REPORTED SPEECH
 El Reported Speech (estilo indirecto) es la estructura gramatical que usamos para contar lo que otra persona dijo, pero sin repetir sus palabras exactas
