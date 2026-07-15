@@ -32,6 +32,7 @@ nav:
         - 13 Pronunciación: ingles/13pronu.md
         - 20 Audiobooks: ingles/20audiobooks.md
         - 21 Vocabulario: ingles/21vocab.md
+        - 22 Claude: ingles/tutorclaude.md
    - EOI:
         - 00 Introducción: EOI/00-introduccion.md
         - 01 Estructura del examen: EOI/01-estructura-examen.md
@@ -52,6 +53,15 @@ nav:
         - 02 Exchanges, seguridad y regulación: criptomonedas/02-exchanges-seguridad-regulacion.md
         - 03 Tipos de criptoactivos: criptomonedas/03-tipos-de-criptoactivos.md
         - 04 Primeros pasos prácticos: criptomonedas/04-primeros-pasos-practicos.md
+   - eXeLearning:
+        - 00 Introducción: exelearning/00-introduccion.md
+   - TikTok:
+        - Apps y recursos (colección Inglés): tiktok/README.md
+   - Webvilla:
+        - Tarjeta de noticia: webvilla/tarjeta-noticia.md
+        - Inicio: webvilla/index.md
+        - MCP, Claude Code y Claude en Chrome: webvilla/claude-chrome-divi.md
+        - configuración: webvilla/webconf.md
 
 plugins:
    - glightbox # Cuando el usuario hace clic en una imagen se abre en una ventana emergente (lightbox)
