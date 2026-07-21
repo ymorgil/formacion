@@ -49,7 +49,6 @@ Hay tres palabras supercomunes con las que NUNCA se pone to porque la propia pal
 2. Usamos **too much** cuando hablamos de una cantidad excesiva de algo que no se puede contar en unidades (dinero, tiempo, agua, información, azúcar).
     - Ejemplo 1: I have too much homework today. (Tengo demasiada tarea hoy - homework es incontable en inglés).
     - Ejemplo 2: There is too much traffic in London. (Hay demasiado tráfico en Londres).
-
 3. Usamos **too many** cuando hablamos de una cantidad excesiva de cosas o personas que sí se pueden contar una por una (libros, coches, errores, personas).
     - Ejemplo 1: There are too many new words to learn. (Hay demasiadas palabras nuevas que aprender).
     - Ejemplo 2: I made too many mistakes in the listening test. (Cometí demasiados errores en la prueba de escucha).

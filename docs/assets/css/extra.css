@@ -58,3 +58,20 @@ img {
   width: 100% !important;
   table-layout: fixed;
 }
+
+/* ============================================
+   MENÚ NAVEGACIÓN (NAV)
+   ============================================ */
+
+.nav-toggle-btn {
+  cursor: pointer;
+  background: none;
+  border: none;
+  font-size: 1.2rem;
+  color: var(--md-primary-bg-color);
+  padding: 0 .4rem;
+}
+
+.nav-toggle-btn.is-expanded {
+  transform: rotate(180deg);
+}

@@ -1,6 +1,5 @@
 # 🇬🇧 RECURSOS PARA APRENDER INGLÉS (100% GRATUITOS)
 
-Todos los recursos de esta lista se pueden usar sin pagar nada. Cuando un recurso tiene también una versión de pago opcional (más funciones, sin límites o clases con profesor), se indica claramente qué parte es gratis para que sepas a qué atenerte.
 
 ## 🗣️ Speaking
 

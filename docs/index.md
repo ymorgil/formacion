@@ -1,10 +1,12 @@
-# 🧠 Mi Cerebro Digital / *My Digital Brain*
+# 🧠 Mi Cerebro Digital
 
-![Header GIF](assets/img/for-gif.gif)
-
-> *"El conocimiento no es para guardarlo, es para conectarlo."*
+![Header GIF](assets/img/for-gif.gif){width="500"}
+!!! quote "El conocimiento no es para guardarlo, es para conectarlo."
 
 ¡Hola! 👋 Bienvenido/a a este espacio. Este no es solo un repositorio de Git; es el mapa de mi aprendizaje, mi libreta de laboratorio y mi "segundo cerebro" en construcción. Aquí voy guardando, masticando y destilando todo lo que voy aprendiendo.
+
+
+
 
 ## 🚀 ¿Por qué este repositorio?
 En lugar de dejar que mis apuntes se pierdan en cuadernos físicos o aplicaciones de notas aisladas, he decidido centralizarlos aquí por tres razones:
