@@ -27,3 +27,6 @@
 22. Formal:  Good morning, Laura. This is Yeray. → "This is [nombre]". Es una convención fija del teléfono.
 23. Formal: mejor "I'd like" que "I want" (suena más cortés)
 24. Con sensaciones que llevan un tiempo sintiendo, **present perfect continuous** suena más natural: "I've been feeling..."
+25. Para cuando: "by when" no existe así — la expresión fija es **"by the time... + presente simple "**
+26. **"by the time" + presente simple** (no futuro ni pasado), y "next year/week/month" sin artículo.
+27. 

@@ -338,17 +338,16 @@ Esto explica por qué **un texto "perfecto para B1" puede suspender en B2**, y p
 
 
 
-## ⚠️⚠️⚠️ ⏳ Tiempos verbales y estructuras gramaticales por nivel
-
-![Tiempos de presente](../assets/img/eoi/tiempos_presente.png)
-
-Esta es la página **central de gramática** de toda la guía. No pretende ser un listado exhaustivo de reglas (para eso ya existe `../ingles/01verbos.md`, con tablas completas de forma), sino explicar **qué tiempos y estructuras hay que dominar de forma activa en cada nivel del examen EOI**, con los errores típicos de un hablante de español y consejos para usarlos bien en Writing y Speaking, no solo para reconocerlos en Reading y Listening.
+## ⚠️⚠️⚠️ Estructuras gramaticales
+Esta es la página **central de gramática** de toda la guía. No pretende ser un listado exhaustivo de reglas, sino explicar **qué tiempos y estructuras hay que dominar de forma activa en cada nivel del examen EOI**, con los errores típicos de un hablante de español y consejos para usarlos bien en Writing y Speaking, no solo para reconocerlos en Reading y Listening.
 
 > 💡 Reconocer un tiempo verbal en un texto (comprensión) es mucho más fácil que producirlo correctamente uno mismo, hablando o escribiendo, bajo presión de tiempo (producción). El examen EOI pone el foco sobre todo en la **producción activa**, así que esta página prioriza ese enfoque.
 
-## 🟢 Nivel B1 — la base que debe ser automática
+## 🟢 Presente base
 
-En B1 hay que dominar, **sin pensarlo**, todos los tiempos de presente, pasado y futuro básicos. Un error en estos tiempos en B1 penaliza más que en niveles superiores, porque se presupone que ya deberían estar consolidados desde A2.
+![Tiempos de presente](../assets/img/eoi/tiempos_presente.png)
+
+En B1 hay que dominar, **sin pensarlo**, todos los tiempos de presente, pasado y futuro básicos. Un error en estos tiempos penaliza más que en niveles superiores.
 
 ### Present Simple
 
@@ -382,7 +381,8 @@ En B1 hay que dominar, **sin pensarlo**, todos los tiempos de presente, pasado y
 - **Error típico:** usarlo con verbos de estado (*I have been knowing him for years* ❌ → *I have known him for years* ✅).
 - **Consejo EOI:** compararlo con Present Perfect simple: *I have painted the wall* (acabado, resultado visible) frente a *I have been painting the wall* (proceso, puede no estar acabado, hay pintura por el suelo).
 
-## 🟡 Pasado — narrar y contextualizar
+## 🟡 Pasado 
+> — narrar y contextualizar
 
 ![Tiempos de pasado](../assets/img/eoi/tiempos_pasado.png)
 
@@ -454,7 +454,8 @@ En B1 hay que dominar, **sin pensarlo**, todos los tiempos de presente, pasado y
 
 **Consejo EOI:** el condicional mixto es un recurso que distingue claramente a un C1 de un B2; conviene incluir al menos un ejemplo bien construido en el ensayo o en el monólogo cuando el tema lo permita (arrepentimientos, decisiones pasadas con consecuencias actuales).
 
-## 🟣 Estructuras avanzadas (foco especial en C1)
+## 🟣 Estructuras avanzadas
+> (foco especial en C1)
 
 ![Estructuras avanzadas C1](../assets/img/eoi/tiempos_avanzados.png)
 
@@ -586,19 +587,14 @@ Antes de pasar a la siguiente página, conviene poder responder sin dudar:
 
 Si alguna respuesta es "no", es el punto exacto donde conviene reforzar antes de avanzar a estrategias de comprensión y producción.
 
----
-
-**Página anterior:** [`01-estructura-examen.md`](01-estructura-examen.md) · **Siguiente página:** [`03-comprension.md`](03-comprension.md) — estrategias de Listening, Reading y mediación receptiva.
-
-*Para tablas de forma completas y más ejemplos, ver también [`../ingles/01verbos.md`](../ingles/01verbos.md) y [`../ingles/02verbosi.md`](../ingles/02verbosi.md).*
-
 ## ⚠️⚠️⚠️ 👂👁️ Comprensión oral, comprensión escrita y mediación receptiva
 
 ![Estrategia de lectura](../assets/img/eoi/estrategia_reading.png)
 
 La Comprensión de textos escritos (CE) y la Comprensión de textos orales (CO) son, en teoría, las dos partes "más fáciles" del examen porque no exigen producir nada: solo entender y elegir la respuesta correcta. En la práctica, mucha gente pierde puntos aquí no por falta de nivel de inglés, sino **por falta de estrategia y de gestión del tiempo**. Esta página se centra en eso: cómo leer y escuchar de forma eficiente bajo presión de examen.
 
-## 📖 Comprensión de textos escritos (CE)
+## 📖 Reading (CE)
+!!! danger "Comprensión de textos escritos (CE)"
 
 ### La estrategia en cuatro pasos
 
@@ -632,7 +628,9 @@ Con una duración aproximada de 60-75 minutos y varias tareas, una distribución
 
 `[captura pendiente: ejemplo real de tarea de CE de un modelo de examen oficial, con distractores señalados]`
 
-## 🎧 Comprensión de textos orales (CO)
+## 🎧 Listening (CO)
+!!! danger "Comprensión de textos orales (CO)"
+> 
 
 ![Tipos de tarea de listening](../assets/img/eoi/tipos_listening.png)
 
@@ -658,7 +656,8 @@ Con una duración aproximada de 60-75 minutos y varias tareas, una distribución
 
 A partir de B2, y especialmente en C1, los audios pueden incluir **acentos no estándar** (británico regional, americano, o hablantes no nativos con acento marcado). Conviene practicar con fuentes variadas (podcasts, noticias de distintos países de habla inglesa) y no solo con audios "de academia" con pronunciación neutra, para no llevarse una sorpresa el día del examen.
 
-## 🔀 Mediación receptiva: el papel de puente
+## Mediación escrita
+!!! danger "🔀 Mediación receptiva: el papel de puente"
 
 ![Mediación receptiva](../assets/img/eoi/mediacion_receptiva.png)
 
@@ -840,9 +839,11 @@ Antes de pasar a la producción escrita, conviene tener asumido que comprensión
 
 Con esto queda cerrada la parte de comprensión: el siguiente paso natural es pasar a la producción, donde todo lo entrenado aquí empieza a dar sus frutos de forma más visible.
 
-*Fin de la página de comprensión.*
 
-## ⚠️⚠️⚠️ ✍️ Producción y coproducción de textos escritos (EIE)
+
+## ⚠️⚠️⚠️ ✍️ Writing
+!!! danger "Producción y coproducción de textos escritos (EIE)"
+
 
 ![Estructura de un essay](../assets/img/eoi/estructura_essay.png)
 
@@ -1078,21 +1079,14 @@ Escribir esta plantilla en el borrador antes de empezar el texto definitivo cues
 - Controlar la extensión (±10% del rango pedido) y dejar tiempo para revisar.
 - Adaptar la exigencia de sofisticación léxica al propio nivel real, sin forzar palabras que no se dominan.
 
----
-
-**Página anterior:** [`03-comprension.md`](03-comprension.md) · **Siguiente página:** [`05-expresion-oral.md`](05-expresion-oral.md) — monólogo, interacción y mediación oral.
-
-`[captura pendiente: fotos de mis redacciones corregidas por un profesor o academia, para comparar progreso]`
-
 ## 📌 Antes de pasar a Speaking
 
 Muchas de las plantillas y conectores de esta página son directamente reutilizables en la prueba oral (sobre todo en el monólogo y la mediación), aunque adaptados a un registro más espontáneo y menos formal que en Writing. Merece la pena tenerlos frescos antes de practicar la producción oral en la siguiente página.
 
-*Fin de la página de expresión escrita.*
 
-*Continúa en `05-expresion-oral.md`.*
 
-## ⚠️⚠️⚠️ 🗣️ Producción y coproducción de textos orales (EIO) y mediación oral
+## ⚠️⚠️⚠️ 🗣️ Sesión oral
+!!! danger "Producción y coproducción de textos orales (EIO) y mediación oral"
 
 ![Fases de la prueba oral](../assets/img/eoi/partes_speaking.png)
 
@@ -1336,14 +1330,6 @@ En algunas tareas de B2 y C1, la interacción se realiza con **otro candidato** 
 Practicar este formato con un compañero de estudio, y no solo en solitario, es la única forma real de entrenar esta dinámica antes del examen.
 
 `[captura pendiente: tarjeta de tarea de interacción de un modelo de examen oficial]`
-
-## 📌 Antes del último tramo
-
-Con las cinco actividades ya cubiertas (páginas `01` a `05`), solo queda organizar el tiempo real hasta la convocatoria. Eso es exactamente lo que resuelve la última página de esta guía.
-
-*Fin de la página de expresión oral.*
-
-*Continúa en `06-plan-de-estudio.md`.*
 
 ## ⚠️⚠️⚠️ 🗓️ Plan de estudio, recursos y checklist final
 
@@ -1608,4 +1594,4 @@ A diferencia de las páginas `01` a `05`, que se estudian de forma más puntual,
 
 Se recomienda leerlas en este orden, aunque cada una es autónoma y se puede consultar de forma independiente como chuleta rápida antes del examen.
 
-*¡A por ello!*   1758 LINE
+*¡A por ello!*   1758 LINE 
