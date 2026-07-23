@@ -1,0 +1,2337 @@
+<!DOCTYPE html><html lang="es" class="no-js"><head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://ymorgil.github.io/formacion/criptomonedas/00-introduccion-blockchain/">
+      
+      
+        <link rel="prev" href="../../trade/04-glosario-primeros-pasos/">
+      
+      
+        <link rel="next" href="../01-monederos-wallets/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.7">
+    
+    
+      
+        <title>00 Introducción y blockchain - Mis apuntes</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&amp;display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/css/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  <link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"><script src="../../assets/javascripts/glightbox.min.js"></script><style id="glightbox-style">
+            html.glightbox-open { overflow: initial; height: 100%; }
+            .gslide-title { margin-top: 0px; user-select: text; }
+            .gslide-desc { color: #666; user-select: text; }
+            .gslide-image img { background: white; }
+            .gscrollbar-fixer { padding-right: 15px; }
+            .gdesc-inner { font-size: 0.75rem; }
+            body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color); }
+            body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color); }
+            body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color); }
+        </style></head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="green" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#criptomonedas-introduccion-y-blockchain-desde-cero" class="md-skip">
+          Saltar a contenido
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabecera">
+    <a href="../.." title="Mis apuntes" class="md-header__button md-logo" aria-label="Mis apuntes" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"></path></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"></path></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Mis apuntes
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              00 Introducción y blockchain
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="green" data-md-color-accent="indigo" aria-label="Modo oscuro" type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Modo oscuro" for="__palette_1" hidden="">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"></path></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="pink" data-md-color-accent="green" aria-label="Modo claro" type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Modo claro" for="__palette_0" hidden="">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"></path></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navegación" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Mis apuntes" class="md-nav__button md-logo" aria-label="Mis apuntes" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"></path></svg>
+
+    </a>
+    Mis apuntes
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix="">
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inicio
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2">
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inglés
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Inglés
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/00-EOI/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    EOI
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/01gramatica/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Grammar
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/03grammar/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    03 Grammar I
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/05phrasal/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    05 Phrasal Verbs
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/10recursos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    10 Recursos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/11dudas/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    11 Dudas
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/12duo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    12 Duolingo
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/13pronu/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    13 Pronunciación
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/20audiobooks/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    20 Audiobooks
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/21vocab/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    21 Vocabulario
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/tutorclaude/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    22 Claude
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3">
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Trade
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Trade
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../trade/00-introduccion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    00 Introducción
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../trade/01-tipos-de-activos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    01 Tipos de activos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../trade/02-ordenes-y-mercados/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    02 Órdenes y mercados
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../trade/03-riesgo-diversificacion-fiscalidad/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    03 Riesgo, diversificación y fiscalidad
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../trade/04-glosario-primeros-pasos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    04 Glosario y primeros pasos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked="">
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Criptomonedas
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Criptomonedas
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    00 Introducción y blockchain
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    00 Introducción y blockchain
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+      
+        <li class="md-nav__item">
+  <a href="#como-esta-organizada-esta-guia" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📂 Cómo está organizada esta guía
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#que-es-una-blockchain-cadena-de-bloques" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🧱 ¿Qué es una blockchain (cadena de bloques)?
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#centralizado-vs-descentralizado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🌐 Centralizado vs. descentralizado
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#que-es-una-criptomoneda" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🪙 ¿Qué es una criptomoneda?
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#como-se-ponen-de-acuerdo-los-nodos-consenso" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ⚙️ ¿Cómo se ponen de acuerdo los nodos? Consenso
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="⚙️ ¿Cómo se ponen de acuerdo los nodos? Consenso">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#proof-of-work-prueba-de-trabajo" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Proof of Work (prueba de trabajo)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#proof-of-stake-prueba-de-participacion" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Proof of Stake (prueba de participación)
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#un-apunte-sobre-la-mineria" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ⛏️ Un apunte sobre la minería
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#contratos-inteligentes-smart-contracts-brevemente" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📜 Contratos inteligentes (smart contracts), brevemente
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#breve-cronologia-para-situarse" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🕰️ Breve cronología para situarse
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#casos-de-uso-mas-alla-de-la-especulacion" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🎯 Casos de uso más allá de la especulación
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#preguntas-frecuentes-de-quien-empieza" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ❓ Preguntas frecuentes de quien empieza
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#como-verificar-una-transaccion-tu-mismo-exploradores-de-bloques" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🔍 Cómo verificar una transacción tú mismo (exploradores de bloques)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#comparativa-rapida-sistema-bancario-tradicional-vs-blockchain-publica" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🧮 Comparativa rápida: sistema bancario tradicional vs. blockchain pública
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#por-que-merece-la-pena-entender-esto-aunque-no-vayas-a-invertir" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🏫 Por qué merece la pena entender esto, aunque no vayas a invertir
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#glosario-basico-de-esta-introduccion" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🧾 Glosario básico de esta introducción
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mas-preguntas-frecuentes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ❓ Más preguntas frecuentes
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resumen-de-este-documento" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ✅ Resumen de este documento
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#un-concepto-adicional-los-forks-bifurcaciones" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🍴 Un concepto adicional: los "forks" (bifurcaciones)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#como-conecta-esta-introduccion-con-el-resto-de-la-carpeta" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🧩 Cómo conecta esta introducción con el resto de la carpeta
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#el-debate-sobre-el-consumo-energetico" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🌱 El debate sobre el consumo energético
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tabla-resumen-final-de-este-documento" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📋 Tabla resumen final de este documento
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ideas-clave-para-retener-antes-de-continuar" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📌 Ideas clave para retener antes de continuar
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#hilo-conductor-de-toda-la-carpeta-en-una-frase-por-documento" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🧵 Hilo conductor de toda la carpeta, en una frase por documento
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#que-deberias-poder-responder-antes-de-seguir" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🎯 Qué deberías poder responder antes de seguir
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../01-monederos-wallets/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    01 Monederos y wallets
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../02-exchanges-seguridad-regulacion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    02 Exchanges, seguridad y regulación
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../03-tipos-de-criptoactivos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    03 Tipos de criptoactivos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../04-primeros-pasos-practicos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    04 Primeros pasos prácticos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5">
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    eXeLearning
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    eXeLearning
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../exelearning/00-introduccion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    00 Introducción
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6">
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    TikTok
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    TikTok
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../tiktok/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Apps y recursos (colección Inglés)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7">
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Webvilla
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Webvilla
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../webvilla/tarjeta-noticia/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tarjeta de noticia
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../webvilla/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inicio
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../webvilla/claude-chrome-divi/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    MCP, Claude Code y Claude en Chrome
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../webvilla/webconf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    configuración
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+      
+        <li class="md-nav__item">
+  <a href="#como-esta-organizada-esta-guia" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📂 Cómo está organizada esta guía
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#que-es-una-blockchain-cadena-de-bloques" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🧱 ¿Qué es una blockchain (cadena de bloques)?
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#centralizado-vs-descentralizado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🌐 Centralizado vs. descentralizado
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#que-es-una-criptomoneda" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🪙 ¿Qué es una criptomoneda?
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#como-se-ponen-de-acuerdo-los-nodos-consenso" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ⚙️ ¿Cómo se ponen de acuerdo los nodos? Consenso
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="⚙️ ¿Cómo se ponen de acuerdo los nodos? Consenso">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#proof-of-work-prueba-de-trabajo" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Proof of Work (prueba de trabajo)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#proof-of-stake-prueba-de-participacion" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Proof of Stake (prueba de participación)
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#un-apunte-sobre-la-mineria" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ⛏️ Un apunte sobre la minería
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#contratos-inteligentes-smart-contracts-brevemente" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📜 Contratos inteligentes (smart contracts), brevemente
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#breve-cronologia-para-situarse" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🕰️ Breve cronología para situarse
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#casos-de-uso-mas-alla-de-la-especulacion" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🎯 Casos de uso más allá de la especulación
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#preguntas-frecuentes-de-quien-empieza" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ❓ Preguntas frecuentes de quien empieza
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#como-verificar-una-transaccion-tu-mismo-exploradores-de-bloques" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🔍 Cómo verificar una transacción tú mismo (exploradores de bloques)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#comparativa-rapida-sistema-bancario-tradicional-vs-blockchain-publica" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🧮 Comparativa rápida: sistema bancario tradicional vs. blockchain pública
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#por-que-merece-la-pena-entender-esto-aunque-no-vayas-a-invertir" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🏫 Por qué merece la pena entender esto, aunque no vayas a invertir
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#glosario-basico-de-esta-introduccion" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🧾 Glosario básico de esta introducción
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mas-preguntas-frecuentes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ❓ Más preguntas frecuentes
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resumen-de-este-documento" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ✅ Resumen de este documento
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#un-concepto-adicional-los-forks-bifurcaciones" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🍴 Un concepto adicional: los "forks" (bifurcaciones)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#como-conecta-esta-introduccion-con-el-resto-de-la-carpeta" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🧩 Cómo conecta esta introducción con el resto de la carpeta
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#el-debate-sobre-el-consumo-energetico" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🌱 El debate sobre el consumo energético
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tabla-resumen-final-de-este-documento" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📋 Tabla resumen final de este documento
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ideas-clave-para-retener-antes-de-continuar" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📌 Ideas clave para retener antes de continuar
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#hilo-conductor-de-toda-la-carpeta-en-una-frase-por-documento" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🧵 Hilo conductor de toda la carpeta, en una frase por documento
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#que-deberias-poder-responder-antes-de-seguir" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🎯 Qué deberías poder responder antes de seguir
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="criptomonedas-introduccion-y-blockchain-desde-cero">🔗 Criptomonedas — Introducción y blockchain desde cero</h1>
+<blockquote>
+<p><em>"No hace falta entender criptografía para usar cripto con seguridad, pero sí hace falta entender los conceptos básicos antes de mover dinero real."</em></p>
+</blockquote>
+<p>Esta carpeta parte de la base de que <strong>no tienes ninguna experiencia previa con criptomonedas</strong>: no sabes qué es un monedero, te has encontrado con noticias sobre exchanges que cierran o pierden la licencia, y quieres entender los conceptos antes de tomar ninguna decisión. Está pensada para leerse después (o en paralelo) de la carpeta <code>trade/</code>, ya que comparte conceptos de riesgo, diversificación y fiscalidad, pero añade particularidades técnicas y regulatorias propias del mundo cripto.</p>
+<div class="admonition warning">
+<p class="admonition-title">Esto no es asesoramiento financiero</p>
+<p>Todo el contenido de esta carpeta es <strong>educativo y divulgativo</strong>. No es una recomendación de compra de ninguna criptomoneda, token o plataforma concreta. Los criptoactivos son, en general, productos de <strong>riesgo muy alto y alta volatilidad</strong>; nunca inviertas dinero que no puedas permitirte perder por completo.</p>
+</div>
+<h2 id="como-esta-organizada-esta-guia">📂 Cómo está organizada esta guía</h2>
+<table>
+<thead>
+<tr>
+<th>Archivo</th>
+<th>Contenido</th>
+<th>Cuándo usarlo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>00-introduccion-blockchain.md</code></td>
+<td>Este documento: qué es blockchain, qué es una criptomoneda</td>
+<td>Antes de nada, para tener el mapa general</td>
+</tr>
+<tr>
+<td><code>01-monederos-wallets.md</code></td>
+<td>Qué es un monedero (wallet), custodial vs. no custodial, claves y seed phrase</td>
+<td>Antes de tener cualquier cripto, propia o en un exchange</td>
+</tr>
+<tr>
+<td><code>02-exchanges-seguridad-regulacion.md</code></td>
+<td>Qué es un exchange, regulación MiCA, el caso Binance en España (2026)</td>
+<td>Antes de elegir dónde comprar cripto</td>
+</tr>
+<tr>
+<td><code>03-tipos-de-criptoactivos.md</code></td>
+<td>Bitcoin, altcoins, stablecoins, tokens, señales de estafa</td>
+<td>Para saber qué existe y con qué riesgo</td>
+</tr>
+<tr>
+<td><code>04-primeros-pasos-practicos.md</code></td>
+<td>Plan práctico paso a paso para tu primera compra segura</td>
+<td>Cuando ya tengas los conceptos claros</td>
+</tr>
+</tbody>
+</table>
+<h2 id="que-es-una-blockchain-cadena-de-bloques">🧱 ¿Qué es una blockchain (cadena de bloques)?</h2>
+<p>Una <strong>blockchain</strong> es un tipo de base de datos distribuida que registra información (normalmente transacciones) de forma que:</p>
+<ul>
+<li>Se organiza en <strong>bloques</strong>, cada uno con un conjunto de transacciones.</li>
+<li>Cada bloque incluye una <strong>huella digital (hash)</strong> del bloque anterior, formando una cadena.</li>
+<li>Si alguien intenta modificar un bloque antiguo, su hash cambia, lo que rompe el enlace con el resto de la cadena y lo hace detectable por toda la red.</li>
+</ul>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../assets/img/criptomonedas/cadena_bloques.png" data-desc-position="bottom"><img alt="Una cadena de bloques (blockchain)" src="../../assets/img/criptomonedas/cadena_bloques.png"></a></p>
+<p>Esto hace que, en la práctica, sea extremadamente difícil alterar el historial de transacciones ya registrado, sin que la red entera lo detecte y lo rechace.</p>
+<h2 id="centralizado-vs-descentralizado">🌐 Centralizado vs. descentralizado</h2>
+<p>La diferencia de fondo entre un sistema financiero tradicional y una red blockchain como la de Bitcoin es la <strong>descentralización</strong>:</p>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../assets/img/criptomonedas/red_descentralizada.png" data-desc-position="bottom"><img alt="Centralizado vs. Descentralizado" src="../../assets/img/criptomonedas/red_descentralizada.png"></a></p>
+<ul>
+<li>En un sistema <strong>centralizado</strong> (por ejemplo, un banco), una única entidad controla el registro de las cuentas y las transacciones. Si esa entidad falla, se equivoca o es hackeada, todo el sistema se ve afectado.</li>
+<li>En un sistema <strong>descentralizado</strong> (una blockchain pública), miles de ordenadores (nodos) de todo el mundo mantienen y verifican una copia del mismo registro, siguiendo un conjunto de reglas compartidas (el protocolo). No hay un único punto de fallo.</li>
+</ul>
+<p>Esto no significa que las redes descentralizadas sean invulnerables (existen ataques y riesgos propios, distintos a los de un sistema centralizado), pero cambia radicalmente el modelo de confianza: en lugar de confiar en una entidad concreta, confías en las reglas matemáticas y en el consenso de la red.</p>
+<h2 id="que-es-una-criptomoneda">🪙 ¿Qué es una criptomoneda?</h2>
+<p>Una <strong>criptomoneda</strong> es un activo digital que existe y se transfiere a través de una blockchain, sin necesidad de un intermediario central que autorice cada transacción. Bitcoin (2009) fue la primera criptomoneda y sigue siendo la más conocida y de mayor capitalización de mercado; desde entonces han surgido miles de criptoactivos distintos, con propósitos y diseños muy diferentes entre sí (esto se desarrolla en <code>03-tipos-de-criptoactivos.md</code>).</p>
+<p>Algunas propiedades habituales (aunque no universales: varían según el diseño de cada red):</p>
+<ul>
+<li><strong>Oferta limitada o predecible</strong>: por ejemplo, Bitcoin tiene un límite máximo de 21 millones de unidades, conocido de antemano y programado en su protocolo.</li>
+<li><strong>Transferible sin intermediario bancario tradicional</strong>, directamente entre dos monederos.</li>
+<li><strong>Transparencia</strong>: en la mayoría de blockchains públicas, cualquiera puede consultar el historial de transacciones (aunque las direcciones no siempre están vinculadas directamente a una identidad real).</li>
+<li><strong>Volatilidad alta</strong>: el precio de mercado de la mayoría de criptoactivos puede oscilar mucho en periodos cortos de tiempo.</li>
+</ul>
+<h2 id="como-se-ponen-de-acuerdo-los-nodos-consenso">⚙️ ¿Cómo se ponen de acuerdo los nodos? Consenso</h2>
+<p>Para que una red descentralizada funcione, todos los nodos deben ponerse de acuerdo sobre qué transacciones son válidas y en qué orden ocurrieron, sin que exista una autoridad central que lo decida. A esto se le llama <strong>mecanismo de consenso</strong>. Los dos más conocidos:</p>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../assets/img/criptomonedas/pow_vs_pos.png" data-desc-position="bottom"><img alt="Cómo se ponen de acuerdo los nodos: PoW vs. PoS" src="../../assets/img/criptomonedas/pow_vs_pos.png"></a></p>
+<h3 id="proof-of-work-prueba-de-trabajo">Proof of Work (prueba de trabajo)</h3>
+<p>Los llamados <strong>mineros</strong> compiten resolviendo un problema matemático complejo (que requiere mucha potencia de cálculo) para poder añadir el siguiente bloque a la cadena, a cambio de una recompensa. Es el sistema usado por Bitcoin. Su principal crítica es el <strong>elevado consumo energético</strong> que implica esa competición computacional constante a escala global.</p>
+<h3 id="proof-of-stake-prueba-de-participacion">Proof of Stake (prueba de participación)</h3>
+<p>Los <strong>validadores</strong> bloquean (hacen "staking" de) una cantidad de criptomoneda como garantía, y son elegidos para validar bloques de forma proporcional (entre otros factores) a esa cantidad bloqueada. Si validan de forma fraudulenta, pueden perder parte de esa garantía. Es el sistema usado por Ethereum desde su actualización de 2022 ("The Merge"), y su consumo energético es muchísimo menor que el de Proof of Work.</p>
+<p>Ninguno de los dos sistemas es "el correcto" de forma absoluta: cada blockchain elige el que mejor encaja con sus objetivos de seguridad, descentralización y eficiencia energética.</p>
+<h2 id="un-apunte-sobre-la-mineria">⛏️ Un apunte sobre la minería</h2>
+<p>En redes basadas en Proof of Work, la <strong>minería</strong> no es solo "crear" criptomonedas nuevas: es el proceso por el cual se verifican y registran las transacciones de forma segura, y la recompensa en criptomoneda es el incentivo económico para que alguien aporte esa potencia de cálculo. Con el tiempo, y en el caso concreto de Bitcoin, esa recompensa se reduce periódicamente (evento conocido como "halving"), lo que forma parte del diseño original de oferta limitada y decreciente.</p>
+<h2 id="contratos-inteligentes-smart-contracts-brevemente">📜 Contratos inteligentes (smart contracts), brevemente</h2>
+<p>Algunas blockchains (destacando Ethereum) permiten ejecutar <strong>contratos inteligentes</strong>: programas informáticos que se ejecutan automáticamente en la blockchain cuando se cumplen determinadas condiciones, sin necesidad de un intermediario que los gestione manualmente. Son la base técnica de aplicaciones como los préstamos descentralizados, los intercambios automáticos de tokens o los NFT (que se mencionan brevemente en <code>03-tipos-de-criptoactivos.md</code>). Se trata de un tema avanzado que excede el alcance introductorio de este documento, pero conviene saber que existe y que añade tanto posibilidades como riesgos adicionales (errores de programación en el contrato, por ejemplo, pueden tener consecuencias económicas irreversibles).</p>
+<h2 id="breve-cronologia-para-situarse">🕰️ Breve cronología para situarse</h2>
+<ul>
+<li><strong>2008</strong>: se publica el documento técnico ("whitepaper") de Bitcoin, firmado bajo el seudónimo Satoshi Nakamoto.</li>
+<li><strong>2009</strong>: se pone en marcha la red de Bitcoin y se mina su primer bloque.</li>
+<li><strong>2015</strong>: se lanza Ethereum, que populariza los contratos inteligentes.</li>
+<li><strong>2017-2018</strong>: primer gran ciclo de popularización y especulación masiva en criptomonedas, seguido de una caída fuerte de precios.</li>
+<li><strong>2020-2021</strong>: nuevo ciclo alcista, entrada de más inversores institucionales y populares, auge de NFT y finanzas descentralizadas (DeFi).</li>
+<li><strong>2022</strong>: Ethereum migra de Proof of Work a Proof of Stake; quiebras sonadas de algunos exchanges y proyectos cripto, que reavivan el debate regulatorio.</li>
+<li><strong>2023-2024</strong>: la Unión Europea aprueba y pone en marcha el <strong>Reglamento MiCA</strong>, primer marco regulatorio integral para criptoactivos a nivel de la UE.</li>
+<li><strong>2026</strong>: finaliza el periodo transitorio de MiCA en España (1 de julio de 2026): a partir de esa fecha, solo pueden operar con normalidad los exchanges con licencia MiCA. Este punto se desarrolla en detalle en <code>02-exchanges-seguridad-regulacion.md</code>, incluyendo el caso concreto de Binance.</li>
+</ul>
+<h2 id="casos-de-uso-mas-alla-de-la-especulacion">🎯 Casos de uso más allá de la especulación</h2>
+<p>Aunque gran parte del interés mediático se centra en el precio y la especulación, las blockchains y criptomonedas tienen (o se plantean) otros usos:</p>
+<ul>
+<li><strong>Transferencias internacionales</strong> potencialmente más rápidas y baratas que los circuitos bancarios tradicionales, aunque con matices según el activo y la red concretos.</li>
+<li><strong>Reserva de valor</strong> (el argumento más asociado a Bitcoin, comparándolo con el oro digital, aunque su volatilidad histórica ha sido muy superior a la del oro).</li>
+<li><strong>Programabilidad financiera</strong> (contratos inteligentes, préstamos automatizados, finanzas descentralizadas o DeFi).</li>
+<li><strong>Trazabilidad de activos digitales</strong> (tokens que representan propiedad, coleccionables digitales, certificados).</li>
+</ul>
+<p>Cada uno de estos casos de uso tiene también sus propios riesgos y limitaciones, que se explorarán en los siguientes documentos de la carpeta.</p>
+<h2 id="preguntas-frecuentes-de-quien-empieza">❓ Preguntas frecuentes de quien empieza</h2>
+<p><strong>¿Necesito entender de programación o criptografía para usar cripto?</strong>
+No, para usarla como usuario final no. Sí conviene entender los conceptos básicos de este documento y, sobre todo, los de <code>01-monederos-wallets.md</code>, porque afectan directamente a la seguridad de tu dinero.</p>
+<p><strong>¿Es lo mismo "blockchain" que "Bitcoin"?</strong>
+No. Bitcoin es una criptomoneda concreta que utiliza una blockchain concreta. "Blockchain" es la tecnología subyacente, que puede usarse (con diseños distintos) para Bitcoin, Ethereum, y miles de otras redes y aplicaciones.</p>
+<p><strong>¿Por qué ha habido tantas noticias sobre exchanges que cierran o tienen problemas?</strong>
+Por varias razones: quiebras por mala gestión o fraude interno, y más recientemente, cambios regulatorios como el Reglamento MiCA en la Unión Europea, que exige a los exchanges obtener una licencia específica para poder seguir operando con normalidad. Este segundo punto se explica con detalle, incluyendo el caso de Binance en España, en <code>02-exchanges-seguridad-regulacion.md</code>.</p>
+<p><strong>¿Es demasiado tarde para "entrar" en cripto?</strong>
+Esta pregunta no tiene una respuesta objetiva ni se puede responder desde un enfoque educativo: nadie puede predecir con certeza la evolución futura de precios. Lo que sí se puede afirmar es que se trata de un activo de riesgo muy alto, y que cualquier decisión debería tomarse con información suficiente, nunca por presión externa o miedo a "quedarse fuera".</p>
+<h2 id="como-verificar-una-transaccion-tu-mismo-exploradores-de-bloques">🔍 Cómo verificar una transacción tú mismo (exploradores de bloques)</h2>
+<p>Una de las propiedades más útiles de las blockchains públicas es que <strong>cualquiera puede consultar el historial de transacciones</strong> sin depender de la palabra de un intermediario. Esto se hace a través de los llamados <strong>exploradores de bloques (block explorers)</strong>, páginas web que muestran en tiempo real:</p>
+<ul>
+<li>El listado de bloques minados/validados y su contenido.</li>
+<li>El detalle de una transacción concreta: origen, destino, cantidad, comisión pagada, número de confirmaciones.</li>
+<li>El saldo asociado a una dirección pública (sin revelar quién es su propietario real).</li>
+</ul>
+<p>Por ejemplo, tras enviar una criptomoneda desde tu monedero, puedes copiar el identificador de la transacción (<strong>TXID</strong> o hash de transacción) y buscarlo en el explorador correspondiente a esa red, para comprobar de forma independiente que se ha registrado correctamente y cuántas confirmaciones lleva acumuladas. Cuantas más confirmaciones (más bloques añadidos después del que contiene tu transacción), más difícil es, en la práctica, que esa transacción se revierta.</p>
+<h2 id="comparativa-rapida-sistema-bancario-tradicional-vs-blockchain-publica">🧮 Comparativa rápida: sistema bancario tradicional vs. blockchain pública</h2>
+<table>
+<thead>
+<tr>
+<th>Aspecto</th>
+<th>Sistema bancario tradicional</th>
+<th>Blockchain pública (ej. Bitcoin)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Quién controla el registro</td>
+<td>El banco o entidad central</td>
+<td>Red distribuida de nodos</td>
+</tr>
+<tr>
+<td>Horario de operación</td>
+<td>Habitualmente en horario laboral/bancario</td>
+<td>24 horas, 365 días al año</td>
+</tr>
+<tr>
+<td>Reversibilidad de una transacción</td>
+<td>Posible en ciertos casos (fraude, error)</td>
+<td>Prácticamente irreversible una vez confirmada</td>
+</tr>
+<tr>
+<td>Necesidad de identificarte para transferir</td>
+<td>Sí, cuenta bancaria vinculada a tu identidad</td>
+<td>No directamente; la dirección no revela identidad por sí sola</td>
+</tr>
+<tr>
+<td>Supervisión regulatoria directa</td>
+<td>Alta, bancos centrales y reguladores nacionales</td>
+<td>Variable; en la UE se está regulando a través de MiCA, sobre todo a los intermediarios (exchanges), no a los protocolos en sí</td>
+</tr>
+<tr>
+<td>Recuperación si pierdes el acceso</td>
+<td>El banco puede ayudarte a recuperar el acceso</td>
+<td>Si pierdes tus claves/seed phrase, en la mayoría de los casos nadie puede recuperar el acceso por ti</td>
+</tr>
+</tbody>
+</table>
+<p>Esta última fila es clave y se desarrolla en detalle en el siguiente documento (<code>01-monederos-wallets.md</code>): la responsabilidad sobre la custodia de las claves recae, en gran medida, en el propio usuario cuando no se opera a través de un intermediario custodio.</p>
+<h2 id="por-que-merece-la-pena-entender-esto-aunque-no-vayas-a-invertir">🏫 Por qué merece la pena entender esto, aunque no vayas a invertir</h2>
+<p>Independientemente de si decides invertir en criptoactivos o no, entender los conceptos de blockchain y descentralización tiene valor por sí mismo, especialmente desde una perspectiva técnica y docente:</p>
+<ul>
+<li>Es una tecnología que se aplica también fuera de las finanzas: trazabilidad de cadenas de suministro, certificación de documentos, identidad digital, votaciones, etc.</li>
+<li>Introduce conceptos de criptografía aplicada (funciones hash, firma digital, claves pública/privada) que son transferibles a otras áreas de la seguridad informática.</li>
+<li>Ayuda a entender de forma crítica las noticias y el debate público sobre criptomonedas, regulación financiera y economía digital, en lugar de depender de titulares simplificados.</li>
+</ul>
+<h2 id="glosario-basico-de-esta-introduccion">🧾 Glosario básico de esta introducción</h2>
+<table>
+<thead>
+<tr>
+<th>Término</th>
+<th>Definición</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Bloque</strong></td>
+<td>Conjunto de transacciones agrupadas y añadidas a la cadena</td>
+</tr>
+<tr>
+<td><strong>Hash</strong></td>
+<td>Huella digital única generada a partir de unos datos; cualquier cambio en los datos altera el hash</td>
+</tr>
+<tr>
+<td><strong>Nodo</strong></td>
+<td>Ordenador que participa en la red, manteniendo una copia del registro y validando reglas</td>
+</tr>
+<tr>
+<td><strong>Minero / validador</strong></td>
+<td>Participante que propone y valida nuevos bloques, según el mecanismo de consenso</td>
+</tr>
+<tr>
+<td><strong>Consenso</strong></td>
+<td>Conjunto de reglas por las que la red se pone de acuerdo sobre qué transacciones son válidas</td>
+</tr>
+<tr>
+<td><strong>Halving</strong></td>
+<td>Reducción periódica y programada de la recompensa por minar un bloque (Bitcoin)</td>
+</tr>
+<tr>
+<td><strong>Contrato inteligente</strong></td>
+<td>Programa que se ejecuta automáticamente en la blockchain al cumplirse ciertas condiciones</td>
+</tr>
+<tr>
+<td><strong>TXID</strong></td>
+<td>Identificador único de una transacción, usado para buscarla en un explorador de bloques</td>
+</tr>
+<tr>
+<td><strong>Confirmación</strong></td>
+<td>Cada bloque añadido después del que contiene una transacción, que refuerza su carácter definitivo</td>
+</tr>
+<tr>
+<td><strong>DeFi (finanzas descentralizadas)</strong></td>
+<td>Aplicaciones financieras (préstamos, intercambios...) construidas sobre contratos inteligentes</td>
+</tr>
+<tr>
+<td><strong>Whitepaper</strong></td>
+<td>Documento técnico que describe el funcionamiento y propósito de un proyecto cripto</td>
+</tr>
+</tbody>
+</table>
+<h2 id="mas-preguntas-frecuentes">❓ Más preguntas frecuentes</h2>
+<p><strong>¿Todas las criptomonedas usan blockchain?</strong>
+La inmensa mayoría sí, aunque existen variantes técnicas (como los llamados DAG, "grafos acíclicos dirigidos") que resuelven el mismo problema de registro distribuido de forma distinta. Para un nivel introductorio, es razonable asumir que "blockchain" es el estándar de referencia.</p>
+<p><strong>¿Puedo "perder" mi criptomoneda si la red deja de existir?</strong>
+Si una red pierde por completo el interés de mineros/validadores y usuarios, en la práctica puede dejar de ser operativa o de tener valor de mercado, igual que cualquier proyecto o empresa puede desaparecer. Esto es distinto de perder el acceso por un problema de claves (que se trata en el siguiente documento).</p>
+<p><strong>¿Es verdad que las transacciones en blockchain son anónimas?</strong>
+No exactamente: la mayoría de blockchains públicas son <strong>pseudónimas</strong>, no anónimas. Las direcciones no llevan asociado un nombre directamente, pero todo el historial de movimientos de esa dirección es público y, con técnicas de análisis (o al vincular una dirección a una identidad real, por ejemplo al retirar fondos a una cuenta bancaria a través de un exchange regulado), sí se puede llegar a rastrear.</p>
+<p><strong>¿Qué relación tiene todo esto con el "Binance va a cerrar" que he oído?</strong>
+Ese tipo de noticias no tienen que ver con que la blockchain de Bitcoin o Ethereum "deje de funcionar", sino con la regulación de los <strong>intermediarios</strong> (exchanges) que permiten comprar/vender cripto con euros. Es un tema regulatorio, no técnico de la blockchain en sí, y se explica en profundidad en <code>02-exchanges-seguridad-regulacion.md</code>.</p>
+<h2 id="resumen-de-este-documento">✅ Resumen de este documento</h2>
+<ul>
+<li>Una blockchain es una base de datos distribuida y encadenada mediante hashes, difícil de alterar retroactivamente.</li>
+<li>La descentralización cambia el modelo de confianza: de una entidad central a las reglas de la red y el consenso entre nodos.</li>
+<li>Una criptomoneda es un activo digital nativo de una blockchain, con oferta y reglas definidas por su protocolo.</li>
+<li>Proof of Work y Proof of Stake son los dos mecanismos de consenso más habituales, con distinto consumo energético.</li>
+<li>El Reglamento MiCA (Unión Europea) marca un antes y un después regulatorio, con su periodo transitorio finalizando el 1 de julio de 2026 en España.</li>
+</ul>
+<h2 id="un-concepto-adicional-los-forks-bifurcaciones">🍴 Un concepto adicional: los "forks" (bifurcaciones)</h2>
+<p>Como el protocolo de una blockchain es, en el fondo, software compartido por toda la comunidad de nodos, a veces surgen propuestas de cambio en sus reglas. Cuando esto ocurre, puede producirse una <strong>bifurcación (fork)</strong>:</p>
+<ul>
+<li><strong>Soft fork</strong>: un cambio de reglas compatible con versiones anteriores del protocolo; los nodos que no actualizan pueden seguir participando sin romper la red.</li>
+<li><strong>Hard fork</strong>: un cambio de reglas incompatible con versiones anteriores, que puede dividir la red en dos cadenas distintas si una parte de la comunidad no acepta el cambio (cada una con su propia criptomoneda resultante). Un ejemplo histórico conocido es la separación entre Bitcoin y Bitcoin Cash en 2017, tras un desacuerdo sobre el tamaño de los bloques.</li>
+</ul>
+<p>Esto ilustra que, aunque no exista una autoridad central formal, las decisiones sobre el futuro de una blockchain siguen dependiendo del consenso social y técnico de su comunidad (desarrolladores, mineros/validadores, usuarios), no de un algoritmo completamente autónomo y ajeno a intervención humana.</p>
+<h2 id="como-conecta-esta-introduccion-con-el-resto-de-la-carpeta">🧩 Cómo conecta esta introducción con el resto de la carpeta</h2>
+<p>Entender qué es una blockchain y qué es una criptomoneda es el punto de partida, pero la parte más importante para tu seguridad práctica viene después: <strong>quién controla las claves de acceso a tu cripto</strong> (documento 01), <strong>a través de qué plataforma la compras y qué regulación la ampara</strong> (documento 02), <strong>qué tipo de criptoactivo concreto estás considerando</strong> (documento 03) y, finalmente, <strong>cómo dar los primeros pasos de forma ordenada</strong> (documento 04). Ninguno de estos documentos tiene sentido completo sin los demás: la tecnología (blockchain) es solo una parte de la ecuación; la custodia, la regulación y la prudencia práctica son igual de importantes.</p>
+<h2 id="el-debate-sobre-el-consumo-energetico">🌱 El debate sobre el consumo energético</h2>
+<p>El consumo energético de las redes Proof of Work (como Bitcoin) es objeto de debate público recurrente. Algunos puntos que suelen aparecer en esa discusión, presentados de forma equilibrada:</p>
+<ul>
+<li>Quienes critican el modelo señalan el elevado consumo eléctrico agregado de la red de minería a nivel mundial, comparándolo con el consumo de países enteros en algunas estimaciones.</li>
+<li>Quienes lo defienden argumentan que buena parte de esa minería se realiza cada vez más con fuentes de energía renovable o excedentaria (energía que de otro modo se desperdiciaría), y que el consumo debe compararse con el de otros sistemas financieros o industriales a nivel global, no evaluarse de forma aislada.</li>
+<li>El propio ecosistema cripto ha evolucionado: Ethereum, la segunda red por capitalización, migró de Proof of Work a Proof of Stake en 2022 precisamente para reducir drásticamente su consumo energético (una reducción estimada de más del 99 % según distintas fuentes técnicas).</li>
+</ul>
+<p>Se trata de un debate técnico y político-económico real y activo, sin un consenso único, y conviene contrastarlo con fuentes actualizadas si te interesa profundizar en el tema.</p>
+<h2 id="tabla-resumen-final-de-este-documento">📋 Tabla resumen final de este documento</h2>
+<table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Punto clave a recordar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Blockchain</td>
+<td>Base de datos distribuida, encadenada mediante hashes</td>
+</tr>
+<tr>
+<td>Nodo</td>
+<td>Ordenador que mantiene y valida una copia del registro</td>
+</tr>
+<tr>
+<td>Proof of Work</td>
+<td>Consenso por cálculo computacional, usado por Bitcoin</td>
+</tr>
+<tr>
+<td>Proof of Stake</td>
+<td>Consenso por garantía bloqueada, usado por Ethereum</td>
+</tr>
+<tr>
+<td>Contrato inteligente</td>
+<td>Programa que se ejecuta automáticamente en la blockchain</td>
+</tr>
+<tr>
+<td>Fork</td>
+<td>Bifurcación del protocolo, puede dividir una red en dos</td>
+</tr>
+<tr>
+<td>Explorador de bloques</td>
+<td>Herramienta pública para verificar cualquier transacción</td>
+</tr>
+<tr>
+<td>Pseudónimo, no anónimo</td>
+<td>Las direcciones son públicas, no llevan nombre asociado directamente</td>
+</tr>
+</tbody>
+</table>
+<h2 id="ideas-clave-para-retener-antes-de-continuar">📌 Ideas clave para retener antes de continuar</h2>
+<ul>
+<li>Blockchain es la tecnología; Bitcoin, Ethereum y demás son redes concretas que la utilizan.</li>
+<li>La descentralización cambia el modelo de confianza, pero no elimina todos los riesgos: solo cambia su naturaleza.</li>
+<li>El consenso (Proof of Work, Proof of Stake) es el mecanismo que permite que la red se ponga de acuerdo sin autoridad central.</li>
+<li>Las transacciones son públicas y verificables por cualquiera a través de exploradores de bloques, aunque pseudónimas, no anónimas.</li>
+<li>La regulación (como MiCA en la Unión Europea) afecta principalmente a los intermediarios, no a la tecnología subyacente en sí misma.</li>
+</ul>
+<h2 id="hilo-conductor-de-toda-la-carpeta-en-una-frase-por-documento">🧵 Hilo conductor de toda la carpeta, en una frase por documento</h2>
+<p>Para tener una visión de conjunto antes de continuar: este documento (00) explica qué es blockchain y qué es una criptomoneda; el 01 explica qué es un monedero y por qué la custodia de las claves es la decisión de seguridad más importante; el 02 explica qué es un exchange y cómo la regulación MiCA ha cambiado el panorama en España en 2026; el 03 clasifica los tipos de criptoactivos existentes y sus riesgos; y el 04 traduce todo lo anterior en un plan práctico y ordenado para tu primera compra.</p>
+<h2 id="que-deberias-poder-responder-antes-de-seguir">🎯 Qué deberías poder responder antes de seguir</h2>
+<p>Antes de pasar al siguiente documento, comprueba si podrías explicar con tus propias palabras: qué es una blockchain, en qué se diferencia de una base de datos tradicional, qué hace un nodo, qué diferencia hay entre Proof of Work y Proof of Stake, y por qué las noticias sobre exchanges regulados no significan que "la cripto en sí" vaya a desaparecer. Si todas estas ideas te resultan claras, estás listo para avanzar a la parte más práctica: cómo se guarda y protege tu criptomoneda.</p>
+<hr>
+<p>Siguiente: <a href="../01-monederos-wallets/">01 · Monederos y wallets</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copiado al portapapeles", "clipboard.copy": "Copiar al portapapeles", "search.result.more.one": "1 m\u00e1s en esta p\u00e1gina", "search.result.more.other": "# m\u00e1s en esta p\u00e1gina", "search.result.none": "No se encontraron documentos", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Teclee para comenzar b\u00fasqueda", "search.result.term.missing": "Falta", "select.version": "Seleccionar versi\u00f3n"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+        <script src="../../assets/javascripts/nav-toggle.js"></script>
+      
+    
+  
+<script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(()=>{ lightbox.reload(); });
+</script></body></html>

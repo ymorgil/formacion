@@ -1,0 +1,1935 @@
+<!DOCTYPE html><html lang="es" class="no-js"><head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://ymorgil.github.io/formacion/AWSedu/02-lab-ec2/">
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.7">
+    
+    
+      
+        <title>🖥️ Laboratorio 3: Introducción a Amazon EC2 - Mis apuntes</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&amp;display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/css/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  <link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"><script src="../../assets/javascripts/glightbox.min.js"></script><style id="glightbox-style">
+            html.glightbox-open { overflow: initial; height: 100%; }
+            .gslide-title { margin-top: 0px; user-select: text; }
+            .gslide-desc { color: #666; user-select: text; }
+            .gslide-image img { background: white; }
+            .gscrollbar-fixer { padding-right: 15px; }
+            .gdesc-inner { font-size: 0.75rem; }
+            body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color); }
+            body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color); }
+            body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color); }
+        </style></head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="green" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#laboratorio-3-introduccion-a-amazon-ec2" class="md-skip">
+          Saltar a contenido
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabecera">
+    <a href="../.." title="Mis apuntes" class="md-header__button md-logo" aria-label="Mis apuntes" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"></path></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"></path></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Mis apuntes
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              🖥️ Laboratorio 3: Introducción a Amazon EC2
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="green" data-md-color-accent="indigo" aria-label="Modo oscuro" type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Modo oscuro" for="__palette_1" hidden="">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"></path></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="pink" data-md-color-accent="green" aria-label="Modo claro" type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Modo claro" for="__palette_0" hidden="">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"></path></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navegación" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Mis apuntes" class="md-nav__button md-logo" aria-label="Mis apuntes" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"></path></svg>
+
+    </a>
+    Mis apuntes
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix="">
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inicio
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2">
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inglés
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Inglés
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/00-EOI/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    EOI
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/01gramatica/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Grammar
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/03grammar/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    03 Grammar I
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/05phrasal/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    05 Phrasal Verbs
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/10recursos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    10 Recursos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/11dudas/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    11 Dudas
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/12duo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    12 Duolingo
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/13pronu/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    13 Pronunciación
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/20audiobooks/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    20 Audiobooks
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/21vocab/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    21 Vocabulario
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/tutorclaude/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    22 Claude
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3">
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Trade
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Trade
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../trade/00-introduccion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    00 Introducción
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../trade/01-tipos-de-activos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    01 Tipos de activos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../trade/02-ordenes-y-mercados/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    02 Órdenes y mercados
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../trade/03-riesgo-diversificacion-fiscalidad/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    03 Riesgo, diversificación y fiscalidad
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../trade/04-glosario-primeros-pasos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    04 Glosario y primeros pasos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4">
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Criptomonedas
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Criptomonedas
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../criptomonedas/00-introduccion-blockchain/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    00 Introducción y blockchain
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../criptomonedas/01-monederos-wallets/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    01 Monederos y wallets
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../criptomonedas/02-exchanges-seguridad-regulacion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    02 Exchanges, seguridad y regulación
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../criptomonedas/03-tipos-de-criptoactivos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    03 Tipos de criptoactivos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../criptomonedas/04-primeros-pasos-practicos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    04 Primeros pasos prácticos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5">
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    eXeLearning
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    eXeLearning
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../exelearning/00-introduccion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    00 Introducción
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6">
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    TikTok
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    TikTok
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../tiktok/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Apps y recursos (colección Inglés)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7">
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Webvilla
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Webvilla
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../webvilla/tarjeta-noticia/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tarjeta de noticia
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../webvilla/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inicio
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../webvilla/claude-chrome-divi/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    MCP, Claude Code y Claude en Chrome
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../webvilla/webconf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    configuración
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+      
+        <li class="md-nav__item">
+  <a href="#informacion-general" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Información general
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#objetivos-y-duracion" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Objetivos y duración
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#arquitectura-del-laboratorio" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Arquitectura del laboratorio
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#acceso-a-la-consola-y-restricciones-del-entorno" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Acceso a la consola y restricciones del entorno
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tarea-1-lanzar-la-instancia-con-proteccion-de-terminacion" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tarea 1 — Lanzar la instancia con protección de terminación
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tarea-2-supervisar-la-instancia" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tarea 2 — Supervisar la instancia
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tarea-3-abrir-el-acceso-http-en-el-grupo-de-seguridad" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tarea 3 — Abrir el acceso HTTP en el grupo de seguridad
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tarea-4-redimensionar-la-instancia-y-el-volumen-ebs" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tarea 4 — Redimensionar la instancia y el volumen EBS
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tarea-5-y-6-limites-de-servicio-y-proteccion-de-detencion" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tarea 5 y 6 — Límites de servicio y protección de detención
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#envio-cierre-y-recursos-adicionales" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Envío, cierre y recursos adicionales
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Envío, cierre y recursos adicionales">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#solucion-de-problemas-frecuentes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Solución de problemas frecuentes
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#resumen-de-conceptos-clave" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Resumen de conceptos clave
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#recursos-adicionales" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Recursos adicionales
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="laboratorio-3-introduccion-a-amazon-ec2">🖥️ Laboratorio 3: Introducción a Amazon EC2</h1>
+<blockquote>
+<p>Laboratorio guiado en <a href="https://labs.vocareum.com/main/main.php?m=clabide&amp;mode=s&amp;asnid=2429114&amp;stepid=2429115">Vocareum</a>, dentro del itinerario de AWS Academy. Consiste en recorrer el ciclo de vida completo de una instancia EC2: lanzarla, vigilarla, abrirle el acceso web, cambiarla de tamaño y comprobar sus mecanismos de protección.</p>
+</blockquote>
+<hr>
+<h2 id="informacion-general">Información general</h2>
+<p><strong>Amazon EC2 (Elastic Compute Cloud)</strong> es el servicio de AWS que entrega servidores virtuales de tamaño ajustable en la nube. Su objetivo es quitarle fricción al cómputo a escala: en vez de comprar, instalar y mantener hardware físico, se piden instancias por consola o API y están listas en minutos.</p>
+<p>Tres ideas resumen por qué EC2 es el punto de partida habitual en cualquier itinerario de AWS:</p>
+<ul>
+<li><strong>Control total sobre el recurso.</strong> Se elige el sistema operativo, la potencia de cómputo, el almacenamiento asociado y la red en la que vive la instancia, igual que con un servidor físico, pero sin comprarlo.</li>
+<li><strong>Elasticidad real.</strong> Una instancia se puede apagar, encender, agrandar o achicar en cuestión de minutos, adaptando la capacidad contratada a la demanda real en lugar de sobredimensionar "por si acaso".</li>
+<li><strong>Pago por uso.</strong> El modelo económico solo factura la capacidad que realmente se consume, lo que convierte los picos de carga en un problema de configuración y no de compra de hardware.</li>
+</ul>
+<p>Este laboratorio recorre ese ciclo completo con un caso mínimo: un servidor web que sirve una página HTML sencilla, protegido por un grupo de seguridad y con las protecciones de terminación y detención activadas para evitar borrados o paradas accidentales.</p>
+<p>Para situar el cambio de mentalidad respecto a un servidor tradicional, resulta útil comparar ambos modelos:</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Servidor físico propio</th>
+<th>Instancia Amazon EC2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tiempo hasta tenerlo operativo</td>
+<td>Días o semanas (compra, envío, instalación)</td>
+<td>Minutos</td>
+</tr>
+<tr>
+<td>Coste si está infrautilizado</td>
+<td>Se sigue pagando/amortizando igual</td>
+<td>Se puede reducir de tamaño o detener</td>
+</tr>
+<tr>
+<td>Escalar ante un pico de demanda</td>
+<td>Comprar más hardware</td>
+<td>Cambiar el tipo de instancia o lanzar más instancias</td>
+</tr>
+<tr>
+<td>Mantenimiento físico (electricidad, refrigeración, fallos de disco)</td>
+<td>A cargo del centro</td>
+<td>A cargo de AWS</td>
+</tr>
+<tr>
+<td>Responsabilidad de seguridad del sistema operativo y los datos</td>
+<td>Del centro</td>
+<td>Del centro (modelo de responsabilidad compartida)</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="objetivos-y-duracion">Objetivos y duración</h2>
+<p>Al terminar el laboratorio deberías ser capaz de:</p>
+<ol>
+<li>Lanzar un servidor web en EC2 con la protección de terminación activada.</li>
+<li>Interpretar las herramientas de supervisión de una instancia (comprobaciones de estado, métricas de CloudWatch, registro del sistema y captura de pantalla).</li>
+<li>Ajustar un grupo de seguridad para permitir tráfico HTTP entrante.</li>
+<li>Cambiar el tipo de instancia y el tamaño del volumen EBS sin perder los datos.</li>
+<li>Consultar los límites de servicio (<em>Service Quotas</em>) que AWS aplica a EC2 por región.</li>
+<li>Activar la protección de detención y comprobar que impide una parada accidental.</li>
+</ol>
+<p><strong>Duración estimada:</strong> 35 minutos.</p>
+<p>Antes de empezar conviene tener claro qué se va a tocar y qué no:</p>
+<ul>
+<li>Se trabaja siempre en la región <strong>Norte de Virginia (us-east-1)</strong>; el laboratorio no garantiza que otros servicios o regiones estén disponibles.</li>
+<li>La VPC, la subred pública y el par de claves <code>vockey</code> ya existen de antemano: no hay que crearlos, solo utilizarlos.</li>
+<li>Todo lo demás (instancia, grupo de seguridad, reglas de firewall, tamaño del volumen) se crea o modifica durante el propio laboratorio.</li>
+</ul>
+<p>El siguiente mapa resume el orden en el que se encadenan las seis tareas del laboratorio:</p>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../assets/img/awsedu/flujo-tareas-laboratorio-ec2.png" data-desc-position="bottom"><img alt="Recorrido de las seis tareas del laboratorio de EC2" src="../../assets/img/awsedu/flujo-tareas-laboratorio-ec2.png"></a></p>
+<hr>
+<h2 id="arquitectura-del-laboratorio">Arquitectura del laboratorio</h2>
+<p>Todo el ejercicio ocurre dentro de una única VPC de laboratorio (<code>Lab VPC</code>), ya preparada por AWS Academy mediante una plantilla de CloudFormation. Dentro de ella se despliega una subred pública (<code>PublicSubnet1</code>) con una instancia EC2 protegida por un grupo de seguridad propio, y un volumen EBS que actúa como disco raíz.</p>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../assets/img/awsedu/arquitectura-laboratorio-ec2.png" data-desc-position="bottom"><img alt="Arquitectura del laboratorio: VPC, subred pública, grupo de seguridad, instancia EC2 y volumen EBS" src="../../assets/img/awsedu/arquitectura-laboratorio-ec2.png"></a></p>
+<p>Puntos clave del diagrama:</p>
+<ul>
+<li>El tráfico de Internet solo llega a la instancia si el <strong>grupo de seguridad</strong> lo permite explícitamente; por defecto no hay ninguna regla de entrada.</li>
+<li>La instancia se lanza en la <strong>subred pública</strong>, por lo que recibe una IP pública automáticamente, aunque eso no basta para que sea accesible: hace falta la regla de firewall.</li>
+<li>El <strong>volumen EBS</strong> vive de forma independiente a la instancia: se puede modificar su tamaño sin perder los datos, y persiste aunque la instancia se detenga.</li>
+</ul>
+<hr>
+<h2 id="acceso-a-la-consola-y-restricciones-del-entorno">Acceso a la consola y restricciones del entorno</h2>
+<p>El entorno del laboratorio es una cuenta de AWS real, pero acotada: solo están habilitados los servicios y acciones necesarios para completar los pasos indicados. Si se intenta usar un servicio distinto a los mencionados aquí, es normal encontrarse con errores de permisos.</p>
+<p>Pasos para entrar en la consola:</p>
+<ol>
+<li>Pulsa <strong>Start Lab</strong> en la parte superior de las instrucciones y espera a que el círculo situado junto al enlace <strong>AWS</strong> se ponga en verde (indica que la cuenta ya está lista).</li>
+<li>Haz clic en el enlace <strong>AWS</strong> para abrir la Consola de administración en una pestaña nueva. Si el navegador bloquea la ventana emergente, permite los pop-ups para este sitio y vuelve a intentarlo.</li>
+<li>Coloca la pestaña de la consola junto a la de las instrucciones para poder seguir los pasos sin cambiar de ventana constantemente.</li>
+</ol>
+<blockquote>
+<p>💡 El progreso del laboratorio se puntúa automáticamente al final, comparando los nombres y configuraciones que hayas usado con los valores esperados. Los valores que aparecen entre comillas de código (por ejemplo <code>Web Server</code>) deben escribirse tal cual, respetando mayúsculas y minúsculas.</p>
+</blockquote>
+<p>Resumen de lo que el entorno permite y lo que no:</p>
+<table>
+<thead>
+<tr>
+<th>Permitido</th>
+<th>Restringido</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Consola de EC2 (instancias, grupos de seguridad, volúmenes)</td>
+<td>Crear usuarios o roles nuevos de IAM</td>
+</tr>
+<tr>
+<td>Consola de CloudWatch y Service Quotas para consultar métricas y límites</td>
+<td>Servicios de AWS ajenos al laboratorio (pueden dar error de permisos)</td>
+</tr>
+<tr>
+<td>Usar el par de claves <code>vockey</code> ya existente</td>
+<td>Crear o importar pares de claves adicionales</td>
+</tr>
+<tr>
+<td>Modificar el grupo de seguridad creado en la Tarea 1</td>
+<td>Eliminar la VPC o la subred del laboratorio</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="tarea-1-lanzar-la-instancia-con-proteccion-de-terminacion">Tarea 1 — Lanzar la instancia con protección de terminación</h2>
+<p>En esta tarea se crea la instancia EC2 que actuará como servidor web, con la <strong>protección de terminación</strong> activada desde el primer momento para que no pueda eliminarse por error.</p>
+<p>Desde la consola: <strong>Servicios → Informática → EC2</strong>, comprobando antes que la región activa (arriba a la derecha) es <strong>Norte de Virginia (us-east-1)</strong>. Desde ahí, <strong>Lanzar instancia → Lanzar instancia</strong> e ir completando el asistente:</p>
+<table>
+<thead>
+<tr>
+<th>Paso del asistente</th>
+<th>Configuración a aplicar</th>
+<th>Motivo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Nombre y etiquetas</td>
+<td><code>Web Server</code></td>
+<td>Se guarda como etiqueta (<code>Name</code> = <code>Web Server</code>) para identificar el recurso entre muchos otros.</td>
+</tr>
+<tr>
+<td>Imagen (AMI)</td>
+<td>Amazon Linux, AMI Amazon Linux 2023 (valores por defecto)</td>
+<td>Plantilla del sistema operativo, permisos de lanzamiento y disco raíz de la instancia.</td>
+</tr>
+<tr>
+<td>Tipo de instancia</td>
+<td><code>t2.micro</code> (1 vCPU, 1 GiB de RAM)</td>
+<td>Tamaño mínimo suficiente para el ejercicio; el laboratorio no permite usar otros tipos en este paso.</td>
+</tr>
+<tr>
+<td>Par de claves</td>
+<td><code>vockey</code></td>
+<td>AWS instala la clave pública en la instancia; no se usará para conectarse por SSH en este laboratorio.</td>
+</tr>
+<tr>
+<td>Red</td>
+<td>VPC <code>Lab VPC</code>, subred <code>PublicSubnet1</code></td>
+<td>Coloca la instancia en la subred pública ya preparada, con IP pública automática.</td>
+</tr>
+<tr>
+<td>Grupo de seguridad</td>
+<td>Crear uno nuevo: <code>Web Server security group</code> / <code>Security group for my web server</code>, sin reglas de entrada</td>
+<td>Se añadirá la regla HTTP más adelante, en la Tarea 3.</td>
+</tr>
+<tr>
+<td>Almacenamiento</td>
+<td>8 GiB por defecto (EBS)</td>
+<td>Volumen raíz donde vive el sistema operativo y los datos.</td>
+</tr>
+</tbody>
+</table>
+<p>Antes de lanzar, dentro de <strong>Detalles avanzados</strong>:</p>
+<ul>
+<li>Activa <strong>Protección de terminación → Habilitar</strong>, para que la instancia no pueda borrarse (<code>terminate</code>) sin desactivar antes esta opción.</li>
+<li>Pega el siguiente script en el campo <strong>Datos de usuario</strong>. Se ejecuta automáticamente, como usuario root, la primera vez que arranca la instancia:</li>
+</ul>
+<div class="highlight"><pre><span></span><code><span class="ch">#!/bin/bash</span>
+dnf<span class="w"> </span>install<span class="w"> </span>-y<span class="w"> </span>httpd
+systemctl<span class="w"> </span><span class="nb">enable</span><span class="w"> </span>httpd
+systemctl<span class="w"> </span>start<span class="w"> </span>httpd
+<span class="nb">echo</span><span class="w"> </span><span class="s1">'&lt;html&gt;&lt;h1&gt;Hello From Your Web Server!&lt;/h1&gt;&lt;/html&gt;'</span><span class="w"> </span>&gt;<span class="w"> </span>/var/www/html/index.html
+</code></pre></div>
+<p>El script instala el servidor web Apache (<code>httpd</code>), lo configura para arrancar automáticamente en cada reinicio, lo pone en marcha y publica una página HTML mínima como prueba de que todo funciona.</p>
+<p>Para terminar: <strong>Lanzar instancia → Ver todas las instancias</strong>, y espera a que el <code>Web Server</code> muestre <strong>Estado de instancia: En ejecución</strong> y <strong>Comprobaciones de estado: 2/2 comprobaciones superadas</strong>.</p>
+<hr>
+<h2 id="tarea-2-supervisar-la-instancia">Tarea 2 — Supervisar la instancia</h2>
+<p>Con la instancia ya en marcha, esta tarea recorre las herramientas que EC2 ofrece para vigilar su salud sin necesidad de conectarse a ella:</p>
+<ul>
+<li><strong>Comprobaciones de estado</strong>: EC2 ejecuta automáticamente dos verificaciones —accesibilidad del sistema (el hipervisor y la red subyacente funcionan) y accesibilidad de la instancia (el sistema operativo responde)— y las muestra en la pestaña <em>Comprobaciones de estado</em>.</li>
+<li><strong>Métricas de CloudWatch</strong>: la pestaña <em>Supervisión</em> muestra el consumo de CPU, red y disco de la instancia. Amazon EC2 envía estas métricas a CloudWatch automáticamente; la supervisión básica llega cada 5 minutos, aunque se puede activar la supervisión detallada cada minuto.</li>
+<li><strong>Registro del sistema</strong>: desde <strong>Acciones → Monitoreo y solución de problemas → Obtener registro del sistema</strong> se puede leer la salida de arranque de la instancia, útil para depurar problemas de kernel o de los datos de usuario. Ahí debería verse que el paquete <code>httpd</code> se instaló correctamente.</li>
+<li><strong>Captura de pantalla de la instancia</strong>: desde el mismo menú, <strong>Obtener captura de pantalla de la instancia</strong> simula cómo se vería un monitor conectado a la máquina; es la alternativa cuando no se puede acceder por SSH o RDP.</li>
+</ul>
+<blockquote>
+<p>ℹ️ Ninguna de estas herramientas requiere credenciales dentro de la instancia: todas se consultan desde la propia consola de EC2.</p>
+</blockquote>
+<hr>
+<h2 id="tarea-3-abrir-el-acceso-http-en-el-grupo-de-seguridad">Tarea 3 — Abrir el acceso HTTP en el grupo de seguridad</h2>
+<p>Aunque el servidor web ya está instalado y en marcha, todavía no es accesible desde fuera. Al copiar la <strong>dirección IPv4 pública</strong> de la instancia (pestaña <em>Detalles</em>) y pegarla en una pestaña nueva del navegador, la conexión falla.</p>
+<p>La causa es el <strong>grupo de seguridad</strong>: actúa como un firewall a nivel de instancia y, por defecto, no deja entrar ningún tráfico salvo el que se autorice explícitamente. Como se creó sin reglas de entrada en la Tarea 1, todo el tráfico entrante —incluido el HTTP del puerto 80— está bloqueado.</p>
+<p>Para solucionarlo, en el panel izquierdo de EC2: <strong>Grupos de seguridad → <code>Web Server security group</code> → pestaña Reglas de entrada → Editar reglas de entrada → Agregar regla</strong>, con estos valores:</p>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Valor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>HTTP</td>
+</tr>
+<tr>
+<td>Protocolo</td>
+<td>TCP (se rellena solo)</td>
+</tr>
+<tr>
+<td>Puerto</td>
+<td>80 (se rellena solo)</td>
+</tr>
+<tr>
+<td>Origen</td>
+<td>Anywhere-IPv4</td>
+</tr>
+</tbody>
+</table>
+<p>Tras <strong>Guardar reglas</strong>, volviendo a la pestaña del navegador y recargando la página debería aparecer el mensaje <em>"Hello From Your Web Server!"</em>, confirmando que el tráfico HTTP ya llega a la instancia.</p>
+<hr>
+<h2 id="tarea-4-redimensionar-la-instancia-y-el-volumen-ebs">Tarea 4 — Redimensionar la instancia y el volumen EBS</h2>
+<p>Con el tiempo, una instancia puede quedarse pequeña (sobreutilizada) o grande (infrautilizada) para la carga que soporta, y lo mismo ocurre con su disco. Esta tarea cambia ambos parámetros sin perder ni un archivo.</p>
+<p><strong>Antes de nada, hay que detener la instancia</strong> (Estado de la instancia → Detener instancia → Detener, y esperar a que el estado pase a <em>Detenida</em>). Una instancia detenida deja de facturar cómputo, aunque el volumen EBS sigue generando coste de almacenamiento mientras exista.</p>
+<p>Con la instancia detenida:</p>
+<ol>
+<li><strong>Cambiar el tipo de instancia</strong>: Acciones → Configuración de la instancia → Cambiar tipo de instancia → <code>t2.small</code> → Aplicar. El nuevo tipo duplica la memoria disponible respecto a <code>t2.micro</code> (2 GiB frente a 1 GiB).</li>
+<li><strong>Activar la protección de detención</strong>: Acciones → Configuración de la instancia → Cambiar la protección de detención → Habilitar → Guardar. A partir de aquí, detener la instancia por accidente ya no será posible sin desactivar antes esta opción (se comprueba en la Tarea 6).</li>
+<li><strong>Ampliar el volumen EBS</strong>: pestaña Almacenamiento → seleccionar el ID de volumen → Acciones → Modificar volumen → cambiar el tamaño de 8 a <code>10</code> GiB → Modificar → confirmar. El laboratorio no permite crear volúmenes de más de 10 GiB.</li>
+<li><strong>Volver a iniciar la instancia</strong>: Instancias → seleccionar <code>Web Server</code> → Estado de la instancia → Iniciar instancia.</li>
+</ol>
+<p>El resultado de estos cuatro pasos se resume en la siguiente comparación:</p>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../assets/img/awsedu/antes-despues-redimensionado-ec2.png" data-desc-position="bottom"><img alt="Comparación de la configuración de la instancia antes y después de redimensionarla" src="../../assets/img/awsedu/antes-despues-redimensionado-ec2.png"></a></p>
+<blockquote>
+<p>⚠️ Cuando una instancia detenida se vuelve a iniciar, normalmente cambia de host físico y recibe una <strong>nueva IP pública</strong>; conviene volver a copiarla antes de probar el servidor web de nuevo. La IP privada, en cambio, se mantiene.</p>
+</blockquote>
+<hr>
+<h2 id="tarea-5-y-6-limites-de-servicio-y-proteccion-de-detencion">Tarea 5 y 6 — Límites de servicio y protección de detención</h2>
+<p><strong>Explorar los límites de EC2 (Service Quotas).</strong> Toda cuenta de AWS tiene topes por región para el número de instancias, volúmenes o snapshots que se pueden crear. Para consultarlos: busca <code>Service Quotas</code> en el buscador de servicios → <em>Servicios de AWS</em> → busca <code>ec2</code> → <em>Amazon Elastic Compute Cloud</em> → filtra por <code>running on-demand</code> en la barra de cuotas. Ahí se ve, por ejemplo, cuántas instancias bajo demanda de un tipo determinado se pueden ejecutar a la vez en la región; si se supera el límite, el lanzamiento de nuevas instancias falla hasta que se solicite (como propietario de la cuenta) un aumento de cuota.</p>
+<p><strong>Probar la protección de detención.</strong> Con la protección ya habilitada en la Tarea 4, al intentar detener la instancia (Estado de la instancia → Detener instancia → Detener) aparece un error del estilo:</p>
+<blockquote>
+<p><em>"Failed to stop the instance. The instance may not be stopped. Modify its 'disableApiStop' instance attribute and try again."</em></p>
+</blockquote>
+<p>Ese mensaje confirma que la protección funciona: nadie puede detener la instancia sin desactivarla antes de forma explícita. Para completar la prueba y dejar la instancia detenida:</p>
+<ol>
+<li>Acciones → Configuración de la instancia → Cambiar protección de detención.</li>
+<li>Desmarcar la casilla <strong>Habilitar</strong> y pulsar <strong>Guardar</strong>.</li>
+<li>Repetir Estado de la instancia → Detener instancia → Detener; esta vez la instancia se detiene sin errores.</li>
+</ol>
+<p>Con esto quedan probadas las dos protecciones del laboratorio: la de <strong>terminación</strong> (activa durante todo el ejercicio, evita borrar la instancia) y la de <strong>detención</strong> (activada en la Tarea 4 y desactivada aquí a propósito, para comprobar su efecto).</p>
+<hr>
+<h2 id="envio-cierre-y-recursos-adicionales">Envío, cierre y recursos adicionales</h2>
+<p><strong>Enviar el trabajo para su corrección:</strong></p>
+<ol>
+<li>Pulsa <strong>Submit</strong> en la parte superior de las instrucciones y confirma con <strong>Yes</strong> cuando se solicite.</li>
+<li>El panel de calificaciones tarda un par de minutos en aparecer; si no se actualiza solo, pulsa <strong>Grades</strong>.</li>
+<li>El envío se puede repetir tantas veces como haga falta: cada nuevo envío sustituye al anterior. Si alguna comprobación no puntúa a la primera, suele deberse a que el proceso de verificación necesita que hayan pasado al menos 5 minutos desde que se aplicó el cambio; conviene esperar un poco y reenviar.</li>
+<li>Para ver el detalle de qué comprobaciones han puntuado y cuáles no, revisa <strong>Submission Report</strong>.</li>
+</ol>
+<p><strong>Cerrar el laboratorio</strong> una vez enviado el trabajo: pulsa <strong>End Lab</strong> arriba de las instrucciones, confirma con <strong>Yes</strong>, espera al aviso de que ya se puede cerrar la ventana y ciérrala con la <strong>X</strong> de la esquina superior derecha.</p>
+<h3 id="solucion-de-problemas-frecuentes">Solución de problemas frecuentes</h3>
+<table>
+<thead>
+<tr>
+<th>Síntoma</th>
+<th>Causa habitual</th>
+<th>Cómo resolverlo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>El navegador no abre la Consola de AWS al pulsar el enlace</td>
+<td>Bloqueo de ventanas emergentes</td>
+<td>Permitir pop-ups para el dominio del laboratorio y volver a hacer clic</td>
+</tr>
+<tr>
+<td>La página web no carga tras la Tarea 1</td>
+<td>Falta la regla HTTP en el grupo de seguridad</td>
+<td>Completar la Tarea 3 antes de probar la IP pública</td>
+</tr>
+<tr>
+<td>La IP pública deja de responder tras redimensionar</td>
+<td>La instancia recibió una IP nueva al reiniciarse</td>
+<td>Copiar de nuevo la IPv4 pública desde la pestaña <em>Detalles</em></td>
+</tr>
+<tr>
+<td>No se puede detener la instancia</td>
+<td>Protección de detención habilitada</td>
+<td>Desactivarla en Configuración de la instancia antes de detener</td>
+</tr>
+<tr>
+<td>No se puede terminar/eliminar la instancia</td>
+<td>Protección de terminación habilitada</td>
+<td>Desactivarla explícitamente; solo hacerlo si ya no se necesita el recurso</td>
+</tr>
+<tr>
+<td>El envío no puntúa una tarea recién completada</td>
+<td>El verificador necesita ~5 minutos desde el cambio</td>
+<td>Esperar unos minutos y volver a pulsar <strong>Submit</strong></td>
+</tr>
+</tbody>
+</table>
+<h3 id="resumen-de-conceptos-clave">Resumen de conceptos clave</h3>
+<table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Para qué sirve en este laboratorio</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>AMI</td>
+<td>Plantilla (SO + configuración) a partir de la cual se lanza la instancia.</td>
+</tr>
+<tr>
+<td>Tipo de instancia</td>
+<td>Define vCPU, memoria, red y almacenamiento disponibles (<code>t2.micro</code> → <code>t2.small</code>).</td>
+</tr>
+<tr>
+<td>Par de claves</td>
+<td>Mecanismo de autenticación por criptografía pública/privada para acceder al SO.</td>
+</tr>
+<tr>
+<td>VPC / subred pública</td>
+<td>Red virtual y segmento de red donde se despliega la instancia.</td>
+</tr>
+<tr>
+<td>Grupo de seguridad</td>
+<td>Firewall a nivel de instancia; sin regla HTTP, no hay acceso web.</td>
+</tr>
+<tr>
+<td>Volumen EBS</td>
+<td>Disco persistente asociado a la instancia; se puede ampliar sin perder datos.</td>
+</tr>
+<tr>
+<td>Datos de usuario</td>
+<td>Script que se ejecuta una vez, en el primer arranque, para automatizar la configuración.</td>
+</tr>
+<tr>
+<td>Protección de terminación</td>
+<td>Impide borrar (<code>terminate</code>) la instancia por accidente.</td>
+</tr>
+<tr>
+<td>Protección de detención</td>
+<td>Impide pararla (<code>stop</code>) por accidente.</td>
+</tr>
+<tr>
+<td>CloudWatch</td>
+<td>Servicio de métricas y monitorización de los recursos de AWS.</td>
+</tr>
+<tr>
+<td>Service Quotas</td>
+<td>Límites por región y por cuenta para cada tipo de recurso de AWS.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="recursos-adicionales">Recursos adicionales</h3>
+<ul>
+<li><a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/LaunchingAndUsingInstances.html">Lanzar una instancia EC2</a></li>
+<li><a href="https://aws.amazon.com/ec2/instance-types">Tipos de instancia de Amazon EC2</a></li>
+<li><a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html">Imágenes de máquina de Amazon (AMI)</a></li>
+<li><a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html">Datos de usuario y scripts de shell en EC2</a></li>
+<li><a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-network-security.html">Grupos de seguridad de Amazon EC2</a></li>
+<li><a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html">Pares de claves de Amazon EC2</a></li>
+<li><a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/monitoring-system-instance-status-check.html">Comprobaciones de estado de las instancias</a></li>
+<li><a href="https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/ec2-metricscollected.html">Métricas y dimensiones de Amazon EC2 en CloudWatch</a></li>
+<li><a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-resize.html">Redimensionar una instancia EC2</a></li>
+<li><a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Stop_Start.html">Detener e iniciar instancias</a></li>
+<li><a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-resource-limits.html">Límites de servicio de Amazon EC2</a></li>
+<li><a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/terminating-instances.html">Protección de terminación de una instancia</a></li>
+</ul>
+<hr>
+<p><em>Contenido adaptado del enunciado oficial del laboratorio de AWS Academy (© Amazon Web Services, Inc. y sus filiales) para uso docente propio.</em></p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copiado al portapapeles", "clipboard.copy": "Copiar al portapapeles", "search.result.more.one": "1 m\u00e1s en esta p\u00e1gina", "search.result.more.other": "# m\u00e1s en esta p\u00e1gina", "search.result.none": "No se encontraron documentos", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Teclee para comenzar b\u00fasqueda", "search.result.term.missing": "Falta", "select.version": "Seleccionar versi\u00f3n"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+        <script src="../../assets/javascripts/nav-toggle.js"></script>
+      
+    
+  
+<script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(()=>{ lightbox.reload(); });
+</script></body></html>

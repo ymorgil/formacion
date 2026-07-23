@@ -1,0 +1,2308 @@
+<!DOCTYPE html><html lang="es" class="no-js"><head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://ymorgil.github.io/formacion/trade/02-ordenes-y-mercados/">
+      
+      
+        <link rel="prev" href="../01-tipos-de-activos/">
+      
+      
+        <link rel="next" href="../03-riesgo-diversificacion-fiscalidad/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.7">
+    
+    
+      
+        <title>02 Órdenes y mercados - Mis apuntes</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&amp;display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/css/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  <link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"><script src="../../assets/javascripts/glightbox.min.js"></script><style id="glightbox-style">
+            html.glightbox-open { overflow: initial; height: 100%; }
+            .gslide-title { margin-top: 0px; user-select: text; }
+            .gslide-desc { color: #666; user-select: text; }
+            .gslide-image img { background: white; }
+            .gscrollbar-fixer { padding-right: 15px; }
+            .gdesc-inner { font-size: 0.75rem; }
+            body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color); }
+            body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color); }
+            body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color); }
+        </style></head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="green" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#como-funciona-una-orden-de-compraventa" class="md-skip">
+          Saltar a contenido
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabecera">
+    <a href="../.." title="Mis apuntes" class="md-header__button md-logo" aria-label="Mis apuntes" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"></path></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"></path></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Mis apuntes
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              02 Órdenes y mercados
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="green" data-md-color-accent="indigo" aria-label="Modo oscuro" type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Modo oscuro" for="__palette_1" hidden="">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"></path></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="pink" data-md-color-accent="green" aria-label="Modo claro" type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Modo claro" for="__palette_0" hidden="">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"></path></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navegación" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Mis apuntes" class="md-nav__button md-logo" aria-label="Mis apuntes" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"></path></svg>
+
+    </a>
+    Mis apuntes
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix="">
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inicio
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2">
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inglés
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Inglés
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/00-EOI/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    EOI
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/01gramatica/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Grammar
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/03grammar/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    03 Grammar I
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/05phrasal/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    05 Phrasal Verbs
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/10recursos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    10 Recursos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/11dudas/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    11 Dudas
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/12duo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    12 Duolingo
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/13pronu/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    13 Pronunciación
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/20audiobooks/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    20 Audiobooks
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/21vocab/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    21 Vocabulario
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/tutorclaude/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    22 Claude
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked="">
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Trade
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Trade
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../00-introduccion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    00 Introducción
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../01-tipos-de-activos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    01 Tipos de activos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    02 Órdenes y mercados
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    02 Órdenes y mercados
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+      
+        <li class="md-nav__item">
+  <a href="#el-ciclo-de-vida-de-una-orden" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🔄 El ciclo de vida de una orden
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tipos-de-ordenes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🎯 Tipos de órdenes
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="🎯 Tipos de órdenes">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#orden-a-mercado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Orden a mercado
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#orden-limitada" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Orden limitada
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#orden-stop-stop-loss" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Orden stop / stop loss
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#orden-stop-limit" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Orden stop limit
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bid-ask-y-el-spread" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        💰 Bid, Ask y el spread
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#liquidez-y-horarios-de-mercado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        💧 Liquidez y horarios de mercado
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#que-es-un-indice-bursatil" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📉 ¿Qué es un índice bursátil?
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#comisiones-habituales-de-un-broker" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        💸 Comisiones habituales de un bróker
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ejemplo-practico-simulado-paso-a-paso" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🧪 Ejemplo práctico simulado paso a paso
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#validez-de-las-ordenes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ⏳ Validez de las órdenes
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mercado-primario-vs-mercado-secundario" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🏗️ Mercado primario vs. mercado secundario
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#el-libro-de-ordenes-order-book-y-la-profundidad-de-mercado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📖 El libro de órdenes (order book) y la profundidad de mercado
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#creadores-de-mercado-market-makers" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🤝 Creadores de mercado (market makers)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#fraccionamiento-de-acciones-fractional-shares" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ✂️ Fraccionamiento de acciones (fractional shares)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dividendos-fecha-ex-dividendo-y-pago" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📅 Dividendos: fecha ex-dividendo y pago
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#operar-en-mercados-internacionales" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🌐 Operar en mercados internacionales
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#faq-de-esta-carpeta" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ❓ FAQ de esta carpeta
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#simuladores-y-cuentas-demo-antes-de-operar-con-dinero-real" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🕹️ Simuladores y cuentas demo antes de operar con dinero real
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resumen-visual-del-proceso-completo" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🧭 Resumen visual del proceso completo
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#errores-frecuentes-al-enviar-ordenes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ⚠️ Errores frecuentes al enviar órdenes
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resumen-de-este-documento" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ✅ Resumen de este documento
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#terminos-en-ingles-que-veras-en-casi-cualquier-app-de-broker" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🗣️ Términos en inglés que verás en casi cualquier app de bróker
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#para-seguir-profundizando" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🔗 Para seguir profundizando
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../03-riesgo-diversificacion-fiscalidad/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    03 Riesgo, diversificación y fiscalidad
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../04-glosario-primeros-pasos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    04 Glosario y primeros pasos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4">
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Criptomonedas
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Criptomonedas
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../criptomonedas/00-introduccion-blockchain/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    00 Introducción y blockchain
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../criptomonedas/01-monederos-wallets/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    01 Monederos y wallets
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../criptomonedas/02-exchanges-seguridad-regulacion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    02 Exchanges, seguridad y regulación
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../criptomonedas/03-tipos-de-criptoactivos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    03 Tipos de criptoactivos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../criptomonedas/04-primeros-pasos-practicos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    04 Primeros pasos prácticos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5">
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    eXeLearning
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    eXeLearning
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../exelearning/00-introduccion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    00 Introducción
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6">
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    TikTok
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    TikTok
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../tiktok/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Apps y recursos (colección Inglés)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7">
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Webvilla
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Webvilla
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../webvilla/tarjeta-noticia/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tarjeta de noticia
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../webvilla/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inicio
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../webvilla/claude-chrome-divi/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    MCP, Claude Code y Claude en Chrome
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../webvilla/webconf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    configuración
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+      
+        <li class="md-nav__item">
+  <a href="#el-ciclo-de-vida-de-una-orden" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🔄 El ciclo de vida de una orden
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tipos-de-ordenes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🎯 Tipos de órdenes
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="🎯 Tipos de órdenes">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#orden-a-mercado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Orden a mercado
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#orden-limitada" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Orden limitada
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#orden-stop-stop-loss" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Orden stop / stop loss
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#orden-stop-limit" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Orden stop limit
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bid-ask-y-el-spread" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        💰 Bid, Ask y el spread
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#liquidez-y-horarios-de-mercado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        💧 Liquidez y horarios de mercado
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#que-es-un-indice-bursatil" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📉 ¿Qué es un índice bursátil?
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#comisiones-habituales-de-un-broker" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        💸 Comisiones habituales de un bróker
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ejemplo-practico-simulado-paso-a-paso" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🧪 Ejemplo práctico simulado paso a paso
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#validez-de-las-ordenes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ⏳ Validez de las órdenes
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mercado-primario-vs-mercado-secundario" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🏗️ Mercado primario vs. mercado secundario
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#el-libro-de-ordenes-order-book-y-la-profundidad-de-mercado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📖 El libro de órdenes (order book) y la profundidad de mercado
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#creadores-de-mercado-market-makers" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🤝 Creadores de mercado (market makers)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#fraccionamiento-de-acciones-fractional-shares" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ✂️ Fraccionamiento de acciones (fractional shares)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dividendos-fecha-ex-dividendo-y-pago" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📅 Dividendos: fecha ex-dividendo y pago
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#operar-en-mercados-internacionales" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🌐 Operar en mercados internacionales
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#faq-de-esta-carpeta" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ❓ FAQ de esta carpeta
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#simuladores-y-cuentas-demo-antes-de-operar-con-dinero-real" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🕹️ Simuladores y cuentas demo antes de operar con dinero real
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resumen-visual-del-proceso-completo" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🧭 Resumen visual del proceso completo
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#errores-frecuentes-al-enviar-ordenes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ⚠️ Errores frecuentes al enviar órdenes
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resumen-de-este-documento" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ✅ Resumen de este documento
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#terminos-en-ingles-que-veras-en-casi-cualquier-app-de-broker" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🗣️ Términos en inglés que verás en casi cualquier app de bróker
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#para-seguir-profundizando" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🔗 Para seguir profundizando
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="como-funciona-una-orden-de-compraventa">🖱️ Cómo funciona una orden de compra/venta</h1>
+<blockquote>
+<p>El momento en el que realmente "haces algo" con tu cuenta de trading es cuando envías una orden. Entender qué tipos existen evita sorpresas.</p>
+</blockquote>
+<div class="admonition warning">
+<p class="admonition-title">Recordatorio</p>
+<p>Este documento explica el funcionamiento técnico de los mercados y de las órdenes. No es una recomendación sobre qué comprar, vender ni cuándo hacerlo.</p>
+</div>
+<h2 id="el-ciclo-de-vida-de-una-orden">🔄 El ciclo de vida de una orden</h2>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../assets/img/trade/ciclo_orden.png" data-desc-position="bottom"><img alt="Ciclo de vida de una orden de bolsa" src="../../assets/img/trade/ciclo_orden.png"></a></p>
+<p>Cuando pulsas "comprar" o "vender" en tu app de bróker, ocurre lo siguiente, simplificado:</p>
+<ol>
+<li><strong>Eliges el activo y la cantidad</strong> (por ejemplo, 3 participaciones de un ETF).</li>
+<li><strong>Eliges el tipo de orden</strong> (a mercado, limitada, stop...), que determina a qué precio y en qué condiciones se ejecutará.</li>
+<li><strong>Tu bróker envía la orden al mercado</strong> correspondiente (la bolsa donde cotiza ese activo, o un sistema interno de casamiento de órdenes).</li>
+<li><strong>El mercado busca una contrapartida</strong>: alguien que quiera vender (si tú compras) o comprar (si tú vendes) en condiciones compatibles con tu orden.</li>
+<li><strong>La orden se ejecuta</strong> (total o parcialmente) <strong>y se liquida</strong>: los títulos pasan a tu cuenta y el efectivo sale de ella (o al revés, si vendes). La liquidación efectiva de los títulos puede tardar uno o varios días hábiles según el mercado (lo habitual en muchos mercados es "T+2", es decir, dos días hábiles tras la operación).</li>
+</ol>
+<h2 id="tipos-de-ordenes">🎯 Tipos de órdenes</h2>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../assets/img/trade/tipos_ordenes.png" data-desc-position="bottom"><img alt="Tipos de órdenes de compra/venta" src="../../assets/img/trade/tipos_ordenes.png"></a></p>
+<h3 id="orden-a-mercado">Orden a mercado</h3>
+<p>Se ejecuta <strong>inmediatamente</strong>, al mejor precio disponible en ese momento.</p>
+<ul>
+<li><strong>Ventaja</strong>: rapidez, prácticamente garantizada su ejecución si hay suficiente liquidez.</li>
+<li><strong>Riesgo</strong>: en activos poco líquidos o con mucha volatilidad puntual, el precio final de ejecución puede ser distinto (peor) del que veías justo antes de enviar la orden. Esto se conoce como <strong>slippage</strong> (deslizamiento).</li>
+</ul>
+<h3 id="orden-limitada">Orden limitada</h3>
+<p>Se ejecuta <strong>solo si el precio de mercado llega al límite que fijas</strong> (o mejora).</p>
+<ul>
+<li>Si compras con orden limitada a 50 €, solo se ejecutará a 50 € o menos.</li>
+<li>Si vendes con orden limitada a 50 €, solo se ejecutará a 50 € o más.</li>
+<li><strong>Ventaja</strong>: control total sobre el precio.</li>
+<li><strong>Riesgo</strong>: puede no llegar a ejecutarse nunca si el mercado no alcanza ese precio.</li>
+</ul>
+<h3 id="orden-stop-stop-loss">Orden stop / stop loss</h3>
+<p>Se activa (se convierte en una orden a mercado, normalmente) <strong>cuando el precio cae hasta un nivel determinado</strong>, con el objetivo de limitar pérdidas en una posición ya abierta.</p>
+<ul>
+<li><strong>Ventaja</strong>: automatiza la gestión del riesgo, sin necesidad de estar pendiente todo el día.</li>
+<li><strong>Riesgo</strong>: en caídas muy rápidas y puntuales ("mechas"), se puede ejecutar a un precio peor del esperado, o activarse por una caída momentánea que luego se recupera.</li>
+</ul>
+<h3 id="orden-stop-limit">Orden stop limit</h3>
+<p>Combina las dos anteriores: cuando el precio llega al nivel de activación (stop), se genera una orden limitada (no a mercado) con el precio límite que hayas fijado.</p>
+<ul>
+<li><strong>Ventaja</strong>: más control sobre el precio de ejecución que un stop simple.</li>
+<li><strong>Riesgo</strong>: si el precio se mueve muy rápido, puede no llegar a ejecutarse porque salte por encima/por debajo del límite fijado sin llegar a cruzarse.</li>
+</ul>
+<h2 id="bid-ask-y-el-spread">💰 Bid, Ask y el spread</h2>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../assets/img/trade/bid_ask_spread.png" data-desc-position="bottom"><img alt="Spread: la diferencia entre comprar y vender" src="../../assets/img/trade/bid_ask_spread.png"></a></p>
+<p>En cualquier mercado existen, en todo momento, dos precios:</p>
+<ul>
+<li><strong>Bid (precio de venta / demanda)</strong>: el precio máximo que alguien está dispuesto a pagar ahora mismo por ese activo.</li>
+<li><strong>Ask (precio de compra / oferta)</strong>: el precio mínimo al que alguien está dispuesto a vender ahora mismo.</li>
+</ul>
+<p>La diferencia entre ambos se llama <strong>spread</strong>. Cuanto más líquido es un activo (más volumen de compraventa), más estrecho suele ser el spread; cuanto menos líquido, más ancho, lo que en la práctica es un coste implícito para quien opera (compras un poco más caro y vendes un poco más barato de lo que parece "el precio" a simple vista).</p>
+<h2 id="liquidez-y-horarios-de-mercado">💧 Liquidez y horarios de mercado</h2>
+<p>La <strong>liquidez</strong> de un mercado o activo se refiere a la facilidad para comprar/vender sin que ello mueva mucho el precio. Factores que afectan a la liquidez:</p>
+<ul>
+<li><strong>Volumen de negociación</strong>: cuántas operaciones se hacen habitualmente sobre ese activo.</li>
+<li><strong>Horario de mercado</strong>: cada bolsa tiene un horario de apertura y cierre (por ejemplo, la Bolsa de Madrid opera aproximadamente de 9:00 a 17:30, hora peninsular española, en el mercado continuo; los horarios exactos y las subastas de apertura/cierre conviene consultarlos en la fuente oficial del mercado). Fuera de ese horario, las órdenes pueden quedar pendientes hasta la siguiente sesión, o ejecutarse en mercados fuera de horario con condiciones distintas si el bróker lo ofrece.</li>
+<li><strong>Festivos y sesiones especiales</strong>: los mercados suelen cerrar en festivos nacionales o locales del país donde radica la bolsa.</li>
+</ul>
+<p>Algunos brókers ofrecen también acceso a mercados internacionales (Estados Unidos, otros países europeos), cada uno con su propio horario y calendario de festivos, lo que conviene tener en cuenta al planificar cuándo enviar una orden.</p>
+<h2 id="que-es-un-indice-bursatil">📉 ¿Qué es un índice bursátil?</h2>
+<p>Un <strong>índice bursátil</strong> es un indicador que resume la evolución conjunta de un grupo representativo de activos (normalmente acciones), ponderadas según algún criterio (capitalización bursátil, precio, etc.). Ejemplos habituales:</p>
+<ul>
+<li><strong>IBEX 35</strong>: las 35 empresas de mayor liquidez cotizadas en la bolsa española.</li>
+<li><strong>S&amp;P 500</strong>: 500 grandes empresas cotizadas en Estados Unidos.</li>
+<li><strong>Euro Stoxx 50</strong>: 50 grandes empresas de la zona euro.</li>
+<li><strong>MSCI World</strong>: miles de empresas de mercados desarrollados de todo el mundo.</li>
+</ul>
+<p>Los índices sirven tanto como termómetro del mercado (para saber "cómo va la bolsa" en general) como de referencia para fondos y ETF indexados, que replican su composición.</p>
+<h2 id="comisiones-habituales-de-un-broker">💸 Comisiones habituales de un bróker</h2>
+<p>Antes de operar, conviene entender qué comisiones puede aplicar tu plataforma, porque afectan directamente a la rentabilidad neta:</p>
+<table>
+<thead>
+<tr>
+<th>Tipo de comisión</th>
+<th>Cuándo se aplica</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Comisión de compra/venta</td>
+<td>Al ejecutar una orden (a veces un importe fijo, a veces un porcentaje)</td>
+</tr>
+<tr>
+<td>Comisión de custodia</td>
+<td>Por mantener activos depositados (algunos brókers no la cobran)</td>
+</tr>
+<tr>
+<td>Comisión de cambio de divisa</td>
+<td>Al comprar activos denominados en una moneda distinta a la de tu cuenta</td>
+</tr>
+<tr>
+<td>Comisión de gestión (en fondos/ETF)</td>
+<td>Cobrada por la gestora del fondo, no por el bróker directamente, y ya está descontada del valor liquidativo</td>
+</tr>
+<tr>
+<td>Comisión por inactividad</td>
+<td>Algunos brókers la cobran si la cuenta no registra actividad durante un periodo prolongado</td>
+</tr>
+<tr>
+<td>Comisión por retirada de efectivo</td>
+<td>Al transferir dinero desde la cuenta a tu banco, en algunos brókers</td>
+</tr>
+</tbody>
+</table>
+<p>Un pequeño porcentaje de comisión puede parecer insignificante en una operación puntual, pero <strong>se acumula a lo largo de los años</strong> y afecta de forma relevante a la rentabilidad final, especialmente si se opera con frecuencia.</p>
+<h2 id="ejemplo-practico-simulado-paso-a-paso">🧪 Ejemplo práctico simulado paso a paso</h2>
+<p>Supongamos (ejemplo puramente ilustrativo, sin relación con ningún activo real) que quieres comprar participaciones de un ETF que cotiza a 100 €:</p>
+<ol>
+<li>Compruebas el <strong>bid/ask</strong>: bid 99,95 €, ask 100,05 € → spread de 0,10 €.</li>
+<li>Decides una <strong>orden limitada de compra a 100,00 €</strong> (en vez de una orden a mercado) para no pagar el ask completo.</li>
+<li>Envías la orden. Si alguien está dispuesto a vender a 100,00 € o menos, se ejecuta; si no, queda pendiente.</li>
+<li>La orden se ejecuta parcialmente: consigues 2 de las 3 participaciones que querías, porque solo había venta disponible para 2 a ese precio.</li>
+<li>Las 2 participaciones aparecen en tu cartera, normalmente con la liquidación efectiva completándose en los días hábiles siguientes según el mercado.</li>
+<li>La participación restante puede quedar como orden pendiente (si no la cancelas) hasta que se cumpla el precio o hasta la fecha de caducidad de la orden que hayas configurado (día, semana, "hasta cancelación"...).</li>
+</ol>
+<h2 id="validez-de-las-ordenes">⏳ Validez de las órdenes</h2>
+<p>Al enviar una orden, normalmente puedes elegir cuánto tiempo permanece activa si no se ejecuta de inmediato:</p>
+<ul>
+<li><strong>Día (Day)</strong>: válida solo durante la sesión de ese día; si no se ejecuta, se cancela automáticamente al cierre.</li>
+<li><strong>Hasta cancelación (GTC – Good Till Cancelled)</strong>: permanece activa varios días hasta que se ejecute o la canceles tú mismo (algunos brókers limitan el máximo de días).</li>
+<li><strong>Todo o nada / ejecución parcial</strong>: según configuración, una orden se puede ejecutar completa de una vez, o en varias ejecuciones parciales a medida que aparece contrapartida.</li>
+</ul>
+<h2 id="mercado-primario-vs-mercado-secundario">🏗️ Mercado primario vs. mercado secundario</h2>
+<p>Es útil distinguir entre dos momentos distintos en la vida de un activo cotizado:</p>
+<ul>
+<li><strong>Mercado primario</strong>: cuando una empresa (o un Estado) emite por primera vez acciones o bonos para captar capital directamente (por ejemplo, una salida a bolsa u "OPV/IPO", o una subasta de deuda pública). El dinero va directamente al emisor.</li>
+<li><strong>Mercado secundario</strong>: donde se negocian esos mismos activos entre inversores, una vez ya emitidos (comprar/vender acciones en la bolsa, por ejemplo). El dinero no va a la empresa, sino que cambia de manos entre compradores y vendedores.</li>
+</ul>
+<p>Cuando un particular compra acciones de una empresa que ya cotiza desde hace años, casi siempre está operando en el <strong>mercado secundario</strong>: le compra las acciones a otro inversor, no a la empresa directamente.</p>
+<h2 id="el-libro-de-ordenes-order-book-y-la-profundidad-de-mercado">📖 El libro de órdenes (order book) y la profundidad de mercado</h2>
+<p>Cada mercado mantiene, en todo momento, un <strong>libro de órdenes</strong>: la lista de órdenes de compra y venta pendientes, a distintos precios. Un ejemplo simplificado:</p>
+<table>
+<thead>
+<tr>
+<th>Compras (Bid)</th>
+<th>Precio</th>
+<th>Ventas (Ask)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>150 títulos</td>
+<td>99,90 €</td>
+<td></td>
+</tr>
+<tr>
+<td>80 títulos</td>
+<td>99,95 €</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>100,05 €</td>
+<td>120 títulos</td>
+</tr>
+<tr>
+<td></td>
+<td>100,10 €</td>
+<td>200 títulos</td>
+</tr>
+</tbody>
+</table>
+<p>En este ejemplo, si envías una orden de compra a mercado, se ejecutaría contra la mejor oferta de venta disponible (100,05 €, por 120 títulos); si tu orden fuera mayor a 120 títulos, el resto se ejecutaría al siguiente nivel de precio disponible (100,10 €), lo que puede hacer que el precio medio de tu compra sea algo superior al precio que veías inicialmente en pantalla. Esto es especialmente relevante en activos poco líquidos o en órdenes de gran tamaño.</p>
+<p>La <strong>profundidad de mercado</strong> (cuántas órdenes hay acumuladas a cada nivel de precio) es un indicador de liquidez: cuanta más profundidad, más fácil es ejecutar órdenes grandes sin mover mucho el precio.</p>
+<h2 id="creadores-de-mercado-market-makers">🤝 Creadores de mercado (market makers)</h2>
+<p>En muchos mercados existen participantes llamados <strong>creadores de mercado (market makers)</strong>, cuya función es ofrecer continuamente precios de compra y venta para un activo, aportando liquidez incluso cuando no hay coincidencia directa entre compradores y vendedores particulares en ese instante. Su beneficio suele provenir precisamente del spread (compran al bid y venden al ask). Su presencia ayuda a que los mercados, especialmente los menos líquidos, tengan precios disponibles de forma más continua.</p>
+<h2 id="fraccionamiento-de-acciones-fractional-shares">✂️ Fraccionamiento de acciones (fractional shares)</h2>
+<p>Tradicionalmente, las acciones se compraban en unidades enteras. Sin embargo, muchos brókers actuales permiten comprar <strong>participaciones fraccionadas</strong> (por ejemplo, 0,1 acciones de una empresa cuyo precio unitario es elevado), lo que facilita diversificar con importes pequeños sin necesidad de reunir el precio completo de una acción cara. Conviene comprobar si tu bróker ofrece esta posibilidad y si tiene alguna particularidad (por ejemplo, restricciones para vender fracciones, o si las fracciones no incluyen derecho de voto).</p>
+<h2 id="dividendos-fecha-ex-dividendo-y-pago">📅 Dividendos: fecha ex-dividendo y pago</h2>
+<p>Cuando una empresa reparte un dividendo, existen varias fechas relevantes a entender:</p>
+<ul>
+<li><strong>Fecha de declaración</strong>: cuando la empresa anuncia el dividendo.</li>
+<li><strong>Fecha ex-dividendo</strong>: a partir de este día, quien compre la acción ya no tiene derecho a cobrar ese dividendo concreto (el derecho se queda con quien la poseía el día anterior). El precio de la acción suele ajustarse a la baja aproximadamente en el importe del dividendo ese mismo día, como reflejo contable de la salida de caja de la empresa.</li>
+<li><strong>Fecha de registro</strong>: fecha en la que se determina qué accionistas constan como beneficiarios.</li>
+<li><strong>Fecha de pago</strong>: cuando el dividendo se abona efectivamente en la cuenta.</li>
+</ul>
+<p>Es un error común pensar que comprar justo antes de la fecha ex-dividendo es una forma de "ganar dinero fácil": el precio de la acción suele ajustarse a la baja en un importe similar al dividendo, por lo que el efecto neto para quien compra en ese momento concreto no es tan ventajoso como parece a simple vista, y además el dividendo tributa.</p>
+<h2 id="operar-en-mercados-internacionales">🌐 Operar en mercados internacionales</h2>
+<p>Si tu bróker permite comprar activos que cotizan en otros países, ten en cuenta:</p>
+<ul>
+<li><strong>Horario distinto</strong>: por ejemplo, el mercado estadounidense abre por la tarde en horario peninsular español.</li>
+<li><strong>Divisa distinta</strong>: si compras en dólares u otra moneda, existe conversión de divisa (con su comisión asociada) y riesgo de tipo de cambio sobre el resultado final en euros.</li>
+<li><strong>Festivos distintos</strong>: cada mercado tiene su propio calendario de días no operativos.</li>
+<li><strong>Retenciones fiscales internacionales</strong>: los dividendos de empresas extranjeras pueden sufrir una retención en origen (por ejemplo, en Estados Unidos), que en muchos casos se puede recuperar parcialmente gracias a los convenios de doble imposición entre países, aunque el trámite y el porcentaje recuperable dependen de cada caso.</li>
+</ul>
+<h2 id="faq-de-esta-carpeta">❓ FAQ de esta carpeta</h2>
+<p><strong>¿Por qué el precio que veo en la app no es exactamente al que se ejecuta mi orden?</strong>
+Porque entre que ves el precio y envías la orden, el mercado puede haberse movido, y porque una orden a mercado se ejecuta contra el libro de órdenes disponible en ese instante (ver la sección de profundidad de mercado), no contra un precio fijo.</p>
+<p><strong>¿Qué pasa si envío una orden y luego me arrepiento?</strong>
+Si aún no se ha ejecutado (por ejemplo, una orden limitada que no ha llegado a su precio), normalmente puedes cancelarla desde la app antes de que se ejecute. Si ya se ha ejecutado, tendrías que enviar una orden en sentido contrario para deshacer la posición, asumiendo el precio de mercado del momento.</p>
+<p><strong>¿Es mejor operar siempre con órdenes limitadas?</strong>
+No necesariamente: en activos muy líquidos (grandes índices, grandes empresas) una orden a mercado suele ejecutarse a un precio muy similar al que ves en pantalla. En activos poco líquidos, una orden limitada da más control, a cambio de no garantizar la ejecución.</p>
+<p><strong>¿Puedo perder dinero solo por el spread, sin que el precio "real" cambie?</strong>
+Sí: si compras al ask y vendes inmediatamente al bid, sin que el precio subyacente se mueva, pagarías el spread completo como coste, sin haber ganado ni perdido por movimiento de mercado.</p>
+<h2 id="simuladores-y-cuentas-demo-antes-de-operar-con-dinero-real">🕹️ Simuladores y cuentas demo antes de operar con dinero real</h2>
+<p>Antes de enviar tu primera orden real, muchos brókers ofrecen una <strong>cuenta demo o simulador</strong>, que permite practicar el envío de distintos tipos de órdenes con dinero ficticio y condiciones de mercado reales (o casi reales). Aunque el comportamiento psicológico ante una pérdida "de mentira" nunca es idéntico al de una pérdida real, sí es una forma útil de:</p>
+<ul>
+<li>Familiarizarte con la interfaz de tu bróker sin riesgo.</li>
+<li>Comprobar cómo se comportan las órdenes limitadas y stop en la práctica.</li>
+<li>Detectar errores de manejo (por ejemplo, confundir cantidad con importe, o el tipo de orden) antes de que cuesten dinero real.</li>
+</ul>
+<p>Si tu plataforma no ofrece cuenta demo, una alternativa razonable es empezar directamente con importes muy pequeños en la cuenta real, asumiendo que ese dinero forma parte del "coste de aprendizaje".</p>
+<h2 id="resumen-visual-del-proceso-completo">🧭 Resumen visual del proceso completo</h2>
+<p>Uniendo todo lo visto en este documento, el proceso completo de una operación sería:</p>
+<ol>
+<li>Analizas el activo y decides cantidad y tipo de orden (mercado, limitada, stop...).</li>
+<li>Compruebas el bid/ask y la profundidad de mercado disponible.</li>
+<li>Envías la orden dentro del horario de negociación del mercado correspondiente.</li>
+<li>La orden se casa contra el libro de órdenes (total o parcialmente).</li>
+<li>Se liquida la operación (normalmente T+2 en muchos mercados de acciones).</li>
+<li>La posición aparece en tu cartera, con su coste medio, valor de mercado y rentabilidad no realizada actualizándose en tiempo real.</li>
+<li>Si el activo reparte dividendos, se aplican las fechas ex-dividendo, registro y pago correspondientes.</li>
+</ol>
+<h2 id="errores-frecuentes-al-enviar-ordenes">⚠️ Errores frecuentes al enviar órdenes</h2>
+<ul>
+<li><strong>Confundir "cantidad" con "importe"</strong>: algunos brókers permiten indicar cuánto dinero quieres invertir (y calculan cuántos títulos o fracciones te corresponden), y otros piden directamente el número de títulos. Revisar bien qué está pidiendo la app antes de confirmar.</li>
+<li><strong>No fijar un precio límite en activos poco líquidos</strong>: enviar una orden a mercado en un activo con poco volumen puede ejecutarse a un precio bastante distinto del esperado.</li>
+<li><strong>Olvidar cancelar órdenes pendientes</strong> que ya no tienen sentido, y que se ejecutan más adelante en un contexto de mercado distinto al que las motivó.</li>
+<li><strong>No revisar el horario del mercado de destino</strong>, sobre todo al operar en mercados internacionales con husos horarios distintos.</li>
+<li><strong>Enviar una orden de venta sin comprobar antes si el activo tiene alguna restricción temporal</strong> (por ejemplo, periodos de bloqueo en ciertos productos o promociones de bienvenida de algunos brókers).</li>
+</ul>
+<h2 id="resumen-de-este-documento">✅ Resumen de este documento</h2>
+<ul>
+<li>Una orden pasa por varias fases: creación, envío al mercado, búsqueda de contrapartida, ejecución y liquidación.</li>
+<li>Existen varios tipos de órdenes (mercado, limitada, stop loss, stop limit), cada una con ventajas y riesgos distintos.</li>
+<li>El spread (diferencia entre bid y ask) es un coste implícito que depende de la liquidez del activo.</li>
+<li>Los horarios de mercado y la liquidez afectan a cuándo y a qué precio se ejecuta una orden.</li>
+<li>Las comisiones (compra/venta, custodia, cambio de divisa...) impactan la rentabilidad neta a largo plazo.</li>
+</ul>
+<h2 id="terminos-en-ingles-que-veras-en-casi-cualquier-app-de-broker">🗣️ Términos en inglés que verás en casi cualquier app de bróker</h2>
+<p>Muchas plataformas, aunque estén traducidas al español, mantienen términos en inglés en pantallas concretas o en informes. Una pequeña chuleta:</p>
+<table>
+<thead>
+<tr>
+<th>Inglés</th>
+<th>Español</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Market order</td>
+<td>Orden a mercado</td>
+</tr>
+<tr>
+<td>Limit order</td>
+<td>Orden limitada</td>
+</tr>
+<tr>
+<td>Stop loss</td>
+<td>Orden de stop / limitación de pérdidas</td>
+</tr>
+<tr>
+<td>Bid / Ask</td>
+<td>Precio de compra / Precio de venta</td>
+</tr>
+<tr>
+<td>Spread</td>
+<td>Diferencial entre bid y ask</td>
+</tr>
+<tr>
+<td>Order book</td>
+<td>Libro de órdenes</td>
+</tr>
+<tr>
+<td>Fill / Filled</td>
+<td>Ejecución / Ejecutada</td>
+</tr>
+<tr>
+<td>Pending order</td>
+<td>Orden pendiente</td>
+</tr>
+<tr>
+<td>Settlement</td>
+<td>Liquidación</td>
+</tr>
+<tr>
+<td>Ex-dividend date</td>
+<td>Fecha ex-dividendo</td>
+</tr>
+</tbody>
+</table>
+<h2 id="para-seguir-profundizando">🔗 Para seguir profundizando</h2>
+<p>Entender el mecanismo de las órdenes es solo la mitad del trabajo: la otra mitad es decidir con criterio cuándo y cuánto comprar o vender, algo que depende directamente de tu perfil de riesgo y de tu estrategia de diversificación. Ese es precisamente el tema del siguiente documento de esta carpeta.</p>
+<hr>
+<p>Anterior: <a href="../01-tipos-de-activos/">01 · Tipos de activos</a> · Siguiente: <a href="../03-riesgo-diversificacion-fiscalidad/">03 · Riesgo, diversificación y fiscalidad</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copiado al portapapeles", "clipboard.copy": "Copiar al portapapeles", "search.result.more.one": "1 m\u00e1s en esta p\u00e1gina", "search.result.more.other": "# m\u00e1s en esta p\u00e1gina", "search.result.none": "No se encontraron documentos", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Teclee para comenzar b\u00fasqueda", "search.result.term.missing": "Falta", "select.version": "Seleccionar versi\u00f3n"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+        <script src="../../assets/javascripts/nav-toggle.js"></script>
+      
+    
+  
+<script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(()=>{ lightbox.reload(); });
+</script></body></html>
