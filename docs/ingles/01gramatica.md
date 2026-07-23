@@ -35,6 +35,17 @@ Los verbos modales no son tiempos verbales, modifican el significado del verbo p
 | **might** | I **might go** to the party, I'm not sure. *(Puede que vaya a la fiesta, no estoy seguro.)*<br>She **might not** come today. *(Puede que no venga hoy.)*<br>Take an umbrella — it **might rain**. *(Lleva paraguas, puede que llueva.)* | **Posibilidad remota** — puede que / quizás.<br> Posibilidad menor o más incierta que **may**. Expresa algo que **quizás** ocurra pero no es muy probable. |
 | **would** | I **would like** a coffee, please. *(Me gustaría un café, por favor.)*<br>**Would** you **mind** closing the door? *(¿Le importaría cerrar la puerta?)*<br>When I was a child, we **would visit** my grandparents every summer. *(Cuando era niño, visitábamos a mis abuelos cada verano.)* | **Condicional / petición muy educada / hábito pasado** — gustaría / haría.<br> Forma condicional (**me gustaría, haría**) y peticiones muy corteses. También sirve para hablar de hábitos pasados. |
 
+!!! tip "Especulación"
+    Cuando no estás 100% seguro de algo que pasó, usas **`modal + have + participio`** (la estructura es siempre igual, solo cambia el modal según tu nivel de certeza.):
+
+    - **must have** → estás bastante seguro (deducción lógica fuerte)
+    > She's not answering. → She must have left already. (seguro que ya se fue)
+    - **might have / could have** → es posible, pero no estás seguro
+    > He might have forgotten about the meeting. (quizás se le olvidó)
+    - **can't have** → estás seguro de que NO pasó
+    > She can't have finished already, it's only been 5 minutes. (es imposible que haya terminado)
+
+
 ## Verbos Irregulares
 
 | Infinitivo | Pasado Simple | Participio Pasado | Significado | Pronunciación (Infinitivo) |
@@ -284,9 +295,15 @@ Es muy importante conocer estas diferencias de registro porque puedes ofender o 
 ??? example "EJEMPLOS"
     **FORMAL**
 
-    - **Would it be possible** for me to take Friday off?
-    - **Thank you very much for** your help
+    - Peticiones corteses: **"I'd like to..."** / **"Would it be possible to...?"** en vez de traducir literalmente "quiero" o "podría ser posible"
+    > **Would it be possible** for me to take Friday off?
+    - **Thank you very much for your** help
     - I'm unable to attend due to a prior commitment
+    - **"Dear Sir/Madam,"** (si no sabes el nombre) o **"Dear [Name],"** si lo conoces.
+    - Para empezar cartas formales es **"I am writing to** ask... "
+    - Peticiones: "**if you could** give me information..."
+    - "**I would prefer to** update my level"
+    
 
     **INFORMAL**
 

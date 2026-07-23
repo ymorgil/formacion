@@ -20,3 +20,10 @@
 15. Después de "would/could/will" siempre va el verbo en forma base.
 16. La expresión natural es "**take a day off**" o simplemente "take Friday off". NO "the free day".
 17. Usamos "**make it**" en vez de "go" para citas/quedadas
+18. Mejor: **"Dear Sir/Madam,"** (si no sabes el nombre) o **"Dear [Name],"** si lo conoces.
+19. "Actually, I am studying English for my side" → **"Currently, I am studying English on my own"** → "actually" en inglés significa "en realidad" no "actualmente" y "for my side" → "on my own" (por mi cuenta).
+20. **interested in** → "interested" = que siente interés (I am interested). Y la preposición es in.
+21. "I would prefer to update my level" → Después de "prefer" necesitas "to" + verbo, y en formal usamos "would prefer" en vez de "prefer" a secas — suena más cortés.
+22. Formal:  Good morning, Laura. This is Yeray. → "This is [nombre]". Es una convención fija del teléfono.
+23. Formal: mejor "I'd like" que "I want" (suena más cortés)
+24. Con sensaciones que llevan un tiempo sintiendo, **present perfect continuous** suena más natural: "I've been feeling..."
