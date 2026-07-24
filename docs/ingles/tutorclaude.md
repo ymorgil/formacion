@@ -29,4 +29,5 @@
 24. Con sensaciones que llevan un tiempo sintiendo, **present perfect continuous** suena más natural: "I've been feeling..."
 25. Para cuando: "by when" no existe así — la expresión fija es **"by the time... + presente simple "**
 26. **"by the time" + presente simple** (no futuro ni pasado), y "next year/week/month" sin artículo.
-27. 
+27. **I can't put up with** → can't — "no aguanto" es más una cuestión de capacidad/límite ("no puedo soportarlo"), no una costumbre negativa.
+28. **"look forward to"** (tener ganas de) con **"look for"** (buscar), después de "look forward to", va -ing.

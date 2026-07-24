@@ -1,12 +1,8 @@
-# 📚 Phrasal Verbs — Guía de Referencia
+# 📚 Phrasal Verbs
 
-Los **phrasal verbs** son verbos formados por un verbo base + una partícula (preposición o adverbio) que juntos crean un significado nuevo, diferente al del verbo solo. Son muy comunes en el inglés cotidiano.
+Los **phrasal verbs** son verbos formados por un **verbo base + una partícula** (preposición o adverbio) que juntos crean un significado nuevo, diferente al del verbo solo. Son muy comunes en el inglés cotidiano.
 
-> **Ejemplo:** *look* = mirar → *look up* = buscar información / *look after* = cuidar
-
-## 🧩 Significado de las partículas
-
-Antes de memorizar verbo por verbo, fíjate en que **las partículas tienen un "sabor" repetido**. Reconocer este patrón te ahorra la mitad del trabajo:
+Antes de memorizar verbo por verbo, fíjate en que **las partículas tienen un "significado" repetido**. Reconocer este patrón te ahorra la mitad del trabajo. Cada vez que veas un verbo nuevo, pregúntate: *"¿qué tarea hace la partícula aquí?"* — normalmente encaja en una de estas ideas:
 
 | Partícula | Idea general | Ejemplos |
 |---|---|---|
@@ -18,10 +14,6 @@ Antes de memorizar verbo por verbo, fíjate en que **las partículas tienen un "
 | **back** | volver, devolver, repetir | *come back, pay back, call back* |
 | **away** | alejarse, desaparecer | *go away, run away* |
 | **over** | repetir, de nuevo, por completo | *think over, get over, take over* |
-
-Cada vez que veas un verbo nuevo, pregúntate: *"¿qué tarea hace la partícula aquí?"* — normalmente encaja en una de estas ideas.
-
----
 
 ## 🔵 Movement & Direction 
 
@@ -38,8 +30,6 @@ Cada vez que veas un verbo nuevo, pregúntate: *"¿qué tarea hace la partícula
 | go away | gou aguéi | irse, alejarse | *Go away, I'm busy!* — ¡Vete, estoy ocupado! |
 | run away | ran aguéi | escaparse, huir | *The dog ran away from the park.* — El perro se escapó del parque. |
 
----
-
 ## 🟢 Daily Routine
 
 | Phrasal Verb | Suena así | Significado | Ejemplo |
@@ -54,8 +44,6 @@ Cada vez que veas un verbo nuevo, pregúntate: *"¿qué tarea hace la partícula
 | turn off | tern of | apagar | *Turn off the TV before bed.* — Apaga la tele antes de dormir. |
 | eat out | it aut | comer fuera | *Let's eat out tonight.* — Cenemos fuera esta noche. |
 | stay up | estéi ap | quedarse despierto | *I stayed up until midnight.* — Me quedé despierto hasta medianoche. |
-
----
 
 ## 🟡 Communication
 
@@ -72,8 +60,6 @@ Cada vez que veas un verbo nuevo, pregúntate: *"¿qué tarea hace la partícula
 | come up | cam ap | surgir (un tema) | *A new problem came up.* — Surgió un nuevo problema. |
 | get back to | guet bak tu | responder más tarde | *I'll get back to you on that.* — Te responderé sobre eso más tarde. |
 
----
-
 ## 🟠 Work & Study
 
 | Phrasal Verb | Suena así | Significado | Ejemplo |
@@ -88,8 +74,6 @@ Cada vez que veas un verbo nuevo, pregúntate: *"¿qué tarea hace la partícula
 | carry out | kári aut | llevar a cabo, realizar | *They carried out the research.* — Llevaron a cabo la investigación. |
 | take on | téik on | asumir (responsabilidad) | *He took on too many tasks.* — Asumió demasiadas tareas. |
 | give up | guiv ap | rendirse, abandonar | *Don't give up on your dreams.* — No abandones tus sueños. |
-
----
 
 ## 🔴 Relationships
 
@@ -106,8 +90,6 @@ Cada vez que veas un verbo nuevo, pregúntate: *"¿qué tarea hace la partícula
 | look down on | luk daun on | menospreciar | *Don't look down on others.* — No menosprecies a los demás. |
 | put up with | put ap güid | aguantar, soportar | *I can't put up with this noise.* — No puedo aguantar este ruido. |
 
----
-
 ## 🟣 Health & Feelings
 
 | Phrasal Verb | Suena así | Significado | Ejemplo |
@@ -123,8 +105,6 @@ Cada vez que veas un verbo nuevo, pregúntate: *"¿qué tarea hace la partícula
 | break down | bréik daun | derrumbarse (emocionalmente) | *She broke down in tears.* — Se derrumbó llorando. |
 | look forward to | luk fórgüard tu | tener ganas de, esperar con ilusión | *I'm looking forward to the holidays.* — Tengo muchas ganas de las vacaciones. |
 
----
-
 ## 🔶 Money & Shopping
 
 | Phrasal Verb | Suena así | Significado | Ejemplo |
@@ -138,8 +118,6 @@ Cada vez que veas un verbo nuevo, pregúntate: *"¿qué tarea hace la partícula
 | put aside | put asáid | reservar (dinero) | *Put aside some money for emergencies.* — Reserva dinero para emergencias. |
 | rip off | rip of | estafar, timar | *That restaurant ripped us off.* — Ese restaurante nos timó. |
 
----
-
 ## ⚪ Travel & Transport
 
 | Phrasal Verb | Suena así | Significado | Ejemplo |
@@ -152,8 +130,6 @@ Cada vez que veas un verbo nuevo, pregúntate: *"¿qué tarea hace la partícula
 | pull over | pul óuver | parar (el coche al lado) | *The police told him to pull over.* — La policía le dijo que parara. |
 | break down | bréik daun | averiarse | *Our car broke down on the highway.* — El coche se averió en la autopista. |
 | see off | si of | despedir (a alguien) | *Her family came to see her off.* — Su familia vino a despedirla. |
-
----
 
 ## 💡 look / take
 
@@ -172,121 +148,61 @@ Estos dos verbos generan casi todas las dudas porque comparten partícula pero c
 | take over | téik óuver | hacerse cargo / tomar el control | *He took over the family business.* — Se hizo cargo del negocio familiar. |
 | take after | téik áfter | parecerse a (familiar) | *You really take after your mother.* — Te pareces mucho a tu madre. |
 
----
+## 🔁 Resumen
 
-## 🔁 Repaso exprés
+??? abstract "Listado de GET"
+    | Phrasal Verb | Suena así | Significado | Ejemplo |
+    |||||
+    |**1. Movimiento / Transporte**||||
+    | get on | guet on | subir (bus, tren) | *Get on the train.* — Sube al tren. |
+    | get off | guet of | bajar (bus, tren) | *Get off here.* — Bájate aquí. |
+    | get in | guet in | subir (coche) / llegar | *Get in the car.* — Sube al coche. |
+    | get out (of) | guet aut (ov) | salir / bajarse (coche) | *Get out of the car.* — Sal del coche. |
+    | get around | guet aráund | moverse, desplazarse por | *We got around by bike.* — Nos movíamos en bici. |
+    | get away | guet aguéi | escaparse, irse de vacaciones | *I need to get away this weekend.* — Necesito escaparme este finde. |
+    |**2. Cambio de estado**||||
+    | get up | guet ap | levantarse | *I get up early.* — Me levanto temprano. |
+    | get dressed | guet drest | vestirse | *Get dressed fast.* — Vístete rápido. |
+    | get better | guet béter | mejorar | *He's getting better.* — Está mejorando. |
+    | get worse | guet uérs | empeorar | *The weather got worse.* — El tiempo empeoró. |
+    | get married | guet márrid | casarse | *They got married in June.* — Se casaron en junio. |
+    | get lost | guet lost | perderse | *We got lost downtown.* — Nos perdimos en el centro. |
+    | get ready | guet rédi | prepararse | *Get ready, we're leaving.* — Prepárate, nos vamos. |
+    |**3. Superar / gestionar situaciones**|---|---||
+    | get over | guet óuver | superar, recuperarse de | *She got over the breakup.* — Superó la ruptura. |
+    | get through | guet zru | pasar por (algo difícil) / comunicar | *We got through the crisis.* — Pasamos la crisis. |
+    | get by | guet bái | apañárselas, sobrevivir | *We get by with little money.* — Nos apañamos con poco dinero. |
+    | get away with | guet aguéi güid | salirse con la suya, no pagar por algo | *He got away with lying.* — Se salió con la suya mintiendo. |
+    | get down to | guet daun tu | ponerse en serio con | *Let's get down to business.* — Vayamos al grano. |
+    | get on with | guet on güid | continuar con / llevarse bien con | *Get on with your work.* — Sigue con tu trabajo. |
+    |**4. Comunicación / relación**|---|---||
+    | get back to | guet bak tu | responder más tarde | *I'll get back to you.* — Te respondo luego. |
+    | get through to | guet zru tu | contactar con, hacerse entender | *I couldn't get through to him.* — No pude contactar con él. |
+    | get on (with) | guet on (güid) | llevarse bien | *I get on with my boss.* — Me llevo bien con mi jefe. |
+    | get across | guet acrós | hacer entender (una idea) | *He got his point across.* — Consiguió que entendieran su idea. |
 
-Tapa la columna de significado y traduce mentalmente. Luego comprueba:
+??? abstract "Listado de MAKE"
+    | Phrasal Verb / Expresión | Suena así | Significado | Ejemplo |
+    |||||
+    |**1. Crear / producir**|---|---||
+    | make up | méik ap | inventar (una historia) | *He made up an excuse.* — Se inventó una excusa. |
+    | make out | méik aut | distinguir, entender algo confuso | *I can't make out his handwriting.* — No entiendo su letra. |
+    | make for | méik for | dirigirse hacia | *He made for the exit.* — Se dirigió a la salida. |
+    | make do (with) | méik du (güid) | apañarse con lo que hay | *We'll make do with what we have.* — Nos apañaremos con lo que tenemos. |
+    | make off with | méik of güid | huir con algo robado | *The thief made off with the bag.* — El ladrón huyó con el bolso. |
+    |**2. Reconciliación / relaciones**|---|---||
+    | make up (with) | méik ap (güid) | reconciliarse | *They made up after the fight.* — Se reconciliaron tras la pelea. |
+    | make up for | méik ap for | compensar | *He made up for being late.* — Compensó su retraso. |
 
-1. I need to `___` this word in the dictionary. *(buscar)*
-2. Don't `___` on your dreams. *(rendirse)*
-3. Who `___` your kids while you work? *(cuidar de)*
-4. The plane will `___` in ten minutes. *(despegar)*
-5. I'm `___` for my new phone. *(ahorrando)*
-6. Please `___` your homework before Friday. *(entregar)*
-
-<details>
-<summary>Ver respuestas</summary>
-
-1. look up
-2. give up
-3. looks after
-4. take off
-5. saving up
-6. hand in
-
-</details>
-
----
+    | Expresión no son phrasal verbs | Suena así | Significado | Ejemplo |
+    |||||
+    | make sense | méik sens | tener sentido | *This doesn't make sense.* — Esto no tiene sentido. |
+    | make sure | méik shur | asegurarse | *Make sure you lock the door.* — Asegúrate de cerrar la puerta. |
+    | make up your mind | méik ap iór máind | decidirse | *Make up your mind already!* — ¡Decídete de una vez! |
+    | make an effort | méik an éfort | esforzarse | *He made an effort to arrive early.* — Se esforzó por llegar temprano. |
+    | make a decision | méik a disíshon | tomar una decisión | *We need to make a decision.* — Necesitamos tomar una decisión. |
+    | make a mistake | méik a mistéik | cometer un error | *Everyone makes mistakes.* — Todos cometemos errores. |
+    | make progress | méik prógres | progresar | *She's making progress in English.* — Está progresando en inglés. |
+    | make room | méik rum | hacer sitio | *Make room for one more.* — Haz sitio para uno más. |
 
 > **Consejo de estudio:** Repasa primero la tabla de **partículas clave** — te da el "porqué" detrás de cada verbo. Luego aprende por categorías (contexto real), y termina con el repaso exprés para comprobar que lo retienes. Usar los phrasal verbs en frases propias y escucharlos en series o canciones acelera mucho la memorización. 🎧
-
----
-
-
-
-## 🟦 GET
-
-| Phrasal Verb | Suena así | Significado | Ejemplo |
-|---|---|---|**1. Movimiento / Transporte**|
-| get on | guet on | subir (bus, tren) | *Get on the train.* — Sube al tren. |
-| get off | guet of | bajar (bus, tren) | *Get off here.* — Bájate aquí. |
-| get in | guet in | subir (coche) / llegar | *Get in the car.* — Sube al coche. |
-| get out (of) | guet aut (ov) | salir / bajarse (coche) | *Get out of the car.* — Sal del coche. |
-| get around | guet aráund | moverse, desplazarse por | *We got around by bike.* — Nos movíamos en bici. |
-| get away | guet aguéi | escaparse, irse de vacaciones | *I need to get away this weekend.* — Necesito escaparme este finde. |
-|---|---|---|**2. Cambio de estado**|
-| get up | guet ap | levantarse | *I get up early.* — Me levanto temprano. |
-| get dressed | guet drest | vestirse | *Get dressed fast.* — Vístete rápido. |
-| get better | guet béter | mejorar | *He's getting better.* — Está mejorando. |
-| get worse | guet uérs | empeorar | *The weather got worse.* — El tiempo empeoró. |
-| get married | guet márrid | casarse | *They got married in June.* — Se casaron en junio. |
-| get lost | guet lost | perderse | *We got lost downtown.* — Nos perdimos en el centro. |
-| get ready | guet rédi | prepararse | *Get ready, we're leaving.* — Prepárate, nos vamos. |
-|---|---|---|**3. Superar / gestionar situaciones**|
-| get over | guet óuver | superar, recuperarse de | *She got over the breakup.* — Superó la ruptura. |
-| get through | guet zru | pasar por (algo difícil) / comunicar | *We got through the crisis.* — Pasamos la crisis. |
-| get by | guet bái | apañárselas, sobrevivir | *We get by with little money.* — Nos apañamos con poco dinero. |
-| get away with | guet aguéi güid | salirse con la suya, no pagar por algo | *He got away with lying.* — Se salió con la suya mintiendo. |
-| get down to | guet daun tu | ponerse en serio con | *Let's get down to business.* — Vayamos al grano. |
-| get on with | guet on güid | continuar con / llevarse bien con | *Get on with your work.* — Sigue con tu trabajo. |
-|---|---|---|**4. Comunicación / relación**|
-| get back to | guet bak tu | responder más tarde | *I'll get back to you.* — Te respondo luego. |
-| get through to | guet zru tu | contactar con, hacerse entender | *I couldn't get through to him.* — No pude contactar con él. |
-| get on (with) | guet on (güid) | llevarse bien | *I get on with my boss.* — Me llevo bien con mi jefe. |
-| get across | guet acrós | hacer entender (una idea) | *He got his point across.* — Consiguió que entendieran su idea. |
-
-## 🟥 MAKE
-
-| Phrasal Verb / Expresión | Suena así | Significado | Ejemplo |
-|---|---|---|**1. Crear / producir**|
-| make up | méik ap | inventar (una historia) | *He made up an excuse.* — Se inventó una excusa. |
-| make out | méik aut | distinguir, entender algo confuso | *I can't make out his handwriting.* — No entiendo su letra. |
-| make for | méik for | dirigirse hacia | *He made for the exit.* — Se dirigió a la salida. |
-| make do (with) | méik du (güid) | apañarse con lo que hay | *We'll make do with what we have.* — Nos apañaremos con lo que tenemos. |
-| make off with | méik of güid | huir con algo robado | *The thief made off with the bag.* — El ladrón huyó con el bolso. |
-|---|---|---|**2. Reconciliación / relaciones**|
-| make up (with) | méik ap (güid) | reconciliarse | *They made up after the fight.* — Se reconciliaron tras la pelea. |
-| make up for | méik ap for | compensar | *He made up for being late.* — Compensó su retraso. |
-|**Expresión no son phrasal verbs**|---|---|**3. Colocaciones fijas**|
-| make sense | méik sens | tener sentido | *This doesn't make sense.* — Esto no tiene sentido. |
-| make sure | méik shur | asegurarse | *Make sure you lock the door.* — Asegúrate de cerrar la puerta. |
-| make up your mind | méik ap iór máind | decidirse | *Make up your mind already!* — ¡Decídete de una vez! |
-| make an effort | méik an éfort | esforzarse | *He made an effort to arrive early.* — Se esforzó por llegar temprano. |
-| make a decision | méik a disíshon | tomar una decisión | *We need to make a decision.* — Necesitamos tomar una decisión. |
-| make a mistake | méik a mistéik | cometer un error | *Everyone makes mistakes.* — Todos cometemos errores. |
-| make progress | méik prógres | progresar | *She's making progress in English.* — Está progresando en inglés. |
-| make room | méik rum | hacer sitio | *Make room for one more.* — Haz sitio para uno más. |
-
----
-
-**⚠️ GET vs MAKE — el error más común**
-
-Muchos estudiantes confunden estos dos porque en español ambos se acercan a "hacer" o "conseguir". La regla práctica:
-
-| Usa... | Cuando... | Ejemplo |
-|---|---|---|
-| **make** | tú creas o produces algo activamente | *make a cake, make a decision, make a mistake* |
-| **get** | algo pasa a tu posesión, o cambias de estado (no necesariamente por tu acción) | *get a present, get married, get tired* |
-
-> Truco rápido: si puedes decir "*crear/producir*" en español, casi siempre es **make**. Si es "*conseguir/llegar a estar*", casi siempre es **get**.
-
----
-
-## 🔁 Repaso exprés
-
-1. I need to `___` sure I bring my passport. *(make)*
-2. She `___` married last year. *(got)*
-3. He `___` up an excuse for being late. *(made)*
-4. We `___` by with very little money. *(get)*
-5. Don't worry, we'll `___` do with what we have. *(make)*
-6. I couldn't `___` through to the office; the line was busy. *(get)*
-
----
-<details>
-<summary>Ver respuestas</summary>
-
----
-</details>
-
-*Guía creada para el aprendizaje del inglés — Niveles A2 a B2*

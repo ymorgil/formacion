@@ -22,9 +22,9 @@ nav:
    - Inicio: index.md
    - Inglés:
         - EOI: ingles/00-EOI.md
-        - Grammar: ingles/01gramatica.md
-        - 03 Grammar I: ingles/03grammar.md
-        - 05 Phrasal Verbs: ingles/05phrasal.md
+        - Gramática: ingles/01gramatica.md
+        - Gramática II: ingles/03grammar.md
+        - Phrasal Verbs: ingles/05phrasal.md
         - 10 Recursos: ingles/10recursos.md
         - 11 Dudas: ingles/11dudas.md
         - 12 Duolingo: ingles/12duo.md

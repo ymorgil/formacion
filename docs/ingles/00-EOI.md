@@ -40,7 +40,7 @@ Es habitual comparar la EOI con certificaciones internacionales como Cambridge, 
 | B2 | Intermedio avanzado | FCE / B2 First | 5.5 – 6.5 | 72 – 94 |
 | C1 | Avanzado | CAE / C1 Advanced | 7.0 – 8.0 | 95 – 120 |
 
-## 📅 Canarias Calendario
+### Canarias Calendario
 ??? info "Normativa Canaria que regula las enseñanzas y las pruebas de certificación"
     - **Real Decreto 1/2019**, de 11 de enero, que establece los principios básicos comunes de evaluación de los niveles Intermedio B1, Intermedio B2, Avanzado C1 y Avanzado C2 en toda España.
     - **Orden de 15 de septiembre de 2022** (BOC nº 190), por la que se regula la evaluación del alumnado y las pruebas de certificación de idiomas de régimen especial en Canarias.
@@ -100,7 +100,7 @@ Estos son los enlaces que hay que tener siempre a mano durante la preparación (
 | **PCEI** | Pruebas de Certificación de Enseñanzas de Idiomas | Nombre oficial del proceso completo de examen |
 | **BOC** | Boletín Oficial de Canarias | Donde se publican convocatoria y normativa |
 
-## 🧠 Antes de empezar 
+### Antes de empezar 
 
 1. En qué **nivel** (B1, B2 o C1) me voy a examinar en la próxima convocatoria.
 2. Si me presento como **aspirante libre** o estoy escolarizado en una EOI.
@@ -140,7 +140,7 @@ Estos son los enlaces que hay que tener siempre a mano durante la preparación (
 
 <hr style="border: none; height: 5px; background-color: #3498db;">
 
-## 💡💡💡
+
 
 ## 🔢 Examen y criterios
 > Los detalles exactos de cada convocatoria (duración en minutos, número de tareas) se confirman siempre en la **Guía para los aspirantes** del curso vigente, ya que pueden variar ligeramente de una convocatoria a otra.
@@ -157,7 +157,7 @@ El examen de certificación se organiza siempre en torno a **cinco actividades d
 
 ### Sesiones
 El examen se administra en **dos sesiones distintas**, pero cuenta como una sola prueba a efectos de calificación:
-![Bloques del examen](../assets/img/eoi/bloques_examen.png)
+
 
 1. **Sesión escrita (única y común)** Se realiza el mismo día para todos los aspirantes del mismo idioma y nivel, normalmente en un centro examinador designado. En esta sesión se evalúan de forma conjunta:
       - Comprensión de textos escritos (CE)
@@ -169,30 +169,8 @@ El examen se administra en **dos sesiones distintas**, pero cuenta como una sola
       - Producción y coproducción de textos orales (EIO): monólogo + interacción
       - Mediación oral (parte de MED)
 
-| Sesión escrita | Sesión oral |
-|---|---|
-| Todo el grupo del nivel a la vez | Individual o en pareja, ante tribunal |
-| Duración total aproximada | 2,5 - 3,5 horas seguidas | 15-25 minutos por aspirante, más tiempo de espera |
-| Gestión del tiempo entre tareas | Silencios, quedarse en blanco al hablar |
-| Estrategia de skim/scan (ver `03-comprension.md`) | Frases de "ganar tiempo" y de interacción (ver `05-expresion-oral.md`) |
-| No dejar ninguna pregunta en blanco: siempre es mejor una respuesta razonada que un hueco | Hablar con naturalidad aunque el examinador tome notas; no es un interrogatorio hostil |
+![Bloques del examen](../assets/img/eoi/bloques_examen.png)
 
-
-### Calificación
-Para obtener el certificado, la normativa exige **dos condiciones simultáneas**:
-
-1. **Superar cada una de las cinco actividades de lengua por separado**, con una puntuación mínima de **5 sobre 10** en cada una.
-2. **Obtener una media aritmética global de, al menos, 6,5 sobre 10** entre las cinco actividades.
-
-Si **cualquiera** de las dos condiciones falla —aunque sea una sola actividad por debajo de 5, o una media global de 6,4— el resultado es **"No apto"**, con independencia de lo bien que hayan ido el resto de partes. Esto tiene una implicación práctica muy importante: **no se puede "compensar" una actividad floja apoyándose solo en las demás**; hay que llegar mínimamente preparado/a a las cinco.
-
-![Criterios de calificación](../assets/img/eoi/criterios_calificacion.png)
-
-**Convocatoria ordinaria y extraordinaria**
-
-Quien no se presente, no supere la prueba, o quiera mejorar su resultado, dispone de una **convocatoria extraordinaria** dentro del mismo curso académico (habitualmente a principios de septiembre). Las condiciones exactas sobre si se guardan partes aprobadas de la ordinaria a la extraordinaria dependen de la normativa vigente cada curso y deben confirmarse en la guía del aspirante correspondiente.
-
-## ⏱️ Gestión del tiempo por actividad
 Un error muy común es **practicar sin cronómetro**: hacerlo así da una falsa sensación de control, porque en casa siempre hay más margen mental que en el aula de examen. Desde la segunda semana de preparación conviene cronometrar todas las tareas de comprensión y producción.
 
 La duración exacta de cada parte se fija en la Guía del aspirante de cada convocatoria y puede variar ligeramente entre niveles y cursos, pero como referencia orientativa para organizar la práctica:
@@ -204,10 +182,25 @@ La duración exacta de cada parte se fija en la Guía del aspirante de cada conv
 | EIE + mediación escrita | 60-75 min | 75-90 min | 90 min |
 | EIO + mediación oral | 15-20 min (con preparación previa) | 15-20 min | 20-25 min |
 
+**DESPUÉS DEL EXAMEN**
+
+1. **Publicación de resultados**: normalmente varias semanas después de la sesión oral, en la web de la Consejería y/o del centro examinador.
+2. **Plazo de vista de exámenes y reclamaciones**: quienes no superan la prueba, o quieren revisar su calificación, pueden solicitar ver su examen corregido dentro de un plazo determinado por la convocatoria.
+3. **Reclamación formal**: si tras la revisión se considera que la corrección no se ajusta a los criterios, existe un procedimiento de reclamación ante la propia EOI o la Consejería, con plazos y forma establecidos en cada convocatoria.
+4. **Expedición del certificado**: para quienes obtienen "Apto", el certificado se tramita después según los plazos administrativos habituales, que pueden tardar varios meses.
+
+### Certificación
+Para obtener el certificado, la normativa exige **dos condiciones simultáneas**:
+
+1. **Superar cada una de las cinco actividades de lengua por separado**, con una puntuación mínima de **5 sobre 10** en cada una.
+2. **Obtener una media aritmética global de, al menos, 6,5 sobre 10** entre las cinco actividades.
+
+Si **cualquiera** de las dos condiciones falla —aunque sea una sola actividad por debajo de 5, o una media global de 6,4— el resultado es **"No apto"**, con independencia de lo bien que hayan ido el resto de partes. Esto tiene una implicación práctica muy importante: **no se puede "compensar" una actividad floja apoyándose solo en las demás**; hay que llegar mínimamente preparado/a a las cinco.
+
+![Criterios de calificación](../assets/img/eoi/criterios_calificacion.png)
 
 
-## 🧑‍⚖️ Cómo se corrige: rúbricas
-
+### Calificación
 La producción escrita y la producción oral no se corrigen "a ojo": se usan **rúbricas oficiales** publicadas como apéndices de cada convocatoria (apéndices V-VIII), con criterios como:
 
 - **Adecuación a la tarea**: ¿responde a lo que se pedía, con la extensión y el formato correctos?
@@ -218,45 +211,7 @@ La producción escrita y la producción oral no se corrigen "a ojo": se usan **r
 
 Practicar con estas rúbricas delante, en lugar de solo "escribir y ya está", es una de las formas más eficaces de mejorar la nota rápidamente, porque permite auto-corregirse con los mismos criterios que usará el tribunal.
 
-
-
-
-
-## 🧪 Ejemplos de tareas reales por actividad
-
-Para hacerse una idea concreta (no exhaustiva, los modelos oficiales de convocatorias pasadas son la referencia definitiva):
-
-**CE — B1:** leer tres anuncios de piso y emparejarlos con las necesidades de tres personas descritas en un texto breve.
-
-**CE — B2:** leer un artículo de opinión sobre teletrabajo y responder preguntas de opción múltiple sobre la postura del autor.
-
-**CE — C1:** leer un fragmento literario o un ensayo y responder preguntas sobre matices, ironía o intención del autor que no están dichos de forma explícita.
-
-**CO — B1:** escuchar cinco mensajes de contestador automático y anotar la información clave de cada uno (nombre, motivo de la llamada, hora).
-
-**CO — B2:** escuchar una entrevista de radio y decidir si varias afirmaciones son verdaderas, falsas o no se mencionan.
-
-**CO — C1:** escuchar un fragmento de un debate con varios interlocutores y determinar de qué postura es partidario cada uno, incluyendo matices e ironías.
-
-**EIE — B1:** escribir un correo a un amigo contando cómo fueron las vacaciones (100-150 palabras).
-
-**EIE — B2:** escribir un artículo de opinión para el blog del centro sobre las ventajas y desventajas de las redes sociales (150-200 palabras).
-
-**EIE — C1:** escribir un informe formal dirigido a un ayuntamiento proponiendo mejoras para el transporte público, con datos y argumentos (200-250 palabras).
-
-**EIO — B1:** describir una foto y responder preguntas sencillas del examinador sobre rutinas diarias.
-
-**EIO — B2:** defender una opinión sobre un tema de actualidad y responder a las objeciones del examinador.
-
-**EIO — C1:** debatir sobre un dilema ético o social con matices, cediendo y rebatiendo argumentos con fluidez.
-
-**Mediación — B1:** leer una nota con horarios de un museo y explicárselos oralmente en inglés a un compañero que no sabe leerla.
-
-**Mediación — B2:** resumir por escrito, para un lector que no tiene tiempo de leer el original, las ideas principales de un artículo de dos páginas.
-
-**Mediación — C1:** explicar a alguien con una postura contraria los puntos clave de un texto polémico, manteniendo un tono neutral y matizado.
-
-## 📈 Cómo cambia la exigencia del corrector según el nivel
+**EXIGENCIA SEGÚN NIVEL**
 
 Un mismo error puede penalizar de forma muy distinta según el nivel del examen:
 
@@ -270,12 +225,36 @@ Un mismo error puede penalizar de forma muy distinta según el nivel del examen:
 
 Esto explica por qué **un texto "perfecto para B1" puede suspender en B2**, y por qué muchas personas con buena base gramatical fallan en C1: no es solo cuestión de "saber más gramática", sino de **naturalidad, precisión y variedad** en el uso.
 
-## 📬 Qué pasa después del examen
+??? example "Ejemplos de tareas reales por actividad"
+      **CE — B1:** leer tres anuncios de piso y emparejarlos con las necesidades de tres personas descritas en un texto breve.
 
-1. **Publicación de resultados**: normalmente varias semanas después de la sesión oral, en la web de la Consejería y/o del centro examinador.
-2. **Plazo de vista de exámenes y reclamaciones**: quienes no superan la prueba, o quieren revisar su calificación, pueden solicitar ver su examen corregido dentro de un plazo determinado por la convocatoria.
-3. **Reclamación formal**: si tras la revisión se considera que la corrección no se ajusta a los criterios, existe un procedimiento de reclamación ante la propia EOI o la Consejería, con plazos y forma establecidos en cada convocatoria.
-4. **Expedición del certificado**: para quienes obtienen "Apto", el certificado se tramita después según los plazos administrativos habituales, que pueden tardar varios meses.
+      **CE — B2:** leer un artículo de opinión sobre teletrabajo y responder preguntas de opción múltiple sobre la postura del autor.
+
+      **CE — C1:** leer un fragmento literario o un ensayo y responder preguntas sobre matices, ironía o intención del autor que no están dichos de forma explícita.
+
+      **CO — B1:** escuchar cinco mensajes de contestador automático y anotar la información clave de cada uno (nombre, motivo de la llamada, hora).
+
+      **CO — B2:** escuchar una entrevista de radio y decidir si varias afirmaciones son verdaderas, falsas o no se mencionan.
+
+      **CO — C1:** escuchar un fragmento de un debate con varios interlocutores y determinar de qué postura es partidario cada uno, incluyendo matices e ironías.
+
+      **EIE — B1:** escribir un correo a un amigo contando cómo fueron las vacaciones (100-150 palabras).
+
+      **EIE — B2:** escribir un artículo de opinión para el blog del centro sobre las ventajas y desventajas de las redes sociales (150-200 palabras).
+
+      **EIE — C1:** escribir un informe formal dirigido a un ayuntamiento proponiendo mejoras para el transporte público, con datos y argumentos (200-250 palabras).
+
+      **EIO — B1:** describir una foto y responder preguntas sencillas del examinador sobre rutinas diarias.
+
+      **EIO — B2:** defender una opinión sobre un tema de actualidad y responder a las objeciones del examinador.
+
+      **EIO — C1:** debatir sobre un dilema ético o social con matices, cediendo y rebatiendo argumentos con fluidez.
+
+      **Mediación — B1:** leer una nota con horarios de un museo y explicárselos oralmente en inglés a un compañero que no sabe leerla.
+
+      **Mediación — B2:** resumir por escrito, para un lector que no tiene tiempo de leer el original, las ideas principales de un artículo de dos páginas.
+
+      **Mediación — C1:** explicar a alguien con una postura contraria los puntos clave de un texto polémico, manteniendo un tono neutral y matizado.
 
 
 !!! abstract "Resumen"
@@ -294,134 +273,99 @@ Esto explica por qué **un texto "perfecto para B1" puede suspender en B2**, y p
       - **Olvidar la mediación por practicar solo comprensión y producción "puras".** Al pesar 20 de 100 puntos, una mediación floja puede arrastrar la media por debajo de 6,5 aunque el resto vaya bien.
       - **No practicar en las condiciones reales del examen** (sin diccionario, con cronómetro, escribiendo a mano si el examen es en papel).
 
-## 📚 Qué evalúa cada actividad, por nivel
+### Evaluación por actividad 
 
-### Comprensión de textos escritos (CE)
-
-| | B1 | B2 | C1 |
+| Comprensión de textos escritos (CE)| B1 | B2 | C1 |
 |---|---|---|---|
 | Tipo de textos | Anuncios, folletos, correos, artículos breves y sencillos | Artículos de opinión, reseñas, correos más elaborados, textos narrativos | Textos literarios, ensayos, artículos especializados, textos con implícitos |
 | Nº aproximado de tareas | 3-4 | 4-5 | 4-5 |
 | Tipo de preguntas | Opción múltiple, verdadero/falso, emparejar | Opción múltiple, completar huecos, emparejar títulos | Opción múltiple compleja, inferencia, matices de significado |
-
-### Comprensión de textos orales (CO)
-
-| | B1 | B2 | C1 |
-|---|---|---|---|
+|||||
+|**Comprensión de textos orales (CO)** | B1 | B2 | C1 |
 | Tipo de audios | Anuncios, mensajes, conversaciones cotidianas cortas | Entrevistas, noticias, conversaciones más largas y naturales | Conferencias, debates, programas de radio con acento variado |
 | Velocidad | Pausada, clara | Natural | Natural, con posibles interrupciones y solapamientos |
 | Nº de escuchas | Normalmente 2 veces por audio | Normalmente 2 veces por audio | A veces una sola escucha en tareas más complejas |
-
-### Producción y coproducción de textos escritos (EIE)
-
-| | B1 | B2 | C1 |
-|---|---|---|---|
+|||||
+| **Producción y coproducción de textos escritos (EIE)**| B1 | B2 | C1 |
 | Tipos de texto | Email/carta informal, mensaje breve, descripción sencilla | Email formal, artículo de opinión, informe breve, reseña | Ensayo argumentativo, informe formal, carta de reclamación compleja, artículo especializado |
 | Extensión aproximada | 100-150 palabras | 150-200 palabras | 200-250 palabras |
 | Qué se premia | Corrección básica y cohesión | Variedad léxica y gramatical, argumentación clara | Precisión, registro adecuado, matices y estilo propio |
-
-### Producción y coproducción de textos orales (EIO)
-
-| | B1 | B2 | C1 |
-|---|---|---|---|
+|||||
+|**Producción y coproducción de textos orales (EIO)** | B1 | B2 | C1 |
 | Monólogo | 2-3 minutos sobre un tema cotidiano con apoyo de imagen o guion | 3-4 minutos con argumentación y ejemplos propios | 4-5 minutos con estructura elaborada y matices de opinión |
 | Interacción | Diálogo guiado, situación cotidiana (reservar, quejarse, pedir información) | Debate o negociación con el examinador o con otro candidato | Discusión sobre un tema abstracto o controvertido, defensa de una postura |
-
-### Mediación lingüística (MED)
-
-| | B1 | B2 | C1 |
-|---|---|---|---|
+|||||
+|**Mediación lingüística (MED)** | B1 | B2 | C1 |
 | Mediación escrita | Transmitir datos concretos de un texto a otra persona por escrito (mensaje, nota) | Resumir y reformular información de un texto más largo | Adaptar el registro y sintetizar ideas complejas para una audiencia distinta |
 | Mediación oral | Explicar oralmente información sencilla de un texto breve | Resumir oralmente un texto de cierta extensión | Mediar en una conversación con matices, opiniones o información contradictoria |
 
 
+## 💡💡💡
 
 
+## 🇬🇧 Estructuras gramaticales
+Esta es la página **central de gramática** de toda la guía. El examen EOI pone el foco sobre todo en la **producción activa**, así que esta página prioriza ese enfoque.
 
-## ⚠️⚠️⚠️ Estructuras gramaticales
-Esta es la página **central de gramática** de toda la guía. No pretende ser un listado exhaustivo de reglas, sino explicar **qué tiempos y estructuras hay que dominar de forma activa en cada nivel del examen EOI**, con los errores típicos de un hablante de español y consejos para usarlos bien en Writing y Speaking, no solo para reconocerlos en Reading y Listening.
-
-> 💡 Reconocer un tiempo verbal en un texto (comprensión) es mucho más fácil que producirlo correctamente uno mismo, hablando o escribiendo, bajo presión de tiempo (producción). El examen EOI pone el foco sobre todo en la **producción activa**, así que esta página prioriza ese enfoque.
-
-## 🟢 Presente base
+### 🟦 Presente base
 
 ![Tiempos de presente](../assets/img/eoi/tiempos_presente.png)
 
-En B1 hay que dominar, **sin pensarlo**, todos los tiempos de presente, pasado y futuro básicos. Un error en estos tiempos penaliza más que en niveles superiores.
+!!! info "PRESENT SIMPLE"
+      - **Forma:** *I work / She works / I don't work / Does she work?*
+      - **Uso:** rutinas, hechos permanentes, verdades generales, horarios fijos.
+      - **Marcadores:** always, usually, often, every day, on Mondays.
+      - **Error típico:** olvidar la -s en tercera persona (*she work* ❌ → *she works* ✅), muy frecuente al hablar improvisando.
+      - **Consejo EOI:** en la interacción oral, usarlo mal en la primera frase da mala impresión inicial al examinador; conviene practicarlo hasta que sea reflejo.
+!!! info "PRESENT CONTINUOUS"
+      - **Forma:** *I am working / I am not working / Am I working?*
+      - **Uso:** acción en curso ahora mismo, o plan futuro ya confirmado con fecha.
+      - **Marcadores:** now, right now, at the moment, this week, tomorrow (si hay plan concreto).
+      - **Error típico:** usarlo con verbos de estado que normalmente no llevan -ing (*I am knowing* ❌ → *I know* ✅): like, want, know, believe, understand, need.
+      - **Consejo EOI:** para hablar de planes de futuro cercanos y confirmados es más natural que "will" (*I am meeting her tomorrow* frente a *I will meet her tomorrow*).
+!!! info "PRESENT PERFECT"
+      - **Forma:** *I have worked / I haven't worked / Have I worked?*
+      - **Uso:** experiencias de vida sin momento concreto, acciones recién terminadas, situaciones que empezaron en el pasado y continúan.
+      - **Marcadores:** already, yet, just, ever, never, since, for, recently.
+      - **Error típico:** confundirlo con el Past Simple cuando hay un momento concreto mencionado (*I have seen him yesterday* ❌ → *I saw him yesterday* ✅). Es el error número uno de los hablantes de español en todos los niveles.
+      - **Consejo EOI:** la regla práctica es: si hay una fecha, hora o momento concreto y cerrado → Past Simple. Si no hay momento concreto, o la acción conecta con el presente → Present Perfect.
+!!! info "PRESENT PERFECT CONTINUOUS"
+      - **Forma:** *I have been working / I haven't been working / Have I been working?*
+      - **Uso:** acción que empezó en el pasado y continúa ahora, con énfasis en la duración o el proceso.
+      - **Marcadores:** for, since, all day, lately, recently.
+      - **Error típico:** usarlo con verbos de estado (*I have been knowing him for years* ❌ → *I have known him for years* ✅).
+      - **Consejo EOI:** compararlo con Present Perfect simple: *I have painted the wall* (acabado, resultado visible) frente a *I have been painting the wall* (proceso, puede no estar acabado, hay pintura por el suelo).
 
-### Present Simple
-
-- **Forma:** *I work / She works / I don't work / Does she work?*
-- **Uso:** rutinas, hechos permanentes, verdades generales, horarios fijos.
-- **Marcadores:** always, usually, often, every day, on Mondays.
-- **Error típico:** olvidar la -s en tercera persona (*she work* ❌ → *she works* ✅), muy frecuente al hablar improvisando.
-- **Consejo EOI:** en la interacción oral, usarlo mal en la primera frase da mala impresión inicial al examinador; conviene practicarlo hasta que sea reflejo.
-
-### Present Continuous
-
-- **Forma:** *I am working / I am not working / Am I working?*
-- **Uso:** acción en curso ahora mismo, o plan futuro ya confirmado con fecha.
-- **Marcadores:** now, right now, at the moment, this week, tomorrow (si hay plan concreto).
-- **Error típico:** usarlo con verbos de estado que normalmente no llevan -ing (*I am knowing* ❌ → *I know* ✅): like, want, know, believe, understand, need.
-- **Consejo EOI:** para hablar de planes de futuro cercanos y confirmados es más natural que "will" (*I am meeting her tomorrow* frente a *I will meet her tomorrow*).
-
-### Present Perfect
-
-- **Forma:** *I have worked / I haven't worked / Have I worked?*
-- **Uso:** experiencias de vida sin momento concreto, acciones recién terminadas, situaciones que empezaron en el pasado y continúan.
-- **Marcadores:** already, yet, just, ever, never, since, for, recently.
-- **Error típico:** confundirlo con el Past Simple cuando hay un momento concreto mencionado (*I have seen him yesterday* ❌ → *I saw him yesterday* ✅). Es el error número uno de los hablantes de español en todos los niveles.
-- **Consejo EOI:** la regla práctica es: si hay una fecha, hora o momento concreto y cerrado → Past Simple. Si no hay momento concreto, o la acción conecta con el presente → Present Perfect.
-
-### Present Perfect Continuous
-
-- **Forma:** *I have been working / I haven't been working / Have I been working?*
-- **Uso:** acción que empezó en el pasado y continúa ahora, con énfasis en la duración o el proceso.
-- **Marcadores:** for, since, all day, lately, recently.
-- **Error típico:** usarlo con verbos de estado (*I have been knowing him for years* ❌ → *I have known him for years* ✅).
-- **Consejo EOI:** compararlo con Present Perfect simple: *I have painted the wall* (acabado, resultado visible) frente a *I have been painting the wall* (proceso, puede no estar acabado, hay pintura por el suelo).
-
-## 🟡 Pasado 
-> — narrar y contextualizar
+### 🟧 Pasado 
 
 ![Tiempos de pasado](../assets/img/eoi/tiempos_pasado.png)
 
-### Past Simple
+!!! warning "PAST SIMPLE"
+      - **Forma:** *I worked / I didn't work / Did I work?* (verbos irregulares: went, saw, had...)
+      - **Uso:** acción terminada en un momento concreto del pasado. El tiempo narrativo por excelencia.
+      - **Marcadores:** yesterday, last week, ago, in 2010, when.
+      - **Error típico:** aplicar la regla de -ed a verbos irregulares (*goed* ❌ → *went* ✅). Los verbos irregulares hay que memorizarlos de forma activa, no solo reconocerlos.
+!!! warning "PAST CONTINUOUS"
+      - **Forma:** *I was working / I wasn't working / Was I working?*
+      - **Uso:** acción en progreso en un momento del pasado, contexto de una historia, acción interrumpida por otra.
+      - **Marcadores:** while, when, at that moment.
+      - **Consejo EOI:** muy útil en el monólogo narrativo del examen oral para dar contexto: *I was walking home when it started raining* — combina de forma natural con Past Simple.
+!!! warning "PAST PERFECT"
+      - **Forma:** *I had worked / I hadn't worked / Had I worked?*
+      - **Uso:** acción anterior a otro momento del pasado — el "pasado del pasado".
+      - **Marcadores:** already, just, before, after, by the time, when.
+      - **Error típico:** usar Past Simple para las dos acciones cuando el orden importa (*When I arrived, the film started* es ambiguo; *When I arrived, the film had already started* deja claro que empezó antes).
+      - **Consejo EOI:** en B2 y C1 es casi obligatorio para dar credibilidad a una narración compleja o para explicar causas ("no fui a la fiesta porque había perdido la invitación").
+!!! warning "PAST PERFECT CONTINUOUS"
+      - **Forma:** *I had been working / I hadn't been working / Had I been working?*
+      - **Uso:** acción en progreso antes de otro momento del pasado, con énfasis en duración.
+      - **Marcadores:** for, since, before, when.
+      - **Ejemplo:** *She was tired because she had been studying all night.*
+!!! warning "Used to / Would para hábitos pasados"
+      - **Forma:** *I used to play football / I didn't use to play football.* *Would* solo para acciones repetidas, no para estados (*I would live in Madrid* ❌ → *I used to live in Madrid* ✅).
+      - **Uso:** hábitos o estados en el pasado que ya no son ciertos.
+      - **Consejo EOI:** en la mediación y en el monólogo, "used to" da naturalidad al hablar de la infancia o de cambios personales, y es un recurso muy valorado frente al simple Past Simple repetido.
 
-- **Forma:** *I worked / I didn't work / Did I work?* (verbos irregulares: went, saw, had...)
-- **Uso:** acción terminada en un momento concreto del pasado. El tiempo narrativo por excelencia.
-- **Marcadores:** yesterday, last week, ago, in 2010, when.
-- **Error típico:** aplicar la regla de -ed a verbos irregulares (*goed* ❌ → *went* ✅). Los verbos irregulares hay que memorizarlos de forma activa, no solo reconocerlos.
-
-### Past Continuous
-
-- **Forma:** *I was working / I wasn't working / Was I working?*
-- **Uso:** acción en progreso en un momento del pasado, contexto de una historia, acción interrumpida por otra.
-- **Marcadores:** while, when, at that moment.
-- **Consejo EOI:** muy útil en el monólogo narrativo del examen oral para dar contexto: *I was walking home when it started raining* — combina de forma natural con Past Simple.
-
-### Past Perfect
-
-- **Forma:** *I had worked / I hadn't worked / Had I worked?*
-- **Uso:** acción anterior a otro momento del pasado — el "pasado del pasado".
-- **Marcadores:** already, just, before, after, by the time, when.
-- **Error típico:** usar Past Simple para las dos acciones cuando el orden importa (*When I arrived, the film started* es ambiguo; *When I arrived, the film had already started* deja claro que empezó antes).
-- **Consejo EOI:** en B2 y C1 es casi obligatorio para dar credibilidad a una narración compleja o para explicar causas ("no fui a la fiesta porque había perdido la invitación").
-
-### Past Perfect Continuous
-
-- **Forma:** *I had been working / I hadn't been working / Had I been working?*
-- **Uso:** acción en progreso antes de otro momento del pasado, con énfasis en duración.
-- **Marcadores:** for, since, before, when.
-- **Ejemplo:** *She was tired because she had been studying all night.*
-
-### Used to / Would para hábitos pasados
-
-- **Forma:** *I used to play football / I didn't use to play football.* *Would* solo para acciones repetidas, no para estados (*I would live in Madrid* ❌ → *I used to live in Madrid* ✅).
-- **Uso:** hábitos o estados en el pasado que ya no son ciertos.
-- **Consejo EOI:** en la mediación y en el monólogo, "used to" da naturalidad al hablar de la infancia o de cambios personales, y es un recurso muy valorado frente al simple Past Simple repetido.
-
-## 🔵 Futuro y condicionales
+### 🟩 Futuro y condicionales
 
 ![Futuro y condicionales](../assets/img/eoi/tiempos_futuro.png)
 
