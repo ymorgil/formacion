@@ -2,12 +2,15 @@
 
 ## Configuración entradas
 
-1. Imagen destacada de **w320px por h180px** de altura con una proporción 16:9
-2. TEXTO - Contenido - Seleccionar texto y justificar.
-3. TEXTO - Diseño - Texto - {tamaño 17px}
-4. TEXTO - Diseño - Texto de subtítulo - H1:{nEGRITA tamaño 22px Altura línea 1.5}
-4. Cajón verde - Configuración - Diseño - Separación - Superior {-66px} 
-5. Separación - margen superior {66px}
+
+!!! note "Configuración entradas"
+    1. Imagen destacada de **w320px por h180px** de altura con una proporción 16:9
+    2. CONTENIDO
+          - Seleccionar texto y justificar.
+    3. DISEÑO 
+          - Texto - {tamaño 18px}
+          - Texto de subtítulo - H1:{NEGRITA}
+    4. Cajón verde - Configuración - Diseño - Separación - Superior {-66px} 
 
 ## Documentos Pdf
 

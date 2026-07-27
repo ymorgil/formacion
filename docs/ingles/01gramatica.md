@@ -267,10 +267,9 @@ Solo se añade `by + persona` al final si es estrictamente necesario o important
 Sirven para dar opiniones generales u oficiales de manera formal. (Estructuras avanzadas para el Writing B2) 
 
 !!! bug "It + Pasiva + THAT + frase"
-
-* *It **is said that** coffee is good for health.* (Se dice que el café es bueno para la salud).
-* *It **is believed that** the criminal escaped.* (Se cree que el criminal escapó).
-* *It **is expected that** prices will rise.* (Se espera que los precios suban).
+    * **It is said that** coffee is good for health. (Se dice que el café es bueno para la salud).
+    * **It is believed that** the criminal escaped. (Se cree que el criminal escapó).
+    * **It is expected that** prices will rise. (Se espera que los precios suban).
 
 ## Estilo formal e informal
 Es muy importante conocer estas diferencias de registro porque puedes ofender o molestar si hablas de forma demasiado informal con una persona mayor, profesor o un jefe, o puedes sonar raro si hablas demasiado formal a gente de tu misma edad. 

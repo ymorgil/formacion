@@ -4,7 +4,6 @@ Esta página reúne **todo lo que necesito repasar para presentarme a las prueba
 > *"No estudies para el examen. Estudia el idioma y el examen se aprueba solo."*
 
 ## 🗺️ EOI
-
 Las **Escuelas Oficiales de Idiomas (EOI)** son centros públicos de enseñanza de idiomas dependientes de las Consejerías de Educación de cada comunidad autónoma. Sus certificados son **títulos oficiales con validez en toda España** y reconocimiento en el ámbito europeo, ya que se basan en el **Marco Común Europeo de Referencia para las Lenguas (MCER)**.
 ![Niveles MCER](../assets/img/eoi/cefr_staircase.png)
 
@@ -18,21 +17,16 @@ Las **Escuelas Oficiales de Idiomas (EOI)** son centros públicos de enseñanza 
 | **Comprensión** | Textos claros sobre temas conocidos, a velocidad normal | Textos largos y algo abstractos, la mayoría de programas de TV/radio | Textos extensos y complejos, incluso con implícitos y humor |
 | **Producción** | Textos sencillos y cohesionados sobre temas conocidos | Textos claros y detallados sobre una amplia gama de temas | Textos bien estructurados, con un uso controlado de conectores y estilo |
 | **Mediación** | Transmite información básica y concreta | Resume y reformula con cierta precisión | Adapta el registro y matiza con precisión ante audiencias distintas |
-| **A quién suele interesar** | Requisito habitual para ciertos ciclos formativos y oposiciones | Nivel más demandado en oposiciones docentes y muchos grados | Nivel exigido en máster, oposiciones de cuerpos superiores o C2 de idiomas |
-
-![Comparativa de niveles](../assets/img/eoi/comparativa_niveles.png)
 
 **Para qué sirve cada certificado**
 
 | Nivel | Usos típicos | Frase por nivel|
 |---|---| |
-| **B1** | Requisito de acceso o mérito en algunos ciclos formativos de grado superior, pruebas de acceso a la universidad para mayores de 25/45 años, currículum básico |con esto me defiendo en cualquier situación cotidiana y predecible, en presente, pasado y futuro, sin miedo a equivocarme en lo básico.|
-| **B2** | Nivel más solicitado en oposiciones docentes y de la administración, admisión en programas de movilidad (Erasmus+), muchos grados universitarios con mención bilingüe |con esto puedo argumentar, matizar y seguir una conversación con fluidez razonable, incluso sobre temas algo abstractos.|
-| **C1** | Oposiciones de cuerpos superiores, másteres oficiales, acreditación de nivel C1 en convocatorias de idiomas del profesorado, refuerzo de currículum para perfiles internacionales |con esto me expreso casi como en mi lengua materna, controlando el registro, los matices y las estructuras más sofisticadas del idioma.|
+| **B1** | Requisito de acceso o mérito en algunos ciclos formativos de grado superior, pruebas de acceso a la universidad para mayores de 25/45 años, currículum básico |Con esto me defiendo en cualquier situación cotidiana y predecible, en presente, pasado y futuro, sin miedo a equivocarme en lo básico.|
+| **B2** | Nivel más solicitado en oposiciones docentes y de la administración, admisión en programas de movilidad (Erasmus+), muchos grados universitarios con mención bilingüe |Con esto puedo argumentar, matizar y seguir una conversación con fluidez razonable, incluso sobre temas algo abstractos.|
+| **C1** | Oposiciones de cuerpos superiores, másteres oficiales, acreditación de nivel C1 en convocatorias de idiomas del profesorado, refuerzo de currículum para perfiles internacionales |Con esto me expreso casi como en mi lengua materna, controlando el registro, los matices y las estructuras más sofisticadas del idioma.|
 
 **Equivalencia con otras certificaciones**
-
-Es habitual comparar la EOI con certificaciones internacionales como Cambridge, IELTS o TOEFL. La equivalencia es **aproximada**, ya que cada examen mide competencias con enfoques distintos, pero sirve como referencia orientativa:
 
 | Nivel MCER | EOI (España) | Cambridge English | IELTS (aprox.) | TOEFL iBT (aprox.) |
 |---|---|---|---|---|
@@ -40,16 +34,38 @@ Es habitual comparar la EOI con certificaciones internacionales como Cambridge, 
 | B2 | Intermedio avanzado | FCE / B2 First | 5.5 – 6.5 | 72 – 94 |
 | C1 | Avanzado | CAE / C1 Advanced | 7.0 – 8.0 | 95 – 120 |
 
-### Canarias Calendario
+**Siglas del examen** 
+
+| Sigla | Nombre completo | Qué evalúa |
+|---|---|---|
+| **CE** | Comprensión de textos escritos | Reading — entender textos escritos de distinta tipología |
+| **CO** | Comprensión de textos orales | Listening — entender audios (monólogos y diálogos) |
+| **EIE** | Producción y coproducción de textos escritos | Writing — redactar textos propios |
+| **EIO** | Producción y coproducción de textos orales | Speaking — monólogo e interacción oral |
+| **MED** | Mediación lingüística (escrita y oral) | Actuar de "puente" entre dos textos o interlocutores |
+| **PCEI** | Pruebas de Certificación de Enseñanzas de Idiomas | Nombre oficial del proceso completo de examen |
+
+### Enlaces oficiales
+Estos son los enlaces que hay que tener siempre a mano durante la preparación (comprobar que siguen vigentes en la convocatoria del curso actual):
+
+| Recurso | Para qué sirve |
+|---|---|
+| [Pruebas de certificación de las EOI](https://www.gobiernodecanarias.org/educacion/web/idiomas/pruebas/pruebas_certificacion/){target="_blank"} (Consejería) | Punto de entrada a toda la información oficial: fechas, guía del aspirante, apéndices y criterios exactos con los que se corrige cada prueba. |
+| [Guía para los aspirantes](https://www.gobiernodecanarias.org/cmsgob1/export/sites/educacion/web/idiomas/_galerias/descargas/pruebas_certificacion_eoi_25_26/20261004_guia_aspirantes_pcei_libes_escolarizados_2025-2026.pdf)  | Documento de referencia con todos los detalles del procedimiento de ese curso |
+| [Especificaciones de la PCEI](https://www.gobiernodecanarias.org/cmsgob1/export/sites/educacion/web/idiomas/_galerias/descargas/pruebas_certificacion_eoi_25_26/20261004_especificaciones_pcei_libes_escolarizados_2025-2026.pdf) | Detalle técnico de cómo se construyen las pruebas por nivel e idioma |
+| [Modelos de pruebas de convocatorias pasadas](https://www.gobiernodecanarias.org/educacion/web/idiomas/pruebas/pruebas_certificacion/documentos_interes/){target="_blank} | Exámenes reales de años anteriores para practicar en condiciones parecidas |
+
 ??? info "Normativa Canaria que regula las enseñanzas y las pruebas de certificación"
     - **Real Decreto 1/2019**, de 11 de enero, que establece los principios básicos comunes de evaluación de los niveles Intermedio B1, Intermedio B2, Avanzado C1 y Avanzado C2 en toda España.
     - **Orden de 15 de septiembre de 2022** (BOC nº 190), por la que se regula la evaluación del alumnado y las pruebas de certificación de idiomas de régimen especial en Canarias.
     - **Resolución de 5 de julio de 2023** (BOC nº 140), que dicta instrucciones sobre la estructura, características y elaboración de las pruebas de certificación.
-  
+
     Cada curso se publica además:
 
       - Una **Resolución de convocatoria** (en el BOC) con fechas concretas
       - Una **Guía para los aspirantes** con las especificaciones exactas de ese año. Conviene descargar siempre porque los detalles de horarios y modelos pueden variar ligeramente de un curso a otro
+
+### Calendario Canarias
 
 ![Fases del procedimiento](../assets/img/eoi/calendario_eoi.png)
 
@@ -63,7 +79,14 @@ El procedimiento de certificación en Canarias sigue, a grandes rasgos, estas fa
 6. **Publicación de resultados** y, en su caso, apertura del plazo de reclamaciones.
 7. **Convocatoria extraordinaria**: para quienes no se presenten o no superen la ordinaria, normalmente a principios de septiembre.
 
-**👥 Aspirante libre vs. aspirante escolarizado**
+**Después del examen** 
+
+1. **Publicación de resultados**: normalmente varias semanas después de la sesión oral, en la web de la Consejería y/o del centro examinador.
+2. **Plazo de vista de exámenes y reclamaciones**: quienes no superan la prueba, o quieren revisar su calificación, pueden solicitar ver su examen corregido dentro de un plazo determinado por la convocatoria.
+3. **Reclamación formal**: si tras la revisión se considera que la corrección no se ajusta a los criterios, existe un procedimiento de reclamación ante la propia EOI o la Consejería, con plazos y forma establecidos en cada convocatoria.
+4. **Expedición del certificado**: para quienes obtienen "Apto", el certificado se tramita después según los plazos administrativos habituales, que pueden tardar varios meses.
+
+**Aspirante libre vs. aspirante escolarizado**
 
 | | **Aspirante libre** | **Aspirante escolarizado** |
 |---|---|---|
@@ -74,38 +97,7 @@ El procedimiento de certificación en Canarias sigue, a grandes rasgos, estas fa
 | Ventaja principal | Flexibilidad total de horarios y ritmo | Seguimiento docente, feedback constante, simulacros guiados |
 | Riesgo principal | Falta de feedback sobre el propio nivel real | Ritmo marcado por el grupo, menos margen de personalización |
 
-### Enlaces oficiales
-Estos son los enlaces que hay que tener siempre a mano durante la preparación (comprobar que siguen vigentes en la convocatoria del curso actual):
-
-| Recurso | Para qué sirve |
-|---|---|
-| Página de "Pruebas de certificación de las EOI" (Consejería de Educación de Canarias) | Punto de entrada a toda la información oficial: fechas, guía del aspirante, apéndices |
-| Guía para los aspirantes de la convocatoria vigente | Documento de referencia con todos los detalles del procedimiento de ese curso |
-| Especificaciones de la PCEI | Detalle técnico de cómo se construyen las pruebas por nivel e idioma |
-| Apéndice V y VI (rúbricas de escritura y de habla) | Los criterios exactos con los que se corrige cada texto y cada intervención oral |
-| Apéndice VII y VIII (rúbricas de mediación) | Los criterios exactos con los que se corrige la mediación escrita y oral |
-| Modelos de pruebas de convocatorias pasadas | Exámenes reales de años anteriores para practicar en condiciones parecidas |
-| Boletín Oficial de Canarias (BOC) | Publicación de la Resolución de convocatoria y de la normativa (Orden 2022, Resolución 2023) |
-
-**Siglas del examen** Las pruebas de certificación usan siempre las mismas siglas en toda España. Conocerlas de memoria ahorra confusión al leer la guía del aspirante o las actas de resultados.
-
-| Sigla | Nombre completo | Qué evalúa |
-|---|---|---|
-| **CE** | Comprensión de textos escritos | Reading — entender textos escritos de distinta tipología |
-| **CO** | Comprensión de textos orales | Listening — entender audios (monólogos y diálogos) |
-| **EIE** | Producción y coproducción de textos escritos | Writing — redactar textos propios |
-| **EIO** | Producción y coproducción de textos orales | Speaking — monólogo e interacción oral |
-| **MED** | Mediación lingüística (escrita y oral) | Actuar de "puente" entre dos textos o interlocutores |
-| **MCER** | Marco Común Europeo de Referencia para las Lenguas | Escala común (A1-C2) en la que se basan todos los niveles |
-| **PCEI** | Pruebas de Certificación de Enseñanzas de Idiomas | Nombre oficial del proceso completo de examen |
-| **BOC** | Boletín Oficial de Canarias | Donde se publican convocatoria y normativa |
-
 ### Antes de empezar 
-
-1. En qué **nivel** (B1, B2 o C1) me voy a examinar en la próxima convocatoria.
-2. Si me presento como **aspirante libre** o estoy escolarizado en una EOI.
-3. Dónde encontrar la Resolución de **convocatoria** y la **Guía del aspirante** del curso actual.
-4. Que la **mediación es obligatoria** en todos los niveles desde B1
 
 ??? question "Preguntas frecuentes"
     **¿Puedo presentarme directamente a B2 sin haber certificado B1?**
@@ -138,56 +130,30 @@ Estos son los enlaces que hay que tener siempre a mano durante la preparación (
       - **La constancia corta y frecuente vence al estudio intensivo y esporádico.** 30-45 minutos diarios de exposición al idioma rinden más que una sesión de tres horas el fin de semana.
       - **Equivocarse practicando es gratis; equivocarse el día del examen, no.** Cuantos más simulacros en condiciones reales (tiempo cronometrado, sin diccionario), menos sorpresas el día de la prueba.
 
-<hr style="border: none; height: 5px; background-color: #3498db;">
-
-
-
-## 🔢 Examen y criterios
+## 📑 Examen
 > Los detalles exactos de cada convocatoria (duración en minutos, número de tareas) se confirman siempre en la **Guía para los aspirantes** del curso vigente, ya que pueden variar ligeramente de una convocatoria a otra.
 
-El examen de certificación se organiza siempre en torno a **cinco actividades de lengua**, cada una puntuada sobre 20 puntos (100 puntos en total):
+![Estrategia de lectura](../assets/img/eoi/eoi-01.png)
 
-1. **Comprensión de textos escritos (CE)** — Reading
-2. **Comprensión de textos orales (CO)** — Listening
-3. **Producción y coproducción de textos escritos (EIE)** — Writing
-4. **Producción y coproducción de textos orales (EIO)** — Speaking
-5. **Mediación lingüística (MED)** — escrita y oral (Obligatoria desde el nivel B1)
+El examen de certificación se organiza siempre en torno a **cinco actividades**, cada una puntuada sobre 20 puntos (100 puntos en total), un error muy común es **practicar sin cronómetro**: hacerlo así da una falsa sensación de control, porque en casa siempre hay más margen mental que en el aula de examen. Desde la segunda semana de preparación conviene cronometrar todas las tareas de comprensión y producción.
 
 ![Las 5 actividades de lengua](../assets/img/eoi/estructura_examen.png)
 
 ### Sesiones
 El examen se administra en **dos sesiones distintas**, pero cuenta como una sola prueba a efectos de calificación:
 
-
 1. **Sesión escrita (única y común)** Se realiza el mismo día para todos los aspirantes del mismo idioma y nivel, normalmente en un centro examinador designado. En esta sesión se evalúan de forma conjunta:
       - Comprensión de textos escritos (CE)
       - Comprensión de textos orales (CO) — el audio se reproduce en el aula para todos a la vez
       - Producción y coproducción de textos escritos (EIE)
       - Mediación escrita (parte de MED)
+      ![Las 5 actividades de lengua](../assets/img/eoi/eoi-00.png)
 
 2. **Sesión oral (por EOI y turno)** Cada Escuela Oficial de Idiomas organiza sus propios turnos y horarios dentro del periodo fijado por la convocatoria (finales de mayo y mediados de junio). Suele constar de un tiempo de **preparación previa** (lectura de las tarjetas/enunciados de la tarea) antes de entrar al aula, seguido de la intervención ante el tribunal. En esta sesión se evalúan:
       - Producción y coproducción de textos orales (EIO): monólogo + interacción
       - Mediación oral (parte de MED)
 
 ![Bloques del examen](../assets/img/eoi/bloques_examen.png)
-
-Un error muy común es **practicar sin cronómetro**: hacerlo así da una falsa sensación de control, porque en casa siempre hay más margen mental que en el aula de examen. Desde la segunda semana de preparación conviene cronometrar todas las tareas de comprensión y producción.
-
-La duración exacta de cada parte se fija en la Guía del aspirante de cada convocatoria y puede variar ligeramente entre niveles y cursos, pero como referencia orientativa para organizar la práctica:
-
-| Actividad | B1 (aprox.) | B2 (aprox.) | C1 (aprox.) |
-|---|---|---|---|
-| CE | 60 min | 60-75 min | 75 min |
-| CO | 35-45 min | 40-45 min | 45 min |
-| EIE + mediación escrita | 60-75 min | 75-90 min | 90 min |
-| EIO + mediación oral | 15-20 min (con preparación previa) | 15-20 min | 20-25 min |
-
-**DESPUÉS DEL EXAMEN**
-
-1. **Publicación de resultados**: normalmente varias semanas después de la sesión oral, en la web de la Consejería y/o del centro examinador.
-2. **Plazo de vista de exámenes y reclamaciones**: quienes no superan la prueba, o quieren revisar su calificación, pueden solicitar ver su examen corregido dentro de un plazo determinado por la convocatoria.
-3. **Reclamación formal**: si tras la revisión se considera que la corrección no se ajusta a los criterios, existe un procedimiento de reclamación ante la propia EOI o la Consejería, con plazos y forma establecidos en cada convocatoria.
-4. **Expedición del certificado**: para quienes obtienen "Apto", el certificado se tramita después según los plazos administrativos habituales, que pueden tardar varios meses.
 
 ### Certificación
 Para obtener el certificado, la normativa exige **dos condiciones simultáneas**:
@@ -198,7 +164,6 @@ Para obtener el certificado, la normativa exige **dos condiciones simultáneas**
 Si **cualquiera** de las dos condiciones falla —aunque sea una sola actividad por debajo de 5, o una media global de 6,4— el resultado es **"No apto"**, con independencia de lo bien que hayan ido el resto de partes. Esto tiene una implicación práctica muy importante: **no se puede "compensar" una actividad floja apoyándose solo en las demás**; hay que llegar mínimamente preparado/a a las cinco.
 
 ![Criterios de calificación](../assets/img/eoi/criterios_calificacion.png)
-
 
 ### Calificación
 La producción escrita y la producción oral no se corrigen "a ojo": se usan **rúbricas oficiales** publicadas como apéndices de cada convocatoria (apéndices V-VIII), con criterios como:
@@ -256,7 +221,6 @@ Esto explica por qué **un texto "perfecto para B1" puede suspender en B2**, y p
 
       **Mediación — C1:** explicar a alguien con una postura contraria los puntos clave de un texto polémico, manteniendo un tono neutral y matizado.
 
-
 !!! abstract "Resumen"
     - 5 actividades, 20 puntos cada una, 100 puntos en total.
     - Hay que superar **cada actividad con ≥5/10** y obtener una **media global ≥6,5/10**.
@@ -299,12 +263,17 @@ Esto explica por qué **un texto "perfecto para B1" puede suspender en B2**, y p
 | Mediación escrita | Transmitir datos concretos de un texto a otra persona por escrito (mensaje, nota) | Resumir y reformular información de un texto más largo | Adaptar el registro y sintetizar ideas complejas para una audiencia distinta |
 | Mediación oral | Explicar oralmente información sencilla de un texto breve | Resumir oralmente un texto de cierta extensión | Mediar en una conversación con matices, opiniones o información contradictoria |
 
-
-## 💡💡💡
-
-
 ## 🇬🇧 Estructuras gramaticales
-Esta es la página **central de gramática** de toda la guía. El examen EOI pone el foco sobre todo en la **producción activa**, así que esta página prioriza ese enfoque.
+Esta es la sección **central de gramática**. El examen EOI pone el foco sobre todo en la **producción activa**, así que esta página prioriza ese enfoque.
+
+??? danger "Los cinco errores más penalizados, resumidos"
+    1. **Present Perfect con marcador de tiempo cerrado** (*I have been there last year* ❌).
+    2. **"Would" dentro de la cláusula "if"** (*If I would have known* ❌).
+    3. **Inversión mantenida en preguntas indirectas y reported speech** (*She asked what did I want* ❌).
+    4. **Verbos de estado en forma continua** (*I am loving this song* ❌ en registro neutro/formal, aunque en publicidad e inglés muy coloquial se vea).
+    5. **Concordancia de tercera persona en Present Simple olvidada** (*He go to work by bus* ❌).
+
+    Revisar mentalmente esta lista antes de entregar cualquier tarea escrita, y antes de hablar en la prueba oral, reduce de forma directa e inmediata el número de errores sistemáticos.
 
 ### 🟦 Presente base
 
@@ -365,110 +334,20 @@ Esta es la página **central de gramática** de toda la guía. El examen EOI pon
       - **Uso:** hábitos o estados en el pasado que ya no son ciertos.
       - **Consejo EOI:** en la mediación y en el monólogo, "used to" da naturalidad al hablar de la infancia o de cambios personales, y es un recurso muy valorado frente al simple Past Simple repetido.
 
-### 🟩 Futuro y condicionales
+### 🟩 Futuro
 
 ![Futuro y condicionales](../assets/img/eoi/tiempos_futuro.png)
-
-### Will vs. Going to vs. Present Continuous
 
 | Forma | Cuándo usarla | Ejemplo |
 |---|---|---|
 | **Will** | Decisión espontánea, predicción sin evidencia clara, promesa, ofrecimiento | *I'll help you with that.* |
 | **Going to** | Intención ya decidida, predicción con evidencia visible | *Look at those clouds, it's going to rain.* |
 | **Present Continuous** | Plan futuro ya confirmado, con fecha o cita concreta | *I'm meeting the dentist on Friday.* |
+| **Future Continuous** | Acción en progreso en un momento futuro concreto|*I will be flying to London this time tomorrow*|
+| **Future Perfect** | Acción completada antes de un momento futuro. Muy útil en C1 para hablar de objetivos y proyecciones|*By next June, I will have finished my degree*|
 
-**Error típico:** usar "will" para planes ya decididos (*I will visit my grandmother tomorrow, we already arranged it* suena raro; mejor *I'm visiting my grandmother tomorrow*).
-
-### Future Continuous y Future Perfect
-
-- **Future Continuous:** *I will be flying to London this time tomorrow* — acción en progreso en un momento futuro concreto.
-- **Future Perfect:** *By next June, I will have finished my degree* — acción completada antes de un momento futuro. Muy útil en C1 para hablar de objetivos y proyecciones.
-
-### Los condicionales, uno a uno
-
-| Tipo | Estructura | Uso | Ejemplo |
-|---|---|---|---|
-| **Zero** | If + present, present | Verdades generales, ciencia | If you heat water to 100°C, it boils. |
-| **First** | If + present, will + infinitivo | Situación futura real y posible | If it rains, I'll stay home. |
-| **Second** | If + past simple, would + infinitivo | Situación hipotética, poco probable o imaginaria en presente/futuro | If I won the lottery, I would travel the world. |
-| **Third** | If + past perfect, would have + participio | Situación hipotética en el pasado, ya no se puede cambiar | If I had studied more, I would have passed. |
-| **Mixed** | If + past perfect, would + infinitivo (o viceversa) | Consecuencia presente de una condición pasada | If I had taken that job, I would be rich now. |
-
-**Error típico y muy frecuente:** poner "would" dentro de la cláusula con "if" (*If I would have more time* ❌ → *If I had more time* ✅). Es uno de los errores que más penaliza en B2 y C1 por lo sistemático que suele ser.
-
-**Consejo EOI:** el condicional mixto es un recurso que distingue claramente a un C1 de un B2; conviene incluir al menos un ejemplo bien construido en el ensayo o en el monólogo cuando el tema lo permita (arrepentimientos, decisiones pasadas con consecuencias actuales).
-
-## 🟣 Estructuras avanzadas
-> (foco especial en C1)
-
-![Estructuras avanzadas C1](../assets/img/eoi/tiempos_avanzados.png)
-
-### Voz pasiva
-
-- **Forma:** *object + be + past participle (+ by + agent)*: *The report was written by the committee.*
-- **Uso en B1/B2:** cuando el agente no importa o no se conoce: *My car was stolen last night.*
-- **Uso avanzado en C1:** con verbos como *believe, say, think, report* para dar objetividad y registro formal: *It is believed that the economy will improve* / *The economy is believed to improve.*
-- **Error típico:** usar la pasiva de forma innecesaria y forzada cuando la activa es más natural; en C1 se penaliza tanto el defecto como el exceso.
-
-### Reported speech (estilo indirecto)
-
-- **Regla general:** los tiempos "retroceden" un paso (present → past, past → past perfect, will → would), y cambian pronombres y marcadores temporales (today → that day, tomorrow → the next day).
-- **Ejemplo:** *"I am tired," she said* → *She said she was tired.*
-- **Con preguntas:** se pierde la inversión y el signo de interrogación: *"Where do you live?"* → *He asked where I lived.*
-- **Error típico:** mantener la inversión en preguntas indirectas (*He asked where did I live* ❌ → *He asked where I lived* ✅).
-- **Consejo EOI:** imprescindible en la mediación, donde constantemente hay que transmitir lo que "alguien dijo" o "el texto explica".
-
-### Verbos modales de probabilidad y deducción
-
-| Modal + have + participio | Grado de certeza | Ejemplo |
-|---|---|---|
-| **must have** | Casi seguro (deducción lógica positiva) | She must have left already, her coat isn't here. |
-| **can't have** | Casi seguro que no | He can't have finished, it's only been five minutes. |
-| **might/could have** | Posible, no seguro | They might have missed the train. |
-| **should have** | No ocurrió, pero se esperaba/recomendaba | You should have called me earlier. |
-
-**Consejo EOI:** este bloque es un clásico en las tareas de mediación e interacción de C1, donde hay que especular sobre información incompleta.
-
-### Inversión enfática y estructuras de registro formal
-
-- *Not only did she finish the project, but she also presented it early.*
-- *Never have I seen such a beautiful sunset.*
-- *Rarely do we get the chance to travel like this.*
-- *Had I known, I would have called you.* (inversión en el tercer condicional, alternativa a "If I had known...")
-
-**Consejo EOI:** usar una sola de estas estructuras, bien construida, en un ensayo o en el monólogo de C1 suma más que varias frases simples correctas, porque demuestra un control del idioma que va más allá de lo funcional.
-
-### Cláusulas de relativo reducidas
-
-- *The man who is standing by the door* → *The man standing by the door.*
-- *The book which was written in 1990* → *The book written in 1990.*
-- **Uso:** dar fluidez y evitar la repetición constante de pronombres relativos en textos más largos.
-
-## 📋 Qué tiempo dominar de forma activa, por nivel
-
-| Bloque | B1 (activo) | B2 (activo) | C1 (activo) |
-|---|---|---|---|
-| Presente | Simple, Continuous, Perfect | + Perfect Continuous con matices | Dominio total, incluyendo matices de registro |
-| Pasado | Simple, Continuous | + Perfect, Perfect Continuous, used to | Dominio total + narrativa compleja |
-| Futuro | Will, Going to | + Present Continuous, Future Continuous | + Future Perfect con matices de proyección |
-| Condicionales | 0 y 1 | + 2 y 3 | + Mixed, inversión como alternativa |
-| Pasiva | Reconocimiento | Producción básica | Producción con verbos de opinión (is believed to...) |
-| Reported speech | Reconocimiento | Producción de afirmaciones y preguntas | Producción fluida, incluso con verbos introductorios variados (claim, admit, deny) |
-| Modales de deducción | No exigido | Básico (must/might) | Dominio completo, incluidas formas con "have" |
-
-## ❌ Los cinco errores más penalizados, resumidos
-
-1. **Present Perfect con marcador de tiempo cerrado** (*I have been there last year* ❌).
-2. **"Would" dentro de la cláusula "if"** (*If I would have known* ❌).
-3. **Inversión mantenida en preguntas indirectas y reported speech** (*She asked what did I want* ❌).
-4. **Verbos de estado en forma continua** (*I am loving this song* ❌ en registro neutro/formal, aunque en publicidad e inglés muy coloquial se vea).
-5. **Concordancia de tercera persona en Present Simple olvidada** (*He go to work by bus* ❌).
-
-Revisar mentalmente esta lista antes de entregar cualquier tarea escrita, y antes de hablar en la prueba oral, reduce de forma directa e inmediata el número de errores sistemáticos.
-
-## 🔤 Verbos irregulares que más aparecen en los exámenes EOI
-
-No hace falta memorizar los 200 verbos irregulares del inglés con la misma prioridad: estos son los que, por frecuencia de uso en textos y audios de nivel B1-C1, conviene tener totalmente automatizados:
+### 🟨 Verbos irregulares
+No hace falta memorizar los 200 verbos irregulares,estos son los que, por frecuencia de uso en textos y audios de nivel B1-C1, conviene tener totalmente automatizados:
 
 | Base | Past Simple | Past Participle | Traducción |
 |---|---|---|---|
@@ -498,47 +377,74 @@ No hace falta memorizar los 200 verbos irregulares del inglés con la misma prio
 | choose | chose | chosen | elegir |
 | lose | lost | lost | perder |
 
-Un fallo con uno de estos verbos, por ser tan frecuentes, se nota mucho más en el examen que un fallo con un verbo irregular raro que apenas se usa.
+### 🟣 Estructuras avanzadas
 
-## ✍️ Mini-ejercicios de autocomprobación
+![Estructuras avanzadas C1](../assets/img/eoi/tiempos_avanzados.png)
 
-Completar cada hueco con la forma correcta y comprobar después con la clave. Si hay más de 2-3 fallos, conviene repasar el bloque correspondiente antes de continuar.
+!!! tip "Voz pasiva"
+    - **Forma:** *object + be + past participle (+ by + agent)*: *The report was written by the committee.*
+    - **Uso en B1/B2:** cuando el agente no importa o no se conoce: *My car was stolen last night.*
+    - **Uso avanzado en C1:** con verbos como *believe, say, think, report* para dar objetividad y registro formal: *It is believed that the economy will improve* / *The economy is believed to improve.*
+    - **Error típico:** usar la pasiva de forma innecesaria y forzada cuando la activa es más natural; en C1 se penaliza tanto el defecto como el exceso.
 
-1. She ______ (live) in Madrid for ten years. (Present Perfect)
-2. When I got home, my sister ______ (already/cook) dinner. (Past Perfect)
-3. If I ______ (be) you, I would apologise. (Second conditional)
-4. By the time you arrive, we ______ (finish) the meeting. (Future Perfect)
-5. He said he ______ (be) tired and wanted to go home. (Reported speech, present → past)
-6. If she ______ (study) harder, she would have passed the exam. (Third conditional)
-7. Look at those clouds! It ______ (rain) soon. (Going to)
-8. This time tomorrow, I ______ (fly) to London. (Future Continuous)
-9. She ______ (not/see) that film yet. (Present Perfect negativo)
-10. They ______ (must/leave) already, the lights are off. (Modal de deducción)
+!!! tip "Reported speech (estilo indirecto)"
+    - **Regla general:** los tiempos "retroceden" un paso (present → past, past → past perfect, will → would), y cambian pronombres y marcadores temporales (today → that day, tomorrow → the next day).
+    - **Ejemplo:** *"I am tired," she said* → *She said she was tired.*
+    - **Con preguntas:** se pierde la inversión y el signo de interrogación: *"Where do you live?"* → *He asked where I lived.*
+    - **Error típico:** mantener la inversión en preguntas indirectas (*He asked where did I live* ❌ → *He asked where I lived* ✅).
+    - **Consejo EOI:** imprescindible en la mediación, donde constantemente hay que transmitir lo que "alguien dijo" o "el texto explica".
 
-**Clave de respuestas:**
+!!! tip "Condicionales"
+      | Tipo | Estructura | Uso | Ejemplo |
+      |---|---|---|---|
+      | **Zero** | If + present, present | Verdades generales, ciencia | If you heat water to 100°C, it boils. |
+      | **First** | If + present, will + infinitivo | Situación futura real y posible | If it rains, I'll stay home. |
+      | **Second** | If + past simple, would + infinitivo | Situación hipotética, poco probable o imaginaria en presente/futuro | If I won the lottery, I would travel the world. |
+      | **Third** | If + past perfect, would have + participio | Situación hipotética en el pasado, ya no se puede cambiar | If I had studied more, I would have passed. |
+      | **Mixed** | If + past perfect, would + infinitivo (o viceversa) | Consecuencia presente de una condición pasada | If I had taken that job, I would be rich now. |
 
-1. has lived — 2. had already cooked — 3. were — 4. will have finished — 5. was — 6. had studied — 7. is going to rain — 8. will be flying — 9. hasn't seen — 10. must have left
+      **Error típico y muy frecuente:** poner "would" dentro de la cláusula con "if" (*If I would have more time* ❌ → *If I had more time* ✅). Es uno de los errores que más penaliza en B2 y C1 por lo sistemático que suele ser.
 
-## 🔁 Autoevaluación rápida
+      **Consejo EOI:** el condicional mixto es un recurso que distingue claramente a un C1 de un B2; conviene incluir al menos un ejemplo bien construido en el ensayo o en el monólogo cuando el tema lo permita (arrepentimientos, decisiones pasadas con consecuencias actuales).
 
-Antes de pasar a la siguiente página, conviene poder responder sin dudar:
+!!! tip "Verbos modales de probabilidad y deducción"
+      | Modal + have + participio | Grado de certeza | Ejemplo |
+      |---|---|---|
+      | **must have** | Casi seguro (deducción lógica positiva) | She must have left already, her coat isn't here. |
+      | **can't have** | Casi seguro que no | He can't have finished, it's only been five minutes. |
+      | **might/could have** | Posible, no seguro | They might have missed the train. |
+      | **should have** | No ocurrió, pero se esperaba/recomendaba | You should have called me earlier. |
 
-- ¿Sé explicar en una frase la diferencia entre Present Perfect y Past Simple?
-- ¿Puedo construir sin pensar un condicional de tipo 2 y uno de tipo 3?
-- ¿Sé pasar una frase de estilo directo a estilo indirecto, incluyendo una pregunta?
-- ¿Puedo formar correctamente "must have + participio" para especular sobre el pasado?
-- ¿Reconozco al menos tres verbos de estado que no deben ir en forma continua?
+      **Consejo EOI:** este bloque es un clásico en las tareas de mediación e interacción de C1, donde hay que especular sobre información incompleta.
 
-Si alguna respuesta es "no", es el punto exacto donde conviene reforzar antes de avanzar a estrategias de comprensión y producción.
+!!! tip "Cláusulas de relativo reducidas"
+    - *The man who is standing by the door* → *The man standing by the door.*
+    - *The book which was written in 1990* → *The book written in 1990.*
+    - **Uso:** dar fluidez y evitar la repetición constante de pronombres relativos en textos más largos.
 
-## ⚠️⚠️⚠️ 👂👁️ Comprensión oral, comprensión escrita y mediación receptiva
+!!! tip "Inversión enfática y estructuras de registro formal"
+    - *Not only did she finish the project, but she also presented it early.*
+    - *Never have I seen such a beautiful sunset.*
+    - *Rarely do we get the chance to travel like this.*
+    - *Had I known, I would have called you.* (inversión en el tercer condicional, alternativa a "If I had known...")
 
-![Estrategia de lectura](../assets/img/eoi/estrategia_reading.png)
+    **Consejo EOI:** usar una sola de estas estructuras, bien construida, en un ensayo o en el monólogo de C1 suma más que varias frases simples correctas, porque demuestra un control del idioma que va más allá de lo funcional.
 
-La Comprensión de textos escritos (CE) y la Comprensión de textos orales (CO) son, en teoría, las dos partes "más fáciles" del examen porque no exigen producir nada: solo entender y elegir la respuesta correcta. En la práctica, mucha gente pierde puntos aquí no por falta de nivel de inglés, sino **por falta de estrategia y de gestión del tiempo**. Esta página se centra en eso: cómo leer y escuchar de forma eficiente bajo presión de examen.
+??? failure "Qué tiempo dominar de forma activa, por nivel"
+      | Bloque | B1 (activo) | B2 (activo) | C1 (activo) |
+      |---|---|---|---|
+      | Presente | Simple, Continuous, Perfect | + Perfect Continuous con matices | Dominio total, incluyendo matices de registro |
+      | Pasado | Simple, Continuous | + Perfect, Perfect Continuous, used to | Dominio total + narrativa compleja |
+      | Futuro | Will, Going to | + Present Continuous, Future Continuous | + Future Perfect con matices de proyección |
+      | Condicionales | 0 y 1 | + 2 y 3 | + Mixed, inversión como alternativa |
+      | Pasiva | Reconocimiento | Producción básica | Producción con verbos de opinión (is believed to...) |
+      | Reported speech | Reconocimiento | Producción de afirmaciones y preguntas | Producción fluida, incluso con verbos introductorios variados (claim, admit, deny) |
+      | Modales de deducción | No exigido | Básico (must/might) | Dominio completo, incluidas formas con "have" |
 
-## 📖 Reading (CE)
-!!! danger "Comprensión de textos escritos (CE)"
+## ⚠️⚠️⚠️
+
+## 📖 CE (Reading)
+![Estrategia de lectura](../assets/img/eoi/eoi-02.png)
 
 ### La estrategia en cuatro pasos
 
@@ -546,6 +452,8 @@ La Comprensión de textos escritos (CE) y la Comprensión de textos orales (CO) 
 2. **Leer las preguntas antes de buscar respuestas:** esto permite saber exactamente qué información hay que localizar, en lugar de releer el texto entero para cada pregunta.
 3. **Scan (búsqueda de información concreta):** una vez sabidas las preguntas, volver al texto buscando palabras clave, sinónimos o cifras relacionadas con cada pregunta, sin leer todo de nuevo.
 4. **Check (verificación final):** releer solo la frase o el párrafo exacto donde está la respuesta para confirmar que encaja con lo que pide la pregunta, no solo con una palabra suelta que coincide por casualidad.
+
+![Estrategia de lectura](../assets/img/eoi/estrategia_reading.png)
 
 ### Trampas típicas de las preguntas de opción múltiple
 
@@ -572,7 +480,21 @@ Con una duración aproximada de 60-75 minutos y varias tareas, una distribución
 
 `[captura pendiente: ejemplo real de tarea de CE de un modelo de examen oficial, con distractores señalados]`
 
-## 🎧 Listening (CO)
+
+### 🔍 Ejemplo guiado: cómo resolver una tarea de CE paso a paso
+
+Supongamos una tarea con un artículo sobre teletrabajo y la pregunta: *"According to the author, what is the main disadvantage of remote work?"*
+
+1. **Skim:** al leer rápido, se identifica que el texto tiene un párrafo de introducción, dos párrafos de ventajas/desventajas y una conclusión.
+2. **Localizar la pregunta en el texto:** como pregunta por "disadvantage", se busca directamente el párrafo de desventajas, no se relee todo el artículo.
+3. **Buscar sinónimos, no la palabra exacta:** si la pregunta dice "disadvantage" y el texto dice "one of the main drawbacks", hay que reconocer que son sinónimos —los exámenes rara vez repiten la palabra exacta de la pregunta en el texto.
+4. **Comparar las opciones con la frase exacta del texto**, descartando las que añaden matices que el texto no dice (por ejemplo, si el texto habla de "reduced social contact" y una opción dice "makes people depressed", es una generalización no respaldada por el texto).
+5. **Marcar la respuesta y seguir**, sin volver atrás salvo en la revisión final.
+
+
+## 🎧 CO (Listening)
+![Estrategia de lectura](../assets/img/eoi/eoi-03.png)
+
 !!! danger "Comprensión de textos orales (CO)"
 > 
 
@@ -600,60 +522,8 @@ Con una duración aproximada de 60-75 minutos y varias tareas, una distribución
 
 A partir de B2, y especialmente en C1, los audios pueden incluir **acentos no estándar** (británico regional, americano, o hablantes no nativos con acento marcado). Conviene practicar con fuentes variadas (podcasts, noticias de distintos países de habla inglesa) y no solo con audios "de academia" con pronunciación neutra, para no llevarse una sorpresa el día del examen.
 
-## Mediación escrita
-!!! danger "🔀 Mediación receptiva: el papel de puente"
 
-![Mediación receptiva](../assets/img/eoi/mediacion_receptiva.png)
-
-La mediación evalúa la capacidad de **actuar como puente entre un texto (o una persona) y otra persona que no tiene acceso directo a ese texto o a ese idioma**. No es traducción literal palabra por palabra: es selección, síntesis y adaptación de la información relevante.
-
-### Qué se pide en la parte receptiva de la mediación
-
-1. **Leer o escuchar** un texto en inglés o en español (según la tarea).
-2. **Identificar qué información es relevante** para la persona destinataria del mensaje (no toda la información del texto original es necesaria).
-3. **Reformular esa información** en inglés, adaptada al formato pedido (una nota, un resumen, una explicación oral).
-
-### Errores típicos en mediación
-
-- **Traducir literalmente en vez de reformular.** La mediación no pide una traducción palabra por palabra, sino transmitir el sentido con las propias palabras.
-- **Incluir toda la información del texto original**, incluso lo irrelevante para la tarea concreta, en lugar de seleccionar lo importante.
-- **Olvidar el destinatario.** El registro y el nivel de detalle deben adaptarse a quién va a recibir la información (un amigo, un cliente, un compañero de trabajo).
-- **No adaptar el formato pedido** (si se pide una nota breve y se entrega un párrafo largo, o al revés).
-
-### Diferencias por nivel en mediación receptiva
-
-| | B1 | B2 | C1 |
-|---|---|---|---|
-| Complejidad del texto origen | Simple, información concreta | Más largo, con alguna idea abstracta | Complejo, con matices y posibles ambigüedades |
-| Grado de síntesis exigido | Bajo (transmitir casi todo) | Medio (resumir lo esencial) | Alto (sintetizar y priorizar con criterio) |
-| Adaptación de registro | Mínima | Moderada | Alta: cambiar el tono según el destinatario |
-
-## 🧾 Vocabulario de instrucciones que hay que reconocer al instante
-
-Perder tiempo entendiendo el enunciado de la tarea es tiempo perdido que no se recupera. Estas son las palabras clave (command words) que aparecen constantemente en las instrucciones de los exámenes EOI:
-
-| Palabra/expresión | Qué pide exactamente |
-|---|---|
-| Match A to B / Match the headings to the paragraphs | Emparejar dos listas (por ejemplo, titulares con párrafos) |
-| Decide whether the statements are True, False or Not Given | Verdadero/falso/no se menciona — atención especial a "Not Given", que no es lo mismo que "False" |
-| Choose the best answer (A, B, C or D) | Opción múltiple con una única respuesta correcta |
-| Complete the notes/summary with no more than two words | Completar huecos respetando el límite de palabras exacto |
-| Put the events in the correct order | Ordenar cronológicamente información del texto o audio |
-| According to the text/speaker... | La respuesta debe basarse literalmente en lo dicho, no en conocimiento propio del tema |
-
-Un error frecuente es responder según lo que "se sabe del tema" en lugar de según lo que dice literalmente el texto o el audio: el examen evalúa comprensión, no cultura general.
-
-## 🔍 Ejemplo guiado: cómo resolver una tarea de CE paso a paso
-
-Supongamos una tarea con un artículo sobre teletrabajo y la pregunta: *"According to the author, what is the main disadvantage of remote work?"*
-
-1. **Skim:** al leer rápido, se identifica que el texto tiene un párrafo de introducción, dos párrafos de ventajas/desventajas y una conclusión.
-2. **Localizar la pregunta en el texto:** como pregunta por "disadvantage", se busca directamente el párrafo de desventajas, no se relee todo el artículo.
-3. **Buscar sinónimos, no la palabra exacta:** si la pregunta dice "disadvantage" y el texto dice "one of the main drawbacks", hay que reconocer que son sinónimos —los exámenes rara vez repiten la palabra exacta de la pregunta en el texto.
-4. **Comparar las opciones con la frase exacta del texto**, descartando las que añaden matices que el texto no dice (por ejemplo, si el texto habla de "reduced social contact" y una opción dice "makes people depressed", es una generalización no respaldada por el texto).
-5. **Marcar la respuesta y seguir**, sin volver atrás salvo en la revisión final.
-
-## 🎯 Tipos de tarea de listening más habituales
+### 🎯 Tipos de tarea de listening más habituales
 
 | Tipo de tarea | En qué consiste | Consejo específico |
 |---|---|---|
@@ -662,7 +532,7 @@ Supongamos una tarea con un artículo sobre teletrabajo y la pregunta: *"Accordi
 | **Multiple choice** | Elegir la opción correcta entre 3-4 | Las opciones incorrectas suelen mencionarse en el audio pero con una palabra que cambia el sentido (no, actually, but) |
 | **True/False/Not mentioned** | Decidir si una afirmación es verdadera, falsa o no aparece | No dar por falso algo que simplemente no se menciona: son categorías distintas |
 
-## ✍️ Cómo tomar notas eficaces durante el listening
+### ✍️ Cómo tomar notas eficaces durante el listening
 
 Un sistema simple y rápido de abreviaturas ayuda a no perder información mientras se sigue escuchando:
 
@@ -671,22 +541,16 @@ Un sistema simple y rápido de abreviaturas ayuda a no perder información mient
 - Anotar solo números, nombres propios y palabras clave, nunca frases completas.
 - Marcar con un signo de interrogación (?) las respuestas dudosas, para revisarlas en la segunda escucha en vez de perder tiempo decidiendo en el momento.
 
-## 🗣️ Ejemplo de mediación receptiva resuelta
 
-**Tarea:** un compañero de trabajo, que no ha tenido tiempo de leer el correo, pregunta de qué trata un email largo sobre un cambio de horario de reuniones. Hay que explicárselo oralmente en inglés en 30 segundos.
 
-**Mal enfoque (traducción literal de todo):** repetir frase por frase todo el contenido del email, incluidas fórmulas de cortesía y detalles irrelevantes, sin priorizar.
-
-**Buen enfoque (mediación real):** *"Basically, the Monday meeting has been moved to 10am instead of 9am, starting next week. Everything else stays the same."* — se selecciona solo la información accionable, se ignoran los saludos y las fórmulas de cortesía del email original, y se adapta a un registro oral breve y directo.
-
-## 🧠 Estrategias transversales para toda la comprensión
+### 🧠 Estrategias transversales para toda la comprensión
 
 - **Practicar con material auténtico, no solo con exámenes de academia.** Noticias, podcasts, series con subtítulos en inglés, artículos de prensa británica o estadounidense.
 - **No traducir mentalmente palabra por palabra.** Cuanto más se traduce internamente, más lento es el procesamiento y más se pierde por el camino. El objetivo es entender directamente en inglés.
 - **Aceptar la ambigüedad tolerable.** No hace falta entender el 100% de las palabras para responder bien: el objetivo es entender lo suficiente para la tarea concreta.
 - **Cronometrar siempre la práctica.** La gestión del tiempo en comprensión es tan entrenable como el propio idioma.
 
-## 🌍 Entrenar el oído para distintos acentos
+### 🌍 Entrenar el oído para distintos acentos
 
 A partir de B2, y sobre todo en C1, no basta con entender el acento "estándar" de los audios de academia. Conviene exponerse de forma progresiva a:
 
@@ -700,7 +564,7 @@ A partir de B2, y sobre todo en C1, no basta con entender el acento "estándar" 
 
 No hace falta dominar todos los acentos por igual, pero sí haber estado expuesto a la variedad suficiente para no bloquearse ante un acento inesperado el día del examen.
 
-## 🤔 Preguntas frecuentes sobre comprensión
+### 🤔 Preguntas frecuentes sobre comprensión
 
 **¿Es mejor leer las preguntas o el texto primero en CE?**
 Salvo textos muy cortos, casi siempre conviene una lectura rápida global del texto primero (skim) y después leer las preguntas, para tener ya una idea general antes de buscar detalles.
@@ -717,7 +581,7 @@ En preguntas de opción múltiple sin penalización por error, sí: dejar una pr
 **¿Cómo sé si mi nivel de comprensión es suficiente para mi nivel de examen?**
 Un indicador práctico: si al hacer un modelo de examen completo se entiende el sentido general de todos los textos y audios, aunque haya palabras sueltas desconocidas, y se responde correctamente a más del 70-75% de las preguntas, el nivel de comprensión es razonablemente adecuado para presentarse.
 
-## ⚠️ Errores frecuentes que cuestan puntos en comprensión
+### ⚠️ Errores frecuentes que cuestan puntos en comprensión
 
 - **Dejar preguntas en blanco por quedarse "atascado" en una sola tarea difícil**, en lugar de seguir avanzando y volver después si queda tiempo.
 - **Fiarse de la memoria en el listening sin tomar ninguna nota**, sobre todo en tareas con varios datos concretos (fechas, cifras, nombres).
@@ -725,13 +589,13 @@ Un indicador práctico: si al hacer un modelo de examen completo se entiende el 
 - **No gestionar el tiempo entre tareas**, dedicando demasiado a las primeras y quedándose sin margen para las últimas.
 - **Ignorar la instrucción sobre el límite de palabras** en tareas de completar huecos, lo que puede anular una respuesta correcta por motivos de formato.
 
-## 📌 Relación con el resto de la guía
+### 📌 Relación con el resto de la guía
 
 - Para entender **cómo se puntúa** cada una de estas actividades dentro del examen completo, ver [`01-estructura-examen.md`](01-estructura-examen.md).
 - Para la parte **productiva** de la mediación (transmitir información de forma escrita u oral), ver [`04-expresion-escrita.md`](04-expresion-escrita.md) y [`05-expresion-oral.md`](05-expresion-oral.md).
 - Para una lista más completa de recursos de práctica de listening y reading, ver [`06-plan-de-estudio.md`](06-plan-de-estudio.md) y también [`../ingles/10recursos.md`](../ingles/10recursos.md) y [`../ingles/20audiobooks.md`](../ingles/20audiobooks.md).
 
-## ⚖️ CE vs. CO: diferencias clave de estrategia
+### ⚖️ CE vs. CO: diferencias clave de estrategia
 
 | | Comprensión escrita (CE) | Comprensión oral (CO) |
 |---|---|---|
@@ -740,7 +604,7 @@ Un indicador práctico: si al hacer un modelo de examen completo se entiende el 
 | Recurso más útil | Reconocer sinónimos y paráfrasis | Tomar notas breves mientras se escucha |
 | Momento de mayor riesgo | Preguntas de inferencia (C1) | Segunda mitad del audio, cuando baja la concentración |
 
-## 🗂️ Registro de práctica de comprensión
+### 🗂️ Registro de práctica de comprensión
 
 Una plantilla simple para llevar seguimiento de los simulacros realizados, útil para detectar patrones de error recurrentes:
 
@@ -752,7 +616,7 @@ Una plantilla simple para llevar seguimiento de los simulacros realizados, útil
 
 Revisar esta tabla cada 2-3 semanas ayuda a ver si los fallos son puntuales (falta de vocabulario concreto) o sistemáticos (por ejemplo, confundir siempre "Not Given" con "False"), que es la señal más clara de por dónde reforzar.
 
-## ✅ Checklist antes de la prueba de comprensión
+### ✅ Checklist antes de la prueba de comprensión
 
 - [ ] He practicado con al menos 5 modelos completos de examen de mi nivel, cronometrados.
 - [ ] Sé identificar los tipos de distractor más habituales en preguntas de opción múltiple.
@@ -761,7 +625,7 @@ Revisar esta tabla cada 2-3 semanas ayuda a ver si los fallos son puntuales (fal
 - [ ] He practicado mediación receptiva con textos reales, no solo ejercicios de traducción literal.
 - [ ] Sé gestionar el tiempo para dejar siempre unos minutos de revisión final.
 
-## 🧩 Resumen para memorizar
+### 🧩 Resumen para memorizar
 
 - CE: skim → leer preguntas → scan → check, gestionando el tiempo con margen de revisión.
 - CO: leer preguntas antes de escuchar, tomar notas breves, aprovechar bien la segunda escucha.
@@ -769,31 +633,14 @@ Revisar esta tabla cada 2-3 semanas ayuda a ver si los fallos son puntuales (fal
 - Los distractores más comunes juegan con negaciones, generalizaciones y sinónimos parciales.
 - Practicar con material auténtico y variedad de acentos, no solo con exámenes de academia.
 
----
-
-**Página anterior:** [`02-tiempos-verbales.md`](02-tiempos-verbales.md) · **Siguiente página:** [`04-expresion-escrita.md`](04-expresion-escrita.md) — cómo escribir cada tipo de texto del examen.
-
-`[captura pendiente: capturas de mis propios simulacros corregidos, para llevar un registro visual del progreso]`
-
-## 📌 Relación con el resto de la guía (recordatorio)
-
-Antes de pasar a la producción escrita, conviene tener asumido que comprensión y producción se retroalimentan: cuanto más se practica CE y CO con material variado, más vocabulario y estructuras quedan disponibles de forma pasiva para reutilizar después, de forma activa, en Writing y Speaking. No son bloques aislados, sino parte del mismo proceso de consolidación del idioma.
-
-`[captura pendiente: tabla comparativa personal de aciertos por tipo de tarea, actualizada tras cada simulacro]`
-
-Con esto queda cerrada la parte de comprensión: el siguiente paso natural es pasar a la producción, donde todo lo entrenado aquí empieza a dar sus frutos de forma más visible.
-
-
-
-## ⚠️⚠️⚠️ ✍️ Writing
-!!! danger "Producción y coproducción de textos escritos (EIE)"
-
+## ✍️ EIE (Writing)
+![Estrategia de lectura](../assets/img/eoi/eoi-05.png)
 
 ![Estructura de un essay](../assets/img/eoi/estructura_essay.png)
 
 Escribir bien en el examen no es solo "no cometer errores": es **responder exactamente a lo que pide la tarea**, con la estructura, el registro y la extensión adecuados, usando un lenguaje variado y bien conectado. Esta página recoge las plantillas y estrategias por tipo de texto, organizadas por nivel.
 
-## 🧭 El proceso en cuatro fases (siempre, sin excepción)
+### 🧭 El proceso en cuatro fases (siempre, sin excepción)
 
 1. **Leer el enunciado dos veces** y subrayar: tipo de texto, destinatario, propósito, puntos que hay que incluir obligatoriamente, número de palabras.
 2. **Planificar 3-5 minutos** antes de escribir: esquema con las ideas principales de cada párrafo, en un margen o borrador. Escribir sin plan es la causa número uno de textos desordenados.
@@ -830,7 +677,7 @@ Saltarse la fase de planificación para "ganar tiempo" casi siempre sale caro: l
 
 **Por nivel:** en B1 basta con un email breve y correcto; en B2 se espera cierta elaboración argumentativa (quejas, sugerencias); en C1 se valora la precisión del registro y el uso de fórmulas menos comunes (I would be most grateful if..., Should you require further information...).
 
-## 📝 Essay / composition (ensayo de opinión)
+### 📝 Essay / composition (ensayo de opinión)
 
 La estructura clásica de cuatro bloques es la más segura para el examen:
 
@@ -877,7 +724,7 @@ Combina descripción objetiva y opinión personal sobre un libro, película, res
 
 **Frases útiles:** *What struck me most was... / I would highly recommend... / Overall, it falls short of expectations because...*
 
-## 😠 Carta de reclamación (complaint letter)
+### 😠 Carta de reclamación (complaint letter)
 
 Muy habitual en B2 y C1. Combina el formato de carta formal con un tono firme pero educado, nunca agresivo.
 
@@ -910,7 +757,18 @@ Usar siempre los mismos dos o tres conectores (and, but, so) es uno de los rasgo
 
 **Consejo práctico:** en la fase de planificación, elegir de antemano 4-5 conectores distintos que se van a usar en el texto, para forzarse a variar en lugar de caer siempre en los mismos por defecto bajo presión de tiempo.
 
-## 🔀 Mediación escrita (producción)
+## ⚠️ Errores más penalizados en Writing
+
+1. **No responder a todos los puntos del enunciado.** Si la tarea pide tratar tres aspectos y solo se desarrollan dos, se penaliza en "adecuación a la tarea" aunque el inglés sea impecable.
+2. **Registro inconsistente** dentro del mismo texto (mezclar formal e informal).
+3. **Repetir las mismas palabras y conectores** una y otra vez en lugar de variar el vocabulario.
+4. **Errores sistemáticos de concordancia** (sujeto-verbo, singular-plural) que se repiten varias veces en el texto.
+5. **No dejar tiempo para revisar.** Muchos errores tontos (falta de -s, mayúsculas olvidadas, errores de ortografía básicos) se detectan solo con una relectura atenta.
+
+## 🤼‍♂️ Mediación escrita (producción)
+
+![Estrategia de lectura](../assets/img/eoi/eoi-07.png)
+
 
 A diferencia de la mediación receptiva (leer/escuchar y entender, ver `03-comprension.md`), aquí lo que se evalúa es **la calidad de la reformulación escrita**:
 
@@ -929,13 +787,7 @@ A diferencia de la mediación receptiva (leer/escuchar y entender, ver `03-compr
 
 Escribir muy por debajo del mínimo penaliza por "desarrollo insuficiente del contenido"; escribir muy por encima del máximo penaliza por "falta de concisión" y, en exámenes con tiempo limitado, resta minutos a la revisión final. Practicar el cálculo aproximado de palabras a ojo (contando líneas y palabras medias por línea) ayuda a no tener que contar palabra por palabra en el examen.
 
-## ⚠️ Errores más penalizados en Writing
 
-1. **No responder a todos los puntos del enunciado.** Si la tarea pide tratar tres aspectos y solo se desarrollan dos, se penaliza en "adecuación a la tarea" aunque el inglés sea impecable.
-2. **Registro inconsistente** dentro del mismo texto (mezclar formal e informal).
-3. **Repetir las mismas palabras y conectores** una y otra vez en lugar de variar el vocabulario.
-4. **Errores sistemáticos de concordancia** (sujeto-verbo, singular-plural) que se repiten varias veces en el texto.
-5. **No dejar tiempo para revisar.** Muchos errores tontos (falta de -s, mayúsculas olvidadas, errores de ortografía básicos) se detectan solo con una relectura atenta.
 
 ## 📄 Ejemplo comentado: essay de nivel B2
 
@@ -1029,8 +881,10 @@ Muchas de las plantillas y conectores de esta página son directamente reutiliza
 
 
 
-## ⚠️⚠️⚠️ 🗣️ Sesión oral
-!!! danger "Producción y coproducción de textos orales (EIO) y mediación oral"
+## 🗣️ EIO (Speaking)
+![Estrategia de lectura](../assets/img/eoi/eoi-06.png)
+
+
 
 ![Fases de la prueba oral](../assets/img/eoi/partes_speaking.png)
 
@@ -1196,7 +1050,7 @@ Escribir frases completas para leerlas después suena forzado y poco natural ant
 
 **Por qué funciona:** el candidato reacciona a cada intervención del examinador (no responde con frases preparadas de antemano desconectadas), usa fórmulas de transición naturales, y mantiene una postura matizada en lugar de una opinión extrema y cerrada.
 
-## 📊 Exigencia de la interacción por nivel
+### 📊 Exigencia de la interacción por nivel
 
 | | B1 | B2 | C1 |
 |---|---|---|---|
@@ -1204,7 +1058,7 @@ Escribir frases completas para leerlas después suena forzado y poco natural ant
 | Iniciativa esperada | Responder con claridad a lo preguntado | Aportar ideas propias, no solo responder | Liderar parte de la conversación, matizar y ceder terreno con naturalidad |
 | Vocabulario de gestión conversacional | Básico (I think, yes, no) | Variado (I'd say, that's true, but...) | Sofisticado (I take your point, although..., that said...) |
 
-## ❓ Preguntas frecuentes sobre Speaking
+### ❓ Preguntas frecuentes sobre Speaking
 
 **¿Me penaliza tener acento español al hablar inglés?**
 No. El acento en sí no se penaliza; lo que se evalúa es la inteligibilidad. Un acento marcado pero perfectamente comprensible no resta puntos por sí mismo.
@@ -1221,18 +1075,18 @@ No necesariamente. Un ritmo natural con pausas breves bien gestionadas transmite
 **¿Puedo pedir repetir la pregunta más de una vez?**
 Sí, aunque hacerlo de forma excesiva puede transmitir inseguridad. Si ocurre varias veces, puede ser señal de que conviene reforzar la comprensión oral antes del examen.
 
-## ⚠️ Errores frecuentes en la prueba oral
+### ⚠️ Errores frecuentes en la prueba oral
 
 - **Memorizar respuestas enteras** en lugar de estructuras reutilizables: los examinadores detectan fácilmente un discurso aprendido de memoria que no encaja con la pregunta real.
 - **Hablar solo cuando se pregunta directamente**, sin aportar nada extra en la interacción, lo que da una impresión de pasividad.
 - **No mirar al examinador** y hablar mirando las notas todo el tiempo, lo que también afecta a la naturalidad percibida.
 - **Corregirse a uno mismo de forma excesiva**, deteniéndose constantemente a reformular cada frase, lo que rompe la fluidez más que un error puntual sin corregir.
 
-## 🗓️ Ritmo de práctica recomendado
+### 🗓️ Ritmo de práctica recomendado
 
 Como orientación general (se detalla más en `06-plan-de-estudio.md`), la producción oral es la destreza que más se degrada si se deja de practicar durante varios días seguidos, precisamente por ser la más "física" (musculatura del habla, automatismos). Practicar 10-15 minutos de speaking varias veces por semana, aunque sea en solitario, es más rentable que una sesión larga y aislada una vez cada dos semanas.
 
-## ✅ Checklist antes de la prueba oral
+### ✅ Checklist antes de la prueba oral
 
 - [ ] Tengo automatizada una estructura de introducción y cierre para el monólogo.
 - [ ] Conozco de memoria al menos 5-6 frases de interacción (opinar, ganar tiempo, mostrar desacuerdo).
@@ -1241,14 +1095,14 @@ Como orientación general (se detalla más en `06-plan-de-estudio.md`), la produ
 - [ ] Sé qué hacer si me quedo en blanco (usar frases de "ganar tiempo", no quedarme en silencio total).
 - [ ] He practicado con otra persona la parte de interacción, no solo en solitario.
 
-## 📌 Relación con el resto de la guía
+### 📌 Relación con el resto de la guía
 
 - Para entender **cómo se puntúa** exactamente la producción oral y la mediación dentro del examen completo, ver [`01-estructura-examen.md`](01-estructura-examen.md).
 - Para reforzar las estructuras gramaticales que dan naturalidad al habla (condicionales, modales de deducción, reported speech), ver [`02-tiempos-verbales.md`](02-tiempos-verbales.md).
 - Para vocabulario y phrasal verbs que suenan más naturales en conversación que sus equivalentes formales, ver [`../ingles/05phrasal.md`](../ingles/05phrasal.md).
 - Para pronunciación en detalle, ver [`../ingles/13pronu.md`](../ingles/13pronu.md).
 
-## 🧩 Resumen para memorizar
+### 🧩 Resumen para memorizar
 
 - Estructura fija reutilizable para el monólogo: introducción, 2-3 puntos con ejemplos, cierre.
 - En la interacción, reaccionar de verdad al interlocutor, no soltar un discurso preparado.
@@ -1256,13 +1110,7 @@ Como orientación general (se detalla más en `06-plan-de-estudio.md`), la produ
 - Practicar en voz alta y grabarse es más efectivo que solo "pensar" en inglés.
 - Un acento marcado no penaliza si el habla es inteligible; los bloqueos largos sí.
 
----
-
-**Página anterior:** [`04-expresion-escrita.md`](04-expresion-escrita.md) · **Siguiente página:** [`06-plan-de-estudio.md`](06-plan-de-estudio.md) — organizar el tiempo hasta el examen.
-
-`[captura pendiente: grabación propia de un simulacro de speaking, con notas de autoevaluación]`
-
-## 🤝 Interacción con otro candidato (en lugar del examinador)
+### 🤝 Interacción con otro candidato (en lugar del examinador)
 
 En algunas tareas de B2 y C1, la interacción se realiza con **otro candidato** en lugar de con el examinador, que actúa solo como observador. En ese caso conviene tener presente:
 
@@ -1273,9 +1121,45 @@ En algunas tareas de B2 y C1, la interacción se realiza con **otro candidato** 
 
 Practicar este formato con un compañero de estudio, y no solo en solitario, es la única forma real de entrenar esta dinámica antes del examen.
 
-`[captura pendiente: tarjeta de tarea de interacción de un modelo de examen oficial]`
 
-## ⚠️⚠️⚠️ 🗓️ Plan de estudio, recursos y checklist final
+## Mediación escrita
+!!! danger "🔀 Mediación receptiva: el papel de puente"
+
+![Mediación receptiva](../assets/img/eoi/mediacion_receptiva.png)
+
+La mediación evalúa la capacidad de **actuar como puente entre un texto (o una persona) y otra persona que no tiene acceso directo a ese texto o a ese idioma**. No es traducción literal palabra por palabra: es selección, síntesis y adaptación de la información relevante.
+
+### Qué se pide en la parte receptiva de la mediación
+
+1. **Leer o escuchar** un texto en inglés o en español (según la tarea).
+2. **Identificar qué información es relevante** para la persona destinataria del mensaje (no toda la información del texto original es necesaria).
+3. **Reformular esa información** en inglés, adaptada al formato pedido (una nota, un resumen, una explicación oral).
+
+### Errores típicos en mediación
+
+- **Traducir literalmente en vez de reformular.** La mediación no pide una traducción palabra por palabra, sino transmitir el sentido con las propias palabras.
+- **Incluir toda la información del texto original**, incluso lo irrelevante para la tarea concreta, en lugar de seleccionar lo importante.
+- **Olvidar el destinatario.** El registro y el nivel de detalle deben adaptarse a quién va a recibir la información (un amigo, un cliente, un compañero de trabajo).
+- **No adaptar el formato pedido** (si se pide una nota breve y se entrega un párrafo largo, o al revés).
+
+### Diferencias por nivel en mediación receptiva
+
+| | B1 | B2 | C1 |
+|---|---|---|---|
+| Complejidad del texto origen | Simple, información concreta | Más largo, con alguna idea abstracta | Complejo, con matices y posibles ambigüedades |
+| Grado de síntesis exigido | Bajo (transmitir casi todo) | Medio (resumir lo esencial) | Alto (sintetizar y priorizar con criterio) |
+| Adaptación de registro | Mínima | Moderada | Alta: cambiar el tono según el destinatario |
+
+### 🗣️ Ejemplo de mediación receptiva resuelta
+
+**Tarea:** un compañero de trabajo, que no ha tenido tiempo de leer el correo, pregunta de qué trata un email largo sobre un cambio de horario de reuniones. Hay que explicárselo oralmente en inglés en 30 segundos.
+
+**Mal enfoque (traducción literal de todo):** repetir frase por frase todo el contenido del email, incluidas fórmulas de cortesía y detalles irrelevantes, sin priorizar.
+
+**Buen enfoque (mediación real):** *"Basically, the Monday meeting has been moved to 10am instead of 9am, starting next week. Everything else stays the same."* — se selecciona solo la información accionable, se ignoran los saludos y las fórmulas de cortesía del email original, y se adapta a un registro oral breve y directo.
+
+
+## 🗓️ Recursos
 
 ![Roadmap de 12 semanas](../assets/img/eoi/roadmap_estudio.png)
 
@@ -1283,7 +1167,7 @@ Saber qué hay que estudiar (páginas `01` a `05`) no sirve de mucho sin un plan
 
 > Esta planificación es un punto de partida, no un dogma. Hay que adaptarla al tiempo real disponible, al nivel de partida y a las semanas que queden hasta la convocatoria (ver fechas orientativas en `00-introduccion.md`).
 
-## 📅 Roadmap orientativo de 12 semanas
+### 📅 Roadmap orientativo de 12 semanas
 
 | Semana | Foco principal | Objetivo concreto |
 |---|---|---|
@@ -1299,7 +1183,7 @@ Saber qué hay que estudiar (páginas `01` a `05`) no sirve de mucho sin un plan
 
 **Si quedan más de 12 semanas:** repetir el ciclo completo de semanas 3 a 10 una segunda vez antes de llegar a las últimas semanas de simulacro, profundizando cada vez más en los puntos débiles detectados.
 
-## 🥧 Cómo repartir las horas semanales
+### 🥧 Cómo repartir las horas semanales
 
 ![Distribución semanal](../assets/img/eoi/distribucion_semanal.png)
 
@@ -1364,7 +1248,7 @@ Antes de empezar el plan, hacer un examen de nivel completo (uno de los modelos 
 
 La destreza con la nota más baja debe recibir proporcionalmente más tiempo en las primeras semanas del plan, sin descuidar por completo las demás.
 
-## 🔁 Ciclo semanal recomendado (ejemplo)
+### 🔁 Ciclo semanal recomendado (ejemplo)
 
 | Día | Actividad |
 |---|---|
@@ -1378,7 +1262,7 @@ La destreza con la nota más baja debe recibir proporcionalmente más tiempo en 
 
 Adaptar los días según la disponibilidad real; lo importante es la **regularidad**, no la rigidez del calendario exacto.
 
-## 🎒 Checklist para el día del examen
+### 🎒 Checklist para el día del examen
 
 ![Checklist del día del examen](../assets/img/eoi/checklist_examen.png)
 
@@ -1403,7 +1287,7 @@ Adaptar los días según la disponibilidad real; lo importante es la **regularid
 - [ ] Leer bien cada enunciado antes de responder, sin dejarse llevar por los nervios de la primera impresión.
 - [ ] En la prueba oral, recordar respirar y usar las frases de "ganar tiempo" si hace falta, en lugar de bloquearse en silencio.
 
-## 🔄 Si el resultado es "No apto"
+### 🔄 Si el resultado es "No apto"
 
 Un resultado de "No apto" no significa empezar de cero: significa **ajustar el plan con datos reales**.
 
@@ -1414,7 +1298,7 @@ Un resultado de "No apto" no significa empezar de cero: significa **ajustar el p
 
 Un intento no superado es información valiosa sobre dónde está realmente el nivel, no un fracaso definitivo: la mayoría de aspirantes que se presentan varias veces terminan certificando el nivel.
 
-## 🔗 Modelos oficiales de examen: dónde encontrarlos
+### 🔗 Modelos oficiales de examen: dónde encontrarlos
 
 El recurso más fiable para practicar no son los libros de academia genéricos, sino los **modelos de pruebas de convocatorias pasadas** que publica la propia Consejería de Educación de Canarias, porque replican el formato, la duración y el tipo de tarea exactos del examen real.
 
@@ -1427,9 +1311,7 @@ El recurso más fiable para practicar no son los libros de academia genéricos, 
 
 Conviene descargar y guardar en local (o enlazar aquí una vez descargados) los modelos del propio nivel e idioma antes de empezar la fase intensiva de simulacros, por si la web cambia de estructura entre convocatorias.
 
-`[captura pendiente: enlaces directos a los PDF de los modelos de examen ya descargados, organizados por nivel]`
-
-## 📈 Cómo medir el progreso real (no solo la sensación)
+### 📈 Cómo medir el progreso real (no solo la sensación)
 
 La sensación subjetiva de "voy mejorando" no siempre coincide con el progreso real. Formas más fiables de medirlo:
 
@@ -1438,7 +1320,7 @@ La sensación subjetiva de "voy mejorando" no siempre coincide con el progreso r
 - **Comparar grabaciones de speaking** de distintas semanas, escuchando la más antigua después de varias semanas de práctica: suele notarse el progreso con más claridad al comparar extremos que semana a semana.
 - **Pedir feedback externo periódico** (profesor, academia, intercambio de idiomas) en lugar de depender solo de la autoevaluación, que tiende a tener puntos ciegos.
 
-## ⚠️ Errores de planificación habituales
+### ⚠️ Errores de planificación habituales
 
 - **Planificar de forma demasiado ambiciosa** (por ejemplo, 3 horas diarias) y abandonar el plan a la segunda semana por agotamiento. Es preferible un plan modesto pero sostenible.
 - **Estudiar siempre lo mismo** (normalmente gramática, por ser lo más cómodo) y evitar sistemáticamente la destreza más débil, casi siempre speaking o writing.
@@ -1446,7 +1328,7 @@ La sensación subjetiva de "voy mejorando" no siempre coincide con el progreso r
 - **Dejar los simulacros completos para el final**, sin haber probado antes las condiciones reales (sin diccionario, con cronómetro, escribiendo a mano si aplica).
 - **No descansar nunca**, asumiendo que más horas siempre es mejor: el descanso y la consolidación son parte del aprendizaje, no tiempo perdido.
 
-## 🔥 Motivación y constancia
+### 🔥 Motivación y constancia
 
 Preparar un examen de idiomas de este nivel es, sobre todo, una carrera de fondo. Algunas ideas para sostener la motivación durante las semanas de plan:
 
@@ -1455,7 +1337,7 @@ Preparar un examen de idiomas de este nivel es, sobre todo, una carrera de fondo
 - **Variar los materiales de práctica** para evitar el aburrimiento: series, música, podcasts de temas de interés personal, no solo material de examen.
 - **Recordar el motivo real** por el que se persigue el certificado (uso profesional, académico o personal, ver `00-introduccion.md`), sobre todo en las semanas de bajón de motivación que son normales en cualquier proceso largo.
 
-## ❓ Preguntas frecuentes sobre la planificación
+### ❓ Preguntas frecuentes sobre la planificación
 
 **¿Cuántas horas semanales son razonables compaginando con trabajo o estudios?**
 No hay un número mágico, pero por debajo de 3-4 horas semanales resulta difícil progresar de forma perceptible en pocos meses. Lo importante es que sea sostenible durante todo el plan, no solo las primeras semanas.
@@ -1472,7 +1354,7 @@ Como referencia orientativa, a partir de un mes antes del examen conviene dejar 
 **¿Merece la pena hacer un curso intensivo de última hora si he estudiado poco?**
 Puede ayudar a repasar formato y estrategia de examen, pero no sustituye meses de exposición real al idioma. Es más realista, si el tiempo es muy corto, priorizar según el punto "si quedan menos de 12 semanas" de este documento y ajustar expectativas sobre el resultado.
 
-## ⏳ Plan intensivo vs. plan pausado
+### ⏳ Plan intensivo vs. plan pausado
 
 | | Plan intensivo (1-2 meses) | Plan pausado (4-6 meses) |
 |---|---|---|
@@ -1484,7 +1366,7 @@ Puede ayudar a repasar formato y estrategia de examen, pero no sustituye meses d
 
 Elegir el tipo de plan según el punto de partida real (ver autodiagnóstico) y no solo según el tiempo disponible hasta la convocatoria: forzar un plan intensivo desde un nivel muy bajo suele generar frustración y resultados peores que aplazar la convocatoria a la siguiente.
 
-## 🧩 Resumen para memorizar
+### 🧩 Resumen para memorizar
 
 - Planificar por semanas, con objetivos concretos, no solo "estudiar inglés en general".
 - Repartir el tiempo entre las cinco destrezas, evitando refugiarse solo en gramática.
@@ -1492,50 +1374,5 @@ Elegir el tipo de plan según el punto de partida real (ver autodiagnóstico) y 
 - Preparar la logística del día del examen con antelación, no improvisar esa parte.
 - Un resultado no superado es una fuente de datos para ajustar el plan, no un punto final.
 
----
-
-**Página anterior:** [`05-expresion-oral.md`](05-expresion-oral.md) · **Vuelta al índice:** [`00-introduccion.md`](00-introduccion.md)
-
-`[captura pendiente: capturas de mi propio calendario/agenda con el plan de estudio aplicado a mis semanas reales]`
-
-## 🏁 Cierre de la guía
-
-Con estas siete páginas —introducción, estructura del examen, tiempos verbales, comprensión, expresión escrita, expresión oral y plan de estudio— queda cubierto todo lo necesario para preparar de forma completa y ordenada el examen de certificación EOI en B1, B2 o C1. La clave no está en releer estas páginas una vez y darlas por aprendidas, sino en volver a ellas de forma activa durante todo el proceso: como chuleta antes de cada sesión de práctica, como checklist antes de cada simulacro, y como referencia rápida en las últimas semanas antes de la convocatoria.
-
-## 🗺️ Índice completo de la guía
-
-| Página | Para repasar... |
-|---|---|
-| [`00-introduccion.md`](00-introduccion.md) | El mapa general, comparativa de niveles, calendario |
-| [`01-estructura-examen.md`](01-estructura-examen.md) | Cómo se puntúa y qué se exige en cada actividad |
-| [`02-tiempos-verbales.md`](02-tiempos-verbales.md) | La gramática que debe ser automática |
-| [`03-comprension.md`](03-comprension.md) | Estrategia de Reading, Listening y mediación receptiva |
-| [`04-expresion-escrita.md`](04-expresion-escrita.md) | Plantillas y conectores para cada tipo de texto |
-| [`05-expresion-oral.md`](05-expresion-oral.md) | Monólogo, interacción y mediación oral |
-| `06-plan-de-estudio.md` | Esta página: cuándo y cómo estudiar todo lo anterior |
-
-Buena suerte con el examen.
-
-`[captura pendiente: captura del certificado obtenido, una vez superada la prueba, como cierre simbólico de esta guía]`
-
-## 🔁 Recuerda revisar esta página con frecuencia
-
-A diferencia de las páginas `01` a `05`, que se estudian de forma más puntual, esta página está pensada para **volver a ella cada 2-3 semanas** durante toda la preparación: actualizar el registro de práctica, ajustar el reparto de horas según los resultados de los simulacros, y comprobar que el ritmo real coincide con el roadmap propuesto al principio.
-
-*Fin de la guía EOI B1 · B2 · C1.*
-
-## 📂 Cómo está organizada esta guía
-
-| Archivo | Contenido | Cuándo usarlo |
-|---|---|---|
-| `00-introduccion.md` | Este documento: qué es la EOI, comparativa de niveles, calendario | Antes de empezar, para tener el mapa general |
-| `01-estructura-examen.md` | Las 5 partes del examen, puntuación, criterios de "Apto" | Para entender las reglas del juego |
-| `02-tiempos-verbales.md` | Tiempos verbales y estructuras gramaticales por nivel | Repaso gramatical central, el más largo |
-| `03-comprension.md` | Estrategias de Listening, Reading y mediación receptiva | Antes de practicar exámenes de comprensión |
-| `04-expresion-escrita.md` | Cómo escribir cada tipo de texto (email, ensayo, informe...) | Antes de escribir redacciones |
-| `05-expresion-oral.md` | Monólogo, interacción y mediación oral | Antes de practicar speaking |
-| `06-plan-de-estudio.md` | Planificación semanal, checklist y recursos recomendados | Para organizar el tiempo hasta el examen |
-
-Se recomienda leerlas en este orden, aunque cada una es autónoma y se puede consultar de forma independiente como chuleta rápida antes del examen.
 
 *¡A por ello!*   1758 LINE 

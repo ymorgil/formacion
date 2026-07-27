@@ -49,10 +49,10 @@ nav:
    - TikTok:
         - Apps y recursos (colección Inglés): tiktok/README.md
    - Webvilla:
+        - Estandares: webvilla/01webconf.md
         - Tarjeta de noticia: webvilla/tarjeta-noticia.md
         - Inicio: webvilla/index.md
         - MCP, Claude Code y Claude en Chrome: webvilla/claude-chrome-divi.md
-        - configuración: webvilla/webconf.md
 
 plugins:
    - glightbox # Cuando el usuario hace clic en una imagen se abre en una ventana emergente (lightbox)

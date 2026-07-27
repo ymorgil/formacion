@@ -30,4 +30,12 @@
 25. Para cuando: "by when" no existe así — la expresión fija es **"by the time... + presente simple "**
 26. **"by the time" + presente simple** (no futuro ni pasado), y "next year/week/month" sin artículo.
 27. **I can't put up with** → can't — "no aguanto" es más una cuestión de capacidad/límite ("no puedo soportarlo"), no una costumbre negativa.
-28. **"look forward to"** (tener ganas de) con **"look for"** (buscar), después de "look forward to", va -ing.
+28. **"look forward to"** (tener ganas de) con **"look for"** (buscar), después de "look forward to", va **-ing**.
+29. Para preguntas de sí/no en estilo indirecto se usa "**if/whether**"
+30. Aunque hables de futuro, después de "**by the time**" (para cuando) el verbo va en presente simple, no en futuro. `By the time we get to the cinema, the film will have started`.
+31. Regla simple: si tú sientes algo → -ED. Si algo/alguien causa ese sentimiento en otros → -ING.
+    1.  I am annoyed: **annoying** = que causa molestia (algo/alguien es molesto), **annoyed** = que siente molestia (tú te sientes molesto). tiring / tired ; boring /	bored
+
+
+## FRASES INTERESANTES
+1. Next year, I want to travel more.
