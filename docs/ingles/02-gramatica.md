@@ -1,5 +1,4 @@
-# 📚 Tiempos Verbales
-
+# 📚 GRAMMAR
 ## Tiempos Verbales
 
 | Tiempo | Estructura | Ejemplo | ¿Qué expresa? |
@@ -35,8 +34,20 @@ Los verbos modales no son tiempos verbales, modifican el significado del verbo p
 | **might** | I **might go** to the party, I'm not sure. *(Puede que vaya a la fiesta, no estoy seguro.)*<br>She **might not** come today. *(Puede que no venga hoy.)*<br>Take an umbrella — it **might rain**. *(Lleva paraguas, puede que llueva.)* | **Posibilidad remota** — puede que / quizás.<br> Posibilidad menor o más incierta que **may**. Expresa algo que **quizás** ocurra pero no es muy probable. |
 | **would** | I **would like** a coffee, please. *(Me gustaría un café, por favor.)*<br>**Would** you **mind** closing the door? *(¿Le importaría cerrar la puerta?)*<br>When I was a child, we **would visit** my grandparents every summer. *(Cuando era niño, visitábamos a mis abuelos cada verano.)* | **Condicional / petición muy educada / hábito pasado** — gustaría / haría.<br> Forma condicional (**me gustaría, haría**) y peticiones muy corteses. También sirve para hablar de hábitos pasados. |
 
-!!! tip "Especulación"
-    Cuando no estás 100% seguro de algo que pasó, usas **`modal + have + participio`** (la estructura es siempre igual, solo cambia el modal según tu nivel de certeza.):
+!!! tip "Identificar si lo que quieres expresar es una habilidad, una posibilidad, un consejo o una obligación."
+    **Habilidades**: can /could (presente/pasado)
+
+    **Obligación**: must (debo / tengo que sí o sí); have to (Tienes que)
+
+    **Consejo**: should (deberías)
+
+    **Posibilidades**:  may o might (puede que / tal vez)
+
+    **Condicional**: would (peticiones educadas) 
+    
+
+!!! tip "Especulación (no estás 100% seguro de algo que pasó)"
+    Usas **`modal + have + participio`** (la estructura es siempre igual, solo cambia el modal según tu nivel de certeza.):
 
     - **must have** → estás bastante seguro (deducción lógica fuerte)
     > She's not answering. → She must have left already. (seguro que ya se fue)
@@ -44,7 +55,6 @@ Los verbos modales no son tiempos verbales, modifican el significado del verbo p
     > He might have forgotten about the meeting. (quizás se le olvidó)
     - **can't have** → estás seguro de que NO pasó
     > She can't have finished already, it's only been 5 minutes. (es imposible que haya terminado)
-
 
 ## Verbos Irregulares
 
@@ -320,3 +330,49 @@ Es muy importante conocer estas diferencias de registro porque puedes ofender o 
 
     - **Preguntas indirectas:** más habituales en formal para suavizar la petición.
     > Informal: *Where's the office?* ➞ Formal: *Could you tell me where the office is?*
+
+## 🔥 Warm-up
+
+### used to / Would
+
+**Used to** :
+Se usa para hablar de hábitos o estados del pasado que ya no son así.
+Negativo, es **didn't use to**
+
+- *I used to live in Madrid.* (antes vivía en Madrid, ahora no)
+- *She used to smoke, but she quit.* (antes fumaba, ya no)
+- *We didn't use to have a car.* (antes no teníamos coche) — negativo: didn't use to (sin "d" final)
+
+**Would**: 
+También sirve para hablar de acciones repetidas en el pasado, pero con una diferencia importante:
+
+1. "used to" → sirve para hábitos y estados (algo que hacías o algo que eras/tenías)
+   
+    > I used to live in Valencia. (estado — vivir en un lugar)
+    
+    > I used to play football. (hábito — acción repetida)
+
+2. "would" → sirve **SOLO** para acciones repetidas, nunca para estados
+    
+    > ✅ When I was a kid, I would visit my grandma every summer. (acción repetida)
+
+    > ❌ I would live in Valencia. (no funciona — "vivir en un sitio" es un estado, no una acción repetida)
+
+
+### Inversión con énfasis
+En inglés formal/escrito (muy típico en Writing de B2-C1), se puede invertir el orden de sujeto y verbo para dar énfasis, poniendo una palabra negativa o restrictiva al principio de la frase. Patrones más comunes:
+
+1. **Not only... but also (no solo... sino también)**
+> Normal: She was late and she also forgot the documents.
+>>Inversión: "Not only was she late, but she also forgot the documents." → "was" se pone antes del sujeto "she", como en una pregunta.
+2. **Hardly... when (apenas... cuando)**
+>Normal: I had just arrived when it started to rain.
+>>Con inversión: "Hardly had I arrived when it started to rain."
+3. **No sooner... than (en cuanto... apenas)**
+>Normal: I had sat down when the phone rang.
+>>Con inversión: "No sooner had I sat down than the phone rang."
+4. **Never... (en toda mi vida/nunca)**
+>Normal: I have never seen such a mess.
+>>Con inversión: "Never have I seen such a mess."
+
+**Truco simple:** cuando la frase empieza con una de estas palabras negativas/restrictivas (not only, hardly, no sooner, never), el verbo auxiliar (was, had, have, did...) se coloca antes del sujeto, como si fuera una pregunta — pero sin ser pregunta.

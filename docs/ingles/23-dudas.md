@@ -64,3 +64,14 @@ Es la forma más común, rápida y nativa de pedir algo en una cafetería, una t
 Es un paso más arriba en educación. Se usa en restaurantes más formales, cuando hablas con desconocidos, en hoteles o situaciones de atención al cliente. En el examen B2 (especialmente en el Speaking o en cartas formales), esta es la opción que te dará más puntos.
       - Ejemplo 1: Excuse me, could I have some more water, please? (Disculpe, ¿podría ponerme un poco más de agua, por favor?).
       - Ejemplo 2: * Could I have a look at the menu, please?* (¿Podría echar un vistazo al menú, por favor?).
+
+## DUOLINGO
+
+**Let´s** significa `vanos a` y se usa para sugerir hacer algo juntos
+
+---
+
+**Park de car** Hay veces que se pone el verbo sin sijeto en impetarivo para dar ordenes.
+
+---
+

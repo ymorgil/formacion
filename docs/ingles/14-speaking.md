@@ -38,3 +38,52 @@
 | **Palabras de 2 sílabas (verbos)** | Suelen acentuar la segunda sílaba. | conVEY, beGIN, awAKE |
 | **Palabras largas** | El acento suele caer en la antepenúltima sílaba. | TREMulous, SKILfully, SUDdenly |
 | **Palabras con -tion / -sion** | El acento cae siempre en la sílaba anterior al sufijo. | moTION → MOU-shen |
+
+## Vocabulario DUOLINGO
+| Inglés | Pronunciación (aprox. en español) | Significado |
+|---|---|---|
+| season | SÍ-son | estación |
+| eraser | i-RÉI-ser | goma |
+| tape | TÉIP | cinta |
+| want | UÓNT | querer |
+| like | LÁIK | gustar |
+| really like | RÍ-li LÁIK | me gusta mucho |
+|**phrasal verb**|---|---|
+| fall off | FOL OF | caerse algo |
+| **feel sick** | fiil sik | sentirse mal / tener náuseas |
+| **yum** | iam | muy rico / delicioso |
+| **wool** | wúl | lana |
+| **socks** | soks | calcetines |
+| **rug** | rag | alfombra |
+| **blanket** | blán-ket | manta |
+| **abroad** | a-bród | en el extranjero |
+| **improve** | im-prúv | mejorar |
+| **furniture** | fér-ni-cher | muebles |
+| **chose** | chóus | eligió (pasado de "choose") |
+|**`29 julio`**||
+| **Partner** | par-tner | Pareja / Socio |
+| **Awful** | ó-ful | Horrible / Pesimo |
+| **Shocked** | shokt | Impactado / Sorprendido |
+| **Break up** | breik ap | Romper (una relación) |
+| **I am glad** | ai am glad | Me alegro |
+| **Unfortunately** | an-fór-chu-net-li | Desafortunadamente |
+| **Laughed** | laft | Se rió / Reí (pasado) |
+| **Such a** | sach a | Tal (un/una) / Tan |
+| **At all** | at ol | Para nada / En absoluto |
+
+## Pronunciación Listening BBC
+
+| Inglés | Pronunciación (aprox. en español) | Significado |
+| :--- | :--- | :--- |
+|**`29 julio`**|||
+| **You're** | iur | Tú eres / Estás |
+| **You've** | iuv `Para la "V" en You've y We've: No la pronuncies como la B del español. Apoya suavemente los dientes superiores sobre el labio inferior y haz un leve zumbido (como una abeja).`| Tú has / Tienes |
+| **You'd** | iud | Tú harías / Tendrías / Deberías |
+| **We're** | uir | Nosotros somos / Estamos |
+| **We've** | uiv | Nosotros hemos / Tenemos |
+|**`30 julio`**|||
+| **Courses** | kór-sis | Cursos |
+| **Routine** | ru-tíin | Rutina |
+| **Talking** | tó-king | Hablando |
+| **Episode** | é-pi-soud | Episodio |
+| **Healthy** | jél-zi | Saludable / Sano |

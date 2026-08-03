@@ -1,7 +1,7 @@
 # 🇬🇧 RECURSOS PARA APRENDER INGLÉS (100% GRATUITOS)
 
 
-## 🗣️ Speaking
+## 🗣️ CTE - Speaking
 
 | Recurso | Descripción |
 |---|---|
@@ -15,21 +15,6 @@
 | [InterPals](https://www.interpals.net){target="_blank"} | Comunidad gratuita de amigos por correspondencia desde 1998, ideal para practicar escritura y conversación |
 | [MyLanguageExchange](https://www.mylanguageexchange.com){target="_blank"} | Otra comunidad gratuita clásica de intercambio de idiomas por texto, voz o vídeo |
 | [Speechling](https://speechling.com){target="_blank"} | Envía grabaciones de tu voz y recibe corrección de un coach humano gratis (unos 10 envíos al mes en el plan gratuito) |
-
-## 🎧 Listening
-
-| Recurso | Descripción |
-|---|---|
-| [BBC Learning English](https://www.bbc.co.uk/learningenglish){target="_blank"} | Podcasts, noticias y ejercicios de escucha con transcripciones |
-| [VOA Learning English](https://learningenglish.voanews.com){target="_blank"} | Noticias en inglés simplificado con audio y texto |
-| [Elllo](https://www.elllo.org){target="_blank"} | Más de 3000 escuchas con ejercicios interactivos y transcripciones |
-| [TED-Ed](https://ed.ted.com){target="_blank"} | Vídeos educativos cortos con subtítulos en inglés |
-| [EnglishClass101 (canal de YouTube)](https://www.youtube.com/@EnglishClass101){target="_blank"} | Lecciones de escucha por niveles en su canal gratuito de YouTube |
-| [Randall's ESL Cyber Listening Lab](https://www.esl-lab.com){target="_blank"} | Clásico de referencia con cientos de audios y cuestionarios gratis por nivel |
-| [LyricsTraining](https://lyricstraining.com){target="_blank"} | Aprende inglés rellenando huecos en letras de canciones mientras escuchas, gratis |
-| [Storyline Online](https://storylineonline.net){target="_blank"} | Actores leen en voz alta cuentos infantiles en inglés, gratis; muy útil para entrenar el oído desde niveles bajos |
-| [BBC Sounds](https://www.bbc.co.uk/sounds){target="_blank"} | Radio y podcasts en inglés real de la BBC, gratis |
-| [Manythings.org](https://www.manythings.org){target="_blank"} | Ejercicios y quizzes gratuitos de listening y vocabulario, muy usado por profesores de ESL |
 
 ## 📖 Reading
 

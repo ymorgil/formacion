@@ -35,7 +35,44 @@
 30. Aunque hables de futuro, después de "**by the time**" (para cuando) el verbo va en presente simple, no en futuro. `By the time we get to the cinema, the film will have started`.
 31. Regla simple: si tú sientes algo → -ED. Si algo/alguien causa ese sentimiento en otros → -ING.
     1.  I am annoyed: **annoying** = que causa molestia (algo/alguien es molesto), **annoyed** = que siente molestia (tú te sientes molesto). tiring / tired ; boring /	bored
+32. **breakfast** (sin artículo, es incontable).
+33. **on the computer** (en inglés se usa "on" para dispositivos: on the computer, on my phone).
+34. **went for a walk** — esta es la expresión fija en inglés para "salir a caminar" (like "went for a run", "went for a swim").
+35. **watch TV** (sin artículo, como "watch football" o "listen to music")
+36. **play soccer**  (sin artículo, como "watch TV" que vimos antes — deportes sin "the")
+37. **less than an hour** — te faltaba "than" para la comparación
+38. **As a teenager** (expresión fija, "as" + edad/etapa de vida)
+39. **thorough** — para investigaciones, "thorough" (exhaustiva) es más natural que "complete". (investigación completa)
+40. **how this works** - como funciona eso
+41. "**notices**" son avisos/anuncios puntuales (como un cartel), pero "las noticias" en general es "**the news**"
+42. "will hope" no existe — siempre "**I hope**" solo.
+43. En **formal** real se evita "sorry"
+44. 
 
 
-## FRASES INTERESANTES
-1. Next year, I want to travel more.
+## Ronda de Phrasal verb
+
+| Inglés | Pronunciación (aprox. en español) | Significado |
+|---|---|---|
+||**sem 30**||
+| **Put up with** | put ap uiz | Tolerar / Soportar |
+| **Look after** | luk áf-ter | Cuidar de |
+| **Look forward to** | luk fór-uard tu | Esperar con ilusión / Tener ganas de |
+| **Get along with** | get a-long uiz | Llevarse bien con |
+| **Run out of** | ran aut ov | Quedarse sin / Agotársele a uno |
+||**sem 31**||
+| **Carry out** | ká-ri aut | Llevar a cabo / Realizar |
+| **Come up with** | kam ap uiz | Inventar / Proponer / Ocurrirse (una idea) |
+| **Deal with** | diil uiz | Tratar con / Lidiar con / Resolver |
+| **Figure out** | fí-giur aut | Descifrar / Entender / Averiguar |
+| **Catch up on** | kach ap on | Ponerse al día con |
+
+
+
+##  writings
+
+!!! abstract "Cuéntame cómo era tu vida hace 10 años comparado con ahora — qué cosas has cambiado, qué solías hacer, cómo crees que cambiará en el futuro."
+
+
+
+
