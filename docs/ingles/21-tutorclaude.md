@@ -54,7 +54,7 @@
 
 
 
-
+ 
 ##  writings
 
 !!! abstract "Cuéntame cómo era tu vida hace 10 años comparado con ahora — qué cosas has cambiado, qué solías hacer, cómo crees que cambiará en el futuro."
