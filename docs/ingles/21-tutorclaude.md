@@ -51,22 +51,7 @@
 45. Truco simple: si "**tanto**" va justo antes de un verbo o un sustantivo incontable (dinero, tiempo, comida) → **so much**. Si va antes de un sustantivo contable en plural (personas, cosas) → **so many**. Si va antes de un adjetivo → solo **so**.
 
 
-## Ronda de Phrasal verb
 
-| Inglés | Pronunciación (aprox. en español) | Significado |
-|---|---|---|
-||**sem 30**||
-| **Put up with** | put ap uiz | Tolerar / Soportar |
-| **Look after** | luk áf-ter | Cuidar de |
-| **Look forward to** | luk fór-uard tu | Esperar con ilusión / Tener ganas de |
-| **Get along with** | get a-long uiz | Llevarse bien con |
-| **Run out of** | ran aut ov | Quedarse sin / Agotársele a uno |
-||**sem 31**||
-| **Carry out** | ká-ri aut | Llevar a cabo / Realizar |
-| **Come up with** | kam ap uiz | Inventar / Proponer / Ocurrirse (una idea) |
-| **Deal with** | diil uiz | Tratar con / Lidiar con / Resolver |
-| **Figure out** | fí-giur aut | Descifrar / Entender / Averiguar |
-| **Catch up on** | kach ap on | Ponerse al día con |
 
 
 
