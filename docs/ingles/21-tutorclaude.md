@@ -47,7 +47,8 @@
 41. "**notices**" son avisos/anuncios puntuales (como un cartel), pero "las noticias" en general es "**the news**"
 42. "will hope" no existe — siempre "**I hope**" solo.
 43. En **formal** real se evita "sorry"
-44. 
+44. **I wish I could speak Chinese.** → para hablar de una habilidad que no tienes (saber hacer algo), se usa "wish + could", Chinese (con mayúscula, es un idioma).
+45. Truco simple: si "**tanto**" va justo antes de un verbo o un sustantivo incontable (dinero, tiempo, comida) → **so much**. Si va antes de un sustantivo contable en plural (personas, cosas) → **so many**. Si va antes de un adjetivo → solo **so**.
 
 
 ## Ronda de Phrasal verb

@@ -16,3 +16,15 @@
 | [Storyline Online](https://storylineonline.net){target="_blank"} | Actores leen en voz alta cuentos infantiles en inglés, gratis; muy útil para entrenar el oído desde niveles bajos |
 | [BBC Sounds](https://www.bbc.co.uk/sounds){target="_blank"} | Radio y podcasts en inglés real de la BBC, gratis |
 | [Manythings.org](https://www.manythings.org){target="_blank"} | Ejercicios y quizzes gratuitos de listening y vocabulario, muy usado por profesores de ESL |
+
+
+## Vocabulary BBC intermediate
+
+| Inglés | Pronunciación (aprox. en español) | Significado |
+| :--- | :--- | :--- |
+|**`04 ago`**|||
+| **Purpose** | pér-pas | Propósito / Objetivo / Intención |
+| **Phrase** | freis | Frase / Expresión |
+| **Matter** | má-ter | Asunto / Importar (verbo: *it doesn't matter* = no importa) |
+| **Accurate** | á-kiu-ret | Preciso / Exacto / Correcto |
+| **Frame** | freim | Marco / Enmarcar / Estructura |

@@ -335,44 +335,83 @@ Es muy importante conocer estas diferencias de registro porque puedes ofender o 
 
 ### used to / Would
 
-**Used to** :
-Se usa para hablar de hábitos o estados del pasado que ya no son así.
-Negativo, es **didn't use to**
+**USED TO** :
 
-- *I used to live in Madrid.* (antes vivía en Madrid, ahora no)
-- *She used to smoke, but she quit.* (antes fumaba, ya no)
-- *We didn't use to have a car.* (antes no teníamos coche) — negativo: didn't use to (sin "d" final)
+Se usa para hablar de **hábitos** o **estados** del pasado que ya no son así. (algo que hacías o algo que eras/tenías)
 
-**Would**: 
-También sirve para hablar de acciones repetidas en el pasado, pero con una diferencia importante:
+> - I used to live in Valencia. (estado — vivir en un lugar)
+> - I used to play football. (hábito — acción repetida)
+> - I used to live in Madrid. (antes vivía en Madrid, ahora no)
+> - She used to smoke, but she quit. (antes fumaba, ya no)
+> - We didn't use to have a car. (antes no teníamos coche) — **negativo: didn't use to (sin "d" final)**
 
-1. "used to" → sirve para hábitos y estados (algo que hacías o algo que eras/tenías)
-   
-    > I used to live in Valencia. (estado — vivir en un lugar)
-    
-    > I used to play football. (hábito — acción repetida)
+**WOULD**
 
-2. "would" → sirve **SOLO** para acciones repetidas, nunca para estados
-    
-    > ✅ When I was a kid, I would visit my grandma every summer. (acción repetida)
+También sirve para hablar de acciones repetidas en el pasado, pero con una diferencia importante, **SOLO** para acciones repetidas, nunca para estados
 
-    > ❌ I would live in Valencia. (no funciona — "vivir en un sitio" es un estado, no una acción repetida)
+> ✅ When I was a kid, I would visit my grandma every summer. (acción repetida)
+
+> ❌ I would live in Valencia. (no funciona — "vivir en un sitio" es un estado, no una acción repetida)
 
 
 ### Inversión con énfasis
-En inglés formal/escrito (muy típico en Writing de B2-C1), se puede invertir el orden de sujeto y verbo para dar énfasis, poniendo una palabra negativa o restrictiva al principio de la frase. Patrones más comunes:
+En inglés formal/escrito (Writing de B2-C1), se puede invertir el orden de sujeto y verbo para dar énfasis, poniendo una palabra negativa o restrictiva al principio de la frase. Cuando la frase empieza con una de estas palabras negativas/restrictivas (**not only, hardly, no sooner, never**), el verbo auxiliar (was, had, have, did...) se coloca antes del sujeto, como si fuera una pregunta — pero sin ser pregunta. Patrones:
 
 1. **Not only... but also (no solo... sino también)**
-> Normal: She was late and she also forgot the documents.
->>Inversión: "Not only was she late, but she also forgot the documents." → "was" se pone antes del sujeto "she", como en una pregunta.
+> Normal: She was late and she also forgot the documents. → Inversión: "Not only was she late, but she also forgot the documents." 
+>> "was" se pone antes del sujeto "she", como en una pregunta.
 2. **Hardly... when (apenas... cuando)**
->Normal: I had just arrived when it started to rain.
->>Con inversión: "Hardly had I arrived when it started to rain."
+>Normal: I had just arrived when it started to rain. → Inversión: "Hardly had I arrived when it started to rain."
 3. **No sooner... than (en cuanto... apenas)**
->Normal: I had sat down when the phone rang.
->>Con inversión: "No sooner had I sat down than the phone rang."
+>Normal: I had sat down when the phone rang. → Inversión: "No sooner had I sat down than the phone rang."
 4. **Never... (en toda mi vida/nunca)**
->Normal: I have never seen such a mess.
->>Con inversión: "Never have I seen such a mess."
+>Normal: I have never seen such a mess. → Inversión: "Never have I seen such a mess."
 
-**Truco simple:** cuando la frase empieza con una de estas palabras negativas/restrictivas (not only, hardly, no sooner, never), el verbo auxiliar (was, had, have, did...) se coloca antes del sujeto, como si fuera una pregunta — pero sin ser pregunta.
+### Verbos + gerundio fijo
+Algunos verbos y expresiones siempre van seguidos de **-ing (gerundio)**, nunca de "to + infinitivo". No hay truco lógico, es memorización por uso:
+
+* **admit** (admitir)
+> He admitted making a mistake.
+* **avoid** (evitar)
+> I avoid eating late at night.
+* **consider** (considerar)
+> We're considering moving to Madrid.
+* **deny** (negar)
+> He denied stealing the money.
+* **despite / in spite of** (a pesar de)
+> Despite feeling tired, she finished the race.
+* **suggest** (sugerir)
+> She suggested going for a walk.
+
+### "Wish" en sus 3 formas
+
+1. **Wish + past simple → Presente insatisfactorio** → Deseo sobre el presente (algo que no es así ahora, pero te gustaría)
+> - I wish I had more time. (no tengo tiempo ahora, ojalá tuviera más tiempo)
+> - I wish I lived in Barcelona. (no vivo allí, ojalá viviera en Barcelona)
+
+2. **Wish + past perfect → Pasado que lamentas** → Deseo/arrepentimiento sobre el pasado (algo que ya pasó y no puedes cambiar)
+> - I wish I had studied more. (no estudié, ojalá hubiera estudiado)
+> - I wish I hadn't said that. (lo dije, ojalá no lo hubiera dicho)
+
+3. **Wish + would → Queja sobre otra persona** → queja sobre el comportamiento de otra persona (algo que te molesta y quieres que cambie)
+> - I wish you would stop smoking. (me molesta que fumes, ojalá dejaras de fumar)
+> - I wish he wouldn't interrupt me. (me molesta que me interrumpa, Ojalá no me interrumpiera.)
+
+### Doble comparativo...
+Se usa para decir que dos cosas cambian juntas, a la vez — **cuanto más** pasa una cosa, más pasa la otra.
+
+**Estructura: The + comparativo + frase 1, the + comparativo + frase 2**
+
+> - The sooner we start, the sooner we'll finish. (cuanto antes empecemos, antes terminaremos)
+> - The more you practise, the better you get. (cuanto más practiques, mejor te pones)
+> - The older I get, the wiser I become. (cuanto más mayor me hago, más sabio me vuelvo)
+> - The harder you work, the more you earn. (cuanto más duro trabajas, más ganas)
+
+1. **Adjetivos cortos** (fast, big, old) → -er: the faster, the bigger 
+2. **Adjetivos largos** (interesting, difficult) → more: the more interesting, the more difficult "good" es irregular → better
+
+**Estructura: The more" + sujeto + verbo** Cuando lo que cambia es una **acción** (correr, aprender, trabajar — verbos)
+
+> - The more I run, ... (cuanto más corro)
+> - The more I study, ... (cuanto más estudio)
+> - The more you work, ... (cuanto más trabajas)
