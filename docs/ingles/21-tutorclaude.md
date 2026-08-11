@@ -49,10 +49,27 @@
 43. En **formal** real se evita "sorry"
 44. **I wish I could speak Chinese.** → para hablar de una habilidad que no tienes (saber hacer algo), se usa "wish + could", Chinese (con mayúscula, es un idioma).
 45. Truco simple: si "**tanto**" va justo antes de un verbo o un sustantivo incontable (dinero, tiempo, comida) → **so much**. Si va antes de un sustantivo contable en plural (personas, cosas) → **so many**. Si va antes de un adjetivo → solo **so**.
+46. **too low** para "demasiado bajo"
+47. En inglés, cuando un verbo actúa como sujeto (el que "hace" o "es" algo al principio de la frase), se usa el gerundio, no el infinitivo ni la forma base. **Missing the train was a blessing in disguise**. (Perder el tren FUE una bendición) → "missing the train" = el sujeto, como si dijeras "esa cosa"
+48. "allí mismo" es "**right there**".
+49. Verbo "have" en pasado negativo/interrogativo → necesita "**did/didn't**", no "had/hadn't" directamente.
+50. Verbos **irregulares** que sigues conjugando como regulares. ❌ teached → ✅ taught (teach-taught-taught)
+51. Concordancia singular/plural + artículos con sustantivos de trabajo ❌ begun a jobs, jobs as teacher, a some group the teenagers ✅ got a job, a job as a teacher, a group of teenagers
 
 
 
+## Words special
 
+### "There" 
+El lío entre "hay/había" y "allí", esta confusión es súper común porque en inglés se escribe igual, pero son dos usos distintos:
+
+- A "**There is / there was / there has been...**" = HAY / HABÍA / HA HABIDO (existencia de algo)
+    - There is a problem. (Hay un problema)
+    - There was a mistake in the contract. (Había un error en el contrato)
+
+- B "**There**" solo, como lugar = ALLÍ / AHÍ
+        - I put the book there. (Puse el libro allí)
+        - She lives there. (Ella vive allí)
 
  
 ##  writings
@@ -60,5 +77,7 @@
 !!! abstract "Cuéntame cómo era tu vida hace 10 años comparado con ahora — qué cosas has cambiado, qué solías hacer, cómo crees que cambiará en el futuro."
 
 
+!!! abstract "Tema: Cuéntame algo que hayas aprendido de una experiencia difícil o un error que cometiste — algo con lo que puedas usar la idea de "a blessing in disguise"."
+    "There was a time when I didn't have a job, and it was a blessing in disguise because it made me take action. Hardly had I thought about it when I decided to take a course on how to teach. This course, which I had avoided for years, ended up being my future career.
 
-
+    When I finished the course, I started looking for jobs as a teacher. After six months, I got a job at an academy, teaching computing to a class of 20 students. Currently, I work as a civil servant in education, and I teach a group of teenagers. I wish I had started much earlier. I like my job, and I like bringing up new issues in the classroom. I also enjoy seeing my students carry out their homework and learn new things."

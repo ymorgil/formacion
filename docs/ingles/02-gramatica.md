@@ -366,6 +366,7 @@ En inglés formal/escrito (Writing de B2-C1), se puede invertir el orden de suje
 >Normal: I had sat down when the phone rang. → Inversión: "No sooner had I sat down than the phone rang."
 4. **Never... (en toda mi vida/nunca)**
 >Normal: I have never seen such a mess. → Inversión: "Never have I seen such a mess."
+5. **Hardly... ("nunca", "apenas", "no solo")** 
 
 ### Verbos + gerundio fijo
 Algunos verbos y expresiones siempre van seguidos de **-ing (gerundio)**, nunca de "to + infinitivo". No hay truco lógico, es memorización por uso:
@@ -415,3 +416,10 @@ Se usa para decir que dos cosas cambian juntas, a la vez — **cuanto más** pas
 > - The more I run, ... (cuanto más corro)
 > - The more I study, ... (cuanto más estudio)
 > - The more you work, ... (cuanto más trabajas)
+
+### Causativa (have something done)
+
+
+
+
+### Cleft sentences (What I need is...)
