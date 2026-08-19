@@ -1,5 +1,57 @@
 # 📘 Vocabulario
 
+## Vocabulario Grammar
+| Inglés | Pronunciación (aprox. en español) | Significado | Ejemplo |
+| :--- | :--- | :--- | :--- |
+| **By the time** | bai de taim | Para cuando / En el momento en que | *By the time you arrive, I'll be ready.* |
+| **Gonna** | gó-na | Ir a / Voy a *(informal, contracción de "going to")* | *I'm gonna call you later.* |
+| **Wanna** | uó-na | Querer / Querer hacer *(informal, contracción de "want to")* | *I wanna learn English.* |
+| **Hardly ever** | jáard-li é-ver | Casi nunca / Apenas | *I hardly ever watch TV.* |
+
+
+## Ronda Phrasal Verbs
+
+| Inglés | Pronunciación (aprox. en español) | Significado | Ejemplo |
+| --- | --- | --- | --- |
+| **sem 30** | | | |
+| **Put up with** | put ap uiz | Tolerar / Soportar | I can't put up with this noise anymore. |
+| **Look after** | luk áf-ter | Cuidar de | She looks after her little brother every afternoon. |
+| **Look forward to** | luk fór-uard tu | Esperar con ilusión / Tener ganas de | I'm looking forward to the summer holidays. |
+| **Get along with** | get a-long uiz | Llevarse bien con | He gets along with all his classmates. |
+| **Run out of** | ran aut ov | Quedarse sin / Agotársele a uno | We ran out of milk this morning. |
+| **sem 31** | | | |
+| **Carry out** | ká-ri aut | Llevar a cabo / Realizar | The technicians carried out the tests successfully. |
+| **Come up with** | kam ap uiz | Inventar / Proponer / Ocurrirse (una idea) | She came up with a great idea for the project. |
+| **Deal with** | diil uiz | Tratar con / Lidiar con / Resolver | I have to deal with this problem today. |
+| **Figure out** | fí-giur aut | Descifrar / Entender / Averiguar | I can't figure out how this machine works. |
+| **Catch up on** | kach ap on | Ponerse al día con | I need to catch up on my emails. |
+| **sem 32** | | | |
+| **Bring up** | bring ap | Sacar un tema / Mencionar (o criar a alguien) | Please don't bring up that subject again. |
+| **Get over** | get ó-ver | Superar (una enfermedad, una ruptura, un problema) | It took him weeks to get over the flu. |
+| **Turn down** | tern daun | Rechazar (una oferta) / Bajar (el volumen) | She turned down the job offer. |
+| **Point out** | point aut | Señalar / Destacar / Hacer notar | The teacher pointed out my mistakes. |
+| **Go through** | gou zru | Atravesar / Pasar por (una situación difícil o experiencia) | They went through a difficult time last year. |
+| **sem 33** | | | |
+| **Check in** | chek in | Facturar / Registrarse (aeropuerto, hotel) | We checked in at the hotel around 3 pm. |
+| **Set off** | set of | Ponerse en marcha, salir de viaje | We set off early to avoid traffic. |
+| **Break down** | breik daun | Averiarse (un coche, máquina) | Our car broke down on the motorway. |
+| **End up** | end ap | Acabar (haciendo algo, en un sitio, sin planearlo) | We ended up staying an extra night. (end up + ing) |
+| **Come across** | kam a-krós | Encontrarse con algo/alguien por casualidad | I came across an old photo of us. |
+
+## Vocabulario Temático
+
+### Trabajo y economía
+- **commute** = desplazarse al trabajo (sinónimo: **travel to work**)
+> My commute takes 40 minutes.
+- **workload** = carga de trabajo (sinónimo: **amount of work**)
+> I have a heavy workload this month.
+- **made redundant** = despedido por reducción de plantilla (sinónimo: **laid off**)
+> Many workers were made redundant during the crisis.
+- **income** = ingresos (sinónimo: **earnings**)
+> Her income has increased this year.
+- **afford** = poder permitirse (económicamente)
+> I can't afford a new car right now.
+
 ## Vocabulario idiomático
 
 - **"a blessing in disguise"** = algo que parecía malo pero resultó ser bueno
@@ -10,35 +62,15 @@
   > You hit the nail on the head — that's exactly the problem.
 - **"under the weather"** = sentirse ligeramente enfermo/pachucho.
 
-## Ronda Phrasal verb
+## Ronda de sinónimos
 
-| Inglés              | Pronunciación (aprox. en español) | Significado                                                 |
-| ------------------- | --------------------------------- | ----------------------------------------------------------- |
-|                     | **sem 30**                        |                                                             |
-| **Put up with**     | put ap uiz                        | Tolerar / Soportar                                          |
-| **Look after**      | luk áf-ter                        | Cuidar de                                                   |
-| **Look forward to** | luk fór-uard tu                   | Esperar con ilusión / Tener ganas de                        |
-| **Get along with**  | get a-long uiz                    | Llevarse bien con                                           |
-| **Run out of**      | ran aut ov                        | Quedarse sin / Agotársele a uno                             |
-|                     | **sem 31**                        |                                                             |
-| **Carry out**       | ká-ri aut                         | Llevar a cabo / Realizar                                    |
-| **Come up with**    | kam ap uiz                        | Inventar / Proponer / Ocurrirse (una idea)                  |
-| **Deal with**       | diil uiz                          | Tratar con / Lidiar con / Resolver                          |
-| **Figure out**      | fí-giur aut                       | Descifrar / Entender / Averiguar                            |
-| **Catch up on**     | kach ap on                        | Ponerse al día con                                          |
-|                     | **sem 32**                        |                                                             |
-| **Bring up**        | bring ap                          | Sacar un tema / Mencionar (o criar a alguien)               |
-| **Get over**        | get ó-ver                         | Superar (una enfermedad, una ruptura, un problema)          |
-| **Turn down**       | tern daun                         | Rechazar (una oferta) / Bajar (el volumen)                  |
-| **Point out**       | point aut                         | Señalar / Destacar / Hacer notar                            |
-| **Go through**      | gou zru                           | Atravesar / Pasar por (una situación difícil o experiencia) |
+### Agosto
 
-## Banco de sinónimos
+- transform → change, reshape
+- offer → provide, give
+- suffer → be affected, be harmed
+- adopt → introduce, start using
 
-transform → change, reshape
-offer → provide, give
-suffer → be affected, be harmed
-adopt → introduce, start using
 
 ## Vocabulary week 32
 
@@ -74,3 +106,7 @@ adopt → introduce, start using
 | **Phrase**        | freis                             | Frase / Expresión                                           |
 | **Matter**        | má-ter                            | Asunto / Importar (verbo: _it doesn't matter_ = no importa) |
 | **Accurate**      | á-kiu-ret                         | Preciso / Exacto / Correcto                                 |
+
+
+
+

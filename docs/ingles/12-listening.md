@@ -18,13 +18,35 @@
 | [Manythings.org](https://www.manythings.org){target="_blank"} | Ejercicios y quizzes gratuitos de listening y vocabulario, muy usado por profesores de ESL |
 
 
-## Vocabulary BBC intermediate
+## Listening BBC intermediate
 
-| Inglés | Pronunciación (aprox. en español) | Significado |
-| :--- | :--- | :--- |
-|**`04 ago`**|||
-| **Purpose** | pér-pas | Propósito / Objetivo / Intención |
-| **Phrase** | freis | Frase / Expresión |
-| **Matter** | má-ter | Asunto / Importar (verbo: *it doesn't matter* = no importa) |
-| **Accurate** | á-kiu-ret | Preciso / Exacto / Correcto |
-| **Frame** | freim | Marco / Enmarcar / Estructura |
+| Inglés | Pronunciación (aprox. en español) | Significado | Ejemplo |
+| --- | --- | --- | --- |
+| **260813 Who does the housework?** | | | |
+| **Chores** | chors | Tasks around the home, such as cleaning, washing and ironing, that have to be done regularly | I have to do my chores before I can go out. |
+| **Fair share** | fer sher | Reasonable amount | Everyone should do their fair share of the housework. |
+| **Women's work** | ui-mens uork | Negative term for the boring and repetitive tasks which are traditionally or stereotypically done by women | He still thinks cooking is women's work. |
+| **Division of labour** | di-vi-zhon ov lei-bor | Way of organising work where different tasks are done by different groups of people | There should be a fair division of labour at home. |
+| **Take a breather** | teik a brii-zer | *(idiom)* Stop what you are doing for a short time to rest | Let's take a breather before we finish the last task. |
+| **Pull your weight** | pul yor ueit | Work as hard as everyone else doing the same job | You need to pull your weight if we're doing this together. |
+| **260806 How do climate scientists make predictions?** | |  | |
+| **Prediction** | pri-dík-shon | Statement about what you think will happen in the future | Climate scientists made a prediction about rising sea levels. |
+| **Conditional** | kon-dí-sho-nal | Depending on other factors; not certain | The forecast is conditional on future emissions levels. |
+| **The thing about…** | de zing a-báut | *(informal)* Used to introduce the most important feature or detail to understand about something | The thing about climate models is that they rely on assumptions. |
+| **Out of whack** | aut ov uák | *(idiom)* Out of balance; not working properly or broken | The whole weather pattern is out of whack this year. |
+| **Pro- (something)** | prou | In favour of (something) | She is very pro-renewable energy. |
+| **(Not) on the table** | (not) on de téi-bol | *(idiom)* (Not) considered an option or a possibility | A carbon tax is now on the table. |
+| **260730 The Enhanced Games**  | | | |
+| **Doping** | dóu-ping | *(informal)* Using banned substances to perform better in a sports competition | The athlete was banned for doping. |
+| **It's fair to say…** | its fer tu sei | Used to introduce a statement which the speaker believes is balanced, reasonable or true | It's fair to say the event was a success. |
+| **Divisive** | di-vái-siv | Causing disagreement and argument between people | The new policy proved to be very divisive. |
+| **Cross the line** | kros de lain | Start behaving in an unacceptable way | He crossed the line when he insulted the referee. |
+| **Set a good/bad example** | set a gud/bad ig-zám-pol | Behave in a way that encourages others to behave well/badly | Coaches should set a good example for young athletes. |
+| **Normalise** | nór-ma-laiz | Treat something as normal or acceptable when it previously was not | The documentary shows how doping became normalised in the sport. |
+| **260723 Children in warzones** | | | |
+| **Hyper-vigilant** | jái-per ví-yi-lant | Be very careful or almost too careful to notice things, particularly when there is a possibility of danger | Children in warzones often become hyper-vigilant about sudden noises. |
+| **Be of one mind** | bi ov uán maind | Be part of a group of people that share the same opinion, desire, or viewpoint on a matter | The teachers were of one mind about how to support the children. |
+| **Confront** | kon-frónt | Meet with it or deal with something | Many children have to confront experiences no adult should face. |
+| **Nightmare** | náit-mer | A scary or upsetting dream | She still has nightmares about the bombing. |
+| **Phenomenally** | fi-nó-me-na-li | Do something in an extreme or surprising way | The children adapted phenomenally well given the circumstances. |
+| **Resilient** | ri-síl-ient | Able to recover and come back from something difficult or bad | Children can be remarkably resilient after traumatic experiences. |

@@ -34,7 +34,8 @@
 29. Para preguntas de sí/no en estilo indirecto se usa "**if/whether**"
 30. Aunque hables de futuro, después de "**by the time**" (para cuando) el verbo va en presente simple, no en futuro. `By the time we get to the cinema, the film will have started`.
 31. Regla simple: si tú sientes algo → -ED. Si algo/alguien causa ese sentimiento en otros → -ING.
-    1. I am annoyed: **annoying** = que causa molestia (algo/alguien es molesto), **annoyed** = que siente molestia (tú te sientes molesto). tiring / tired ; boring / bored
+    1. I am annoyed: **annoying** = que causa molestia (algo/alguien es molesto)
+    2. **annoyed** = que siente molestia (tú te sientes molesto). tiring / tired ; boring / bored
 32. **breakfast** (sin artículo, es incontable).
 33. **on the computer** (en inglés se usa "on" para dispositivos: on the computer, on my phone).
 34. **went for a walk** — esta es la expresión fija en inglés para "salir a caminar" (like "went for a run", "went for a swim").
@@ -56,7 +57,17 @@
 50. Verbos **irregulares** que sigues conjugando como regulares. ❌ teached → ✅ taught (teach-taught-taught)
 51. Concordancia singular/plural + artículos con sustantivos de trabajo ❌ begun a jobs, jobs as teacher, a some group the teenagers ✅ got a job, a job as a teacher, a group of teenagers.
 52. "**revise**" es para textos/documentos (revisar un examen, un artículo), no para un coche. Para un coche, se dice "**checked**" o "serviced"
-53.
+53. Teletrabajo = **remote work**. (2) "is well" → **is a good thing** ("well" no se usa así, es adverbio, no puede seguir a "is" para describir algo bueno). (3) "lose time in the way to go" → **waste time commuting** — "commute" es justo el verbo para "desplazarse al trabajo", muy útil para este tema.
+54. money can't buy happiness // be unhappy
+55. con "workload" se usa el adjetivo "**heavy**" (pesada), no "much" (mucho).
+56. Para trenes/autobuses, se dice "miss the train", no "lose the train" (**perder algo físico = lose, perder un transporte = miss**).
+57. "**at**" para lugares como puntos concretos (at the mall, at the airport, at school), y "**in**" para espacios que ves como un contenedor más amplio (in the city, in the room, in the car). No hay una regla 100% exacta, pero ese es el patrón general.
+58. Casi siempre "hardly" va con "when" (y "no sooner" va con "than"). Apréndetelos como parejas fijas: **hardly...when / no sooner...than**.
+59. (el comparativo doble siempre lleva "the" en ambas partes), "**less**" → **fewer** (con sustantivos contables como "problems")
+60. después del verbo "feel", casi siempre necesitas la forma **-ED**, porque "feel" describe lo que pasa DENTRO de una persona.
+61. **thought about travelling**" (con "about" + gerundio, no coma + infinitivo)
+62. **an old friend** (an + vocal,
+63. 
 
 ## Words special
 

@@ -51,7 +51,7 @@ Estos son los enlaces que hay que tener siempre a mano durante la preparación (
       - Una **Resolución de convocatoria** (en el BOC) con fechas concretas
       - Una **Guía para los aspirantes** con las especificaciones exactas de ese año. Conviene descargar siempre porque los detalles de horarios y modelos pueden variar ligeramente de un curso a otro
 
-### Calendario Canarias
+**CALENDARIO**
 
 ![Fases del procedimiento](../assets/img/eoi/calendario_eoi.png)
 
@@ -112,7 +112,6 @@ El examen de certificación se organiza siempre en torno a **cinco actividades**
 
 ![Estrategia de lectura](../assets/img/eoi/eoi-01.png)
 
-### Sesiones 2
 El examen se administra en **dos sesiones distintas**, pero cuenta como una sola prueba a efectos de calificación:
 
 1. **Sesión escrita (única y común)** Se realiza el mismo día para todos los aspirantes del mismo idioma y nivel, normalmente en un centro examinador designado. En esta sesión se evalúan de forma conjunta:
@@ -128,7 +127,7 @@ El examen se administra en **dos sesiones distintas**, pero cuenta como una sola
 
 ![Bloques del examen](../assets/img/eoi/bloques_examen.png)
 
-### Calificación
+### Certificación
 La producción escrita y la producción oral se usan **rúbricas oficiales** publicadas como apéndices de cada convocatoria (**apéndices V-VIII**). Practicar con estas rúbricas delante, en lugar de solo "escribir y ya está", es una de las formas más eficaces de mejorar la nota rápidamente, porque permite auto-corregirse con los mismos criterios que usará el tribunal. Criterios:
 
 - **Adecuación a la tarea**: ¿responde a lo que se pedía, con la extensión y el formato correctos?
@@ -137,7 +136,6 @@ La producción escrita y la producción oral se usan **rúbricas oficiales** pub
 - **Riqueza léxica**: ¿el vocabulario es variado y apropiado para el nivel, o repetitivo y básico?
 - **Registro**: ¿el tono (formal/informal) encaja con la tarea y el destinatario?
 
-### Certificación
 Para obtener el certificado, la normativa exige **dos condiciones simultáneas**:
 
 1. **Superar cada una de las cinco actividades de lengua por separado**, con una puntuación mínima de **5 sobre 10** en cada una.
@@ -191,83 +189,45 @@ Si **cualquiera** de las dos condiciones falla —aunque sea una sola actividad 
 
 ## 💠 SESIÓN ESCRITA
 
-### 01 📑 CTE (Reading) 
+### 01 📑 CTE (Reading) T3
 
 ![Estrategia de lectura](../assets/img/eoi/eoi-02.png)
 
-**ESTRATEGIA**
+!!! abstract "ESTRATEGIA"
+      1. **Lectura rápida global** leer el texto completo en 1-2 minutos sin detenerse en palabras desconocidas, solo para entender de qué trata y cuál es su estructura (introducción, argumentos, conclusión).
+      2. **Leer las preguntas antes de buscar respuestas** esto permite saber exactamente qué información hay que localizar, en lugar de releer el texto entero para cada pregunta.
+      3. **Scan (búsqueda de información concreta)** una vez sabidas las preguntas, volver al texto buscando palabras clave, sinónimos o cifras relacionadas con cada pregunta, sin leer todo de nuevo. Buscar sinónimos, si la pregunta dice "disadvantage" y el texto dice "one of the main drawbacks", hay que reconocer que son sinónimos —los exámenes rara vez repiten la palabra exacta de la pregunta en el texto.
+      4. **Comparar las opciones con la frase exacta del texto**, descartando las que añaden matices que el texto no dice (por ejemplo, si el texto habla de "reduced social contact" y una opción dice "makes people depressed", es una generalización no respaldada por el texto).
+      5. **Check (verificación final):** releer solo la frase o el párrafo exacto donde está la respuesta para confirmar que encaja con lo que pide la pregunta, no solo con una palabra suelta que coincide por casualidad. Revisar las repuestas que no repitas palabras en las opciones de las tareas.
 
-1. **Lectura rápida global** leer el texto completo en 1-2 minutos sin detenerse en palabras desconocidas, solo para entender de qué trata y cuál es su estructura (introducción, argumentos, conclusión).
-2. **Leer las preguntas antes de buscar respuestas** esto permite saber exactamente qué información hay que localizar, en lugar de releer el texto entero para cada pregunta.
-3. **Scan (búsqueda de información concreta)** una vez sabidas las preguntas, volver al texto buscando palabras clave, sinónimos o cifras relacionadas con cada pregunta, sin leer todo de nuevo. Buscar sinónimos, si la pregunta dice "disadvantage" y el texto dice "one of the main drawbacks", hay que reconocer que son sinónimos —los exámenes rara vez repiten la palabra exacta de la pregunta en el texto.
-4. **Comparar las opciones con la frase exacta del texto**, descartando las que añaden matices que el texto no dice (por ejemplo, si el texto habla de "reduced social contact" y una opción dice "makes people depressed", es una generalización no respaldada por el texto).
-5. **Check (verificación final):** releer solo la frase o el párrafo exacto donde está la respuesta para confirmar que encaja con lo que pide la pregunta, no solo con una palabra suelta que coincide por casualidad. Revisar las repuestas que no repitas palabras en las opciones de las tareas.
-
-**Gestión del tiempo**  
-
-`Task 1 - 20min` - `Task 2 - 25min` - `Task 3 - 25min`
-
-**Dificultad**
-
-| | B2 | C1 |
-|---|---|---|
-| Tipo de texto | Argumentativo, algo de lenguaje figurado | Abstracto, ironía, implícitos |
-| Longitud  | Media | Media-larga |
-| Vocabulario desconocido tolerable  | Medio (hay que inferir por contexto) | Alto (se espera inferencia constante) |
-| Tipo de pregunta más difícil  | Opción múltiple con matices | Inferencia de actitud/intención del autor |
-
-### Consejos
-
-!!! note "Trampas típicas de las preguntas de opción múltiple"
+!!! note "Consejos: Trampas típicas de las preguntas de opción múltiple"
     1. **Distractor por palabra literal:** una opción repite una palabra del texto pero cambia el sentido de la frase. Leer siempre la frase completa, no solo buscar la palabra.
     2. **Distractor por negación:** el texto dice "not always" y la opción incorrecta dice "always" (o al revés). Prestar atención especial a negaciones, adverbios de frecuencia y matizadores (*mainly, partly, rarely*).
     3. **Distractor por generalización excesiva:** el texto menciona un caso concreto y la opción lo presenta como una regla general (o al revés).
     4. **Opción "casi correcta pero incompleta":** cubre parte de la idea del texto pero no toda, mientras que otra opción sí es completa.
 
-### 02 📑 CTO (Listening)
+### 02 📑 CTO (Listening) T2
 ![Estrategia de lectura](../assets/img/eoi/eoi-03.png)
 
 | Tipo de tarea | En qué consiste | Consejo específico |
 |---|---|---|
 | Task 1| **1. Multiple matching** Relacionar varios hablantes con varias afirmaciones | Escuchar hasta el final antes de decidir: la respuesta correcta a veces se confirma solo al final del turno de cada hablante |
-| Task 2 | **2. Note/sentence completion**Completar huecos con la palabra exacta que se oye | Prestar atención a la gramática del hueco (singular/plural, tiempo verbal) para no escribir una palabra que no encaja |
-| Task 2 | **2. Multiple choice**Elegir la opción correcta entre 3-4 | Las opciones incorrectas suelen mencionarse en el audio pero con una palabra que cambia el sentido (no, actually, but) |
-| Task 3 | **3. True/False/Not mentioned**Decidir si una afirmación es verdadera, falsa o no aparece | No dar por falso algo que simplemente no se menciona: son categorías distintas |
+| Task 2 | **2. Note/sentence completion** Completar huecos con la palabra exacta que se oye <br>**2. Multiple choice**Elegir la opción correcta entre 3-4| - Prestar atención a la gramática del hueco (singular/plural, tiempo verbal) para no escribir una palabra que no encaja <br> - Las opciones incorrectas suelen mencionarse en el audio pero con una palabra que cambia el sentido (no, actually, but)|
+| Task 3 | **3. True/False/Not mentioned** Decidir si una afirmación es verdadera, falsa o no aparece | No dar por falso algo que simplemente no se menciona: son categorías distintas |
 
-**ESTRATEGIA**
-
-- **ANTES** de escuchar
-    1. **Leer las preguntas con antelación**, durante el tiempo que se da antes de cada audio. Esto permite anticipar qué tipo de información hay que captar (un nombre, una cifra, una opinión) y "escuchar con un propósito" en lugar de escuchar pasivamente.
-    2. **Subrayar palabras clave de las preguntas** (nombres, fechas, lugares) para reconocerlas rápidamente cuando aparezcan en el audio.
-    3. **Predecir el contexto** a partir del título o la introducción de la tarea: ¿es una conversación informal, una entrevista, una noticia?
-- **DURANTE** la escucha
-    1. **No bloquearse en una palabra que no se entiende.** Es preferible seguir escuchando y perder esa palabra que quedarse pensando en ella y perderse las tres frases siguientes.
-    2. **Aprovechar la segunda escucha** (cuando la haya) para confirmar respuestas dudosas, no para escuchar todo desde cero sin criterio.
-    3. **Tomar notas breves** (palabras sueltas, no frases completas) según se escucha, para no depender solo de la memoria.
-        - Usar flechas para relaciones causa-efecto: **rain → traffic jam**
-        - Abreviar palabras largas: **govt** (government), **info** (information), **approx** (approximately)
-        - Anotar solo números, nombres propios y palabras clave, nunca frases completas.
-        - Marcar con un signo de interrogación (**?**) las respuestas dudosas, para revisarlas en la segunda escucha en vez de perder tiempo decidiendo en el momento.
-
-**Evaluación**
-
-- **Comprensión global:** idea principal, finalidad del mensaje, tipo de texto (anuncio, entrevista, noticia).
-- **Comprensión selectiva:** datos concretos como cifras, nombres, horarios, lugares.
-- **Comprensión detallada:** actitud del hablante, opinión, matices de ironía o duda, sobre todo en B2 y C1.
-
-**ACENTOS**
-
-Los audios pueden incluir **acentos no estándar**. Conviene practicar con fuentes variadas para no llevarse una sorpresa el día del examen.
-
-| Acento/variedad | Dónde practicarlo |
-|---|---|
-| Británico estándar (RP) | BBC News, BBC Learning English |
-| Británico regional (escocés, del norte de Inglaterra) | Series de la BBC ambientadas fuera de Londres |
-| Americano general | NPR, podcasts de noticias de EE. UU. |
-| Australiano/neozelandés | Podcasts de ABC Australia |
-| Hablantes no nativos con acento marcado | TED Talks de ponentes de distintos países |
-
-### Consejos
+!!! abstract "ESTRATEGIA"
+      - **ANTES** de escuchar
+          1. **Leer las preguntas con antelación**, durante el tiempo que se da antes de cada audio. Esto permite anticipar qué tipo de información hay que captar (un nombre, una cifra, una opinión) y "escuchar con un propósito" en lugar de escuchar pasivamente.
+          2. **Subrayar palabras clave de las preguntas** (nombres, fechas, lugares) para reconocerlas rápidamente cuando aparezcan en el audio.
+          3. **Predecir el contexto** a partir del título o la introducción de la tarea: ¿es una conversación informal, una entrevista, una noticia?
+      - **DURANTE** la escucha
+          1. **No bloquearse en una palabra que no se entiende.** Es preferible seguir escuchando y perder esa palabra que quedarse pensando en ella y perderse las tres frases siguientes.
+          2. **Aprovechar la segunda escucha** (cuando la haya) para confirmar respuestas dudosas, no para escuchar todo desde cero sin criterio.
+          3. **Tomar notas breves** (palabras sueltas, no frases completas) según se escucha, para no depender solo de la memoria.
+              - Usar flechas para relaciones causa-efecto: **rain → traffic jam**
+              - Abreviar palabras largas: **govt** (government), **info** (information), **approx** (approximately)
+              - Anotar solo números, nombres propios y palabras clave, nunca frases completas.
+              - Marcar con un signo de interrogación (**?**) las respuestas dudosas, para revisarlas en la segunda escucha en vez de perder tiempo decidiendo en el momento.
 
 !!! note "CONSEJOS"
     1. **Practicar con material auténtico, no solo con exámenes de academia.** Noticias, podcasts, series con subtítulos en inglés, artículos de prensa británica o estadounidense.
@@ -283,17 +243,32 @@ Los audios pueden incluir **acentos no estándar**. Conviene practicar con fuent
     3. **Responder según conocimiento previo del tema en vez de según el texto/audio**, especialmente en preguntas tipo "According to the speaker...".
     4. **Ignorar la instrucción sobre el límite de palabras** en tareas de completar huecos, lo que puede anular una respuesta correcta por motivos de formato.
 
-### 03 📑 PCTE (Writing)
+**ACENTOS**
+
+Los audios pueden incluir **acentos no estándar**. Conviene practicar con fuentes variadas para no llevarse una sorpresa el día del examen.
+
+| Acento/variedad | Dónde practicarlo |
+|---|---|
+| Británico estándar (RP) | BBC News, BBC Learning English |
+| Británico regional (escocés, del norte de Inglaterra) | Series de la BBC ambientadas fuera de Londres |
+| Americano general | NPR, podcasts de noticias de EE. UU. |
+| Australiano/neozelandés | Podcasts de ABC Australia |
+| Hablantes no nativos con acento marcado | TED Talks de ponentes de distintos países |
+
+### 03 📑 PCTE (Writing) T2
 Escribir bien en el examen no es solo "no cometer errores": es **responder exactamente a lo que pide la tarea**, con la estructura, el registro y la extensión adecuados, usando un lenguaje variado y bien conectado. 
 
 ![Estrategia de lectura](../assets/img/eoi/eoi-05.png)
 
-**ESTARTEGIA**: 4 FASES
+**ESTARTEGIA**
 
 1. **Leer el enunciado dos veces** y subrayar: tipo de texto, destinatario, propósito, puntos que hay que incluir obligatoriamente, número de palabras.
 2. **Planificar 3-5 minutos** antes de escribir: esquema con las ideas principales de cada párrafo, en un margen o borrador. Escribir sin plan es la causa número uno de textos desordenados. Saltarse la fase de planificación para "ganar tiempo" casi siempre sale caro: los textos improvisados tienden a repetir ideas, a desviarse del tema o a quedarse cortos de conclusión.
 3. **Redactar** siguiendo el esquema, controlando el tiempo restante para no quedarse sin terminar la conclusión.
 4. **Revisar 3-5 minutos al final**: concordancia verbal, ortografía, conectores, y que se cumple el número de palabras pedido (ni muy por debajo ni muy por encima, un ±10% suele ser el margen razonable).
+
+!!! info "Actualmente quiero mirar numero de frases que más o menos cubren las palabras que hay que escribir para cuando este organizando la idea mirar que estructura grámatical meter tambien en las frases."
+
 
 **CONECTORES**
 
@@ -388,21 +363,21 @@ Combina descripción objetiva y opinión personal sobre un libro, película, res
 
 **Error típico:** escribir con un tono demasiado agresivo o coloquial ("This is ridiculous!!!"), lo que penaliza en el criterio de registro incluso si el contenido es correcto.
 
-### Rubricas B2
-1. **COMPETENCIA LÉXICA**
-      1. Utiliza un vocabulario amplio y evita la repetición mediante reformulaciones.
-      2. Su precisión léxica es generalmente alta, aunque tenga alguna confusión o cometa alguna incorrección al seleccionar las palabras, sin que afecte a la comunicación.
-2. **COMPETENCIA GRAMATICAL**
-      1. Utiliza diversas estructuras simples, con un alto grado de control, y algunas estructuras más complejas.
-      2. Comete errores solo al utilizar estructuras más complejas, pero sin que afecte a la comunicación.
-3. **COMPETENCIA DISCURSIVA Y ORGANIZATA**
-      1. Produce un texto organizado y coherente usando diversos mecanismos de cohesión.
-      2. Puntúa y usa la ortografía de manera correcta, aunque puede evidenciarse cierta influencia de otra lenguas. En textos largos, distribuye las ideas en párrafos lógicos y claros.
-4. **ADECUACIÓN DE LA TAREA**
-      1. Se expresa con educación y elige el registro adecuado. Para ello utiliza expresiones lingüísticas apropiadas para el contexto. Se ajusta a la tipología textual propuesta.
-      2. Desarrolla las ideas principales con detalle y de manera inteligible, aportando contenido relevante y ejemplificando, si es necesario, para la tarea propuesta.
-
 ### Consejos
+
+!!! abstract "Rubricas B2"
+      1. **COMPETENCIA LÉXICA**
+         1. Utiliza un vocabulario amplio y evita la repetición mediante reformulaciones.
+         2. Su precisión léxica es generalmente alta, aunque tenga alguna confusión o cometa alguna incorrección al seleccionar las palabras, sin que afecte a la comunicación.
+      2. **COMPETENCIA GRAMATICAL**
+         1. Utiliza diversas estructuras simples, con un alto grado de control, y algunas estructuras más complejas.
+         2. Comete errores solo al utilizar estructuras más complejas, pero sin que afecte a la comunicación.
+      3. **COMPETENCIA DISCURSIVA Y ORGANIZATA**
+         1. Produce un texto organizado y coherente usando diversos mecanismos de cohesión.
+         2. Puntúa y usa la ortografía de manera correcta, aunque puede evidenciarse cierta influencia de otra lenguas. En textos largos, distribuye las ideas en párrafos lógicos y claros.
+      4. **ADECUACIÓN DE LA TAREA**
+         1. Se expresa con educación y elige el registro adecuado. Para ello utiliza expresiones lingüísticas apropiadas para el contexto. Se ajusta a la tipología textual propuesta.
+         2. Desarrolla las ideas principales con detalle y de manera inteligible, aportando contenido relevante y ejemplificando, si es necesario, para la tarea propuesta.
 
 !!! note "CONSEJOS"
       1. En la fase de planificación, **elegir de antemano** 4-5 conectores distintos que se van a usar en el texto, para forzarse a variar en lugar de caer siempre en los mismos por defecto bajo presión de tiempo.
@@ -425,12 +400,12 @@ Combina descripción objetiva y opinión personal sobre un libro, película, res
       4. **Errores sistemáticos de concordancia** (sujeto-verbo, singular-plural) que se repiten varias veces en el texto.
       5. **No dejar tiempo para revisar.** Muchos errores tontos (falta de -s, mayúsculas olvidadas, errores de ortografía básicos) se detectan solo con una relectura atenta.
 
-###  04 ME (Mediación escrita)
+###  04 📑 ME (Mediación escrita)
 La mediación evalúa la capacidad de **actuar como puente entre un texto (o una persona) y otra persona que no tiene acceso directo a ese texto o a ese idioma**. No es traducción literal palabra por palabra: es selección, síntesis y adaptación de la información relevante.
 
 ![Estrategia de lectura](../assets/img/eoi/eoi-07.png)
 
-!!! success "Vocabulario para "subir de nivel" un texto"
+!!! success "Sinónimos para "subir de nivel" un texto"
       * good → **beneficial, advantageous, valuable, effective**
       * bad → **detrimental, harmful, problematic, counterproductive**
       * big → **significant, substantial, considerable**
@@ -449,7 +424,7 @@ La mediación evalúa la capacidad de **actuar como puente entre un texto (o una
       Palabras objetivo: ___________
       ```
 
-### Ejemplos
+**EJEMPLOS**
 
 !!! example "*"Some people think social media has more disadvantages than advantages. Discuss both views and give your opinion." (150-200 words)*"
       Nowadays, social media platforms are part of almost everyone's daily routine. **(introducción parafraseando el tema, sin copiar el título literalmente)** While some people argue that they cause more harm than good, others believe their benefits outweigh the risks. In this essay, I will discuss both perspectives before giving my own opinion.
@@ -468,9 +443,6 @@ La mediación evalúa la capacidad de **actuar como puente entre un texto (o una
       **Mal enfoque (traducción literal de todo):** repetir frase por frase todo el contenido del email, incluidas fórmulas de cortesía y detalles irrelevantes, sin priorizar.
 
       **Buen enfoque (mediación real):** *"Basically, the Monday meeting has been moved to 10am instead of 9am, starting next week. Everything else stays the same."* — se selecciona solo la información accionable, se ignoran los saludos y las fórmulas de cortesía del email original, y se adapta a un registro oral breve y directo.
-
-### Rúbrica
-Antes de dar por terminado un texto de práctica, revisar estas cuatro preguntas, que resumen los criterios oficiales de corrección:
 
 ### Consejos
 !!! note "CONSEJOS"
@@ -500,9 +472,7 @@ La prueba oral suele ser la que más nervios genera, precisamente porque no hay 
 3. **Interacción:** conversación con el examinador o con otro candidato sobre el mismo tema u otro relacionado, en forma de diálogo, debate o negociación simulada.
 4. **Mediación oral:** transmitir información de un texto breve a un interlocutor que no tiene acceso a él, adaptando el registro y seleccionando lo relevante.
 
-## Preparación
-
-Durante el tiempo de preparación antes de entrar al aula (normalmente unos minutos, variable según la convocatoria y el nivel), es más eficaz anotar **palabras clave y conectores**, no frases completas. Escribir frases completas para leerlas después suena forzado y poco natural ante el tribunal; las palabras clave sirven de "andamiaje" mental sin caer en la lectura literal: 
+Durante el tiempo de **preparación** antes de entrar al aula (normalmente unos minutos, variable según la convocatoria y el nivel), es más eficaz anotar **palabras clave y conectores**, no frases completas. Escribir frases completas para leerlas después suena forzado y poco natural ante el tribunal; las palabras clave sirven de "andamiaje" mental sin caer en la lectura literal: 
 
 !!! success "Plantilla de planificación rápida"
             Tema: ___________
@@ -511,14 +481,7 @@ Durante el tiempo de preparación antes de entrar al aula (normalmente unos minu
             Vocabulario específico que quiero usar: ___________
             Conector de cierre: ___________
             
-No hace falta siempre un interlocutor para entrenar la producción oral:
-
-- **Grabarse respondiendo a preguntas de modelos de examen**, cronometrado, y volver a escuchar la grabación con la rúbrica delante.
-- **Hablar en voz alta describiendo el entorno** (una foto, una habitación, una noticia leída) durante 2-3 minutos, como entrenamiento de fluidez.
-- **Practicar "shadowing"**: repetir en voz alta, casi en simultáneo, lo que dice un locutor de un podcast o vídeo, para mejorar ritmo y entonación.
-- **Buscar un compañero de intercambio de idiomas** (presencial o por videollamada) para practicar la interacción real, que es más difícil de simular en solitario.
-
-###  01 📑 PCTO (Speaking)
+###  05 📑 PCTO (Speaking)
 
 ### Task 1 Monólogo
 !!! tip "Preparar de memoria una **estructura fija reutilizable** para cualquier tema (no un contenido memorizado, sino un esqueleto)"
@@ -563,7 +526,7 @@ La interacción evalúa la capacidad de **mantener una conversación real con ot
     * Pedir aclaración → **Sorry, could you repeat that? / What exactly do you mean by...?**
     * Cerrar el tema → **So, to sum up... / Overall, I think...**
 
-###  02 📑MO (Mediación oral)
+###  06 📑MO (Mediación oral)
 La mediación oral pide **transmitir información de un texto (leído previamente o escuchado) a un interlocutor que no tiene acceso a ese texto**, adaptando el registro y seleccionando lo relevante para la situación.
 
 **ESTRUCTURA RECOMENDADA**
@@ -587,7 +550,7 @@ La mediación oral pide **transmitir información de un texto (leído previament
 
 **Por qué funciona:** el candidato reacciona a cada intervención del examinador (no responde con frases preparadas de antemano desconectadas), usa fórmulas de transición naturales, y mantiene una postura matizada en lugar de una opinión extrema y cerrada.
 
-## Rúbrica
+## Rúbricas PCTO
 - **En B2:** buscar un equilibrio: mostrar variedad de estructuras, pero sin sacrificar tanto la fluidez que la intervención se vuelva entrecortada.
 - **En C1:** se espera fluidez y naturalidad simultáneamente con la complejidad; los silencios largos para "construir" una frase compleja penalizan más que en niveles inferiores.
 
@@ -609,38 +572,21 @@ No tiene que ser "perfecta" ni imitar un acento nativo concreto, pero sí ser **
 - Acentuar mal palabras largas, cambiando la sílaba tónica (*comfortable, photography*).
 - Pronunciar la "-ed" del pasado siempre igual, cuando en realidad varía entre /t/, /d/ e /ɪd/ según el sonido anterior.
 
-
-
-
-
-
-
-
-👉👉👉
-
-
-
 ## Consejos speaking
 
 !!! note "CONSEJOS"
-    1. Practicar 10-15 minutos de speaking varias veces por semana, aunque sea en solitario, es más rentable que una sesión larga y aislada una vez cada dos semanas.
-    2. Estructura fija reutilizable para el monólogo: introducción, 2-3 puntos con ejemplos, cierre.
-    3. En la interacción, reaccionar de verdad al interlocutor, no soltar un discurso preparado.
-    4. En la mediación oral, reformular con palabras propias, nunca repetir de memoria el texto original.
-    5. Practicar en voz alta y grabarse es más efectivo que solo "pensar" en inglés.
-    6. Un acento marcado no penaliza si el habla es inteligible; los bloqueos largos sí.
-    7. **Practicar en voz alta, no solo mentalmente.** Pensar en inglés no es lo mismo que hablarlo en voz alta bajo presión; hay que entrenar específicamente la producción oral, no solo la comprensión.
-    8. **Grabarse y escucharse.** Resulta incómodo al principio, pero es la forma más rápida de detectar muletillas, repeticiones y errores recurrentes sin depender de un profesor.
-    9. **Aceptar el silencio breve como parte natural del habla.** Una pequeña pausa para pensar no penaliza; lo que penaliza es el bloqueo prolongado sin ningún intento de recurso (usar las frases de "ganar tiempo" en ese momento).
+    1. **Grabarse respondiendo a preguntas de modelos de examen**, cronometrado, y volver a escuchar la grabación con la rúbrica delante.
+    2. **Hablar en voz alta describiendo el entorno** (una foto, una habitación, una noticia leída) durante 2-3 minutos, como entrenamiento de fluidez.
+    3. **Practicar "shadowing"**: repetir en voz alta, casi en simultáneo, lo que dice un locutor de un podcast o vídeo, para mejorar ritmo y entonación.
+    4. **Buscar un compañero de intercambio de idiomas** (presencial o por videollamada) para practicar la interacción real, que es más difícil de simular en solitario.
+    5. **Practicar** 10-15 minutos de speaking varias veces por semana, aunque sea en solitario, es más rentable que una sesión larga y aislada una vez cada dos semanas.
+    6. **Estructura fija reutilizable** para el monólogo: introducción, 2-3 puntos con ejemplos, cierre. Conocer de memoria al menos 5-6 frases de interacción (opinar, **ganar tiempo**, mostrar desacuerdo).
+    7. **En la interacción, reaccionar de verdad** al interlocutor, no soltar un discurso preparado.
+    8. **En la mediación oral, reformular con palabras propias**, nunca repetir de memoria el texto original.
+    9. **Practicar en voz alta y grabarse** es más efectivo que solo "pensar" en inglés.
     10. **No traducir mentalmente del español.** Pensar directamente en estructuras en inglés, aunque sean simples, es más rápido y más natural que construir la frase en español y traducirla sobre la marcha.
-    11. [ ] Tengo automatizada una estructura de introducción y cierre para el monólogo.
-    - [ ] Conozco de memoria al menos 5-6 frases de interacción (opinar, ganar tiempo, mostrar desacuerdo).
-    - [ ] He practicado mediación oral con textos reales, no solo teoría.
-    - [ ] Me he grabado hablando y he escuchado la grabación de forma crítica al menos una vez.
-    - [ ] Sé qué hacer si me quedo en blanco (usar frases de "ganar tiempo", no quedarme en silencio total).
-    - [ ] He practicado con otra persona la parte de interacción, no solo en solitario.
 
-!!! tip "ERRORES"
+!!! failure "ERRORES"
     1. **Error típico:** intentar recordar y repetir el texto original palabra por palabra, en lugar de reformular con naturalidad. La mediación premia la claridad de la comunicación, no la memoria literal.
     2. **Responder con monosílabos** ("Yes" / "No" / "I don't know") sin desarrollar, lo que corta la conversación y limita la evaluación.
     3. **No reaccionar a lo que dice el interlocutor**, limitándose a decir lo que se había preparado de antemano sin escuchar de verdad.
@@ -651,36 +597,17 @@ No tiene que ser "perfecta" ni imitar un acento nativo concreto, pero sí ser **
     8. **No mirar al examinador** y hablar mirando las notas todo el tiempo, lo que también afecta a la naturalidad percibida.
     9. **Corregirse a uno mismo de forma excesiva**, deteniéndose constantemente a reformular cada frase, lo que rompe la fluidez más que un error puntual sin corregir.
 
-!!! tip "PREGUNTAS"
-      **¿Me penaliza tener acento español al hablar inglés?**
+!!! question "PREGUNTAS"
+      1. **¿Me penaliza tener acento español al hablar inglés?**
       No. El acento en sí no se penaliza; lo que se evalúa es la inteligibilidad. Un acento marcado pero perfectamente comprensible no resta puntos por sí mismo.
-
-      **¿Qué pasa si no entiendo una pregunta del examinador?**
+      2. **¿Qué pasa si no entiendo una pregunta del examinador?**
       Es perfectamente aceptable, y recomendable, pedir que la repita o la reformule (*Sorry, could you say that again?* / *Do you mean...?*), en lugar de responder algo que no tiene relación con la pregunta.
-
-      **¿Puedo llevar notas escritas a la parte de interacción?**
+      3. **¿Puedo llevar notas escritas a la parte de interacción?**
       Generalmente solo se permite usar las notas tomadas durante el tiempo de preparación para el monólogo, no durante la interacción en sí, que debe ser espontánea. Conviene confirmarlo en la guía del aspirante de la convocatoria.
-
-      **¿Es mejor hablar rápido para parecer más fluido?**
+      4. **¿Es mejor hablar rápido para parecer más fluido?**
       No necesariamente. Un ritmo natural con pausas breves bien gestionadas transmite más control del idioma que hablar muy rápido cometiendo errores por las prisas.
-
-      **¿Puedo pedir repetir la pregunta más de una vez?**
+      5. **¿Puedo pedir repetir la pregunta más de una vez?**
       Sí, aunque hacerlo de forma excesiva puede transmitir inseguridad. Si ocurre varias veces, puede ser señal de que conviene reforzar la comprensión oral antes del examen.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## 🗓️ Recursos
 
@@ -718,7 +645,8 @@ No significa empezar de cero: significa **ajustar el plan con datos reales**.
 3. **Reforzar específicamente las actividades por debajo de 5**, sin descuidar las que sí se superaron, para mantener el nivel general.
 4. **Valorar la convocatoria extraordinaria** del mismo curso si las fechas y la normativa lo permiten, en lugar de esperar automáticamente al curso siguiente.
 
-### Medir el progreso
+**MEDIR EL PROGRESO**
+
 La sensación subjetiva de "voy mejorando" no siempre coincide con el progreso real. Formas más fiables de medirlo:
 
 - **Repetir el mismo modelo de examen cada 3-4 semanas** (no el mismo texto exacto, pero sí el mismo tipo de prueba) y comparar la puntuación objetivamente.
@@ -727,18 +655,24 @@ La sensación subjetiva de "voy mejorando" no siempre coincide con el progreso r
 - **Pedir feedback externo periódico** (profesor, academia, intercambio de idiomas) en lugar de depender solo de la autoevaluación, que tiende a tener puntos ciegos.
 
 ### Consejos
-Preparar un examen de idiomas de este nivel es, sobre todo, una carrera de fondo. Algunas ideas para sostener la motivación durante las semanas de plan:
+!!! note  "Consejos para sostener motivación"
+    1. **Fijar micro-objetivos semanales**, no solo el objetivo final del examen, que puede sentirse lejano y abstracto durante meses.
+    2. **Celebrar el progreso en destrezas concretas** (por ejemplo, "esta semana he entendido un podcast completo sin subtítulos"), no solo la nota final de los simulacros.
+    3. **Variar los materiales de práctica** para evitar el aburrimiento: series, música, podcasts de temas de interés personal, no solo material de examen.
+    4. **Recordar el motivo real** por el que se persigue el certificado (uso profesional, académico o personal), sobre todo en las semanas de bajón de motivación que son normales en cualquier proceso largo.
+    5. Planificar por semanas, con **objetivos concretos**, no solo "estudiar inglés en general".
+    6. Hacer al menos 2-3 simulacros completos cronometrados antes del examen real.
+    7. Preparar la logística del día del examen con antelación, no improvisar esa parte.
+    8. Un resultado no superado es una fuente de datos para ajustar el plan, no un punto final.
 
-- **Fijar micro-objetivos semanales**, no solo el objetivo final del examen, que puede sentirse lejano y abstracto durante meses.
-- **Celebrar el progreso en destrezas concretas** (por ejemplo, "esta semana he entendido un podcast completo sin subtítulos"), no solo la nota final de los simulacros.
-- **Variar los materiales de práctica** para evitar el aburrimiento: series, música, podcasts de temas de interés personal, no solo material de examen.
-- **Recordar el motivo real** por el que se persigue el certificado (uso profesional, académico o personal), sobre todo en las semanas de bajón de motivación que son normales en cualquier proceso largo.
-- Planificar por semanas, con **objetivos concretos**, no solo "estudiar inglés en general".
-- Hacer al menos 2-3 simulacros completos cronometrados antes del examen real.
-- Preparar la logística del día del examen con antelación, no improvisar esa parte.
-- Un resultado no superado es una fuente de datos para ajustar el plan, no un punto final.
+!!! failure "ERRORES"
+    1. **Planificar de forma demasiado ambiciosa** (por ejemplo, 3 horas diarias) y abandonar el plan a la segunda semana por agotamiento. Es preferible un plan modesto pero sostenible.
+    2. **Estudiar siempre lo mismo** (normalmente gramática, por ser lo más cómodo) y evitar sistemáticamente la destreza más débil, casi siempre speaking o writing.
+    3. **No cronometrar nunca la práctica**, lo que genera una falsa sensación de preparación que se desmorona el día del examen real con límite de tiempo.
+    4. **Dejar los simulacros completos para el final**, sin haber probado antes las condiciones reales (sin diccionario, con cronómetro, escribiendo a mano si aplica).
+    5. **No descansar nunca**, asumiendo que más horas siempre es mejor: el descanso y la consolidación son parte del aprendizaje, no tiempo perdido
 
-!!! tip "PREGUNTAS"
+!!! question "PREGUNTAS"
       1. **¿Cuántas horas semanales son razonables compaginando con trabajo o estudios?**
       No hay un número mágico, pero por debajo de 3-4 horas semanales resulta difícil progresar de forma perceptible en pocos meses. Lo importante es que sea sostenible durante todo el plan, no solo las primeras semanas.
       2. **¿Es mejor estudiar solo/a o apuntarse a una academia/curso de preparación?**
@@ -750,18 +684,10 @@ Preparar un examen de idiomas de este nivel es, sobre todo, una carrera de fondo
       5. **¿Merece la pena hacer un curso intensivo de última hora si he estudiado poco?**
       Puede ayudar a repasar formato y estrategia de examen, pero no sustituye meses de exposición real al idioma. Es más realista, si el tiempo es muy corto, priorizar según el punto "si quedan menos de 12 semanas" de este documento y ajustar expectativas sobre el resultado.
 
-
-!!! tip "ERRORES"
-    - **Planificar de forma demasiado ambiciosa** (por ejemplo, 3 horas diarias) y abandonar el plan a la segunda semana por agotamiento. Es preferible un plan modesto pero sostenible.
-    - **Estudiar siempre lo mismo** (normalmente gramática, por ser lo más cómodo) y evitar sistemáticamente la destreza más débil, casi siempre speaking o writing.
-    - **No cronometrar nunca la práctica**, lo que genera una falsa sensación de preparación que se desmorona el día del examen real con límite de tiempo.
-    - **Dejar los simulacros completos para el final**, sin haber probado antes las condiciones reales (sin diccionario, con cronómetro, escribiendo a mano si aplica).
-    - **No descansar nunca**, asumiendo que más horas siempre es mejor: el descanso y la consolidación son parte del aprendizaje, no tiempo perdido
-
-## 🇬🇧 Estructuras gramaticales
+## 🇬🇧 Resumen Gramatical
 El examen EOI pone el foco sobre todo en la **producción activa**, así que esta página prioriza ese enfoque.
 
-!!! danger "Los cinco errores más penalizados, resumidos"
+!!! failure "Los cinco errores más penalizados, resumidos"
     1. **Present Perfect con marcador de tiempo cerrado** (*I have been there last year* ❌).
     2. **"Would" dentro de la cláusula "if"** (*If I would have known* ❌).
     3. **Inversión mantenida en preguntas indirectas y reported speech** (*She asked what did I want* ❌).
@@ -927,7 +853,7 @@ No hace falta memorizar los 200 verbos irregulares,estos son los que, por frecue
 
     **Consejo EOI:** usar una sola de estas estructuras, bien construida, en un ensayo o en el monólogo de C1 suma más que varias frases simples correctas, porque demuestra un control del idioma que va más allá de lo funcional.
 
-!!! failure "Qué tiempo dominar de forma activa, por nivel"
+!!! tip "Qué tiempo dominar de forma activa, por nivel"
       | Bloque | B1 (activo) | B2 (activo) | C1 (activo) |
       |---|---|---|---|
       | Presente | Simple, Continuous, Perfect | + Perfect Continuous con matices | Dominio total, incluyendo matices de registro |
@@ -938,4 +864,68 @@ No hace falta memorizar los 200 verbos irregulares,estos son los que, por frecue
       | Reported speech | Reconocimiento | Producción de afirmaciones y preguntas | Producción fluida, incluso con verbos introductorios variados (claim, admit, deny) |
       | Modales de deducción | No exigido | Básico (must/might) | Dominio completo, incluidas formas con "have" |
 
-*¡A por ello!*   1758 LINE 
+## Estrategia día de examen — Writing (Task 1 y Task 2)
+
+## Reparto de tiempo orientativo
+
+| Fase | Task 1 (100-120 palabras) | Task 2 (230-275 palabras) |
+|---|---|---|
+| Leer + subrayar | 2 min | 3 min |
+| Planificar | 3 min | 5 min |
+| Redactar | 10-12 min | 25-28 min |
+| Revisar | 3 min | 5 min |
+| **Total aprox.** | **~18-20 min** | **~38-40 min** |
+
+---
+
+## FASE 1 — Leer el enunciado (igual en las dos tareas)
+
+Subraya siempre estas 4 cosas antes de escribir una sola palabra:
+- **Tipo de texto** (email, blog, essay, report...)
+- **Destinatario** (amigo, empresa, revista del centro...) → esto define el registro
+- **Puntos obligatorios** que hay que incluir (normalmente 2, en negrita o con viñetas en el enunciado)
+- **Número de palabras**
+
+---
+
+## FASE 2 — Planificar
+
+### Task 1 (esquema rápido, 3 min)
+1. Escribe los 2 puntos obligatorios como 2 mini-bloques
+2. Para cada bloque, anota 1-2 frases clave que quieres decir
+3. Asigna a cada frase una estructura gramatical objetivo — ej: "frase 1 → present perfect", "frase 2 → relative clause"
+4. Elige 2-3 conectores que vas a usar, para no repetir
+
+### Task 2 (esquema más completo, 5 min)
+1. Divide en los 4 bloques fijos: introducción / párrafo cuerpo 1 / párrafo cuerpo 2 / conclusión
+2. En cada bloque cuerpo, anota: idea principal + 1 ejemplo concreto
+3. Asigna 1 estructura gramatical objetivo por párrafo — ej: "párrafo 1 → conditional", "párrafo 2 → passive voice", "conclusión → cleft sentence"
+4. Elige 4-5 conectores distintos (uno por bloque más o menos)
+
+### Lista de estructuras candidatas (elige 3-5 según la tarea)
+present perfect · past perfect · conditionals · passive voice · relative clauses · reported speech · comparativos dobles · cleft sentences · inversión · causativa · wish
+
+---
+
+## FASE 3 — Redactar
+
+- Sigue el esquema, no improvises sobre la marcha
+- Si te atascas en una palabra, no pares a buscar la perfecta — sigue escribiendo y revisa el vocabulario en la Fase 4
+- Vigila el tiempo: si vas muy retrasado en Task 2, prioriza terminar la conclusión antes que perfeccionar el cuerpo (un texto sin cierre penaliza más que uno con el cuerpo algo corto)
+
+---
+
+## FASE 4 — Revisar (checklist, igual en las dos tareas)
+
+1. ¿Está el registro consistente de principio a fin? (nada de mezclar formal/informal)
+2. ¿Concordancia sujeto-verbo?
+3. ¿Usaste las estructuras gramaticales que planeaste, o se quedaron fuera?
+4. ¿Número de palabras dentro del margen (±10%)?
+5. Ortografía y mayúsculas sueltas
+
+---
+
+## Diferencia clave entre las dos tareas
+
+- **Task 1:** prioriza precisión y que no falte ningún punto obligatorio — es corta, cada frase pesa mucho
+- **Task 2:** prioriza estructura clara en párrafos y variedad de conectores/gramática — aquí sí hay espacio para desarrollar argumentos
