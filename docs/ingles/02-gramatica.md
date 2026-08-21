@@ -361,6 +361,8 @@ En inglés formal/escrito (Writing de B2-C1), se puede invertir el orden de suje
    > Normal: I had sat down when the phone rang. → Inversión: "No sooner had I sat down than the phone rang."
 4. **Never... (en toda mi vida/nunca)**
    > Normal: I have never seen such a mess. → Inversión: "Never have I seen such a mess."
+   
+   > "never" pide inversión con had (past perfect)
 
 ### Verbos + gerundio fijo
 

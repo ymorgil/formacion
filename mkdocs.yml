@@ -36,6 +36,9 @@ nav:
         - Recursos: ingles/99-recursos.md
    - AWS:
         - Listado: AWSedu/00-educator-classes.md
+        - Cursos: AWSedu/03cursosaws.md
+        - Services: AWSedu/01-services.md
+        - lab: AWSedu/02-lab-ec2.md
    - Trade:
         - 00 Introducción: trade/00-introduccion.md
         - 01 Tipos de activos: trade/01-tipos-de-activos.md

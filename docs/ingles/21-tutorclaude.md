@@ -63,11 +63,11 @@
 56. Para trenes/autobuses, se dice "miss the train", no "lose the train" (**perder algo físico = lose, perder un transporte = miss**).
 57. "**at**" para lugares como puntos concretos (at the mall, at the airport, at school), y "**in**" para espacios que ves como un contenedor más amplio (in the city, in the room, in the car). No hay una regla 100% exacta, pero ese es el patrón general.
 58. Casi siempre "hardly" va con "when" (y "no sooner" va con "than"). Apréndetelos como parejas fijas: **hardly...when / no sooner...than**.
-59. (el comparativo doble siempre lleva "the" en ambas partes), "**less**" → **fewer** (con sustantivos contables como "problems")
+59. (el comparativo doble siempre lleva "the" en ambas partes), "**less**" → **fewer** (con sustantivos contables como "problems") (recuerda: **less=incontable, fewer=contable**)
 60. después del verbo "feel", casi siempre necesitas la forma **-ED**, porque "feel" describe lo que pasa DENTRO de una persona.
 61. **thought about travelling**" (con "about" + gerundio, no coma + infinitivo)
 62. **an old friend** (an + vocal,
-63. 
+63. **Clefts**: Patrón que "worries" hace unos días — el sujeto de "bother" aquí es "**what**..." (funciona como "eso", 3ª persona singular), así que necesita -s.
 
 ## Words special
 
