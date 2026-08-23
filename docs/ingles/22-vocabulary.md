@@ -13,30 +13,36 @@
 
 | Inglés | Pronunciación (aprox. en español) | Significado | Ejemplo |
 | --- | --- | --- | --- |
-| **sem 30** | | | |
+| **sem 30**{:.yerbold} | | | |
 | **Put up with** | put ap uiz | Tolerar / Soportar | I can't put up with this noise anymore. |
 | **Look after** | luk áf-ter | Cuidar de | She looks after her little brother every afternoon. |
 | **Look forward to** | luk fór-uard tu | Esperar con ilusión / Tener ganas de | I'm looking forward to the summer holidays. |
 | **Get along with** | get a-long uiz | Llevarse bien con | He gets along with all his classmates. |
 | **Run out of** | ran aut ov | Quedarse sin / Agotársele a uno | We ran out of milk this morning. |
-| **sem 31** | | | |
+| **sem 31**{:.yerbold} | | | |
 | **Carry out** | ká-ri aut | Llevar a cabo / Realizar | The technicians carried out the tests successfully. |
 | **Come up with** | kam ap uiz | Inventar / Proponer / Ocurrirse (una idea) | She came up with a great idea for the project. |
 | **Deal with** | diil uiz | Tratar con / Lidiar con / Resolver | I have to deal with this problem today. |
 | **Figure out** | fí-giur aut | Descifrar / Entender / Averiguar | I can't figure out how this machine works. |
 | **Catch up on** | kach ap on | Ponerse al día con | I need to catch up on my emails. |
-| **sem 32** | | | |
+| **sem 32**{:.yerbold} | | | |
 | **Bring up** | bring ap | Sacar un tema / Mencionar (o criar a alguien) | Please don't bring up that subject again. |
 | **Get over** | get ó-ver | Superar (una enfermedad, una ruptura, un problema) | It took him weeks to get over the flu. |
 | **Turn down** | tern daun | Rechazar (una oferta) / Bajar (el volumen) | She turned down the job offer. |
 | **Point out** | point aut | Señalar / Destacar / Hacer notar | The teacher pointed out my mistakes. |
 | **Go through** | gou zru | Atravesar / Pasar por (una situación difícil o experiencia) | They went through a difficult time last year. |
-| **sem 33** | | | |
+| **sem 33**{:.yerbold} | | | |
 | **Check in** | chek in | Facturar / Registrarse (aeropuerto, hotel) | We checked in at the hotel around 3 pm. |
 | **Set off** | set of | Ponerse en marcha, salir de viaje | We set off early to avoid traffic. |
 | **Break down** | breik daun | Averiarse (un coche, máquina) | Our car broke down on the motorway. |
 | **End up** | end ap | Acabar (haciendo algo, en un sitio, sin planearlo) | We ended up staying an extra night. (end up + ing) |
 | **Come across** | kam a-krós | Encontrarse con algo/alguien por casualidad | I came across an old photo of us. |
+| **sem 34**{:.yerbold} | | | |
+| **Cheer up** | chir ap | Animar(se) | She cheered up when she heard the good news. |
+| **Let down** | let daun | Decepcionar, fallarle a alguien | He felt like he had let down his team. |
+| **Make up** | meik ap | Reconciliarse / Inventarse algo | They had an argument, but they made up the next day. |
+| **Fall out (with)** | fol aut | Pelearse, discutir con alguien (romper relación) | She fell out with her best friend last year. |
+| **Hold on** | jould on | Esperar (un momento) / Aguantar, resistir | Hold on a second, I'll be right there. |
 
 ## Vocabulario Temático
 

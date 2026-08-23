@@ -64,7 +64,7 @@ Frases: 1+2+2+2
 
 | Conectores | Uso | Ejemplo |
 |---|---|---|
-| **CONTRASTE Y CONCESIÓN**{:.yerbold} | | |
+| **CONTRASTE Y CONCESIÓN**{:.yerbold} |*Muestran una oposición o un cambio de dirección respecto a la idea anterior* |*(Estructura lógica: Idea A ➔ Giro inesperado / Idea B contraria)* |
 | however / sin embargo | Une dos oraciones independientes; suele ir seguido de coma | It was expensive. However, it was worth it. |
 | nevertheless / no obstante, aun así | Concesión formal; introduce contraste manteniendo la idea principal | The plan had flaws. Nevertheless, we proceeded. |
 | nonetheless / aun así, de todas formas | Similar a "nevertheless", ligeramente menos formal | It was difficult. Nonetheless, she succeeded. |
@@ -75,23 +75,24 @@ Frases: 1+2+2+2
 | on the other hand / por otro lado | Introduce una idea opuesta o alternativa | It's fast. On the other hand, it's unreliable. |
 | in spite of / a pesar de | Va seguido de sustantivo o gerundio | In spite of the rain, they played the match. |
 | despite / a pesar de | Uso formal similar a "in spite of" | Despite the rain, they played the match. |
-| **CAUSA Y CONSECUENCIA**{:.yerbold} | | |
-| therefore / por lo tanto | Introduce una consecuencia lógica | She missed the train. Therefore, she was late. |
-| as a result / como resultado | Conecta causa directa con consecuencia | He didn't study. As a result, he failed the exam. |
-| consequently / en consecuencia | Expresa resultado lógico o natural | The road was icy. Consequently, many accidents occurred. |
+| **CAUSA**{:.yerbold} |*Explican la razón o motivo de una situación. (Estructura lógica: Consecuencia ➔ Causa)* | |
 | due to / debido a | Introduce causa seguida de sustantivo | The flight was delayed due to bad weather. |
 | owing to / a causa de | Similar a "due to", algo más formal | Owing to staff shortages, the shop closed early. |
 | since / ya que | Introduce causa conocida o evidente | Since it was late, we decided to leave. |
 | because / porque | Explica la razón directa de algo | We stayed in because it was raining. |
-| so / así que | Conector informal de consecuencia | It was raining, so we stayed in. |
-| **ADICIÓN Y ÉNFASIS**{:.yerbold} | | |
+| **CONSECUENCIA**{:.yerbold} |*Expresan el resultado o efecto de algo. (Estructura lógica: Acción/Causa ➔ Consecuencia)* | |
+| therefore / por lo tanto | Introduce una consecuencia lógica | She missed the train. Therefore, she was late. |
+| as a result / como resultado | Conecta causa directa con consecuencia | He didn't study. As a result, he failed the exam. |
+| consequently / en consecuencia | Expresa resultado lógico o natural | The road was icy. Consequently, many accidents occurred. |
+| so / así que | Conector *informal* de consecuencia | It was raining, so we stayed in. |
+| **ADICIÓN Y ÉNFASIS**{:.yerbold} |*Añaden más información o un argumento extra que apoya la misma dirección de la idea principal.* | |
 | furthermore / además | Añade información extra de forma formal | The hotel was comfortable. Furthermore, the staff were excellent. |
 | moreover / es más | Refuerza una idea anterior añadiendo otra | It's cheaper. Moreover, it's more efficient. |
 | in addition (to) / además de | Añade información adicional | In addition to the salary, there are great benefits. |
 | what is more / es más | Refuerza y amplía una idea | She speaks French. What is more, she's fluent in Mandarin. |
 | not only...but also / no solo... sino también | Estructura enfática de adición | Not only is it fast, but it is also reliable. |
 | indeed / de hecho | Confirma o refuerza una afirmación | This is indeed a very complex situation. |
-| **ILUSTRACIÓN Y EJEMPLIFICACIÓN**{:.yerbold} | | |
+| **ILUSTRACIÓN Y EJEMPLIFICACIÓN**{:.yerbold} |*Introducen un caso concreto para demostrar o aclarar la idea general.* | |
 | for example / por ejemplo | Introduce un caso ilustrativo | Many factors affect health. For example, diet and sleep. |
 | for instance / por ejemplo | Similar a "for example" | Some sports, for instance football, are very popular. |
 | such as / como | Introduce ejemplos específicos dentro de un grupo | Soft skills such as communication are essential. |
@@ -120,7 +121,7 @@ Frases: 1+2+2+2
       **CAUSA — ¿qué viene después?**
 
       - Sujeto + verbo → because, since, as
-      - Solo sustantivo → due to, owing to
+      - Solo sustantivo → due to, owing to, because of
 
       **CONSECUENCIA — ¿qué registro?**
 

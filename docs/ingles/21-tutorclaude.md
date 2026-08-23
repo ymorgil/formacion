@@ -66,8 +66,12 @@
 59. (el comparativo doble siempre lleva "the" en ambas partes), "**less**" → **fewer** (con sustantivos contables como "problems") (recuerda: **less=incontable, fewer=contable**)
 60. después del verbo "feel", casi siempre necesitas la forma **-ED**, porque "feel" describe lo que pasa DENTRO de una persona.
 61. **thought about travelling**" (con "about" + gerundio, no coma + infinitivo)
-62. **an old friend** (an + vocal,
+62. **an old friend** (an + vocal)
 63. **Clefts**: Patrón que "worries" hace unos días — el sujeto de "bother" aquí es "**what**..." (funciona como "eso", 3ª persona singular), así que necesita -s.
+64. "a lot of" → **a lot** (sin "of" cuando no sigue un sustantivo, aquí modifica al verbo "cheered up", no a nada).
+65. "a your friends" → **your friends** (nunca "a" + posesivo juntos)
+66. **Want + ACCIÓN/verbo (con to) ; Want + Cosa (sin to; articulo o sujeto si quieres que alguien haga algo)**
+67. "fast" → **quickly** (fast se usa más para velocidad física, quickly para "rápidamente" en general)
 
 ## Words special
 
