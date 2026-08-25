@@ -75,12 +75,12 @@ Frases: 1+2+2+2
 | on the other hand / por otro lado | Introduce una idea opuesta o alternativa | It's fast. On the other hand, it's unreliable. |
 | in spite of / a pesar de | Va seguido de sustantivo o gerundio | In spite of the rain, they played the match. |
 | despite / a pesar de | Uso formal similar a "in spite of" | Despite the rain, they played the match. |
-| **CAUSA**{:.yerbold} |*Explican la razón o motivo de una situación. (Estructura lógica: Consecuencia ➔ Causa)* | |
+| **CAUSA**{:.yerbold} |*Es el motivo o el origen de una situación. Responde a la pregunta ¿Por qué pasó esto?* | |
 | due to / debido a | Introduce causa seguida de sustantivo | The flight was delayed due to bad weather. |
 | owing to / a causa de | Similar a "due to", algo más formal | Owing to staff shortages, the shop closed early. |
 | since / ya que | Introduce causa conocida o evidente | Since it was late, we decided to leave. |
 | because / porque | Explica la razón directa de algo | We stayed in because it was raining. |
-| **CONSECUENCIA**{:.yerbold} |*Expresan el resultado o efecto de algo. (Estructura lógica: Acción/Causa ➔ Consecuencia)* | |
+| **CONSECUENCIA**{:.yerbold} |*Es el resultado o el impacto derivado de una acción. Responde a la pregunta ¿Qué ocurrió como resultado?* | *Suelen ir al principio de la frase o tras un punto/punto y coma, seguidos de una coma.* |
 | therefore / por lo tanto | Introduce una consecuencia lógica | She missed the train. Therefore, she was late. |
 | as a result / como resultado | Conecta causa directa con consecuencia | He didn't study. As a result, he failed the exam. |
 | consequently / en consecuencia | Expresa resultado lógico o natural | The road was icy. Consequently, many accidents occurred. |
@@ -88,8 +88,9 @@ Frases: 1+2+2+2
 | **ADICIÓN Y ÉNFASIS**{:.yerbold} |*Añaden más información o un argumento extra que apoya la misma dirección de la idea principal.* | |
 | furthermore / además | Añade información extra de forma formal | The hotel was comfortable. Furthermore, the staff were excellent. |
 | moreover / es más | Refuerza una idea anterior añadiendo otra | It's cheaper. Moreover, it's more efficient. |
-| in addition (to) / además de | Añade información adicional | In addition to the salary, there are great benefits. |
 | what is more / es más | Refuerza y amplía una idea | She speaks French. What is more, she's fluent in Mandarin. |
+| in addition (to) / además de | Añade información adicional | In addition to the salary, there are great benefits. |
+| besides / además de | Añade información adicional + informal| Besides the salary, there are great benefits. |
 | not only...but also / no solo... sino también | Estructura enfática de adición | Not only is it fast, but it is also reliable. |
 | indeed / de hecho | Confirma o refuerza una afirmación | This is indeed a very complex situation. |
 | **ILUSTRACIÓN Y EJEMPLIFICACIÓN**{:.yerbold} |*Introducen un caso concreto para demostrar o aclarar la idea general.* | |
@@ -132,7 +133,7 @@ Frases: 1+2+2+2
 
       - Formal → moreover, furthermore, what is more
       - Neutro/informal → in addition (to), besides
-      - Énfasis fuerte → not only... but also
+      - Énfasis fuerte → not only... but . also
 
       **EJEMPLOS**
 

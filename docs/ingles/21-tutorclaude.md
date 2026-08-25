@@ -72,6 +72,16 @@
 65. "a your friends" → **your friends** (nunca "a" + posesivo juntos)
 66. **Want + ACCIÓN/verbo (con to) ; Want + Cosa (sin to; articulo o sujeto si quieres que alguien haga algo)**
 67. "fast" → **quickly** (fast se usa más para velocidad física, quickly para "rápidamente" en general)
+68. "came back" es **volver**, no **llegar** (arrived); y es "**on time**".
+69. "**discuss**" es el verbo, el sustantivo es "**argument**" o "**the discussion**" si es más formal.
+70. **too many responsibilities** — falta "many" (con sustantivos contables en plural, "too" solo no basta, necesitas "too many"), y "responsabilitys" → responsibilities (ortografía)
+71. después de "**try**", siempre "to" + verbo.
+72. "**Lose**" es perder un objeto (perder las llaves), "**miss**" es perder un transporte/cita/oportunidad.
+73. **do homework** (siempre "do", nunca "make", con "homework") 
+74. **critics** = personas que critican; **criticism** = las críticas en sí
+75. "seguir adelante con algo" es "**go ahead with**"
+76. "llover a cántaros" tiene una expresión más vívida en inglés si quieres usarla: "**it was pouring**" o "**raining cats and dogs**" — pero "heavy rain" también es válido y correcto.
+77. **traffic jams** (atascos)  / **late for meetings**
 
 ## Words special
 

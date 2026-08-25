@@ -43,6 +43,12 @@
 | **Make up** | meik ap | Reconciliarse / Inventarse algo | They had an argument, but they made up the next day. |
 | **Fall out (with)** | fol aut | Pelearse, discutir con alguien (romper relación) | She fell out with her best friend last year. |
 | **Hold on** | jould on | Esperar (un momento) / Aguantar, resistir | Hold on a second, I'll be right there. |
+| **sem 35** | | | |
+| **Keep up with** | kip ap uid | Mantener el ritmo, no quedarse atrás | It's hard to keep up with all the new technology. |
+| **Take on** | teik on | Asumir (una responsabilidad, tarea) | She took on a lot of extra work this month. |
+| **Fill in** | fil in | Rellenar (un formulario) / Sustituir | Please fill in this form before your appointment. |
+| **Cut down on** | kat daun on | Reducir (gastos, hábitos, consumo) | I'm trying to cut down on sugar. |
+| **Work out** | uerk aut | Hacer ejercicio / Resolver(se) bien | Things worked out fine in the end. |
 
 ## Vocabulario Temático
 

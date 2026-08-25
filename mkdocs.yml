@@ -35,9 +35,8 @@ nav:
         - Dudas: ingles/23-dudas.md
         - Recursos: ingles/99-recursos.md
    - AWS:
-        - Listado: AWSedu/00-educator-classes.md
+        - Listado: AWSedu/01-listado.md
         - Cursos: AWSedu/03cursosaws.md
-        - Services: AWSedu/01-services.md
         - lab: AWSedu/02-lab-ec2.md
    - Trade:
         - 00 Introducción: trade/00-introduccion.md

@@ -206,3 +206,121 @@ Estos dos verbos generan casi todas las dudas porque comparten partícula pero c
     | make room | méik rum | hacer sitio | *Make room for one more.* — Haz sitio para uno más. |
 
 > **Consejo de estudio:** Repasa primero la tabla de **partículas clave** — te da el "porqué" detrás de cada verbo. Luego aprende por categorías (contexto real), y termina con el repaso exprés para comprobar que lo retienes. Usar los phrasal verbs en frases propias y escucharlos en series o canciones acelera mucho la memorización. 🎧
+
+
+
+
+
+
+
+
+
+## Resumen
+| Phrasal Verb | Suena así | Significado | Ejemplo |
+|---|---|---|---|
+| **add up** | ad ap | sumar / tener sentido | *The numbers don't add up.* — Los números no cuadran. |
+| **ask out** | ask aut | invitar a salir (cita) | *He asked her out for dinner.* — La invitó a cenar. |
+| **break down** | bréik daun | averiarse / derrumbarse (emocionalmente) | *Our car broke down on the highway.* — El coche se averió en la autopista. |
+| **break up** | bréik ap | romper (una relación) | *She broke up with her boyfriend.* — Rompió con su novio. |
+| **bring up** | bring ap | mencionar, sacar un tema | *He brought up an interesting point.* — Mencionó un punto interesante. |
+| **burn out** | bern aut | agotarse (por exceso de trabajo) | *He burned out after working nonstop.* — Se agotó después de trabajar sin parar. |
+| **call back** | col bak | devolver la llamada | *I'll call you back in five minutes.* — Te llamo en cinco minutos. |
+| **calm down** | kam daun | calmarse | *Just calm down and breathe.* — Cálmate y respira. |
+| **carry out** | kári aut | llevar a cabo, realizar | *They carried out the research.* — Llevaron a cabo la investigación. |
+| **check in** | chek in | registrarse (hotel/aeropuerto) | *We need to check in two hours before.* — Tenemos que facturar dos horas antes. |
+| **check out** | chek aut | hacer el check-out | *Check out is at noon.* — El check-out es al mediodía. |
+| **cheer up** | chíer ap | animarse / animar a alguien | *Cheer up! Things will get better.* — ¡Anímate! Las cosas mejorarán. |
+| **come across** | kam a-krós | encontrarse con algo/alguien por casualidad | *I came across an old photo of us.* — Me encontré con una foto antigua nuestra. |
+| **come back** | cam bak | volver, regresar | *She came back home late.* — Ella volvió a casa tarde. |
+| **come down with** | cam daun güid | caer enfermo (con algo) | *I think I'm coming down with a cold.* — Creo que me está dando un resfriado. |
+| **come in** | cam in | entrar | *Come in, the door is open!* — ¡Entra, la puerta está abierta! |
+| **come up** | cam ap | surgir (un tema) | *A new problem came up.* — Surgió un nuevo problema. |
+| **come up with** | cam ap güid | idear, ocurrírsele | *She came up with a great idea.* — Se le ocurrió una gran idea. |
+| **cut back on** | cat bak on | reducir gastos en | *We need to cut back on expenses.* — Tenemos que reducir gastos. |
+| **cut down on** | kat daun on | reducir (gastos, hábitos, consumo) | *I'm trying to cut down on sugar.* — Estoy intentando reducir el azúcar. |
+| **drop off** | drop of | dejar (a alguien en un sitio) | *Can you drop me off at the station?* — ¿Puedes dejarme en la estación? |
+| **eat out** | it aut | comer fuera | *Let's eat out tonight.* — Cenemos fuera esta noche. |
+| **end up** | end ap | acabar (haciendo algo / en un sitio) | *We ended up staying an extra night.* — Acabamos quedándonos una noche más. |
+| **fall out (with)** | fol aut (güid) | pelearse con, reñir | *They fell out over money.* — Riñeron por dinero. |
+| **feel down** | fil daun | sentirse deprimido/triste | *She's been feeling down lately.* — Últimamente se ha sentido triste. |
+| **figure out** | fíguer aut | descubrir, resolver | *I can't figure out this problem.* — No puedo resolver este problema. |
+| **fill in / fill out** | fil in / fil aut | rellenar (formulario) / sustituir | *Fill in this form, please.* — Rellena este formulario, por favor. |
+| **get across** | guet acrós | hacer entender (una idea) | *He got his point across.* — Consiguió que entendieran su idea. |
+| **get around** | guet aráund | moverse, desplazarse por | *We got around by bike.* — Nos movíamos en bici. |
+| **get away** | guet aguéi | escaparse, irse de vacaciones | *I need to get away this weekend.* — Necesito escaparme este finde. |
+| **get away with** | guet aguéi güid | salirse con la suya, no pagar por algo | *He got away with lying.* — Se salió con la suya mintiendo. |
+| **get back to** | guet bak tu | responder más tarde | *I'll get back to you on that.* — Te responderé sobre eso más tarde. |
+| **get better** | guet béter | mejorar | *He's getting better.* — Está mejorando. |
+| **get by** | guet bái | apañárselas, sobrevivir | *We get by with little money.* — Nos apañamos con poco dinero. |
+| **get down to** | guet daun tu | ponerse en serio con | *Let's get down to business.* — Vayamos al grano. |
+| **get dressed** | guet drest | vestirse | *She gets dressed quickly in the morning.* — Ella se viste rápido por la mañana. |
+| **get in** | guet in | subir (coche) / llegar | *Get in the car.* — Sube al coche. |
+| **get lost** | guet lost | perderse | *We got lost downtown.* — Nos perdimos en el centro. |
+| **get married** | guet márrid | casarse | *They got married in June.* — Se casaron en junio. |
+| **get off** | guet of | bajarse (transporte) | *Get off at the next stop.* — Bájate en la próxima parada. |
+| **get on** | guet on | subir (transporte) | *Get on the bus quickly.* — Sube al autobús rápido. |
+| **get on (with)** | guet on (güid) | llevarse bien con / continuar con | *I get on well with my colleagues.* — Me llevo bien con mis compañeros. |
+| **get out (of)** | guet aut (ov) | salir / bajarse (coche) | *Get out of the car.* — Sal del coche. |
+| **get over** | guet óuver | recuperarse de / superar | *It took weeks to get over the flu.* — Tardé semanas en recuperarme de la gripe. |
+| **get ready** | guet rédi | prepararse | *Get ready, we're leaving.* — Prepárate, nos vamos. |
+| **get through** | guet zru | pasar por (algo difícil) / comunicar | *We got through the crisis.* — Pasamos la crisis. |
+| **get through to** | guet zru tu | contactar con, hacerse entender | *I couldn't get through to him.* — No pude contactar con él. |
+| **get up** | guet ap | levantarse | *I get up at 7 every morning.* — Me levanto a las 7 cada mañana. |
+| **get worse** | guet uérs | empeorar | *The weather got worse.* — El tiempo empeoró. |
+| **give up** | guiv ap | rendirse, abandonar | *Don't give up on your dreams.* — No abandones tus sueños. |
+| **go away** | gou aguéi | irse, alejarse | *Go away, I'm busy!* — ¡Vete, estoy ocupado! |
+| **go out** | gou aut | salir | *Do you want to go out tonight?* — ¿Quieres salir esta noche? |
+| **go out (with)** | gou aut (güid) | salir con alguien (novio/a) | *Are they going out?* — ¿Están saliendo? |
+| **go over** | gou óuver | repasar, revisar | *Let's go over the plan again.* — Repasemos el plan de nuevo. |
+| **hand in** | jand in | entregar (trabajo) | *Hand in your essays by Friday.* — Entregad los ensayos antes del viernes. |
+| **hand out** | jand aut | repartir, distribuir | *The teacher handed out the tests.* — El profesor repartió los exámenes. |
+| **hang up** | jang ap | colgar (el teléfono) | *She hung up without saying goodbye.* — Colgó sin decir adiós. |
+| **hold on** | jould on | esperar (un momento) / aguantar, resistir | *Hold on a second, I'll be right there.* — Espera un segundo, estaré allí en un momento. |
+| **keep up with** | kip ap uid | mantener el ritmo, no quedarse atrás | *It's hard to keep up with all the new technology.* — Es difícil mantener el ritmo de la nueva tecnología. |
+| **let down** | let daun | decepcionar, fallarle a alguien | *He felt like he had let down his team.* — Sintió que le había fallado a su equipo. |
+| **look after** | luk áfter | cuidar de | *She looks after her grandmother.* — Cuida a su abuela. |
+| **look at** | luk at | mirar | *Look at that painting!* — ¡Mira ese cuadro! |
+| **look down on** | luk daun on | menospreciar | *Don't look down on others.* — No menosprecies a los demás. |
+| **look for** | luk for | buscar (algo perdido) | *I'm looking for my keys.* — Estoy buscando mis llaves. |
+| **look forward to** | luk fórgüard tu | tener ganas de, esperar con ilusión | *I'm looking forward to the holidays.* — Tengo muchas ganas de las vacaciones. |
+| **look up** | luk ap | buscar (información) | *Look up the word in the dictionary.* — Busca la palabra en el diccionario. |
+| **look up to** | luk ap tu | admirar, respetar | *I really look up to my teacher.* — Admiro mucho a mi profesora. |
+| **make do (with)** | méik du (güid) | apañarse con lo que hay | *We'll make do with what we have.* — Nos apañaremos con lo que tenemos. |
+| **make for** | méik for | dirigirse hacia | *He made for the exit.* — Se dirigió a la salida. |
+| **make off with** | méik of güid | huir con algo robado | *The thief made off with the bag.* — El ladrón huyó con el bolso. |
+| **make out** | méik aut | distinguir, entender algo confuso | *I can't make out his handwriting.* — No entiendo su letra. |
+| **make up** | méik ap | reconciliarse / inventar (una historia) | *They argued but made up quickly.* — Discutieron pero se reconciliaron rápido. |
+| **make up for** | méik ap for | compensar | *He made up for being late.* — Compensó su retraso. |
+| **pass out** | pas aut | desmayarse | *She passed out from the heat.* — Se desmayó por el calor. |
+| **pay back** | péi bak | devolver (dinero) | *I'll pay you back next week.* — Te lo devuelvo la próxima semana. |
+| **pick up** | pik ap | contestar, coger (teléfono) / recoger (a alguien) | *I'll pick you up at the airport.* — Te recogeré en el aeropuerto. |
+| **point out** | póint aut | señalar, indicar | *She pointed out the mistake.* — Señaló el error. |
+| **pull over** | pul óuver | parar (el coche al lado) | *The police told him to pull over.* — La policía le dijo que parara. |
+| **put aside** | put asáid | reservar (dinero) | *Put aside some money for emergencies.* — Reserva dinero para emergencias. |
+| **put on** | put on | ponerse (ropa) | *Put on your jacket, it's cold.* — Ponte la chaqueta, hace frío. |
+| **put up with** | put ap güid | aguantar, soportar | *I can't put up with this noise.* — No puedo aguantar este ruido. |
+| **rip off** | rip of | estafar, timar | *That restaurant ripped us off.* — Ese restaurante nos timó. |
+| **run away** | ran aguéi | escaparse, huir | *The dog ran away from the park.* — El perro se escapó del parque. |
+| **run out of** | ran aut ov | quedarse sin | *We ran out of milk.* — Se nos acabó la leche. |
+| **save up** | séiv ap | ahorrar (para algo) | *I'm saving up for a new laptop.* — Estoy ahorrando para un portátil nuevo. |
+| **see off** | si of | despedir (a alguien) | *Her family came to see her off.* — Su familia vino a despedirla. |
+| **set off** | set of | partir, ponerse en marcha | *We set off early to avoid traffic.* — Partimos temprano para evitar el tráfico. |
+| **sit down** | sit daun | sentarse | *Please sit down.* — Por favor, siéntate. |
+| **speak up** | espik ap | hablar más alto | *Could you speak up? I can't hear you.* — ¿Puedes hablar más alto? No te escucho. |
+| **splash out** | esplash aut | gastar a lo grande | *We splashed out on a fancy dinner.* — Nos gastamos un dineral en una cena elegante. |
+| **stand up** | estand ap | ponerse de pie | *Everyone stood up when she entered.* — Todos se pusieron de pie cuando ella entró. |
+| **stay up** | estéi ap | quedarse despierto | *I stayed up until midnight.* — Me quedé despierto hasta medianoche. |
+| **take after** | téik áfter | parecerse a (familiar) | *You really take after your mother.* — Te pareces mucho a tu madre. |
+| **take off** | téik of | despegar / quitarse (ropa) | *Take off your shoes at the door.* — Quítate los zapatos en la puerta. |
+| **take on** | téik on | asumir (responsabilidad) / contratar | *He took on too many tasks.* — Asumió demasiadas tareas. |
+| **take over** | téik óuver | hacerse cargo / tomar el control | *He took over the family business.* — Se hizo cargo del negocio familiar. |
+| **take up** | téik ap | empezar (hobby) / ocupar espacio | *She took up yoga last year.* — Empezó con el yoga el año pasado. |
+| **talk over** | tok óuver | hablar / discutir algo | *Let's talk it over before deciding.* — Hablémoslo antes de decidir. |
+| **tidy up** | táidi ap | ordenar, limpiar | *Please tidy up your room.* — Por favor, ordena tu habitación. |
+| **turn off** | tern of | apagar | *Turn off the TV before bed.* — Apaga la tele antes de dormir. |
+| **turn on** | tern on | encender, poner | *Turn on the light, please.* — Enciende la luz, por favor. |
+| **wake up** | uéik ap | despertarse | *I wake up at 6 am every day.* — Me despierto a las 6 cada día. |
+| **wash up** | uosh ap | lavarse / fregar | *Wash up before dinner.* — Lávate antes de cenar. |
+| **wear out** | uér aut | agotar, cansar | *The long hike wore me out.* — La larga caminata me agotó. |
+| **work out** | uerk aut | hacer ejercicio / resolver(se) bien | *Things worked out fine in the end.* — Las cosas salieron bien al final. |
+| **write down** | ráit daun | anotar, apuntar | *Write down your homework.* — Apunta tus deberes. |

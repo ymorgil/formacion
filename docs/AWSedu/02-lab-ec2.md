@@ -49,7 +49,7 @@ Antes de empezar conviene tener claro qué se va a tocar y qué no:
 
 El siguiente mapa resume el orden en el que se encadenan las seis tareas del laboratorio:
 
-![Recorrido de las seis tareas del laboratorio de EC2](../assets/img/awsedu/flujo-tareas-laboratorio-ec2.png)
+![Recorrido de las seis tareas del laboratorio de EC2](../assets/img/aws/flujo-tareas-laboratorio-ec2.png)
 
 ---
 
@@ -57,7 +57,7 @@ El siguiente mapa resume el orden en el que se encadenan las seis tareas del lab
 
 Todo el ejercicio ocurre dentro de una única VPC de laboratorio (`Lab VPC`), ya preparada por AWS Academy mediante una plantilla de CloudFormation. Dentro de ella se despliega una subred pública (`PublicSubnet1`) con una instancia EC2 protegida por un grupo de seguridad propio, y un volumen EBS que actúa como disco raíz.
 
-![Arquitectura del laboratorio: VPC, subred pública, grupo de seguridad, instancia EC2 y volumen EBS](../assets/img/awsedu/arquitectura-laboratorio-ec2.png)
+![Arquitectura del laboratorio: VPC, subred pública, grupo de seguridad, instancia EC2 y volumen EBS](../assets/img/aws/arquitectura-laboratorio-ec2.png)
 
 Puntos clave del diagrama:
 
@@ -172,7 +172,7 @@ Con la instancia detenida:
 
 El resultado de estos cuatro pasos se resume en la siguiente comparación:
 
-![Comparación de la configuración de la instancia antes y después de redimensionarla](../assets/img/awsedu/antes-despues-redimensionado-ec2.png)
+![Comparación de la configuración de la instancia antes y después de redimensionarla](../assets/img/aws/antes-despues-redimensionado-ec2.png)
 
 > ⚠️ Cuando una instancia detenida se vuelve a iniciar, normalmente cambia de host físico y recibe una **nueva IP pública**; conviene volver a copiarla antes de probar el servidor web de nuevo. La IP privada, en cambio, se mantiene.
 
