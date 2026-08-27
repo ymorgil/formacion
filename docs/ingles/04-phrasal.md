@@ -324,3 +324,12 @@ Estos dos verbos generan casi todas las dudas porque comparten partícula pero c
 | **wear out** | uér aut | agotar, cansar | *The long hike wore me out.* — La larga caminata me agotó. |
 | **work out** | uerk aut | hacer ejercicio / resolver(se) bien | *Things worked out fine in the end.* — Las cosas salieron bien al final. |
 | **write down** | ráit daun | anotar, apuntar | *Write down your homework.* — Apunta tus deberes. |
+
+
+!!! tip "Después el verbo va en gerundio (-ing)"
+        - cut down on" + gerundio
+        - look forward to + gerundio (looking forward to seeing you)
+        - get used to + gerundio (get used to waking up early)
+        - give up + gerundio (give up smoking)
+        - carry on + gerundio (carry on working)
+        - put off + gerundio (put off doing homework)

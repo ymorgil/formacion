@@ -204,3 +204,19 @@ No basta con poner el conector — el verbo también tiene que estar en el tiemp
       1. **Consistencia de tiempo verbal en pasado** (have→had, feel→felt) — bajo la presión de escribir rápido, se cuelan presentes sueltos en medio de una narración pasada
       2. **Elegir bien el conector según su función real**, no solo por cómo "suena" — antes de usar "otherwise/too", pregúntate: ¿esto añade, contrasta, o resume? Elige el conector que hace exactamente eso
       3. **No olvidar título + cierre con pregunta/CTA** — es parte de la estructura de blog post y afecta directamente a "Adecuación de la tarea" en la tabla oficial
+
+!!! bug "26-08-2026 blog post"
+      1. **"Due to" + sujeto+verbo** — mismo error que trabajamos ayer, volvió a aparecer bajo presión de escribir rápido. Antes de usar "due to", comprueba: ¿viene un sustantivo después, o una frase completa? Si es frase completa, usa "because"/"since".
+      2. **Cuando una frase te salga muy enredada** (como la del final), párate y simplifícala en trozos más cortos antes de intentar decirlo todo junto — es preferible una frase simple y clara que una larga incomprensible.
+      3. **Revisar la concordancia** -s en 3ª persona en generalizaciones (lifestyle define→defines, it help→helps) — sigue siendo un despiste recurrente cuando escribes rápido.
+
+## → Ejemplos
+
+!!! example "26-08-2026 blog post"
+      **A Minimalist Lifestyle**
+
+      It is said that lifestyle defines who we are as a person — things like habits and routines. It helps us to know ourselves better.
+
+      Before, not only did I spend too much money on unnecessary things, but I also bought a lot of junk. Because of this, I started looking up information about minimalism. Now I think about whether I really need something before I buy it. This idea has changed the way I shop, and I've cut down on spending money on unnecessary items. The fewer things I own, the better I feel. Moreover, my home is tidier and cleaner overall.
+
+      Finally, I have a question for you: do you really need everything you own?
