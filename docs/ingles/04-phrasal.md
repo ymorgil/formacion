@@ -212,9 +212,6 @@ Estos dos verbos generan casi todas las dudas porque comparten partícula pero c
 
 
 
-
-
-
 ## Resumen
 | Phrasal Verb | Suena así | Significado | Ejemplo |
 |---|---|---|---|
@@ -241,6 +238,7 @@ Estos dos verbos generan casi todas las dudas porque comparten partícula pero c
 | **drop off** | drop of | dejar (a alguien en un sitio) | *Can you drop me off at the station?* — ¿Puedes dejarme en la estación? |
 | **eat out** | it aut | comer fuera | *Let's eat out tonight.* — Cenemos fuera esta noche. |
 | **end up** | end ap | acabar (haciendo algo / en un sitio) | *We ended up staying an extra night.* — Acabamos quedándonos una noche más. |
+| **face up to** | feis ap tu | afrontar, aceptar (una realidad difícil) | *You have to face up to reality.* — Tienes que afrontar la realidad. |
 | **fall out (with)** | fol aut (güid) | pelearse con, reñir | *They fell out over money.* — Riñeron por dinero. |
 | **feel down** | fil daun | sentirse deprimido/triste | *She's been feeling down lately.* — Últimamente se ha sentido triste. |
 | **figure out** | fíguer aut | descubrir, resolver | *I can't figure out this problem.* — No puedo resolver este problema. |
@@ -282,6 +280,7 @@ Estos dos verbos generan casi todas las dudas porque comparten partícula pero c
 | **look at** | luk at | mirar | *Look at that painting!* — ¡Mira ese cuadro! |
 | **look down on** | luk daun on | menospreciar | *Don't look down on others.* — No menosprecies a los demás. |
 | **look for** | luk for | buscar (algo perdido) | *I'm looking for my keys.* — Estoy buscando mis llaves. |
+| **look into** | luk intu | investigar, examinar, estudiar (un asunto) | *The police are looking into the matter.* — La policía está investigando el asunto. |
 | **look forward to** | luk fórgüard tu | tener ganas de, esperar con ilusión | *I'm looking forward to the holidays.* — Tengo muchas ganas de las vacaciones. |
 | **look up** | luk ap | buscar (información) | *Look up the word in the dictionary.* — Busca la palabra en el diccionario. |
 | **look up to** | luk ap tu | admirar, respetar | *I really look up to my teacher.* — Admiro mucho a mi profesora. |

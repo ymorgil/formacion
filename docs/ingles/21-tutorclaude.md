@@ -77,6 +77,15 @@
 71. tras preposición ("after") el verbo va en gerundio, no en presente. → She feels relaxed **after** doing yoga.
 72. **Rise** (subir / elevarse): Lo hace el sujeto por sí solo. No necesita un objeto detrás. → Prices **rose** last month. // **Raise** (levantar / subir algo): El sujeto realiza la acción sobre otra cosa. Necesita un objeto directo después. → The company **raised** the prices
 73. **decide, want, hope, plan, intend, promise, agree(acuerdo), offer, refuse(negarse), need, learn, manage(conseguir), fail(lograr), expect, seem, appear(parecer), afford(permitir)** :  Tras estos verbos el siguiente va en infinitivo, es decir **to + verbo**
+74. "**go to bed**" (no "get to bed"), y "**early**" va al final, no antes de "bed".
+75. tan mala" → eso es **such a bad situation**  // (tan + adjetivo = "so" + adjetivo). **so spicy**
+76. So = Solo adjetivo (so fast, so good). // Such AS = Asociar Siempre ejemplos (such as apples, oranges...).
+77. "as...as" (comparativo de igualdad) siempre se usa as en ambos lados, nunca "than" (than solo va con "more/-er");
+78. **before + gerundio** (sin sujeto propio, se sobreentiende el mismo sujeto de la frase principal): He had the house painted before selling it.  **before + sujeto + verbo conjugado** (cláusula completa, puede tener sujeto distinto): He had the house painted before he sold it.
+79. ❌ "the other" (queda colgado, ¿el otro qué?) ✅ **"the other one"**
+80. Según ella es como decir en su opinión --> **in her opinion**
+81. **Say something, NOT say someone** — cuando hay una persona a quien le dices algo, el verbo es tell (tell someone something).
+82. "noisy" es adjetivo (ruidoso), pero necesitas el sustantivo noise (el ruido).
 
 ## Words special
 

@@ -43,12 +43,17 @@
 | **Make up** | meik ap | Reconciliarse / Inventarse algo | They had an argument, but they made up the next day. |
 | **Fall out (with)** | fol aut | Pelearse, discutir con alguien (romper relación) | She fell out with her best friend last year. |
 | **Hold on** | jould on | Esperar (un momento) / Aguantar, resistir | Hold on a second, I'll be right there. |
-| **sem 35** | | | |
+| **sem 35**{:.yerbold} | | | |
 | **Keep up with** | kip ap uid | Mantener el ritmo, no quedarse atrás | It's hard to keep up with all the new technology. |
 | **Take on** | teik on | Asumir (una responsabilidad, tarea) | She took on a lot of extra work this month. |
 | **Fill in** | fil in | Rellenar (un formulario) / Sustituir | Please fill in this form before your appointment. |
 | **Cut down on** | kat daun on | Reducir (gastos, hábitos, consumo) | I'm trying to cut down on sugar. |
 | **Work out** | uerk aut | Hacer ejercicio / Resolver(se) bien | Things worked out fine in the end. |
+| **sem 36**{:.yerbold} |  |  |  |
+| **come across** | kam a-krós | encontrarse algo por casualidad | *I came across an old photo of us yesterday.* — Ayer me encontré por casualidad con una foto antigua nuestra. |
+| **get away with** | guet aguéi güid | salirse con la suya (sin castigo) | *He cheated and got away with it.* — Hizo trampas y se salió con la suya. |
+| **look forward to** | luk fórgüard tu | tener ganas de algo (futuro) | *I'm looking forward to the weekend.* — Tengo muchas ganas de que llegue el fin de semana. |
+| **turn down** | tern daun | rechazar (oferta, invitación, etc.) | *She turned down the job offer.* — Rechazó la oferta de trabajo. |
 
 ## Vocabulario Temático
 
@@ -121,4 +126,8 @@
 
 
 
-
+## Vocabulary vario
+1. roommate/flatmate
+2. In the end / finally
+3. too low (bajo) o too high (alto)
+4. 

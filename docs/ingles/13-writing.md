@@ -2,37 +2,30 @@
 
 ## 🎯 ESTRATEGIA
 
-### 1. Leer, subrayar
-Subraya siempre estas 4 cosas en el enunciado, en este orden:
+!!! bug "1. Leer, subrayar (Subraya siempre estas 4 cosas en el enunciado, en este orden)" 
+      1. **Tipo de texto** (email, blog, essay...)
+      2. **Destinatario/registro** (amigo = informal, revista/empresa = formal)
+      3. **Puntos obligatorios** (busca viñetas o negrita — normalmente 2)
+      4. **Número de palabras**
 
-1. **Tipo de texto** (email, blog, essay...)
-2. **Destinatario/registro** (amigo = informal, revista/empresa = formal)
-3. **Puntos obligatorios** (busca viñetas o negrita — normalmente 2)
-4. **Número de palabras**
+!!! bug "2. Planificar" 
+      **TASK 1:**
+      
+      1. Anota los 2 puntos obligatorios como 2 bloques y cada bloque 1-2 frases clave.
+      3. Asigna una estructura gramatical objetivo a cada frase — elige de esta lista:
+      > present perfect · past perfect · conditional · passive voice · relative clause · comparativo doble · cleft sentence · inversión · wish
+      4. Elige 2-3 conectores concretos (no "los de siempre")
 
-### 2. Planificar
+      **TASK 2:**
+      Lo mismo pero por párrafo, no por frase (sería demasiado): intro, cuerpo 1, cuerpo 2, conclusión — Estructura objetivo por párrafo.
 
-**TASK 1:**
-   
-1. Anota los 2 puntos obligatorios como 2 bloques y cada bloque 1-2 frases clave.
-3. Asigna una estructura gramatical objetivo a cada frase — elige de esta lista:
-   > present perfect · past perfect · conditional · passive voice · relative clause · comparativo doble · cleft sentence · inversión · wish
-4. Elige 2-3 conectores concretos (no "los de siempre")
-
-**TASK 2:**
-
-Lo mismo pero por párrafo, no por frase (sería demasiado): intro, cuerpo 1, cuerpo 2, conclusión — 1 estructura objetivo por párrafo.
-
-### 3. Redactar
-
-Siguiendo el esquema, controlando el tiempo restante para no quedarse sin terminar la conclusión.
-
-### 4. Revisar
-
-1. **Concordancia verbal**: Mirar el tiempo verbal del texto por ejemplo si estas hablando de unas vacaciones pasadas no puede haber estructuras en presente.
-2. **Ortografía**: Revisión de la ortografía de las palabras a veces por la prisa la escribimos mal y puede significar otra cosa.
-3. **Conectores**: Tener claro los tipos que hay y si encajas donde estan colocados.
-4. **Características**: Se cumple el número de palabras pedido (ni muy por debajo ni muy por encima, un ±10% suele ser el margen razonable).
+!!! bug "3. Redactar (Siguiendo el esquema, controlando el tiempo restante para no quedarse sin terminar la conclusión.)" 
+      
+!!! bug "4. Revisar"
+      1. **Concordancia verbal**: Mirar el tiempo verbal del texto por ejemplo si estas hablando de unas vacaciones pasadas no puede haber estructuras en presente.
+      2. **Ortografía**: Revisión de la ortografía de las palabras a veces por la prisa la escribimos mal y puede significar otra cosa.
+      3. **Conectores**: Tener claro los tipos que hay y si encajas donde estan colocados.
+      4. **Características**: Se cumple el número de palabras pedido (ni muy por debajo ni muy por encima, un ±10% suele ser el margen razonable).
 
 ## Tipos de texto
 
@@ -41,26 +34,37 @@ Siguiendo el esquema, controlando el tiempo restante para no quedarse sin termin
 !!! success "Task 2: **essay de opinión**, **informe**, **complaint letter** — temas más sociales/abstractos: redes sociales, publicidad, medio ambiente, educación, trabajo remoto."
 
 ### Estructura básica
-- Antes de escribir, ordena mentalmente (o en un borrador rápido) qué pasó primero, segundo, tercero. 
+- Antes de escribir, ordena mentalmente (o en un borrador rápido) qué pasó primero, segundo, tercero...
 - Después, usa conectores de tiempo para guiar al lector en ese orden — ellos hacen el trabajo de "orden" por ti.
-
-| Para... | Usa... | Ejemplo |
-|---|---|---|
-| Empezar | **First, / To start with,** | *First, I woke up early.* |
-| Seguir | **Then, / After that, / Next,** | *Then, I had breakfast.* |
-| Algo previo a lo anterior | **Before that, / Earlier that day,** | *Before that, I had checked my emails.* |
-| Casi al final | **Later, / Afterwards,** | *Later, I went for a walk.* |
-| Cerrar | **Finally, / In the end,** | *Finally, I went to bed.* |
+    - Empezar: **First, / To start with** (First, I woke up early.)
+    - Seguir: **Then, / After that, / Next** (Then, I had breakfast.)
+    - Algo previo a lo anterior: **Before that, / Earlier that day** (Before that, I had checked my emails.)
+    - Casi al final: **Later, / Afterwards** (Later, I went for a walk.)
+    - Cerrar: **Finally, / In the end** (Finally, I went to bed.)
 
 ### Blog post
-Frases: 1+2+2+2
+1. **Título**: Frase corta que resuma el post (ej: "An Unplanned Adventure in Scotland")
+2. **Párrafo 1 (intro)**: presenta el propósito — de qué va a hablar el post, en **(1-2 frases)**
+3. **Párrafo 2-3 (cuerpo)**: el contenido principal — en tu caso, qué pasó y qué aprendiste **(1-2 frases)**
+4. **Párrafo cierre**: no solo una conclusión — una **pregunta** o llamada a la acción para el lector, típico de blogs, para "enganchar": "Have you ever had a trip that didn't go as planned? Share your story in the comments!" **(1-2 frases)**
 
-1. **Título**: una frase corta que resuma el post (ej: "An Unplanned Adventure in Scotland")
-2. **Párrafo 1 (intro)**: presenta el propósito — de qué va a hablar el post, en 1-2 frases
-3. **Párrafo 2-3 (cuerpo)**: el contenido principal — en tu caso, qué pasó y qué aprendiste
-4. **Párrafo cierre**: no solo una conclusión — una pregunta o llamada a la acción para el lector, típico de blogs, para "enganchar": "Have you ever had a trip that didn't go as planned? Share your story in the comments!"
+### essay de opinión
+1. **Título** — corto, directo, relacionado con el tema (no una frase completa).
+2. **Introducción** (1 párrafo corto)
+      - Presenta el tema de forma general (sin dar tu opinión todavía del todo)
+      - Puedes usar: **Nowadays.../ In recent years.../ It is often said that...**
+      - Cierra con la idea que vas a desarrollar
+3. **Desarrollo** (1-2 párrafos)
+      - Un párrafo por bloque de ideas: ventajas / desventajas, o argumento a favor / en contra
+      - Conectores de organización: **Firstly, Secondly, Moreover, On the other hand, However**
+      - Cada idea con un ejemplo o justificación breve
+4. **Conclusión** (1 párrafo corto)
+      - Retoma tu opinión personal de forma clara: **In conclusion, In my opinion, Overall...**
+      - Puedes cerrar con una reflexión final o recomendación
+5. **Registro**
+      - Revista de opinión = semi-formal: evita contracciones excesivas (don't→ok usar, pero no jerga), primera persona permitida (es tu opinión), pero evita coloquialismos.
 
-## 📗 Conectores 5cat
+## 📗 Conectores cat-6
 
 | Conectores | Uso | Ejemplo |
 |---|---|---|
@@ -80,6 +84,7 @@ Frases: 1+2+2+2
 | owing to / a causa de | Similar a "due to", algo más formal | Owing to staff shortages, the shop closed early. |
 | since / ya que | Introduce causa conocida o evidente | Since it was late, we decided to leave. |
 | because / porque | Explica la razón directa de algo | We stayed in because it was raining. |
+| As / como, ya que | Introduce una causa o razón conocida (similar a "since") | As you were out, I left a message. |
 | **CONSECUENCIA**{:.yerbold} |*Es el resultado o el impacto derivado de una acción. Responde a la pregunta ¿Qué ocurrió como resultado?* | *Suelen ir al principio de la frase o tras un punto/punto y coma, seguidos de una coma.* |
 | therefore / por lo tanto | Introduce una consecuencia lógica | She missed the train. Therefore, she was late. |
 | as a result / como resultado | Conecta causa directa con consecuencia | He didn't study. As a result, he failed the exam. |
@@ -220,3 +225,12 @@ No basta con poner el conector — el verbo también tiene que estar en el tiemp
       Before, not only did I spend too much money on unnecessary things, but I also bought a lot of junk. Because of this, I started looking up information about minimalism. Now I think about whether I really need something before I buy it. This idea has changed the way I shop, and I've cut down on spending money on unnecessary items. The fewer things I own, the better I feel. Moreover, my home is tidier and cleaner overall.
 
       Finally, I have a question for you: do you really need everything you own?
+
+!!! example "02-09-2026 sección de opinión"
+      Online Work or Personal Life
+
+      Nowadays, most companies are promoting online work. The more people work online, the happier they seem to be. But what really worries me is that we don't know how to stop, and we end up spending a lot of time working.
+
+      The advantages are clear. Not only do we avoid traffic jams, but we also spend more time with our family, such as children and parents. On the other hand, the disadvantages are notable too. We sit at a desk and spend many hours in front of a screen. Moreover, we don't have any coworkers to talk to about work problems, which increases our stress.
+
+      In conclusion, both types of work are fine, but it depends on the type of person. For example, if I had an online job, I would still go to the office almost twice a week, because contact with my colleagues helps me feel good.

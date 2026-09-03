@@ -310,10 +310,14 @@ Es muy importante conocer estas diferencias de registro porque puedes ofender o 
     - Peticiones: "**if you could** give me information..."
     - "**I would prefer to** update my level"
     - Unfortunately, I will be unable to
+    - Dear [Name], I am writing to let you know that I **will be unable to attend** tomorrow's meeting due to an unexpected commitment. **Please let me know if** this causes any inconvenience. Thank you for your understanding.
 
     **INFORMAL**
 
-    - 
+
+
+
+
 
 !!! warning "Usos avanzados (B2/C1)"
     - Para dar **énfasis en registro formal**, se usa la **inversión** tras adverbios negativos o restrictivos (_not only, rarely, never, under no circumstances_), invirtiendo sujeto y auxiliar.
