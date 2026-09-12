@@ -84,8 +84,13 @@
 78. **before + gerundio** (sin sujeto propio, se sobreentiende el mismo sujeto de la frase principal): He had the house painted before selling it.  **before + sujeto + verbo conjugado** (cláusula completa, puede tener sujeto distinto): He had the house painted before he sold it.
 79. ❌ "the other" (queda colgado, ¿el otro qué?) ✅ **"the other one"**
 80. Según ella es como decir en su opinión --> **in her opinion**
-81. **Say something, NOT say someone** — cuando hay una persona a quien le dices algo, el verbo es tell (tell someone something).
+81. **Say something, NOT say someone** — cuando hay una persona a quien le dices algo, el verbo es tell (**tell someone something**).
 82. "noisy" es adjetivo (ruidoso), pero necesitas el sustantivo noise (el ruido).
+83. "darse cuenta" (eso es **realize**).
+84. **yesterday evening** // yesterday" no lleva "in"
+85. **the previous one**. // el anterior
+86. **preguntas indirectas** el orden vuelve a ser sujeto+verbo, sin inversión.
+87. Para dar **órdenes negativas en estilo indirecto**, la estructura fija es told/warned + persona + NOT TO + verbo en infinitivo, colocando el not siempre delante del to.
 
 ## Words special
 

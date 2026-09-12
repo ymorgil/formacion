@@ -33,36 +33,47 @@
 
 !!! success "Task 2: **essay de opinión**, **informe**, **complaint letter** — temas más sociales/abstractos: redes sociales, publicidad, medio ambiente, educación, trabajo remoto."
 
-### Estructura básica
-- Antes de escribir, ordena mentalmente (o en un borrador rápido) qué pasó primero, segundo, tercero...
-- Después, usa conectores de tiempo para guiar al lector en ese orden — ellos hacen el trabajo de "orden" por ti.
-    - Empezar: **First, / To start with** (First, I woke up early.)
-    - Seguir: **Then, / After that, / Next** (Then, I had breakfast.)
-    - Algo previo a lo anterior: **Before that, / Earlier that day** (Before that, I had checked my emails.)
-    - Casi al final: **Later, / Afterwards** (Later, I went for a walk.)
-    - Cerrar: **Finally, / In the end** (Finally, I went to bed.)
+**ESTRUCTURAS BÁSICAS**
 
-### Blog post
-1. **Título**: Frase corta que resuma el post (ej: "An Unplanned Adventure in Scotland")
-2. **Párrafo 1 (intro)**: presenta el propósito — de qué va a hablar el post, en **(1-2 frases)**
-3. **Párrafo 2-3 (cuerpo)**: el contenido principal — en tu caso, qué pasó y qué aprendiste **(1-2 frases)**
-4. **Párrafo cierre**: no solo una conclusión — una **pregunta** o llamada a la acción para el lector, típico de blogs, para "enganchar": "Have you ever had a trip that didn't go as planned? Share your story in the comments!" **(1-2 frases)**
+1. Antes de escribir, ordena mentalmente (o en un borrador rápido) qué pasó primero, segundo, tercero... [4 parráfos]
+2. Después, usa conectores de tiempo para guiar al lector en ese orden — ellos hacen el trabajo de "orden" por ti. (**First, / To start with / Then, / After that, / Next / Before that, / Earlier that day / Later, / Afterwards / Finally, / In the end**)
 
-### essay de opinión
-1. **Título** — corto, directo, relacionado con el tema (no una frase completa).
-2. **Introducción** (1 párrafo corto)
-      - Presenta el tema de forma general (sin dar tu opinión todavía del todo)
-      - Puedes usar: **Nowadays.../ In recent years.../ It is often said that...**
-      - Cierra con la idea que vas a desarrollar
-3. **Desarrollo** (1-2 párrafos)
-      - Un párrafo por bloque de ideas: ventajas / desventajas, o argumento a favor / en contra
-      - Conectores de organización: **Firstly, Secondly, Moreover, On the other hand, However**
-      - Cada idea con un ejemplo o justificación breve
-4. **Conclusión** (1 párrafo corto)
-      - Retoma tu opinión personal de forma clara: **In conclusion, In my opinion, Overall...**
-      - Puedes cerrar con una reflexión final o recomendación
-5. **Registro**
+
+!!! success "BLOG POST"
+    1. **Título**: Frase corta que resuma el post (ej: "An Unplanned Adventure in Scotland")
+    2. **Introducción ( párrafo 1)**: presenta el propósito — de qué va a hablar el post, en **(1-2 frases)**
+    3. **Desarrollo (2 o 3 párrafos)**: el contenido principal — en tu caso, qué pasó y qué aprendiste **(1-2 frases)**
+    4. **Conclusión**: no solo una conclusión — una **pregunta** o llamada a la acción para el lector, típico de blogs, para "enganchar": "Have you ever had a trip that didn't go as planned? Share your story in the comments!" **(1-2 frases)**
+
+!!! success "ESSAY DE OPINIÓN"
+    1. **Título** — corto, directo, relacionado con el tema (no una frase completa).
+    2. **Introducción** (1 párrafo corto)
+          - Presenta el tema de forma general (sin dar tu opinión todavía del todo)
+          - Puedes usar: **Nowadays.../ In recent years.../ It is often said that...**
+          - Cierra con la idea que vas a desarrollar
+    3. **Desarrollo** (1-2 párrafos)
+          - Un párrafo por bloque de ideas: ventajas / desventajas, o argumento a favor / en contra
+          - Conectores de organización: **Firstly, Secondly, Moreover, On the other hand, However**
+          - Cada idea con un ejemplo o justificación breve
+    4. **Conclusión** (1 párrafo corto)
+          - Retoma tu opinión personal de forma clara: **In conclusion, In my opinion, Overall...**
+          - Puedes cerrar con una reflexión final o recomendación
+      
+      **Registro**
+
       - Revista de opinión = semi-formal: evita contracciones excesivas (don't→ok usar, pero no jerga), primera persona permitida (es tu opinión), pero evita coloquialismos.
+
+!!! success "EMAIL"
+    1. **Saludo**: Dear Sir or Madam / Yours faithfully. Nada de contracciones (don't→do not) ni "Good morning/Hi".
+    2. **Introducción ( párrafo 1)**: qué pasó y por qué escribes, en **(1-2 frases)**
+         - *"I am writing to complain about...", "I am writing regarding an order I placed on..."*.
+    3. **Desarrollo (párrafo 2 y 3)**: (**2**) el problema en detalle → (**3**) qué esperas que hagan (usa condicional: if you don't..., I will...)
+        - Frases de queja: *"I am extremely disappointed", "This is not what I expected", "I would like a replacement/refund"*.
+    4. **Conclusión (párrafo 4)**: (4) cierre estándar (I look forward to your reply/refund/response). **(1-2 frases)**
+
+      **Registro**
+
+      - Queja a una empresa - Formal - registro formal todo el texto (nada de contracciones)
 
 ## 📗 Conectores cat-6
 
