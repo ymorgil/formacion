@@ -32,8 +32,6 @@ Catálogo completo de las clases disponibles en el **AWS Academy Educator Dashbo
 
 ## 🧰 Servicios AWS
 
-Recopilación de los servicios de AWS que aparecen en las clases del [dashboard de educador](00-educator-classes.md) (Learner Lab, Cloud Foundations, Data Engineering y Cloud Data Pipeline Builder), con una descripción breve de para qué se usa cada uno.
-
 | Servicio | Categoría | Para qué se usa |
 |---|---|---|
 | **Amazon EC2** (Elastic Compute Cloud) | Cómputo | Servidores virtuales (instancias) escalables bajo demanda; base de las prácticas de Cloud Foundations y del Learner Lab. |
