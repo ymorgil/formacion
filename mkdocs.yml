@@ -39,6 +39,7 @@ nav:
         - Cursos: AWSedu/03cursosaws.md
         - lab: AWSedu/02-lab-ec2.md
         - Engieneering: AWSedu/04engienering.md
+        - Engieneering-lab04: AWSedu/engineerdata-labmod4.md
    - Trade:
         - 00 Introducción: trade/00-introduccion.md
         - 01 Tipos de activos: trade/01-tipos-de-activos.md
