@@ -72,7 +72,7 @@ En esta tarea harás lo siguiente:
    - **Encryption:** mantén la configuración predeterminada (no seleccionada).
    - **Data format:** elige **CSV**.
 
-   En la sección **Column details**, elige **Bulk add columns**.
+   En la sección **Column details**, elige **Bulk add columns**. (Agregar columnas en bloque)
 
    - **Nota:** Esta función permite añadir rápidamente metadatos a la tabla, como los nombres de columna y las declaraciones de tipo de dato.
 
@@ -161,11 +161,11 @@ Tres estrategias posibles para minimizar costes y mejorar el rendimiento son com
 
 - **Comprimir los datos:** comprime tus datos usando uno de los estándares abiertos de compresión de archivos (como Gzip o tar). La compresión da como resultado un tamaño menor del conjunto de datos cuando se almacena en Amazon S3.
 
-La cardinalidad de tus datos también afecta a cómo deberías optimizar tus consultas. Para más información, consulta *Cardinality (SQL Statements)*. Hay dos opciones para optimizar en función de una cardinalidad alta o baja:
+- La cardinalidad de tus datos también afecta a cómo deberías optimizar tus consultas. Para más información, consulta *Cardinality (SQL Statements)*. Hay dos opciones para optimizar en función de una cardinalidad alta o baja:
 
-- **Agrupar los datos en buckets:** para datos con cardinalidad alta, almacena los registros en buckets distintos según un valor compartido en un campo específico. Considera esta agrupación como parte de la fase de preprocesamiento de tu canalización de datos. En este laboratorio, los datos de un único mes se agruparán por separado del conjunto de datos original, que contiene los datos de todo un año. Esta estrategia ayudará a optimizar el rendimiento.
+  - **Agrupar los datos en buckets:** para datos con cardinalidad alta, almacena los registros en buckets distintos según un valor compartido en un campo específico. Considera esta agrupación como parte de la fase de preprocesamiento de tu canalización de datos. En este laboratorio, los datos de un único mes se agruparán por separado del conjunto de datos original, que contiene los datos de todo un año. Esta estrategia ayudará a optimizar el rendimiento.
 
-- **Particionar los datos:** también puedes usar particiones para mejorar el rendimiento y reducir el coste. La partición se usa con datos de cardinalidad baja, es decir, campos con pocos valores únicos o distintos.
+  - **Particionar los datos:** también puedes usar particiones para mejorar el rendimiento y reducir el coste. La partición se usa con datos de cardinalidad baja, es decir, campos con pocos valores únicos o distintos.
 
 En esta tarea experimentarás con la agrupación de datos en buckets para optimizar las consultas de Athena. Realizarás las siguientes acciones:
 
