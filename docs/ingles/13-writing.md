@@ -1,51 +1,42 @@
 # WRITING
 
-## 🎯 ESTRATEGIA
+!!! success "Estructura"
 
-!!! bug "1. Leer, subrayar (Subraya siempre estas 4 cosas en el enunciado, en este orden)" 
-      1. **Tipo de texto** (email, blog, essay...)
-      2. **Destinatario/registro** (amigo = informal, revista/empresa = formal)
-      3. **Puntos obligatorios** (busca viñetas o negrita — normalmente 2)
-      4. **Número de palabras**
+    | 1. Leer y subrayar | 2. Planificar | 3. Redactar | 4. Revisar |
+    |--------------------|---------------|-------------|------------|
+    | Subraya siempre: <br>1. **Tipo de texto** (email, blog, essay...)<br>2. **Destinatario/registro** (amigo = informal, revista/empresa = formal)<br>3. **Puntos obligatorios** (busca viñetas o negrita, normalmente 2)<br>4. **Número de palabras** | Antes de escribir, ordena mentalmente (o en un borrador rápido) qué pasó primero, segundo, tercero... [4 parráfos] <br>  **TASK 1:**<br>1. Anota los puntos obligatorios, con 1-2 frases clave.<br>2. Asigna una estructura gramatical objetivo a cada frase: <br>*present perfect · past perfect · conditional · passive voice · relative clause · comparativo doble · cleft sentence · inversión · wish*<br>3. Usa conectores de tiempo para guiar al lector ("no los de siempre").<br>**TASK 2:**<br>Lo mismo, pero por párrafo en vez de por frase: intro, cuerpo 1, cuerpo 2 y conclusión, con una estructura objetivo por párrafo. | Sigue el esquema y controla el tiempo restante para no quedarte sin terminar la conclusión. | 1. **Concordancia verbal:** el tiempo verbal debe ser coherente. Si hablas de unas vacaciones pasadas, no puede haber estructuras en presente.<br>2. **Ortografía:** con la prisa es fácil escribir mal una palabra, y eso puede cambiar el significado.<br>3. **Conectores:** ten claros los tipos que hay y comprueba que encajan donde los has colocado.<br>4. **Características:** se cumple el número de palabras, el tipo de texto, el registro y los puntos obligatorios. |
 
-!!! bug "2. Planificar" 
-      **TASK 1:**
+    **Consejos generales**
+
+    1. Task 1 · Mínimo de 8 frases despues contar palabras 
+
+## Tipos
+
+!!! question "Task 1"
+      1. **blog post**
+      2. **email/carta** (formal o informal) 
+      3. **reseña**
+   
+      — normalmente sobre temas cotidianos: viajes, salud, trabajo, tecnología, hábitos.
+
+!!! question "Task 2"
+      1. **essay de opinión**
+      2. **informe**
+      3. **complaint letter**
       
-      1. Anota los 2 puntos obligatorios como 2 bloques y cada bloque 1-2 frases clave.
-      3. Asigna una estructura gramatical objetivo a cada frase — elige de esta lista:
-      > present perfect · past perfect · conditional · passive voice · relative clause · comparativo doble · cleft sentence · inversión · wish
-      4. Elige 2-3 conectores concretos (no "los de siempre")
+      — temas más sociales/abstractos: redes sociales, publicidad, medio ambiente, educación, trabajo remoto.
 
-      **TASK 2:**
-      Lo mismo pero por párrafo, no por frase (sería demasiado): intro, cuerpo 1, cuerpo 2, conclusión — Estructura objetivo por párrafo.
+### Blog post
 
-!!! bug "3. Redactar (Siguiendo el esquema, controlando el tiempo restante para no quedarse sin terminar la conclusión.)" 
-      
-!!! bug "4. Revisar"
-      1. **Concordancia verbal**: Mirar el tiempo verbal del texto por ejemplo si estas hablando de unas vacaciones pasadas no puede haber estructuras en presente.
-      2. **Ortografía**: Revisión de la ortografía de las palabras a veces por la prisa la escribimos mal y puede significar otra cosa.
-      3. **Conectores**: Tener claro los tipos que hay y si encajas donde estan colocados.
-      4. **Características**: Se cumple el número de palabras pedido (ni muy por debajo ni muy por encima, un ±10% suele ser el margen razonable).
-
-## Tipos de texto
-
-!!! success "Task 1: **email/carta** (formal o informal), **blog post**, **reseña** — normalmente sobre temas cotidianos: viajes, salud, trabajo, tecnología, hábitos."
-
-!!! success "Task 2: **essay de opinión**, **informe**, **complaint letter** — temas más sociales/abstractos: redes sociales, publicidad, medio ambiente, educación, trabajo remoto."
-
-**ESTRUCTURAS BÁSICAS**
-
-1. Antes de escribir, ordena mentalmente (o en un borrador rápido) qué pasó primero, segundo, tercero... [4 parráfos]
-2. Después, usa conectores de tiempo para guiar al lector en ese orden — ellos hacen el trabajo de "orden" por ti. (**First, / To start with / Then, / After that, / Next / Before that, / Earlier that day / Later, / Afterwards / Finally, / In the end**)
-
-
-!!! success "BLOG POST"
+!!! success ""
     1. **Título**: Frase corta que resuma el post (ej: "An Unplanned Adventure in Scotland")
     2. **Introducción ( párrafo 1)**: presenta el propósito — de qué va a hablar el post, en **(1-2 frases)**
     3. **Desarrollo (2 o 3 párrafos)**: el contenido principal — en tu caso, qué pasó y qué aprendiste **(1-2 frases)**
     4. **Conclusión**: no solo una conclusión — una **pregunta** o llamada a la acción para el lector, típico de blogs, para "enganchar": "Have you ever had a trip that didn't go as planned? Share your story in the comments!" **(1-2 frases)**
 
-!!! success "ESSAY DE OPINIÓN"
+### Essay de opinión
+
+!!! success ""
     1. **Título** — corto, directo, relacionado con el tema (no una frase completa).
     2. **Introducción** (1 párrafo corto)
           - Presenta el tema de forma general (sin dar tu opinión todavía del todo)
@@ -63,17 +54,18 @@
 
       - Revista de opinión = semi-formal: evita contracciones excesivas (don't→ok usar, pero no jerga), primera persona permitida (es tu opinión), pero evita coloquialismos.
 
-!!! success "EMAIL"
+### Email
+!!! success ""
     1. **Saludo**: Dear Sir or Madam / Yours faithfully. Nada de contracciones (don't→do not) ni "Good morning/Hi".
     2. **Introducción ( párrafo 1)**: qué pasó y por qué escribes, en **(1-2 frases)**
-         - *"I am writing to complain about...", "I am writing regarding an order I placed on..."*.
     3. **Desarrollo (párrafo 2 y 3)**: (**2**) el problema en detalle → (**3**) qué esperas que hagan (usa condicional: if you don't..., I will...)
-        - Frases de queja: *"I am extremely disappointed", "This is not what I expected", "I would like a replacement/refund"*.
     4. **Conclusión (párrafo 4)**: (4) cierre estándar (I look forward to your reply/refund/response). **(1-2 frases)**
+      
+      **Consejos**
 
-      **Registro**
-
-      - Queja a una empresa - Formal - registro formal todo el texto (nada de contracciones)
+      1. Registro · Queja a una empresa - Formal - registro formal todo el texto (nada de contracciones)
+      2. Intro · *"I am writing to complain about...", "I am writing regarding an order I placed on..."*.
+      3. Desa · Frases de queja: *"I am extremely disappointed", "This is not what I expected", "I would like a replacement/refund"*.
 
 ## 📗 Conectores cat-6
 

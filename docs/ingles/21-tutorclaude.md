@@ -91,6 +91,7 @@
 85. **the previous one**. // el anterior
 86. **preguntas indirectas** el orden vuelve a ser sujeto+verbo, sin inversión.
 87. Para dar **órdenes negativas en estilo indirecto**, la estructura fija es told/warned + persona + NOT TO + verbo en infinitivo, colocando el not siempre delante del to.
+88. Say nunca lleva persona directa,
 
 ## Words special
 
