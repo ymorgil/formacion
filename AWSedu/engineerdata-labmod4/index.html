@@ -1,0 +1,3048 @@
+<!DOCTYPE html><html lang="es" class="no-js"><head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://ymorgil.github.io/formacion/AWSedu/engineerdata-labmod4/">
+      
+      
+        <link rel="prev" href="../04engienering/">
+      
+      
+        <link rel="next" href="../../trade/00-introduccion/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.7">
+    
+    
+      
+        <title>Engieneering-lab04 - Mis apuntes</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&amp;display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/css/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  <link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"><script src="../../assets/javascripts/glightbox.min.js"></script><style id="glightbox-style">
+            html.glightbox-open { overflow: initial; height: 100%; }
+            .gslide-title { margin-top: 0px; user-select: text; }
+            .gslide-desc { color: #666; user-select: text; }
+            .gslide-image img { background: white; }
+            .gscrollbar-fixer { padding-right: 15px; }
+            .gdesc-inner { font-size: 0.75rem; }
+            body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color); }
+            body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color); }
+            body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color); }
+        </style></head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="green" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#laboratorio-athena-aws-glue-y-cloudformation" class="md-skip">
+          Saltar a contenido
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabecera">
+    <a href="../.." title="Mis apuntes" class="md-header__button md-logo" aria-label="Mis apuntes" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"></path></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"></path></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Mis apuntes
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Engieneering-lab04
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="green" data-md-color-accent="indigo" aria-label="Modo oscuro" type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Modo oscuro" for="__palette_1" hidden="">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"></path></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="pink" data-md-color-accent="green" aria-label="Modo claro" type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Modo claro" for="__palette_0" hidden="">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"></path></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navegación" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Mis apuntes" class="md-nav__button md-logo" aria-label="Mis apuntes" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"></path></svg>
+
+    </a>
+    Mis apuntes
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix="">
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inicio
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2">
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inglés
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Inglés
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/01-EOI/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    EOI
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/02-gramatica/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gramática
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/03-grammar/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gramática II
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/04-phrasal/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Phrasal Verbs
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/11-reading/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reading
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/12-listening/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Listening
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/13-writing/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    PCTE Writing
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/14-speaking/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Speaking
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/15-mediacion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chunks
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/21-tutorclaude/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tutor Claude
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/22-vocabulary/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Vocabulary
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/23-dudas/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Dudas
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/99-recursos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Recursos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked="">
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    AWS
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    AWS
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../01-listado/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Listado
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../03cursosaws/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cursos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../02-lab-ec2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    lab
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../04engienering/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Engieneering
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Engieneering-lab04
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Engieneering-lab04
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+      
+        <li class="md-nav__item">
+  <a href="#acceso-a-la-consola-de-administracion-de-aws" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Acceso a la Consola de Administración de AWS
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tarea-1-crear-y-consultar-una-base-de-datos-y-una-tabla-de-aws-glue-en-athena" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ✒️ Tarea 1: Crear y consultar una base de datos y una tabla de AWS Glue en Athena
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="✒️ Tarea 1: Crear y consultar una base de datos y una tabla de AWS Glue en Athena">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pasos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pasos
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#resumen-de-la-tarea-1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Resumen de la Tarea 1
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tarea-2-optimizar-consultas-de-athena-mediante-buckets" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ✒️ Tarea 2: Optimizar consultas de Athena mediante buckets
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="✒️ Tarea 2: Optimizar consultas de Athena mediante buckets">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pasos_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pasos
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#resumen-de-la-tarea-2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Resumen de la Tarea 2
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tarea-3-optimizar-consultas-de-athena-mediante-particiones" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ✒️ Tarea 3: Optimizar consultas de Athena mediante particiones
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="✒️ Tarea 3: Optimizar consultas de Athena mediante particiones">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pasos_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pasos
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#resumen-de-la-tarea-3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Resumen de la Tarea 3
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tarea-4-usar-vistas-de-athena" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ✒️ Tarea 4: Usar vistas de Athena
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="✒️ Tarea 4: Usar vistas de Athena">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pasos_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pasos
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#resumen-de-la-tarea-4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Resumen de la Tarea 4
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tarea-5-crear-consultas-con-nombre-named-queries-en-athena-mediante-cloudformation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ✒️ Tarea 5: Crear consultas con nombre (named queries) en Athena mediante CloudFormation
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="✒️ Tarea 5: Crear consultas con nombre (named queries) en Athena mediante CloudFormation">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pasos_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pasos
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#resumen-de-la-tarea-5" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Resumen de la Tarea 5
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tarea-6-revisar-la-politica-de-iam-para-el-acceso-a-athena-y-aws-glue" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ✒️ Tarea 6: Revisar la política de IAM para el acceso a Athena y AWS Glue
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="✒️ Tarea 6: Revisar la política de IAM para el acceso a Athena y AWS Glue">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pasos_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pasos
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#resumen-de-la-tarea-6" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Resumen de la Tarea 6
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tarea-7-confirmar-que-mary-puede-acceder-y-usar-la-consulta-con-nombre" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ✒️ Tarea 7: Confirmar que Mary puede acceder y usar la consulta con nombre
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="✒️ Tarea 7: Confirmar que Mary puede acceder y usar la consulta con nombre">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pasos_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pasos
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#resumen-de-la-tarea-7" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Resumen de la Tarea 7
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#novedades-del-equipo" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Novedades del equipo
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#enviar-tu-trabajo" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Enviar tu trabajo
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#laboratorio-completado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Laboratorio completado
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4">
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Trade
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Trade
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../trade/00-introduccion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    00 Introducción
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../trade/01-tipos-de-activos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    01 Tipos de activos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../trade/02-ordenes-y-mercados/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    02 Órdenes y mercados
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../trade/03-riesgo-diversificacion-fiscalidad/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    03 Riesgo, diversificación y fiscalidad
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../trade/04-glosario-primeros-pasos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    04 Glosario y primeros pasos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5">
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Criptomonedas
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Criptomonedas
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../criptomonedas/00-introduccion-blockchain/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    00 Introducción y blockchain
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../criptomonedas/01-monederos-wallets/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    01 Monederos y wallets
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../criptomonedas/02-exchanges-seguridad-regulacion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    02 Exchanges, seguridad y regulación
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../criptomonedas/03-tipos-de-criptoactivos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    03 Tipos de criptoactivos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../criptomonedas/04-primeros-pasos-practicos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    04 Primeros pasos prácticos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6">
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    eXeLearning
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    eXeLearning
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../exelearning/00-introduccion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    00 Introducción
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7">
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    TikTok
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    TikTok
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../tiktok/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Apps y recursos (colección Inglés)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8">
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Webvilla
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Webvilla
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../webvilla/01webconf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Estandares
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../webvilla/tarjeta-noticia/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tarjeta de noticia
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../webvilla/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inicio
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../webvilla/claude-chrome-divi/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    MCP, Claude Code y Claude en Chrome
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9">
+        
+          
+          <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Prompts
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Prompts
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../prompt/pro-ingles/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inglés
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+      
+        <li class="md-nav__item">
+  <a href="#acceso-a-la-consola-de-administracion-de-aws" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Acceso a la Consola de Administración de AWS
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tarea-1-crear-y-consultar-una-base-de-datos-y-una-tabla-de-aws-glue-en-athena" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ✒️ Tarea 1: Crear y consultar una base de datos y una tabla de AWS Glue en Athena
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="✒️ Tarea 1: Crear y consultar una base de datos y una tabla de AWS Glue en Athena">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pasos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pasos
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#resumen-de-la-tarea-1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Resumen de la Tarea 1
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tarea-2-optimizar-consultas-de-athena-mediante-buckets" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ✒️ Tarea 2: Optimizar consultas de Athena mediante buckets
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="✒️ Tarea 2: Optimizar consultas de Athena mediante buckets">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pasos_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pasos
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#resumen-de-la-tarea-2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Resumen de la Tarea 2
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tarea-3-optimizar-consultas-de-athena-mediante-particiones" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ✒️ Tarea 3: Optimizar consultas de Athena mediante particiones
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="✒️ Tarea 3: Optimizar consultas de Athena mediante particiones">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pasos_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pasos
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#resumen-de-la-tarea-3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Resumen de la Tarea 3
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tarea-4-usar-vistas-de-athena" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ✒️ Tarea 4: Usar vistas de Athena
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="✒️ Tarea 4: Usar vistas de Athena">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pasos_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pasos
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#resumen-de-la-tarea-4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Resumen de la Tarea 4
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tarea-5-crear-consultas-con-nombre-named-queries-en-athena-mediante-cloudformation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ✒️ Tarea 5: Crear consultas con nombre (named queries) en Athena mediante CloudFormation
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="✒️ Tarea 5: Crear consultas con nombre (named queries) en Athena mediante CloudFormation">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pasos_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pasos
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#resumen-de-la-tarea-5" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Resumen de la Tarea 5
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tarea-6-revisar-la-politica-de-iam-para-el-acceso-a-athena-y-aws-glue" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ✒️ Tarea 6: Revisar la política de IAM para el acceso a Athena y AWS Glue
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="✒️ Tarea 6: Revisar la política de IAM para el acceso a Athena y AWS Glue">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pasos_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pasos
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#resumen-de-la-tarea-6" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Resumen de la Tarea 6
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tarea-7-confirmar-que-mary-puede-acceder-y-usar-la-consulta-con-nombre" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ✒️ Tarea 7: Confirmar que Mary puede acceder y usar la consulta con nombre
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="✒️ Tarea 7: Confirmar que Mary puede acceder y usar la consulta con nombre">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pasos_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pasos
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#resumen-de-la-tarea-7" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Resumen de la Tarea 7
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#novedades-del-equipo" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Novedades del equipo
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#enviar-tu-trabajo" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Enviar tu trabajo
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#laboratorio-completado" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Laboratorio completado
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="laboratorio-athena-aws-glue-y-cloudformation">Laboratorio: Athena, AWS Glue y CloudFormation</h1>
+<h2 id="acceso-a-la-consola-de-administracion-de-aws">Acceso a la Consola de Administración de AWS</h2>
+<p>1. En la parte superior de estas instrucciones, elige <strong>Start Lab</strong>.</p>
+<ul>
+<li>Se inicia la sesión del laboratorio.</li>
+<li>Aparece un temporizador en la parte superior de la página que muestra el tiempo restante de la sesión.</li>
+<li><strong>Consejo:</strong> Para renovar la duración de la sesión en cualquier momento, vuelve a elegir <strong>Start Lab</strong> antes de que el temporizador llegue a 00:00.</li>
+<li>Antes de continuar, espera a que el icono circular a la derecha del enlace <strong>AWS</strong> (esquina superior izquierda) se ponga verde.</li>
+</ul>
+<p>2. Para conectarte a la Consola de Administración de AWS, elige el enlace <strong>AWS</strong> en la esquina superior izquierda.</p>
+<ul>
+<li>Se abre una nueva pestaña del navegador que te conecta a la consola.</li>
+<li><strong>Consejo:</strong> Si no se abre una pestaña nueva, normalmente aparece un banner o icono en la parte superior del navegador indicando que se está bloqueando la apertura de ventanas emergentes. Elige el banner o icono y luego selecciona <strong>Permitir ventanas emergentes</strong>.</li>
+</ul>
+<hr>
+<h2 id="tarea-1-crear-y-consultar-una-base-de-datos-y-una-tabla-de-aws-glue-en-athena">✒️ Tarea 1: Crear y consultar una base de datos y una tabla de AWS Glue en Athena</h2>
+<p>Tu primera tarea es usar sentencias SQL para definir el esquema de una tabla que permita trabajar con los datos CSV de ejemplo.</p>
+<p>En esta tarea harás lo siguiente:</p>
+<ul>
+<li>Especificar un bucket de S3 para los resultados de las consultas.</li>
+<li>Crear una base de datos de AWS Glue mediante el editor de consultas de Athena.</li>
+<li>Crear una tabla en la base de datos de AWS Glue e importar datos.</li>
+<li>Previsualizar los datos en la tabla de AWS Glue.</li>
+</ul>
+<h3 id="pasos">Pasos</h3>
+<p>3. En la Consola de Administración de AWS, en el cuadro de búsqueda situado a la derecha de <strong>Services</strong>, busca y elige <strong>Athena</strong> para abrir la consola de Athena.</p>
+<p>4. <strong>Especifica un bucket de S3 para los resultados de las consultas.</strong></p>
+<p>Cuando usas Athena, primero debes especificar un bucket de S3 que almacene los resultados de las consultas que ejecutes. Ya se ha creado un bucket para ti. Sigue estos pasos para configurarlo y usarlo:</p>
+<ul>
+<li>En la consola de Athena, elige <strong>Explore the query editor</strong>.</li>
+<li>Elige la pestaña <strong>Settings</strong>.</li>
+<li>En la sección <strong>Query result and encryption settings</strong>, elige <strong>Manage</strong>.</li>
+<li>En <strong>Location of query result</strong>, elige <strong>Browse S3</strong>.</li>
+<li>Elige el bucket que se creó para ti y luego selecciona <strong>Choose</strong>.</li>
+<li>Mantén los valores predeterminados del resto de ajustes de la página y elige <strong>Save</strong>.</li>
+<li><strong>Nota:</strong> En este momento no es necesario que especifiques un <strong>Expected bucket owner</strong>.</li>
+</ul>
+<p>5. <strong>Crea una base de datos de AWS Glue con el editor de consultas de Athena.</strong></p>
+<ul>
+<li>Elige la pestaña <strong>Editor</strong>.</li>
+<li>
+<p>En la sección <strong>Query 1</strong>, introduce el siguiente comando SQL:</p>
+<div class="highlight"><pre><span></span><code><span class="k">CREATE</span><span class="w"> </span><span class="k">DATABASE</span><span class="w"> </span><span class="n">taxidata</span><span class="p">;</span>
+</code></pre></div>
+</li>
+<li>
+<p>Elige <strong>Run</strong>.</p>
+</li>
+<li>Aparece el mensaje <em>Query successful</em> y se crea una base de datos de AWS Glue llamada <code>taxidata</code>.</li>
+<li><strong>Consejo:</strong> Para confirmar que la base de datos se creó en AWS Glue, abre una pestaña nueva y ve a la consola de AWS Glue. En el panel de navegación, elige <strong>Databases</strong>. La base de datos <code>taxidata</code> aparecerá en la lista.</li>
+</ul>
+<p>6. <strong>Crea una tabla en la base de datos de AWS Glue e importa los datos.</strong></p>
+<p>En la consola de Athena, en la sección <strong>Tables and views</strong> de la izquierda, elige <strong>Create &gt; S3 bucket data</strong> y configura lo siguiente:</p>
+<ul>
+<li><strong>Table name:</strong> introduce <code>yellow</code></li>
+<li><strong>Description:</strong> introduce <code>Table for taxi data</code></li>
+<li><strong>Database configuration:</strong> selecciona <strong>Choose an existing database</strong> y luego elige <code>taxidata</code> en la lista desplegable.</li>
+<li>
+<p><strong>Location of input dataset:</strong> copia el siguiente enlace en el campo:</p>
+<div class="highlight"><pre><span></span><code>s3://aws-tc-largeobjects/CUR-TF-200-ACDSCI-1/Lab2/yellow/
+</code></pre></div>
+</li>
+<li>
+<p><strong>Encryption:</strong> mantén la configuración predeterminada (no seleccionada).</p>
+</li>
+<li><strong>Data format:</strong> elige <strong>CSV</strong>.</li>
+</ul>
+<p>En la sección <strong>Column details</strong>, elige <strong>Bulk add columns</strong>. (Agregar columnas en bloque)</p>
+<ul>
+<li><strong>Nota:</strong> Esta función permite añadir rápidamente metadatos a la tabla, como los nombres de columna y las declaraciones de tipo de dato.</li>
+</ul>
+<p>En el cuadro emergente, copia y pega el siguiente texto y luego elige <strong>Add</strong>:</p>
+<div class="highlight"><pre><span></span><code>vendor string,
+pickup timestamp,
+dropoff timestamp,
+count int,
+distance int,
+ratecode string,
+storeflag string,
+pulocid string,
+dolocid string,
+paytype string,
+fare decimal,
+extra decimal,
+mta_tax decimal,
+tip decimal,
+tolls decimal,
+surcharge decimal,
+total decimal
+</code></pre></div>
+<p>Los nombres de columna y los tipos de dato se rellenan en la sección <strong>Column details</strong>.</p>
+<p>En la sección <strong>Preview table query</strong>, revisa el texto de la consulta de vista previa, que coincide con el siguiente:</p>
+<div class="highlight"><pre><span></span><code><span class="k">CREATE</span><span class="w"> </span><span class="k">EXTERNAL</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="k">IF</span><span class="w"> </span><span class="k">NOT</span><span class="w"> </span><span class="k">EXISTS</span><span class="w"> </span><span class="n">taxidata</span><span class="p">.</span><span class="n">yellow</span><span class="w"> </span><span class="p">(</span>
+<span class="w">    </span><span class="o">`</span><span class="n">vendor</span><span class="o">`</span><span class="w"> </span><span class="n">string</span><span class="p">,</span>
+<span class="w">    </span><span class="o">`</span><span class="n">pickup</span><span class="o">`</span><span class="w"> </span><span class="k">timestamp</span><span class="p">,</span>
+<span class="w">    </span><span class="o">`</span><span class="n">dropoff</span><span class="o">`</span><span class="w"> </span><span class="k">timestamp</span><span class="p">,</span>
+<span class="w">    </span><span class="o">`</span><span class="k">count</span><span class="o">`</span><span class="w"> </span><span class="nb">int</span><span class="p">,</span>
+<span class="w">    </span><span class="o">`</span><span class="n">distance</span><span class="o">`</span><span class="w"> </span><span class="nb">int</span><span class="p">,</span>
+<span class="w">    </span><span class="o">`</span><span class="n">ratecode</span><span class="o">`</span><span class="w"> </span><span class="n">string</span><span class="p">,</span>
+<span class="w">    </span><span class="o">`</span><span class="n">storeflag</span><span class="o">`</span><span class="w"> </span><span class="n">string</span><span class="p">,</span>
+<span class="w">    </span><span class="o">`</span><span class="n">pulocid</span><span class="o">`</span><span class="w"> </span><span class="n">string</span><span class="p">,</span>
+<span class="w">    </span><span class="o">`</span><span class="n">dolocid</span><span class="o">`</span><span class="w"> </span><span class="n">string</span><span class="p">,</span>
+<span class="w">    </span><span class="o">`</span><span class="n">paytype</span><span class="o">`</span><span class="w"> </span><span class="n">string</span><span class="p">,</span>
+<span class="w">    </span><span class="o">`</span><span class="n">fare</span><span class="o">`</span><span class="w"> </span><span class="nb">decimal</span><span class="p">,</span>
+<span class="w">    </span><span class="o">`</span><span class="n">extra</span><span class="o">`</span><span class="w"> </span><span class="nb">decimal</span><span class="p">,</span>
+<span class="w">    </span><span class="o">`</span><span class="n">mta_tax</span><span class="o">`</span><span class="w"> </span><span class="nb">decimal</span><span class="p">,</span>
+<span class="w">    </span><span class="o">`</span><span class="n">tip</span><span class="o">`</span><span class="w"> </span><span class="nb">decimal</span><span class="p">,</span>
+<span class="w">    </span><span class="o">`</span><span class="n">tolls</span><span class="o">`</span><span class="w"> </span><span class="nb">decimal</span><span class="p">,</span>
+<span class="w">    </span><span class="o">`</span><span class="n">surcharge</span><span class="o">`</span><span class="w"> </span><span class="nb">decimal</span><span class="p">,</span>
+<span class="w">    </span><span class="o">`</span><span class="n">total</span><span class="o">`</span><span class="w"> </span><span class="nb">decimal</span>
+<span class="w">  </span><span class="p">)</span>
+<span class="w">  </span><span class="k">ROW</span><span class="w"> </span><span class="n">FORMAT</span><span class="w"> </span><span class="n">SERDE</span><span class="w"> </span><span class="s1">'org.apache.hadoop.hive.serde2.lazy.LazySimpleSerDe'</span>
+<span class="w">  </span><span class="k">WITH</span><span class="w"> </span><span class="n">SERDEPROPERTIES</span><span class="w"> </span><span class="p">(</span>
+<span class="w">    </span><span class="s1">'serialization.format'</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">','</span><span class="p">,</span>
+<span class="w">    </span><span class="s1">'field.delim'</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">','</span>
+<span class="w">  </span><span class="p">)</span><span class="w"> </span><span class="k">LOCATION</span><span class="w"> </span><span class="s1">'s3://aws-tc-largeobjects/CUR-TF-200-ACDSCI-1/Lab2/yellow/'</span>
+<span class="w">  </span><span class="n">TBLPROPERTIES</span><span class="w"> </span><span class="p">(</span><span class="s1">'has_encrypted_data'</span><span class="o">=</span><span class="s1">'false'</span><span class="p">);</span>
+</code></pre></div>
+<p>Observa que los datos no están cifrados. <em>Serde</em> es un formato de serialización de datos, y la propiedad <code>SERDE</code> especifica que los datos deben estar delimitados por comas, que es el caso.</p>
+<ul>
+<li>Elige <strong>Create table</strong>.</li>
+<li>Aparece el mensaje <em>Query successful</em>.</li>
+</ul>
+<p>Ahora que tienes una tabla con los datos de los taxis, puedes escribir consultas para recuperar datos del origen de datos en Amazon S3.</p>
+<p>7. <strong>Previsualiza los datos en la tabla de AWS Glue.</strong></p>
+<ul>
+<li>En la sección <strong>Data</strong> de la izquierda, en <strong>Database</strong>, elige <code>taxidata</code>.</li>
+<li>En la sección <strong>Tables</strong>, a la derecha de la tabla <code>yellow</code>, elige el icono de puntos suspensivos (tres puntos) y luego elige <strong>Preview Table</strong>.</li>
+<li>La sección <strong>Results</strong> muestra los 10 primeros registros de la tabla.</li>
+<li>Antes de continuar, en la parte superior del editor de consultas, cierra las consultas abiertas eligiendo el icono <strong>X</strong> en cada pestaña de consulta. Cuando se te pida, elige <strong>Close query</strong>.</li>
+<li><strong>Nota:</strong> Solo puedes tener 10 consultas activas en Athena en un momento dado, así que debes gestionarlas en consecuencia.</li>
+</ul>
+<h3 id="resumen-de-la-tarea-1">Resumen de la Tarea 1</h3>
+<p>En esta tarea creaste una base de datos y una tabla de AWS Glue mediante el editor de consultas de Athena. Conectaste un conjunto de datos de Amazon S3 a la tabla y definiste el esquema de la tabla usando la función de añadir columnas en bloque. Después de crear la tabla, aprendiste a previsualizar los datos con la función de vista previa de tabla.</p>
+<p>Mary ya puede usar consultas SQL más avanzadas y tipos de datos de columna personalizados para archivos CSV almacenados de forma segura en Amazon S3. Esto no era posible usando solo S3 Select.</p>
+<hr>
+<h2 id="tarea-2-optimizar-consultas-de-athena-mediante-buckets">✒️ Tarea 2: Optimizar consultas de Athena mediante buckets</h2>
+<p>Cuando trabajas con conjuntos de datos grandes repartidos en varios archivos, dos objetivos principales son optimizar el rendimiento de las consultas y minimizar el coste. El coste de Athena se basa en el uso, es decir, en la cantidad de datos escaneados, y los precios varían según la región.</p>
+<p>Tres estrategias posibles para minimizar costes y mejorar el rendimiento son comprimir los datos, agruparlos en buckets y particionarlos.</p>
+<ul>
+<li>
+<p><strong>Comprimir los datos:</strong> comprime tus datos usando uno de los estándares abiertos de compresión de archivos (como Gzip o tar). La compresión da como resultado un tamaño menor del conjunto de datos cuando se almacena en Amazon S3.</p>
+</li>
+<li>
+<p>La cardinalidad de tus datos también afecta a cómo deberías optimizar tus consultas. Para más información, consulta <em>Cardinality (SQL Statements)</em>. Hay dos opciones para optimizar en función de una cardinalidad alta o baja:</p>
+</li>
+<li>
+<p><strong>Agrupar los datos en buckets:</strong> para datos con cardinalidad alta, almacena los registros en buckets distintos según un valor compartido en un campo específico. Considera esta agrupación como parte de la fase de preprocesamiento de tu canalización de datos. En este laboratorio, los datos de un único mes se agruparán por separado del conjunto de datos original, que contiene los datos de todo un año. Esta estrategia ayudará a optimizar el rendimiento.</p>
+</li>
+<li>
+<p><strong>Particionar los datos:</strong> también puedes usar particiones para mejorar el rendimiento y reducir el coste. La partición se usa con datos de cardinalidad baja, es decir, campos con pocos valores únicos o distintos.</p>
+</li>
+</ul>
+<p>En esta tarea experimentarás con la agrupación de datos en buckets para optimizar las consultas de Athena. Realizarás las siguientes acciones:</p>
+<ul>
+<li>Crear una tabla llamada <code>jan</code> para contener los datos agrupados.</li>
+<li>Comparar cuánto tarda en ejecutarse una consulta sobre los datos agrupados de enero de 2017 frente a cuánto tarda consultar el conjunto de datos completo para obtener los datos de enero de 2017.</li>
+</ul>
+<h3 id="pasos_1">Pasos</h3>
+<p>8. <strong>Crea una tabla para los datos de enero de 2017.</strong></p>
+<ul>
+<li>En el editor de consultas de Athena, elige la pestaña <strong>Editor</strong>.</li>
+<li>Para abrir una nueva pestaña de consulta, elige el icono más (+) en el lado derecho de la sección de consultas.</li>
+<li>
+<p>Copia y pega el siguiente texto en la nueva pestaña de consulta y luego elige <strong>Run</strong>:</p>
+<div class="highlight"><pre><span></span><code><span class="k">CREATE</span><span class="w"> </span><span class="k">EXTERNAL</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="k">IF</span><span class="w"> </span><span class="k">NOT</span><span class="w"> </span><span class="k">EXISTS</span><span class="w"> </span><span class="n">jan</span><span class="w"> </span><span class="p">(</span>
+<span class="w">  </span><span class="o">`</span><span class="n">vendor</span><span class="o">`</span><span class="w"> </span><span class="n">string</span><span class="p">,</span>
+<span class="w">  </span><span class="o">`</span><span class="n">pickup</span><span class="o">`</span><span class="w"> </span><span class="k">timestamp</span><span class="p">,</span>
+<span class="w">  </span><span class="o">`</span><span class="n">dropoff</span><span class="o">`</span><span class="w"> </span><span class="k">timestamp</span><span class="p">,</span>
+<span class="w">  </span><span class="o">`</span><span class="k">count</span><span class="o">`</span><span class="w"> </span><span class="nb">int</span><span class="p">,</span>
+<span class="w">  </span><span class="o">`</span><span class="n">distance</span><span class="o">`</span><span class="w"> </span><span class="nb">int</span><span class="p">,</span>
+<span class="w">  </span><span class="o">`</span><span class="n">ratecode</span><span class="o">`</span><span class="w"> </span><span class="n">string</span><span class="p">,</span>
+<span class="w">  </span><span class="o">`</span><span class="n">storeflag</span><span class="o">`</span><span class="w"> </span><span class="n">string</span><span class="p">,</span>
+<span class="w">  </span><span class="o">`</span><span class="n">pulocid</span><span class="o">`</span><span class="w"> </span><span class="n">string</span><span class="p">,</span>
+<span class="w">  </span><span class="o">`</span><span class="n">dolocid</span><span class="o">`</span><span class="w"> </span><span class="n">string</span><span class="p">,</span>
+<span class="w">  </span><span class="o">`</span><span class="n">paytype</span><span class="o">`</span><span class="w"> </span><span class="n">string</span><span class="p">,</span>
+<span class="w">  </span><span class="o">`</span><span class="n">fare</span><span class="o">`</span><span class="w"> </span><span class="nb">decimal</span><span class="p">,</span>
+<span class="w">  </span><span class="o">`</span><span class="n">extra</span><span class="o">`</span><span class="w"> </span><span class="nb">decimal</span><span class="p">,</span>
+<span class="w">  </span><span class="o">`</span><span class="n">mta_tax</span><span class="o">`</span><span class="w"> </span><span class="nb">decimal</span><span class="p">,</span>
+<span class="w">  </span><span class="o">`</span><span class="n">tip</span><span class="o">`</span><span class="w"> </span><span class="nb">decimal</span><span class="p">,</span>
+<span class="w">  </span><span class="o">`</span><span class="n">tolls</span><span class="o">`</span><span class="w"> </span><span class="nb">decimal</span><span class="p">,</span>
+<span class="w">  </span><span class="o">`</span><span class="n">surcharge</span><span class="o">`</span><span class="w"> </span><span class="nb">decimal</span><span class="p">,</span>
+<span class="w">  </span><span class="o">`</span><span class="n">total</span><span class="o">`</span><span class="w"> </span><span class="nb">decimal</span>
+<span class="w">  </span><span class="p">)</span>
+<span class="w">  </span><span class="k">ROW</span><span class="w"> </span><span class="n">FORMAT</span><span class="w"> </span><span class="n">SERDE</span><span class="w"> </span><span class="s1">'org.apache.hadoop.hive.serde2.lazy.LazySimpleSerDe'</span>
+<span class="w">  </span><span class="k">WITH</span><span class="w"> </span><span class="n">SERDEPROPERTIES</span><span class="w"> </span><span class="p">(</span>
+<span class="w">  </span><span class="s1">'serialization.format'</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">','</span><span class="p">,</span>
+<span class="w">  </span><span class="s1">'field.delim'</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">','</span>
+<span class="p">)</span><span class="w"> </span><span class="k">LOCATION</span><span class="w"> </span><span class="s1">'s3://aws-tc-largeobjects/CUR-TF-200-ACDSCI-1/Lab2/January2017/'</span>
+<span class="w">  </span><span class="n">TBLPROPERTIES</span><span class="w"> </span><span class="p">(</span><span class="s1">'has_encrypted_data'</span><span class="o">=</span><span class="s1">'false'</span><span class="p">);</span>
+</code></pre></div>
+</li>
+<li>
+<p>Aparece el mensaje <em>Query successful</em>. Athena creó una nueva tabla llamada <code>jan</code>, que contiene los datos de taxis únicamente del mes de enero de 2017. La tabla aparece en la sección <strong>Tables</strong> de la izquierda.</p>
+</li>
+</ul>
+<p><strong>Análisis:</strong> En este paso creaste una tabla para almacenar datos solo de enero de 2017 usando Serde. Todas las carreras de este conjunto de datos tienen marcas de tiempo de recogida, y casi todas son únicas para cada registro (lo que significa que los registros tienen cardinalidad alta), pero también tienen <em>January</em> en la columna del mes, así que puedes usar la agrupación en buckets. Los datos de enero están almacenados en un archivo de Amazon S3 distinto del archivo con el conjunto de datos completo. En los siguientes pasos investigarás si agrupar estos registros en un archivo separado mejora el rendimiento frente a consultar los registros de enero dentro del conjunto de datos completo.</p>
+<p>9. <strong>Ejecuta la siguiente consulta sobre la tabla <code>yellow</code></strong>, que contiene los datos de todo el año. Los datos no están divididos en buckets mensuales.</p>
+<div class="highlight"><pre><span></span><code><span class="k">SELECT</span><span class="w"> </span><span class="k">count</span><span class="w"> </span><span class="p">(</span><span class="k">count</span><span class="p">)</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="ss">"Number of trips"</span><span class="w"> </span><span class="p">,</span>
+<span class="w">       </span><span class="k">sum</span><span class="w"> </span><span class="p">(</span><span class="n">total</span><span class="p">)</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="ss">"Total fares"</span><span class="w"> </span><span class="p">,</span>
+<span class="w">       </span><span class="n">pickup</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="ss">"Trip date"</span>
+<span class="k">FROM</span><span class="w"> </span><span class="n">yellow</span><span class="w"> </span><span class="k">WHERE</span><span class="w"> </span><span class="n">pickup</span>
+
+<span class="k">between</span><span class="w"> </span><span class="k">TIMESTAMP</span><span class="w"> </span><span class="s1">'2017-01-01 00:00:00'</span>
+<span class="w">   </span><span class="k">and</span><span class="w"> </span><span class="k">TIMESTAMP</span><span class="w"> </span><span class="s1">'2017-02-01 00:00:01'</span>
+<span class="k">GROUP</span><span class="w"> </span><span class="k">BY</span><span class="w"> </span><span class="n">pickup</span><span class="p">;</span>
+</code></pre></div>
+<p>Aparece el mensaje <em>Query successful</em>. Anota el tiempo de ejecución y la cantidad de datos escaneados por la consulta.</p>
+<p>Ahora vas a compararlo ejecutando una consulta sobre la tabla <code>jan</code>.</p>
+<p>10. <strong>Ejecuta la siguiente consulta sobre la tabla <code>jan</code>.</strong></p>
+<div class="highlight"><pre><span></span><code><span class="k">SELECT</span><span class="w"> </span><span class="k">count</span><span class="w"> </span><span class="p">(</span><span class="k">count</span><span class="p">)</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="ss">"Number of trips"</span><span class="w"> </span><span class="p">,</span>
+<span class="w">       </span><span class="k">sum</span><span class="w"> </span><span class="p">(</span><span class="n">total</span><span class="p">)</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="ss">"Total fares"</span><span class="w"> </span><span class="p">,</span>
+<span class="w">       </span><span class="n">pickup</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="ss">"Trip date"</span>
+<span class="k">FROM</span><span class="w"> </span><span class="n">jan</span>
+<span class="k">GROUP</span><span class="w"> </span><span class="k">BY</span><span class="w"> </span><span class="n">pickup</span><span class="p">;</span>
+</code></pre></div>
+<p>Anota el tiempo de ejecución y la cantidad de datos escaneados. Como puedes ver, se escanean muchos menos datos cuando la consulta se realiza sobre la tabla que contiene únicamente los datos de enero.</p>
+<p><strong>Análisis:</strong> Poner los datos en buckets separados funciona cuando tienes datos con un alto grado de cardinalidad. La cardinalidad se refiere al número de registros distintos en una base de datos. En este ejemplo, el campo <code>pickup</code> tiene un alto grado de cardinalidad porque cada carrera tiene una fecha y hora específicas.</p>
+<h3 id="resumen-de-la-tarea-2">Resumen de la Tarea 2</h3>
+<p>En esta tarea creaste una tabla para los datos de enero de 2017. Aprendiste a optimizar consultas mediante diversas estrategias, como dividir los datos en múltiples buckets y particionar los datos.</p>
+<p>Para lograrlo, primero ejecutaste una consulta sobre datos que no estaban divididos en buckets y la usaste como referencia. Después ejecutaste una consulta sobre los datos de enero de 2017, que estaban divididos en un bucket separado, y comparaste los resultados con la referencia.</p>
+<hr>
+<h2 id="tarea-3-optimizar-consultas-de-athena-mediante-particiones">✒️ Tarea 3: Optimizar consultas de Athena mediante particiones</h2>
+<p>Si te interesa consultar un campo con cardinalidad baja, es decir, un campo con pocos valores únicos, deberías particionar los datos en lugar de usar buckets distintos. En algunos casos, tus datos estarán particionados por otro proceso. Para encontrar el enfoque más eficiente, vas a intentar particionar los datos usando el campo <code>paytype</code> en una consulta específica de Athena.</p>
+<p>El campo <code>paytype</code> almacena el tipo de pago mediante los siguientes códigos:</p>
+<ul>
+<li>1 = Tarjeta de crédito</li>
+<li>2 = Efectivo</li>
+<li>3 = Sin cargo</li>
+<li>4 = Disputa</li>
+<li>5 = Desconocido</li>
+<li>6 = Viaje anulado</li>
+</ul>
+<p>Como el conjunto de valores posibles es limitado, <code>paytype</code> es una columna excelente para crear particiones. En esta tarea usarás la función <code>CREATE TABLE AS</code> para particionar los datos. También especificarás un formato de almacenamiento columnar.</p>
+<p>Puedes almacenar datos en Athena con los formatos Apache Parquet u Optimized Row Columnar (ORC). Los formatos de almacenamiento columnar comprimen los datos, lo que reducirá aún más los costes de tus consultas.</p>
+<p>En esta tarea experimentarás con el uso de particiones en tus consultas. Completarás los siguientes pasos:</p>
+<ul>
+<li>Crear una tabla basada en el formato Apache Parquet que use el campo <code>paytype</code> como partición.</li>
+<li>Comparar el tiempo que tarda una consulta sobre la base de datos <code>yellow</code> para los registros con <code>paytype</code> 1 (tarjeta de crédito) frente al tiempo que tarda consultar la tabla particionada creada con el formato Apache Parquet.</li>
+</ul>
+<h3 id="pasos_2">Pasos</h3>
+<p>11. Para empezar, crearás una partición ejecutando una consulta que seleccione los datos que quieres usar para la partición e indique un formato de almacenamiento.</p>
+<p>Para crear una nueva tabla llamada <code>taxidata.creditcard</code> particionada para <code>paytype = 1</code> (transacciones con tarjeta de crédito), ejecuta la siguiente consulta en una nueva pestaña de consulta:</p>
+<div class="highlight"><pre><span></span><code><span class="k">CREATE</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="n">taxidata</span><span class="p">.</span><span class="n">creditcard</span>
+<span class="k">WITH</span><span class="w"> </span><span class="p">(</span>
+<span class="w">  </span><span class="n">format</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'PARQUET'</span>
+<span class="w">  </span><span class="p">)</span><span class="k">AS</span>
+<span class="w">  </span><span class="k">SELECT</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="k">from</span><span class="w"> </span><span class="ss">"yellow"</span>
+<span class="w">  </span><span class="k">WHERE</span><span class="w"> </span><span class="n">paytype</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'1'</span><span class="p">;</span>
+</code></pre></div>
+<p>Los valores de tiempo de ejecución y datos escaneados son similares a los siguientes:</p>
+<ul>
+<li>Time in queue: 251 ms</li>
+<li>Run time: 28.572 sec</li>
+<li>Data scanned: 9.32 GB</li>
+</ul>
+<p>Ahora vas a comparar el rendimiento de ejecutar consultas sobre los datos no particionados de la tabla <code>yellow</code> y los datos particionados de la tabla <code>creditcard</code>.</p>
+<p>12. Para consultar los datos no particionados de la tabla <code>yellow</code>, ejecuta la siguiente consulta en una nueva pestaña:</p>
+<div class="highlight"><pre><span></span><code><span class="k">SELECT</span><span class="w"> </span><span class="k">sum</span><span class="w"> </span><span class="p">(</span><span class="n">total</span><span class="p">),</span><span class="w"> </span><span class="n">paytype</span><span class="w"> </span><span class="k">FROM</span><span class="w"> </span><span class="n">yellow</span>
+<span class="w">  </span><span class="k">WHERE</span><span class="w"> </span><span class="n">paytype</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'1'</span><span class="w"> </span><span class="k">GROUP</span><span class="w"> </span><span class="k">BY</span><span class="w"> </span><span class="n">paytype</span><span class="p">;</span>
+</code></pre></div>
+<p>Los valores de tiempo de ejecución y datos escaneados son similares a los siguientes:</p>
+<ul>
+<li>Time in queue: 215 ms</li>
+<li>Run time: 8.081 sec</li>
+<li>Data scanned: 9.32 GB</li>
+</ul>
+<p>13. Para consultar los datos particionados de la tabla <code>creditcard</code>, ejecuta la siguiente consulta en una nueva pestaña:</p>
+<div class="highlight"><pre><span></span><code><span class="k">SELECT</span><span class="w"> </span><span class="k">sum</span><span class="w"> </span><span class="p">(</span><span class="n">total</span><span class="p">),</span><span class="w"> </span><span class="n">paytype</span><span class="w"> </span><span class="k">FROM</span><span class="w"> </span><span class="n">creditcard</span>
+<span class="w">  </span><span class="k">WHERE</span><span class="w"> </span><span class="n">paytype</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'1'</span><span class="w"> </span><span class="k">GROUP</span><span class="w"> </span><span class="k">BY</span><span class="w"> </span><span class="n">paytype</span><span class="p">;</span>
+</code></pre></div>
+<p>Los valores de tiempo de ejecución y datos escaneados son similares a los siguientes:</p>
+<ul>
+<li>Time in queue: 204 ms</li>
+<li>Run time: 2.259 sec</li>
+<li>Data scanned: 73.22 MB</li>
+</ul>
+<p><strong>Análisis:</strong> Observa que los resultados de cada consulta son los mismos, pero la consulta sobre los datos particionados tardó bastante menos porque escaneó menos datos. Recuerda que se te cobra por la cantidad de datos escaneados en cada consulta. Así que, como la última consulta escanea menos datos gracias al uso de particiones, tu coste se reduce.</p>
+<h3 id="resumen-de-la-tarea-3">Resumen de la Tarea 3</h3>
+<p>En esta tarea particionaste el conjunto de datos donde el campo <code>paytype</code> contenía un valor específico. Después ejecutaste consultas sobre las versiones particionada y no particionada de los datos y comparaste los resultados.</p>
+<hr>
+<h2 id="tarea-4-usar-vistas-de-athena">✒️ Tarea 4: Usar vistas de Athena</h2>
+<p>Puede que hayas notado que Athena puede crear vistas. Crear y usar vistas con los datos ayuda a simplificar el análisis, porque puedes ocultar parte de la complejidad de las consultas a los usuarios.</p>
+<p>Athena solo admite ejecutar una sentencia SQL a la vez, pero puedes usar vistas para combinar datos de varias tablas. También puedes usar vistas para optimizar el rendimiento de las consultas, experimentando con distintas formas de recuperar los datos y guardando después la mejor consulta como una vista.</p>
+<p>En esta tarea harás lo siguiente:</p>
+<ul>
+<li>Crear una vista para calcular el valor total en dólares de las tarifas de taxi pagadas con tarjeta de crédito.</li>
+<li>Crear una vista para calcular el valor total en dólares de las tarifas pagadas en efectivo.</li>
+<li>Recuperar todos los registros de cada una de estas vistas.</li>
+<li>Crear una nueva vista que combine (join) los datos de estas dos vistas.</li>
+<li>Previsualizar los resultados del join.</li>
+</ul>
+<h3 id="pasos_3">Pasos</h3>
+<p>14. Para crear una vista con el valor total en dólares de las tarifas pagadas con tarjeta de crédito, ejecuta la siguiente consulta:</p>
+<div class="highlight"><pre><span></span><code><span class="k">CREATE</span><span class="w"> </span><span class="k">VIEW</span><span class="w"> </span><span class="n">cctrips</span><span class="w"> </span><span class="k">AS</span>
+<span class="w">  </span><span class="k">SELECT</span><span class="w"> </span><span class="ss">"sum"</span><span class="p">(</span><span class="ss">"fare"</span><span class="p">)</span><span class="w"> </span><span class="ss">"CreditCardFares"</span>
+<span class="w">  </span><span class="k">FROM</span><span class="w"> </span><span class="n">yellow</span>
+<span class="w">  </span><span class="k">WHERE</span><span class="w"> </span><span class="p">(</span><span class="ss">"paytype"</span><span class="o">=</span><span class="s1">'1'</span><span class="p">);</span>
+</code></pre></div>
+<p>Los valores de tiempo de ejecución y datos escaneados son similares a los siguientes:</p>
+<ul>
+<li>Time in queue: 55 ms</li>
+<li>Run time: 408 ms</li>
+<li>Data scanned: -</li>
+</ul>
+<p>15. Para crear una vista con el valor total en dólares de las tarifas pagadas en efectivo, ejecuta la siguiente consulta:</p>
+<div class="highlight"><pre><span></span><code><span class="k">CREATE</span><span class="w"> </span><span class="k">VIEW</span><span class="w"> </span><span class="n">cashtrips</span><span class="w"> </span><span class="k">AS</span>
+<span class="w">  </span><span class="k">SELECT</span><span class="w"> </span><span class="ss">"sum"</span><span class="p">(</span><span class="ss">"fare"</span><span class="p">)</span><span class="w"> </span><span class="ss">"CashFares"</span>
+<span class="w">  </span><span class="k">FROM</span><span class="w"> </span><span class="n">yellow</span>
+<span class="w">  </span><span class="k">WHERE</span><span class="w"> </span><span class="p">(</span><span class="ss">"paytype"</span><span class="o">=</span><span class="s1">'2'</span><span class="p">);</span>
+</code></pre></div>
+<p>Los valores de tiempo de ejecución y datos escaneados son similares a los siguientes:</p>
+<ul>
+<li>Time in queue: 68 ms</li>
+<li>Run time: 378 ms</li>
+<li>Data scanned: -</li>
+</ul>
+<p>Observa que la sección <strong>Views</strong> de la izquierda ahora muestra las dos vistas que creaste: <code>cctrips</code> y <code>cashtrips</code>.</p>
+<p>16. Para seleccionar todos los registros de la vista <code>cctrips</code>, ejecuta la siguiente consulta:</p>
+<div class="highlight"><pre><span></span><code><span class="k">Select</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="k">from</span><span class="w"> </span><span class="n">cctrips</span><span class="p">;</span>
+</code></pre></div>
+<p>Los valores de tiempo de ejecución y datos escaneados son similares a los siguientes:</p>
+<ul>
+<li>Time in queue: 158 ms</li>
+<li>Run time: 9.071 sec</li>
+<li>Data scanned: 9.32 GB</li>
+</ul>
+<p>17. Para seleccionar todos los registros de la vista <code>cashtrips</code>, ejecuta la siguiente consulta:</p>
+<div class="highlight"><pre><span></span><code><span class="k">Select</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="k">from</span><span class="w"> </span><span class="n">cashtrips</span><span class="p">;</span>
+</code></pre></div>
+<p>Los valores de tiempo de ejecución y datos escaneados son similares a los siguientes:</p>
+<ul>
+<li>Time in queue: 212 ms</li>
+<li>Run time: 5.157 sec</li>
+<li>Data scanned: 9.32 GB</li>
+</ul>
+<p>Ahora aprenderás a crear una vista que combine datos de dos vistas diferentes. Usarás esta nueva vista para averiguar los ingresos totales de los pagos con tarjeta de crédito en comparación con los pagos en efectivo para dos proveedores.</p>
+<p>18. Para crear una nueva vista que combine los datos, ejecuta la siguiente consulta:</p>
+<div class="highlight"><pre><span></span><code><span class="k">CREATE</span><span class="w"> </span><span class="k">VIEW</span><span class="w"> </span><span class="n">comparepay</span><span class="w"> </span><span class="k">AS</span>
+<span class="k">WITH</span>
+<span class="w">  </span><span class="n">cc</span><span class="w"> </span><span class="k">AS</span>
+<span class="w">    </span><span class="p">(</span><span class="k">SELECT</span><span class="w"> </span><span class="k">sum</span><span class="p">(</span><span class="n">fare</span><span class="p">)</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="n">cctotal</span><span class="p">,</span>
+<span class="w">        </span><span class="n">vendor</span>
+<span class="w">    </span><span class="k">FROM</span><span class="w"> </span><span class="n">yellow</span>
+<span class="w">    </span><span class="k">WHERE</span><span class="w"> </span><span class="n">paytype</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'1'</span>
+<span class="w">    </span><span class="k">GROUP</span><span class="w"> </span><span class="k">BY</span><span class="w"> </span><span class="n">paytype</span><span class="p">,</span><span class="w"> </span><span class="n">vendor</span><span class="p">),</span>
+<span class="w">    </span><span class="n">cs</span><span class="w"> </span><span class="k">AS</span>
+<span class="w">    </span><span class="p">(</span><span class="k">SELECT</span><span class="w"> </span><span class="k">sum</span><span class="p">(</span><span class="n">fare</span><span class="p">)</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="n">cashtotal</span><span class="p">,</span>
+<span class="w">            </span><span class="n">vendor</span><span class="p">,</span><span class="w"> </span><span class="n">paytype</span>
+<span class="w">    </span><span class="k">FROM</span><span class="w"> </span><span class="n">yellow</span>
+<span class="w">    </span><span class="k">WHERE</span><span class="w"> </span><span class="n">paytype</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'2'</span>
+<span class="w">    </span><span class="k">GROUP</span><span class="w"> </span><span class="k">BY</span><span class="w"> </span><span class="n">paytype</span><span class="p">,</span><span class="w"> </span><span class="n">vendor</span><span class="p">)</span>
+
+<span class="k">SELECT</span><span class="w"> </span><span class="n">cc</span><span class="p">.</span><span class="n">cctotal</span><span class="p">,</span><span class="w"> </span><span class="n">cs</span><span class="p">.</span><span class="n">cashtotal</span>
+<span class="k">FROM</span><span class="w"> </span><span class="n">cc</span>
+<span class="k">JOIN</span><span class="w"> </span><span class="n">cs</span>
+<span class="k">ON</span><span class="w"> </span><span class="n">cc</span><span class="p">.</span><span class="n">vendor</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">cs</span><span class="p">.</span><span class="n">vendor</span><span class="p">;</span>
+</code></pre></div>
+<p>Los valores de tiempo de ejecución y datos escaneados son similares a los siguientes:</p>
+<ul>
+<li>Time in queue: 54 ms</li>
+<li>Run time: 435 ms</li>
+<li>Data scanned: -</li>
+</ul>
+<p>19. <strong>Previsualiza los resultados del join.</strong></p>
+<ul>
+<li>En la sección <strong>Views</strong> de la izquierda, a la derecha de la vista <code>comparepay</code>, elige el icono de puntos suspensivos y luego elige <strong>Preview View</strong>.</li>
+<li>Si se te pregunta por abrir la consulta, elige <strong>Open query</strong>.</li>
+<li>
+<p>Los resultados se muestran y son similares a los siguientes:</p>
+<div class="highlight"><pre><span></span><code>#   cctotal     cashtotal
+1   584502884   250849783
+2   460097126   199181978
+</code></pre></div>
+</li>
+</ul>
+<h3 id="resumen-de-la-tarea-4">Resumen de la Tarea 4</h3>
+<p>En esta tarea aprendiste a crear vistas en Athena. Creaste dos vistas para calcular los ingresos totales de las tarifas de taxi pagadas con tarjeta de crédito y en efectivo. También aprendiste a usar una vista para combinar datos de otras dos vistas. Las habilidades que aprendiste en esta tarea te ayudarán a simplificar el análisis de datos con Athena.</p>
+<hr>
+<h2 id="tarea-5-crear-consultas-con-nombre-named-queries-en-athena-mediante-cloudformation">✒️ Tarea 5: Crear consultas con nombre (named queries) en Athena mediante CloudFormation</h2>
+<p>El equipo de ciencia de datos quiere compartir las consultas que creó con el conjunto de datos de taxis. Al equipo le gustaría compartirlas con otros departamentos, pero esos departamentos usan otras cuentas de AWS. Los demás departamentos tienen menos experiencia con AWS, así que el equipo de ciencia de datos quiere simplificar el proceso de uso de Athena para ellos.</p>
+<blockquote>
+<p><strong>Nota:</strong> En este laboratorio te centrarás en crear una plantilla de CloudFormation para crear una consulta con nombre en Athena. La plantilla no creará la base de datos de AWS Glue ni las tablas y datos que contiene.</p>
+</blockquote>
+<p>Quieres simplificar el proceso de despliegue de consultas. Tras investigar un poco, determinas que la mejor solución es crear una plantilla de CloudFormation para cada consulta. La plantilla se puede compartir con otros departamentos y desplegarse cuando sea necesario.</p>
+<p>Primero quieres experimentar construyendo una consulta de ejemplo y probándola con el usuario de IAM de Mary. Si lo consigues, compartirás la plantilla con otros departamentos.</p>
+<h3 id="pasos_4">Pasos</h3>
+<p>20. <strong>Revisa y ejecuta la consulta de ejemplo.</strong></p>
+<p>Mary te proporciona la siguiente consulta de ejemplo:</p>
+<div class="highlight"><pre><span></span><code><span class="k">SELECT</span><span class="w"> </span><span class="n">distance</span><span class="p">,</span><span class="w"> </span><span class="n">paytype</span><span class="p">,</span><span class="w"> </span><span class="n">fare</span><span class="p">,</span><span class="w"> </span><span class="n">tip</span><span class="p">,</span><span class="w"> </span><span class="n">tolls</span><span class="p">,</span><span class="w"> </span><span class="n">surcharge</span><span class="p">,</span><span class="w"> </span><span class="n">total</span><span class="w"> </span><span class="k">FROM</span><span class="w"> </span><span class="n">yellow</span><span class="w"> </span><span class="k">WHERE</span><span class="w"> </span><span class="n">total</span><span class="w"> </span><span class="o">&gt;=</span><span class="w"> </span><span class="mi">100</span><span class="p">.</span><span class="mi">0</span><span class="w"> </span><span class="k">ORDER</span><span class="w"> </span><span class="k">BY</span><span class="w"> </span><span class="n">total</span><span class="w"> </span><span class="k">DESC</span>
+</code></pre></div>
+<p>Esta consulta usa la tabla <code>yellow</code> de la base de datos <code>taxidata</code>. La consulta realiza las siguientes acciones:</p>
+<ul>
+<li>Selecciona todos los registros de la tabla <code>yellow</code> donde el cargo total es mayor o igual a 100,00 $.</li>
+<li>Muestra los registros en orden descendente según el campo <code>total</code> (de modo que la carrera más cara aparece primero en los resultados).</li>
+<li>Muestra los siguientes campos de los registros resultantes:<ul>
+<li><code>distance</code></li>
+<li><code>paytype</code></li>
+<li><code>fare</code></li>
+<li><code>tip</code></li>
+<li><code>tolls</code></li>
+<li><code>surcharge</code></li>
+<li><code>total</code></li>
+</ul>
+</li>
+</ul>
+<p>Ejecuta esta consulta de ejemplo en el editor de consultas de Athena.</p>
+<p>Los resultados son similares a los de la imagen: captura de pantalla de la consola con los resultados en orden descendente por <code>total</code>.</p>
+<p>La consulta funciona según lo previsto. Ahora céntrate en crear la plantilla de CloudFormation para la consulta, de modo que pueda reutilizarse y compartirse.</p>
+<p>21. <strong>Ve al IDE.</strong></p>
+<p>Para abrir el IDE, copia el valor de <strong>LabIDEURL</strong> del panel situado a la izquierda de estas instrucciones y pégalo en una nueva pestaña del navegador. Cuando se te solicite, introduce el valor de <strong>LabIDEPassword</strong> como contraseña.</p>
+<p>22. <strong>Crea una nueva plantilla de CloudFormation.</strong></p>
+<ul>
+<li>En el IDE, elige <strong>File &gt; New File</strong>.</li>
+<li>Guarda el archivo vacío como <code>athenaquery.cf.yml</code>, pero déjalo abierto.</li>
+<li>
+<p>Copia y pega el siguiente código en el archivo y guárdalo:</p>
+<div class="highlight"><pre><span></span><code><span class="nt">AWSTemplateFormatVersion</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">2010-09-09</span>
+<span class="nt">Resources</span><span class="p">:</span>
+<span class="w">  </span><span class="nt">AthenaNamedQuery</span><span class="p">:</span>
+<span class="w">    </span><span class="nt">Type</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">AWS::Athena::NamedQuery</span>
+<span class="w">    </span><span class="nt">Properties</span><span class="p">:</span>
+<span class="w">      </span><span class="nt">Database</span><span class="p">:</span><span class="w"> </span><span class="s">"taxidata"</span>
+<span class="w">      </span><span class="nt">Description</span><span class="p">:</span><span class="w"> </span><span class="s">"A</span><span class="nv"> </span><span class="s">query</span><span class="nv"> </span><span class="s">that</span><span class="nv"> </span><span class="s">selects</span><span class="nv"> </span><span class="s">all</span><span class="nv"> </span><span class="s">fares</span><span class="nv"> </span><span class="s">over</span><span class="nv"> </span><span class="s">$100.00</span><span class="nv"> </span><span class="s">(US)"</span>
+<span class="w">      </span><span class="nt">Name</span><span class="p">:</span><span class="w"> </span><span class="s">"FaresOver100DollarsUS"</span>
+<span class="w">      </span><span class="nt">QueryString</span><span class="p">:</span><span class="w"> </span><span class="p p-Indicator">&gt;</span>
+<span class="w">                    </span><span class="no">SELECT distance, paytype, fare, tip, tolls, surcharge, total</span>
+<span class="w">                    </span><span class="no">FROM yellow</span>
+<span class="w">                    </span><span class="no">WHERE total &gt;= 100.0</span>
+<span class="w">                    </span><span class="no">ORDER BY total DESC</span>
+<span class="nt">Outputs</span><span class="p">:</span>
+<span class="w">  </span><span class="nt">AthenaNamedQuery</span><span class="p">:</span>
+<span class="w">    </span><span class="nt">Value</span><span class="p">:</span><span class="w"> </span><span class="kt">!Ref</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">AthenaNamedQuery</span>
+</code></pre></div>
+</li>
+<li>
+<p>Examina el comando para ver qué se está creando. El comando crea una plantilla de CloudFormation llamada <code>athenaquery.cf.yml</code>. Esta plantilla creará una pila (stack) de CloudFormation que hace lo siguiente:</p>
+<ul>
+<li>Crea una consulta de Athena.</li>
+<li>Usa una base de datos preexistente en Athena llamada <code>taxidata</code>. (<strong>Nota:</strong> Para que otro usuario pueda usar esta plantilla, la base de datos <code>taxidata</code> debe existir ya en su cuenta de AWS.)</li>
+<li>Nombra la consulta <code>FaresOver100DollarsUS</code>.</li>
+<li>Usa la consulta de ejemplo que probaste anteriormente en esta tarea.</li>
+<li>Muestra los detalles de la consulta en la pestaña <strong>Outputs</strong> de la pila una vez que esta se haya creado.</li>
+</ul>
+</li>
+</ul>
+<p>23. <strong>Para validar la plantilla de CloudFormation</strong>, ejecuta el siguiente comando en la terminal del IDE:</p>
+<div class="highlight"><pre><span></span><code>aws<span class="w"> </span>cloudformation<span class="w"> </span>validate-template<span class="w"> </span>--template-body<span class="w"> </span>file://athenaquery.cf.yml
+</code></pre></div>
+<blockquote>
+<p><strong>Nota:</strong> Si recibes un error que dice <em>YAML not well-formed</em>, comprueba el valor del nombre de la consulta y también las tabulaciones y el espaciado de cada línea. Los documentos YAML requieren un espaciado exacto, y el analizador dará errores si el espaciado no coincide.</p>
+</blockquote>
+<p>Si la plantilla se valida, se muestra la siguiente salida:</p>
+<div class="highlight"><pre><span></span><code><span class="p">{</span>
+<span class="w">    </span><span class="nt">"Parameters"</span><span class="p">:</span><span class="w"> </span><span class="p">[]</span>
+<span class="p">}</span>
+</code></pre></div>
+<blockquote>
+<p><strong>Importante:</strong> No pases al siguiente paso hasta que la plantilla esté validada.</p>
+</blockquote>
+<p>Ahora usarás la plantilla para crear una pila de CloudFormation. Una pila implementa y gestiona el grupo de recursos descritos en una plantilla. Con una pila puedes gestionar el estado y las dependencias de esos recursos de forma conjunta. Piensa en una plantilla de CloudFormation como un plano. La pila es entonces la instancia real de la plantilla que se registra en AWS y que crea realmente los recursos.</p>
+<p>24. <strong>Para crear la pila</strong>, ejecuta el siguiente comando:</p>
+<div class="highlight"><pre><span></span><code>aws<span class="w"> </span>cloudformation<span class="w"> </span>create-stack<span class="w"> </span>--stack-name<span class="w"> </span>athenaquery<span class="w">  </span>--template-body<span class="w"> </span>file://athenaquery.cf.yml
+</code></pre></div>
+<p>Si la pila se valida, se muestra en la salida el nombre de recurso de Amazon (ARN) de CloudFormation, similar a lo siguiente:</p>
+<div class="highlight"><pre><span></span><code><span class="p">{</span>
+<span class="w">    </span><span class="nt">"StackId"</span><span class="p">:</span><span class="w"> </span><span class="s2">"arn:aws:cloudformation:us-east-1:338778555682:stack/athenaquery/2d8cec90-5c42-11ec-8fbf-12034b0079a5"</span>
+<span class="p">}</span>
+</code></pre></div>
+<p>El comando <code>create-stack</code> de CloudFormation crea la pila y la despliega. Si la validación pasa y nada provoca una reversión (rollback) en la creación de la pila, continúa con el siguiente paso.</p>
+<blockquote>
+<p><strong>Consejo:</strong> Para comprobar el progreso de la creación de la pila, ve a la consola de CloudFormation. En el panel de navegación, elige <strong>Stacks</strong> y busca el estado de la pila <code>athenaquery</code>.</p>
+</blockquote>
+<p>25. <strong>Confirma el recurso de consulta con nombre que creó la pila de CloudFormation.</strong></p>
+<ul>
+<li>
+<p>Para verificar que se creó la consulta con nombre, ejecuta el siguiente comando en la terminal del IDE:</p>
+<div class="highlight"><pre><span></span><code>aws<span class="w"> </span>athena<span class="w"> </span>list-named-queries
+</code></pre></div>
+<p>La salida es similar a la siguiente:</p>
+<div class="highlight"><pre><span></span><code><span class="p">{</span>
+<span class="w">    </span><span class="nt">"NamedQueryIds"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span>
+<span class="w">      </span><span class="s2">"644f6c10-bf57-48a2-a0ec-a3de179db511"</span>
+<span class="w">    </span><span class="p">]</span>
+<span class="p">}</span>
+</code></pre></div>
+<p>El ID de la consulta con nombre es un identificador único en AWS para la consulta que creaste mediante la pila de CloudFormation.</p>
+</li>
+<li>
+<p>Copia el ID de la consulta en un editor de texto.</p>
+</li>
+<li>
+<p>Para recuperar los detalles de la consulta con nombre, incluida la sentencia SQL asociada, ejecuta el siguiente comando. Sustituye <code>&lt;QUERY-ID&gt;</code> por el ID que guardaste en el editor de texto.</p>
+<div class="highlight"><pre><span></span><code>aws<span class="w"> </span>athena<span class="w"> </span>get-named-query<span class="w"> </span>--named-query-id<span class="w"> </span>&lt;QUERY-ID&gt;
+</code></pre></div>
+<p>La salida es similar a la siguiente:</p>
+<div class="highlight"><pre><span></span><code><span class="p">{</span>
+<span class="nt">"NamedQuery"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="nt">"Name"</span><span class="p">:</span><span class="w"> </span><span class="s2">"FaresOver100DollarsUS"</span><span class="p">,</span>
+<span class="w">    </span><span class="nt">"Description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"A query that selects all fares over $100.00 (US)"</span><span class="p">,</span>
+<span class="w">    </span><span class="nt">"Database"</span><span class="p">:</span><span class="w"> </span><span class="s2">"taxidata"</span><span class="p">,</span>
+<span class="w">    </span><span class="nt">"QueryString"</span><span class="p">:</span><span class="w"> </span><span class="s2">"SELECT distance, paytype, fare, tip, tolls, surcharge, total FROM yellow WHERE total &gt;= 100.0 ORDER BY total DESC"</span><span class="p">,</span>
+<span class="w">    </span><span class="nt">"NamedQueryId"</span><span class="p">:</span><span class="w"> </span><span class="s2">"644f6c10-bf57-48a2-a0ec-a3de179db511"</span><span class="p">,</span>
+<span class="w">    </span><span class="nt">"WorkGroup"</span><span class="p">:</span><span class="w"> </span><span class="s2">"primary"</span>
+<span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+</li>
+<li>
+<p>Para guardar el ID de la consulta con nombre como una variable de bash, ejecuta el siguiente comando. Sustituye <code>&lt;QUERY-ID&gt;</code> por el ID que copiaste antes. Esto facilitará usar el ID en comandos de pasos posteriores:</p>
+<div class="highlight"><pre><span></span><code><span class="nv">NQ</span><span class="o">=</span>&lt;QUERY-ID&gt;
+</code></pre></div>
+</li>
+<li>
+<p>Confirma que el ID de la consulta con nombre se guardó como la variable de bash <code>NQ</code>. Ejecuta el siguiente comando:</p>
+<div class="highlight"><pre><span></span><code><span class="nb">echo</span><span class="w"> </span><span class="nv">$NQ</span>
+</code></pre></div>
+<p>El resultado es similar al siguiente:</p>
+<div class="highlight"><pre><span></span><code>644f6c10-bf57-48a2-a0ec-a3de179db511
+</code></pre></div>
+</li>
+</ul>
+<h3 id="resumen-de-la-tarea-5">Resumen de la Tarea 5</h3>
+<p>En esta tarea aprendiste a integrar una consulta con nombre de Athena en una plantilla de CloudFormation. También aprendiste a validar y desplegar una plantilla para crear una consulta con nombre en una pila de CloudFormation.</p>
+<p>Muchas empresas usan varias cuentas de AWS para mantener entornos separados de desarrollo, pruebas y producción. Aislar estos entornos ayuda a garantizar que los equipos sigan las mejores prácticas. Crear consultas en una cuenta de desarrollo y luego probarlas en una cuenta controlada con datos de producción ayuda a asegurar que la consulta está diseñada como se pretendía y genera la información necesaria. Tras validar la consulta, puedes usar las mejores prácticas de DevOps con CloudFormation para llevarla rápidamente a producción, de modo que las partes interesadas del negocio puedan reutilizarla sin tener que construirla desde cero.</p>
+<hr>
+<h2 id="tarea-6-revisar-la-politica-de-iam-para-el-acceso-a-athena-y-aws-glue">✒️ Tarea 6: Revisar la política de IAM para el acceso a Athena y AWS Glue</h2>
+<p>Ahora que has creado la consulta con nombre de Athena mediante CloudFormation, revisa la política de IAM de la consulta para asegurarte de que otras personas puedan usarla en producción.</p>
+<blockquote>
+<p><strong>Nota:</strong> La política de IAM para la consulta se creó por ti; no tienes la posibilidad de crear políticas de IAM en el entorno del laboratorio.</p>
+</blockquote>
+<h3 id="pasos_5">Pasos</h3>
+<p>26. <strong>Revisa la política <code>Policy-For-Data-Scientists</code> en IAM.</strong></p>
+<ul>
+<li>En el cuadro de búsqueda a la derecha de <strong>Services</strong>, busca y elige <strong>IAM</strong> para abrir la consola de IAM.</li>
+<li>En el panel de navegación, elige <strong>Users</strong>.</li>
+<li>Observa que <code>mary</code> es uno de los usuarios de IAM que aparecen en la lista. Este usuario forma parte del grupo de IAM <code>DataScienceGroup</code>.</li>
+<li>Elige el enlace del nombre de usuario <code>mary</code>.</li>
+<li>En la pestaña <strong>Permissions</strong>, elige el enlace de la política <code>Policy-For-Data-Scientists</code>.</li>
+<li>Se abre la página de detalles de <code>Policy-For-Data-Scientists</code>. Revisa los permisos asociados a esta política. Observa que los permisos proporcionan acceso limitado únicamente a los servicios Athena, CloudFormation, AWS Glue y Amazon S3.</li>
+</ul>
+<h3 id="resumen-de-la-tarea-6">Resumen de la Tarea 6</h3>
+<p>En esta tarea revisaste la política de IAM del grupo <code>DataScienceGroup</code>.</p>
+<p>La política contiene permisos de acceso limitado a Amazon S3, AWS Glue y Athena. La política está asociada al grupo de IAM al que pertenece el usuario <code>mary</code>. La política le permite listar consultas con nombre. La política también incluye los siguientes permisos:</p>
+<ul>
+<li><strong>Para Amazon S3:</strong> acceder a buckets, listar el contenido de los buckets y leer y escribir objetos, pero no crear un bucket.</li>
+<li><strong>Para AWS Glue:</strong> crear bases de datos y tablas dentro de las bases de datos.</li>
+<li><strong>Para CloudShell:</strong> usar CloudShell, por ejemplo para emitir comandos de la AWS CLI.</li>
+<li><strong>Para CloudFormation:</strong> crear pilas y validar plantillas.</li>
+<li><strong>Para Athena:</strong> crear un catálogo de datos, crear y obtener consultas con nombre e iniciar consultas.</li>
+</ul>
+<p>La política podría usarse como política de ejemplo para usuarios que pretendan crear y usar consultas y vistas de Athena con un conjunto de datos cargándolo en una base de datos de AWS Glue. Como con todos los servicios de AWS, los usuarios de IAM deben tener aplicados los permisos adecuados para poder realizar acciones.</p>
+<hr>
+<h2 id="tarea-7-confirmar-que-mary-puede-acceder-y-usar-la-consulta-con-nombre">✒️ Tarea 7: Confirmar que Mary puede acceder y usar la consulta con nombre</h2>
+<p>Ahora que has revisado la política de IAM, la usarás para probar el acceso de otro usuario a la consulta con nombre y su capacidad de usarla en la AWS CLI.</p>
+<h3 id="pasos_6">Pasos</h3>
+<p>27. <strong>Recupera las credenciales del usuario de IAM <code>mary</code>.</strong></p>
+<ul>
+<li>En el cuadro de búsqueda junto a <strong>Services</strong>, busca y elige <strong>CloudFormation</strong>.</li>
+<li>En el panel de navegación, elige <strong>Stacks</strong>.</li>
+<li>Elige el enlace de la pila que creó el entorno del laboratorio. El nombre de la pila incluye una cadena aleatoria de letras y números, y debería ser la pila con la fecha de creación más antigua.</li>
+<li>
+<p>En la página de detalles de la pila, elige la pestaña <strong>Outputs</strong>.</p>
+<blockquote>
+<p><strong>Nota:</strong> Cuando creas una plantilla de CloudFormation, puedes elegir mostrar información sobre los recursos que creará la plantilla. La plantilla de CloudFormation que creó los recursos de tu entorno de laboratorio mostró la clave de acceso y la clave de acceso secreta del usuario <code>mary</code>.</p>
+</blockquote>
+</li>
+<li>
+<p>Copia el valor de <strong>MarysAccessKey</strong> al portapapeles.</p>
+</li>
+<li>Vuelve a la terminal del IDE.</li>
+<li>
+<p>Para crear una variable para la clave de acceso, ejecuta el siguiente comando. Sustituye <code>&lt;ACCESS-KEY&gt;</code> por el valor de tu portapapeles.</p>
+<div class="highlight"><pre><span></span><code><span class="nv">AK</span><span class="o">=</span>&lt;ACCESS-KEY&gt;
+</code></pre></div>
+</li>
+<li>
+<p>Vuelve a la consola de CloudFormation y copia el valor de <strong>MarysSecretAccessKey</strong> al portapapeles.</p>
+</li>
+<li>Vuelve a la terminal del IDE.</li>
+<li>
+<p>Para crear una variable para la clave de acceso secreta, ejecuta el siguiente comando. Sustituye <code>&lt;SECRET-ACCESS-KEY&gt;</code> por el valor de tu portapapeles.</p>
+<div class="highlight"><pre><span></span><code><span class="nv">SAK</span><span class="o">=</span>&lt;SECRET-ACCESS-KEY&gt;
+</code></pre></div>
+</li>
+</ul>
+<p>Para probar si el usuario <code>mary</code> puede ejecutar el comando <code>get-named-query</code>, puedes pasar las credenciales del usuario como variables de bash (<code>AK</code> y <code>SAK</code>) junto con el comando. También usarás una variable de bash (<code>NQ</code>) para incluir el ID de la consulta con nombre. La API intentará entonces ejecutar ese comando como el usuario especificado.</p>
+<p>28. <strong>Para probar si Mary puede usar la consulta con nombre</strong>, ejecuta el siguiente comando:</p>
+<div class="highlight"><pre><span></span><code><span class="nv">AWS_ACCESS_KEY_ID</span><span class="o">=</span><span class="nv">$AK</span><span class="w"> </span><span class="nv">AWS_SECRET_ACCESS_KEY</span><span class="o">=</span><span class="nv">$SAK</span><span class="w"> </span>aws<span class="w"> </span>athena<span class="w"> </span>get-named-query<span class="w"> </span>--named-query-id<span class="w"> </span><span class="nv">$NQ</span>
+</code></pre></div>
+<p>La salida es similar a la siguiente y se parece a la salida que se mostró cuando ejecutaste el comando anteriormente:</p>
+<div class="highlight"><pre><span></span><code><span class="p">{</span>
+<span class="w">    </span><span class="nt">"NamedQuery"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="nt">"Name"</span><span class="p">:</span><span class="w"> </span><span class="s2">"FaresOver100DollarsUS"</span><span class="p">,</span>
+<span class="w">        </span><span class="nt">"Description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"A query that selects all fares over $100.00 (US)"</span><span class="p">,</span>
+<span class="w">        </span><span class="nt">"Database"</span><span class="p">:</span><span class="w"> </span><span class="s2">"taxidata"</span><span class="p">,</span>
+<span class="w">        </span><span class="nt">"QueryString"</span><span class="p">:</span><span class="w"> </span><span class="s2">"SELECT distance, paytype, fare, tip, tolls, surcharge, total FROM yellow WHERE total &gt;= 100.0 ORDER BY total DESC"</span><span class="p">,</span>
+<span class="w">        </span><span class="nt">"NamedQueryId"</span><span class="p">:</span><span class="w"> </span><span class="s2">"644f6c10-bf57-48a2-a0ec-a3de179db511"</span><span class="p">,</span>
+<span class="w">        </span><span class="nt">"WorkGroup"</span><span class="p">:</span><span class="w"> </span><span class="s2">"primary"</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+<p>Este resultado confirma que Mary tiene acceso a la consulta con nombre que creaste y desplegaste mediante CloudFormation.</p>
+<h3 id="resumen-de-la-tarea-7">Resumen de la Tarea 7</h3>
+<p>¡Enhorabuena! Aprendiste a crear una consulta con nombre de Athena mediante CloudFormation y a desplegarla para los usuarios con una política de IAM segura. Como la consulta está en una plantilla de CloudFormation, puedes reutilizar la plantilla para crear y desplegar la consulta en cualquier cuenta de AWS y cambiar los parámetros según desees.</p>
+<hr>
+<h2 id="novedades-del-equipo">Novedades del equipo</h2>
+<p>El equipo está contento con lo que has aprendido y demostrado usando Athena, AWS Glue y CloudFormation.</p>
+<hr>
+<h2 id="enviar-tu-trabajo">Enviar tu trabajo</h2>
+<p>29. Para registrar tu progreso, elige <strong>Submit</strong> en la parte superior de estas instrucciones.
+30. Cuando se te pregunte, elige <strong>Yes</strong>.
+31. Después de un par de minutos aparece el panel de calificaciones y te muestra cuántos puntos has obtenido en cada tarea. Si los resultados no se muestran tras un par de minutos, elige <strong>Grades</strong> en la parte superior de estas instrucciones.</p>
+<blockquote>
+<p><strong>Importante:</strong> Algunas de las comprobaciones que realiza el proceso de envío en este laboratorio solo te darán crédito si han pasado al menos 5 minutos desde que completaste la acción. Si no recibes crédito la primera vez que envías, puede que tengas que esperar un par de minutos y enviar de nuevo para recibir crédito por esos elementos.</p>
+<p><strong>Consejo:</strong> Puedes enviar tu trabajo varias veces. Después de modificar tu trabajo, elige <strong>Submit</strong> de nuevo. Se registra tu último envío.</p>
+</blockquote>
+<p>32. Para ver comentarios detallados sobre tu trabajo, elige <strong>Submission Report</strong>.</p>
+<hr>
+<h2 id="laboratorio-completado">Laboratorio completado</h2>
+<p>¡Enhorabuena! Has completado el laboratorio.</p>
+<p>33. En la parte superior de esta página, elige <strong>End Lab</strong> y luego elige <strong>Yes</strong> para confirmar que quieres finalizar el laboratorio.
+34. Un panel de mensajes indica que el laboratorio se está terminando.
+35. Para cerrar el panel, elige <strong>Close</strong> en la esquina superior derecha.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copiado al portapapeles", "clipboard.copy": "Copiar al portapapeles", "search.result.more.one": "1 m\u00e1s en esta p\u00e1gina", "search.result.more.other": "# m\u00e1s en esta p\u00e1gina", "search.result.none": "No se encontraron documentos", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Teclee para comenzar b\u00fasqueda", "search.result.term.missing": "Falta", "select.version": "Seleccionar versi\u00f3n"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+        <script src="../../assets/javascripts/nav-toggle.js"></script>
+      
+    
+  
+<script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(()=>{ lightbox.reload(); });
+</script></body></html>

@@ -1,0 +1,2300 @@
+<!DOCTYPE html><html lang="es" class="no-js"><head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://ymorgil.github.io/formacion/AWSedu/03cursosaws/">
+      
+      
+        <link rel="prev" href="../01-listado/">
+      
+      
+        <link rel="next" href="../02-lab-ec2/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.7">
+    
+    
+      
+        <title>Cursos - Mis apuntes</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&amp;display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/css/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  <link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"><script src="../../assets/javascripts/glightbox.min.js"></script><style id="glightbox-style">
+            html.glightbox-open { overflow: initial; height: 100%; }
+            .gslide-title { margin-top: 0px; user-select: text; }
+            .gslide-desc { color: #666; user-select: text; }
+            .gslide-image img { background: white; }
+            .gscrollbar-fixer { padding-right: 15px; }
+            .gdesc-inner { font-size: 0.75rem; }
+            body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color); }
+            body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color); }
+            body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color); }
+        </style></head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="green" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#cursos-aws" class="md-skip">
+          Saltar a contenido
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabecera">
+    <a href="../.." title="Mis apuntes" class="md-header__button md-logo" aria-label="Mis apuntes" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"></path></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"></path></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Mis apuntes
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Cursos
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="green" data-md-color-accent="indigo" aria-label="Modo oscuro" type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Modo oscuro" for="__palette_1" hidden="">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"></path></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="pink" data-md-color-accent="green" aria-label="Modo claro" type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Modo claro" for="__palette_0" hidden="">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"></path></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navegación" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Mis apuntes" class="md-nav__button md-logo" aria-label="Mis apuntes" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"></path></svg>
+
+    </a>
+    Mis apuntes
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix="">
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inicio
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2">
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inglés
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Inglés
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/01-EOI/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    EOI
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/02-gramatica/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gramática
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/03-grammar/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gramática II
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/04-phrasal/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Phrasal Verbs
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/11-reading/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reading
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/12-listening/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Listening
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/13-writing/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    PCTE Writing
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/14-speaking/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Speaking
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/15-mediacion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chunks
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/21-tutorclaude/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tutor Claude
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/22-vocabulary/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Vocabulary
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/23-dudas/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Dudas
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/99-recursos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Recursos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked="">
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    AWS
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    AWS
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../01-listado/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Listado
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cursos
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cursos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+      
+        <li class="md-nav__item">
+  <a href="#01-educator-getting-started" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        01. Educator Getting Started
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#02-learner-lab" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        02. Learner Lab
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#03-cloud-foundations" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        03. Cloud Foundations
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#04-data-engineering" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        04 Data Engineering
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../02-lab-ec2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    lab
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../04engienering/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Engieneering
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../engineerdata-labmod4/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Engieneering-lab04
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4">
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Trade
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Trade
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../trade/00-introduccion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    00 Introducción
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../trade/01-tipos-de-activos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    01 Tipos de activos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../trade/02-ordenes-y-mercados/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    02 Órdenes y mercados
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../trade/03-riesgo-diversificacion-fiscalidad/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    03 Riesgo, diversificación y fiscalidad
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../trade/04-glosario-primeros-pasos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    04 Glosario y primeros pasos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5">
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Criptomonedas
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Criptomonedas
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../criptomonedas/00-introduccion-blockchain/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    00 Introducción y blockchain
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../criptomonedas/01-monederos-wallets/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    01 Monederos y wallets
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../criptomonedas/02-exchanges-seguridad-regulacion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    02 Exchanges, seguridad y regulación
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../criptomonedas/03-tipos-de-criptoactivos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    03 Tipos de criptoactivos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../criptomonedas/04-primeros-pasos-practicos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    04 Primeros pasos prácticos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6">
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    eXeLearning
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    eXeLearning
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../exelearning/00-introduccion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    00 Introducción
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7">
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    TikTok
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    TikTok
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../tiktok/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Apps y recursos (colección Inglés)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8">
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Webvilla
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Webvilla
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../webvilla/01webconf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Estandares
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../webvilla/tarjeta-noticia/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tarjeta de noticia
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../webvilla/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inicio
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../webvilla/claude-chrome-divi/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    MCP, Claude Code y Claude en Chrome
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9">
+        
+          
+          <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Prompts
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Prompts
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../prompt/pro-ingles/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inglés
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+      
+        <li class="md-nav__item">
+  <a href="#01-educator-getting-started" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        01. Educator Getting Started
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#02-learner-lab" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        02. Learner Lab
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#03-cloud-foundations" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        03. Cloud Foundations
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#04-data-engineering" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        04 Data Engineering
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="cursos-aws">Cursos AWS</h1>
+<h2 id="01-educator-getting-started">01. Educator Getting Started</h2>
+<p><strong class="awsbold">Módulo 1: Introducción</strong></p>
+<p><strong>AWS Academy</strong> ofrece a las instituciones de educación superior un plan de estudios de computación en la nube gratuito, a continuación, se muestra un listado de enlaces destacados:</p>
+<ul>
+<li>Guía del docente en español: AWS Academy Learner Lab - Educator Guide - Spanish (Spain)</li>
+<li>Forums en español para compartir recursos: Enseñando Cloud con AWS Academy (España) en este podemos encontrar una serie de documentos con videotutoriales y repositorios con ejercicios.</li>
+<li><a href="https://github.com/jose-emilio" target="blank">Un repositorio con los roadmap de las diferentes prácticas para los ciclos superiores y divididos por módulos</a></li>
+</ul>
+<p>AWS Academy ofrece laboratorios para el alumnado para ayudar a reforzar el aprendizaje de tus estudiantes. Estos laboratorios ofrecen un acceso práctico a más de 100 servicios de AWS para que los estudiantes trabajen en asignaciones más complejas, sin que se requiera ninguna información de tarjetas de crédito del alumnado. Para obtener acceso a los laboratorios para el alumnado, debes completar el curso de Introducción a <strong>AWS Academy para el educador</strong>.</p>
+<p><strong class="awsbold">Módulo 2: Introducción al plan de estudios de AWS Academy</strong></p>
+<p>Cada uno de los cursos de AWS Academy consta de una combinación de modalidades de aprendizaje. En primer lugar, los estudiantes aprenden cuestiones básicas sobre la nube, y luego pasan a un aprendizaje práctico. <strong>Componentes</strong> del plan de estudios de AWS:</p>
+<ul>
+<li><strong>Módulo de clases</strong>: se trata de clases en directo o grabadas para presentar conceptos técnicos a los estudiantes. </li>
+<li><strong>Laboratorios prácticos</strong>: se trata de ejercicios guiados de la consola de administración de AWS que ofrecen la oportunidad a los estudiantes de practicar sus habilidades en un entorno de pruebas.</li>
+<li><strong>Pruebas de conocimientos</strong>: son cuestionarios de opciones múltiples y respuestas múltiples para cada módulo con el fin de evaluar la comprensión lectora de los estudiantes. </li>
+<li><strong>Ejercicios del proyecto</strong>: incluyen proyectos basados en supuestos para desarrollar e implementar una solución utilizando servicios de AWS.</li>
+</ul>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../assets/img/aws/cur-01-001.png" data-desc-position="bottom"><img alt="Educator AWS" src="../../assets/img/aws/cur-01-001.png"></a></p>
+<p><strong>AWS Academy Learner Lab</strong></p>
+<p>AWS Academy ofrece laboratorios gratuitos para el alumnado proporciona un presupuesto de 100 USD para utilizar los servicios de AWS durante el tiempo que dure tu laboratorio. Dentro del laboratorio, los estudiantes disponen de acceso a un conjunto restringido de servicios de AWS para trabajar en sus proyectos, realizar los ejercicios de laboratorio designados por el educador o practicar.</p>
+<p><strong>AWS Certification</strong></p>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../assets/img/aws/cur-01-002.png" data-desc-position="bottom"><img alt="Educator AWS" src="../../assets/img/aws/cur-01-002.png"></a></p>
+<ul>
+<li>Las AWS Certifications tienen una validez de 3 años, así que asegúrate de renovar tus certificaciones antes de que expiren.</li>
+<li>Los educadores y estudiantes de AWS Academy pueden acceder a conjuntos de preguntas de práctica oficiales y gratuitos para los exámenes de AWS Certification directamente en el <a href="https://explore.skillbuilder.aws/learn" target="blank">sitio web</a></li>
+<li>También puedes encontrar materiales de preparación para el examen gratuitos <a href="https://aws.amazon.com/es/certification/certification-prep/?ch=tile&amp;tile=prepare" target="blank">aquí</a></li>
+</ul>
+<p><strong class="awsbold">Módulo 3: Introducción a las plataformas de AWS Academy</strong></p>
+<p><strong>Crear un entorno de clase</strong> 
+<a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../assets/img/aws/cur-01-003.png" data-desc-position="bottom"><img alt="Educator AWS" src="../../assets/img/aws/cur-01-003.png"></a></p>
+<p><strong>Añadir estudiantes a una clase</strong></p>
+<p>El estudiante recibe una invitación por correo desde notifications@instructure.com para que se una a la clase. Para completar la creación de la cuenta, el estudiante debe seleccionar Get Started (Comenzar) en el correo. Proporciona una lista separada por comas de las direcciones de correo de los estudiantes.
+<a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../assets/img/aws/cur-01-004.png" data-desc-position="bottom"><img alt="Educator AWS" src="../../assets/img/aws/cur-01-004.png"></a></p>
+<p><strong>Administración de una clase</strong></p>
+<ul>
+<li><strong>Cambiar la fecha</strong> de inicio o finalización de una clase o <strong>eliminarla</strong> se tiene que hacer mediante solicitud al <a href="https://support.aws.amazon.com/#/contacts/aws-academy" target="blank">servicio de atención al cliente</a></li>
+<li><strong>Curso para el educador</strong>: Los educadores se matriculan automáticamente como alumnos en una versión para el educador de cada uno de los cursos de AWS Academy. Puedes identificar estos cursos porque contienen la palabra <strong class="yerbold">«Educator»</strong> en el nombre del curso. Por ejemplo, AWS Academy Cloud Foundations - Educator. </li>
+<li><strong>Guía del instructor y archivos de presentación</strong>: El LMS de AWS Academy también es donde puedes descargar las presentaciones de PowerPoint y otros archivos asociados para el curso que estés impartiendo. Para localizar estos archivos, ve a la sección Files (Archivos) de un curso. Por motivos de propiedad intelectual, AWS Academy NO permite que se descarguen las guías para el alumno.</li>
+<li><strong>Administración de estudiantes jóvenes</strong>: Habría que buscar y mirar términos, esto para alumnado menor de edad por tema de la protección de datos.</li>
+</ul>
+<p><strong>Foros de AWS Academy</strong></p>
+<p>Espacio para la comunidad y un centro de conocimiento para los educadores. En los foros, puedes buscar respuestas, plantear nuevas preguntas y responder a las de otros educadores. También encontrarás la programación de eventos organizada por los gerentes de programas técnicos de AWS Academy y de los eventos de incorporación organizados por los gerentes de programas de AWS Academy. </p>
+<p><strong>Credly</strong></p>
+<p>Solución integral para emitir y administrar credenciales digitales. Credly colabora con organizaciones acreditadas que proporcionan credenciales digitales a personas de todo el mundo. Las insignias digitales de AWS Academy se proporcionan a través de la plataforma de Credly.</p>
+<p><strong class="awsbold">Módulo 4: Obtención del estado Listo para enseñar</strong></p>
+<p>AWS Academy ofrece dos niveles de cursos: Básico e Intermedio. Puedes comenzar a impartir en cualquiera de los niveles tras completar el curso de Introducción a AWS Academy para el educador.</p>
+<p>Puedes encontrar un esquema del curso detallado en cada curso en la pestaña Files (Archivos) en el LMS, o en la pestaña Resources (Recursos).</p>
+<p>Se hace un test para mostrar una guía del tipo de instructor que eres, aunque se pueden ver todas las guías. Hay una guía básica, dos avanzadas, dos expertas y otra basada en roles.</p>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../assets/img/aws/cur-01-005.png" data-desc-position="bottom"><img alt="Educator AWS" src="../../assets/img/aws/cur-01-005.png"></a></p>
+<p><strong class="awsbold">Módulo 5: Siguientes pasos</strong></p>
+<p>Directrices para el tema de marketing y del uso de los logos de AWS.</p>
+<p><strong>SOPORTE</strong></p>
+<ul>
+<li>Consulta los foros. Ponte en contacto con el servicio de atención al cliente de AWS Academy directamente en la página del servicio de atención al cliente de AWS Academy. <a href="https://support.aws.amazon.com/#/contacts/aws-academy" target="blank">Servicio de atención al cliente</a></li>
+<li>El servicio de atención al cliente de AWS Academy ofrece asistencia 24/7 por correo.</li>
+</ul>
+<div class="admonition success">
+<p class="admonition-title">Módulo 6: Pruebas de conocimientos</p>
+</div>
+<h2 id="02-learner-lab">02. Learner Lab</h2>
+<p><strong class="awsbold">Bienvenida e información general sobre el curso</strong></p>
+<p>En este apartado se encuentra un PDF no descargable con la guía para el alumnado: <strong>Guía del alumno del Laboratorio para el alumnado de AWS Academy</strong></p>
+<p><a class="md-button" href="../../assets/pdf/guia_aws_academy_learner_lab.pdf" style="display:table;margin:0 auto;">Descargar guía</a></p>
+<p><strong class="awsbold">Conformidad y seguridad del Laboratorio para el alumnado de AWS Academy</strong></p>
+<p>Un Laboratorio para el alumnado de AWS Academy proporciona un entorno de pruebas de larga duración para explorar los servicios de AWS. El entorno tiene las siguientes funciones:</p>
+<ul>
+<li>Puedes acceder a un conjunto restringido de servicios de AWS.</li>
+<li>Los datos y recursos que crees en la cuenta de AWS se conservarán hasta la fecha de finalización de la clase.</li>
+<li>Cada alumno tiene un límite presupuestario de 100 USD. Si superas el presupuesto, se desactivará tu cuenta de laboratorio y se perderán todos los progresos y recursos.</li>
+<li>Esta sesión tiene un temporizador predeterminado de 4 horas.</li>
+<li>Cerramos automáticamente las instancias EC2. Otros recursos, como las instancias RDS, siguen funcionando.</li>
+</ul>
+<p>El cliente es responsable de la seguridad en la nube. Las medidas de seguridad que debes tomar dependen de los servicios que utilices y de la complejidad de tu sistema.</p>
+<p><strong>Prácticas recomendadas para proteger tu red</strong></p>
+<ul>
+<li>Aplicar controles tanto para el tráfico entrante como para el saliente.</li>
+<li>Utilizar subredes en varias zonas de disponibilidad para separar las capas de tu aplicación.</li>
+<li>Configurar <strong>grupos de seguridad</strong> y <strong>ACL</strong> de red para permitir solo el tráfico entrante y saliente necesario.</li>
+<li>Inspeccionar y filtrar tu tráfico a nivel de aplicación.</li>
+<li>Automatizar la protección de las redes.</li>
+<li>Limitar la exposición permitiendo solo el acceso mínimo necesario.</li>
+</ul>
+<p><strong>Recursos adicionales</strong></p>
+<ul>
+<li><a href="https://docs.aws.amazon.com/" target="blank">Documentación oficial</a></li>
+<li><a href="https://aws.amazon.com/training/awsacademy" target="blank">Fundamentos de seguridad en la nube de AWS Academy</a></li>
+<li><a href="https://explore.skillbuilder.aws/learn/course/external/view/elearning/48/aws-security-fundamentals-second-edition" target="blank">Aspectos básicos de AWS (formato digital)</a></li>
+<li><a href="https://explore.skillbuilder.aws/learn/course/external/view/elearning/101/getting-started-with-aws-security-identity-and-compliance" target="blank">Introducción a la seguridad, identidad y conformidad de AWS (formato digital)</a></li>
+<li><a href="https://explore.skillbuilder.aws/learn/course/external/view/elearning/120/introduction-to-aws-identity-and-access-management-ia" target="blank">Introducción a AWS Identity and Access Management (IAM) (digital)</a></li>
+<li><a href="https://explore.skillbuilder.aws/learn/course/external/view/elearning/79/introduction-to-amazon-virtual-private-cloud-vpc" target="blank">Introducción a Amazon Virtual Private Cloud (VPC) (formato digital)</a></li>
+<li><a href="https://explore.skillbuilder.aws/learn/course/external/view/elearning/4892/securing-and-protecting-your-data-in-amazon-simple-storage-service-amazon-s3" target="blank">Asegurar y proteger tus datos en Amazon Simple Storage Service (Amazon S3) (formato digital)</a></li>
+<li><a href="https://aws.amazon.com/training/classroom/aws-security-governance-at-scale" target="blank">Gobernanza a escala de la seguridad de AWS (formación presencial)</a></li>
+<li><a href="https://explore.skillbuilder.aws/learn/course/external/view/elearning/11264/aws-security-best-practices-monitoring-and-alerting" target="blank">Prácticas recomendadas de seguridad de AWS: Monitorización y Alertas (formato digital)</a></li>
+</ul>
+<p><strong class="awsbold">Laboratorio para el alumnado de AWS Academy</strong></p>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../assets/img/aws/cur-02-001.png" data-desc-position="bottom"><img alt="Educator AWS" src="../../assets/img/aws/cur-02-001.png"></a></p>
+<p>Cuando el cronómetro alcance cero, todos los servicios que usted ha configurado serán terminados y la cuenta temporal será desactivada. Si necesita más tiempo haga clic en el botón Start Lab otra vez para resetear el cronómetro. Puede reiniciar el cronómetro tantas veces como usted quiera.</p>
+<p><strong class="awsbold">Recursos de los Laboratorios para el alumnado de AWS Academy</strong></p>
+<ol>
+<li><strong>Demo - Cómo acceder al Laboratorio para el alumnado</strong>
+Hay que iniciar el laboratorio y, una vez inicializado, pulsar en <strong>AWS</strong>, lo que nos lleva a la interfaz de la consola de AWS, donde crearemos nuestras instancias de máquinas. Hay que tener en cuenta, cuando finalicemos, parar el laboratorio, ya que tiene un tiempo límite de 4 horas, y controlar el consumo de gasto.</li>
+<li><strong>Demo - Consejos generales para solucionar problemas</strong>
+Documentación: <a href="https://docs.aws.amazon.com/es_es/" target="blank">https://docs.aws.amazon.com/es_es/</a></li>
+<li>
+<p><strong>Demo - Cómo lanzar servicios a través de la consola de AWS</strong>
+AWS (Amazon Web Services) es una plataforma de servicios en la nube que se lanzan desde la consola de AWS. Algunos de los principales servicios son:</p>
+<ul>
+<li><strong>Cloud computing</strong><ul>
+<li><strong>Elastic Compute Cloud (Amazon EC2)</strong>: proporciona capacidades de servidor virtual escalables y personalizables.</li>
+<li><strong>Elastic Container Service (Amazon ECS)</strong>: permite ejecutar y administrar contenedores Docker.</li>
+</ul>
+</li>
+<li><strong>Almacenamiento y bases de datos</strong><ul>
+<li><strong>Simple Storage Service (Amazon S3)</strong>: ofrece almacenamiento de objetos escalable y duradero.</li>
+<li><strong>Elastic Block Store (Amazon EBS)</strong>: proporciona almacenamiento persistente de bloques para instancias de EC2.</li>
+<li><strong>Relational Database Service (Amazon RDS)</strong>: permite configurar y gestionar bases de datos relacionales.</li>
+</ul>
+</li>
+<li><strong>Redes y entrega de contenido</strong><ul>
+<li><strong>Virtual Private Cloud (Amazon VPC)</strong>: permite crear redes virtuales aisladas en la nube.</li>
+</ul>
+</li>
+<li><strong>Análisis y Big Data</strong><ul>
+<li><strong>Amazon Redshift</strong>: almacén de datos empresariales para análisis de big data.</li>
+<li><strong>Amazon Athena</strong>: permite consultar datos en S3 utilizando SQL estándar.</li>
+<li><strong>Elastic MapReduce (Amazon EMR)</strong>: proporciona un marco para procesamiento y análisis de big data.</li>
+<li><strong>Amazon Kinesis</strong>: permite procesar y analizar datos de streaming en tiempo real.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>CodeWhisperer</strong> - Actividad de laboratorio para estudiantes
+En esta actividad, usarás CodeWhisperer en AWS Cloud9 para crear un pequeño programa en Python. Este programa pide al usuario que indique una dirección de correo electrónico y verifica que la dirección tenga un formato válido. Al crear el programa, debes usar CodeWhisperer para generar la mayor parte del código basándote en las indicaciones que proporciones.</p>
+<ul>
+<li><strong>AWS Cloud9</strong> es un entorno de desarrollo integrado (IDE).</li>
+<li><strong>Amazon CodeWhisperer</strong> es un generador de código de uso general basado en machine learning que ofrece recomendaciones de código en tiempo real.</li>
+</ul>
+</li>
+</ol>
+<h2 id="03-cloud-foundations">03. Cloud Foundations</h2>
+<p><strong class="awsbold">Introducción al curso</strong></p>
+<ul>
+<li>Objetivos e información general sobre el curso</li>
+<li>Vales de examen de AWS Certification</li>
+<li>Documentación de AWS</li>
+</ul>
+<p><strong class="awsbold">Módulo 1: Información general sobre los conceptos de la nube</strong></p>
+<ul>
+<li>Introducción a la computación en la nube</li>
+<li>Ventajas de la nube</li>
+<li>Introducción a AWS</li>
+<li>Traslado a AWS Cloud</li>
+<li>Actividad: Pregunta de examen de ejemplo</li>
+<li>Prueba de conocimientos</li>
+</ul>
+<p><strong class="awsbold">Módulo 2: Economía y facturación de la nube</strong></p>
+<ul>
+<li>Aspectos básicos de los precios</li>
+<li>Costo total de propiedad</li>
+<li>Actividad: Calculadora de costo mensual de AWS</li>
+<li>Caso práctico de Delaware North</li>
+<li>AWS Organizations</li>
+<li>Administración de facturación y costos de AWS</li>
+<li>Paneles de facturación</li>
+<li>Modelos de Technical Support</li>
+<li>Actividad: Support Plan Scavenger Hunt</li>
+<li>Actividad: Pregunta de examen de ejemplo</li>
+<li>Prueba de conocimientos</li>
+</ul>
+<p><strong class="awsbold">Módulo 3: Información general sobre la infraestructura global de AWS</strong></p>
+<ul>
+<li>Infraestructura global de AWS</li>
+<li>Demostración: Infraestructura global de AWS</li>
+<li>Servicios y categorías de servicios de AWS</li>
+<li>Actividad: Clickthrough de la consola de administración de AWS</li>
+<li>Actividad: Pregunta de examen de ejemplo</li>
+<li>Prueba de conocimientos</li>
+</ul>
+<p><strong class="awsbold">Módulo 4: Seguridad de la nube</strong></p>
+<ul>
+<li>Modelo de responsabilidad compartida de AWS</li>
+<li>Actividad: Modelo de responsabilidad compartida de AWS</li>
+<li>AWS IAM</li>
+<li>Demostración: Consola AWS IAM</li>
+<li>Protección de una nueva cuenta AWS</li>
+<li><strong>Laboratorio 1: Introducción a AWS IAM</strong></li>
+<li>Protección de cuentas</li>
+<li>Protección de datos</li>
+<li>Trabajar para garantía de la conformidad</li>
+<li>Actividad: Pregunta de examen de ejemplo</li>
+<li>Prueba de conocimientos</li>
+</ul>
+<p><strong class="awsbold">Módulo 5: Redes y entrega de contenido</strong></p>
+<ul>
+<li>Conceptos básicos de redes</li>
+<li>Amazon VPC</li>
+<li>VPC networking</li>
+<li>Actividad: Etiquetar este diagrama</li>
+<li>Demostración: Amazon VPC Console</li>
+<li>Seguridad de VPC</li>
+<li>Actividad: Diseñar una VPC</li>
+<li><strong>Laboratorio 2: Creación de una VPC y lanzamiento de un servidor web</strong></li>
+<li>Route 53</li>
+<li>CloudFront</li>
+<li>Actividad: Pregunta de examen de ejemplo</li>
+<li>Prueba de conocimientos</li>
+</ul>
+<p><strong class="awsbold">Módulo 6: Cómputo</strong></p>
+<ul>
+<li>Información general sobre los servicios de cómputo</li>
+<li>Amazon EC2 parte 1</li>
+<li>Amazon EC2 parte 2</li>
+<li>Amazon EC2 parte 3</li>
+<li>Demostración: Amazon EC2</li>
+<li><strong>Laboratorio 3: Introducción a Amazon EC2</strong></li>
+<li>Actividad: Amazon EC2 versus servicios administrados</li>
+<li>Demostración: Consola de partes de Amazon EC2</li>
+<li>Optimización de costos de Amazon EC2</li>
+<li>Servicios de contenedores</li>
+<li>Introducción a AWS Lambda</li>
+<li>Actividad: AWS Lambda</li>
+<li>Introducción a AWS Elastic Beanstalk</li>
+<li>Actividad: AWS Elastic Beanstalk</li>
+<li>Actividad: Pregunta de examen de ejemplo</li>
+<li>Prueba de conocimientos</li>
+</ul>
+<p><strong class="awsbold">Módulo 7: Almacenamiento</strong></p>
+<ul>
+<li>AWS / EBS</li>
+<li>Demostración: Amazon Elastic Block Store Console</li>
+<li><strong>Laboratorio 4: trabajo con EBS</strong></li>
+<li>AWS S3</li>
+<li>Demostración: AWS S3 Console</li>
+<li>AWS EFS</li>
+<li>Demostración: AWS EFS Console</li>
+<li>AWS S3 Glacier</li>
+<li>Demostración: AWS S3 Glacier Console</li>
+<li>Actividad: Estora Technology Selection</li>
+<li>Actividad: Pregunta de examen de ejemplo</li>
+<li>Prueba de conocimientos</li>
+</ul>
+<p><strong class="awsbold">Módulo 8: Bases de datos</strong></p>
+<ul>
+<li>Amazon RDS</li>
+<li>Demostración: Amazon RDS Console</li>
+<li><strong>Laboratorio 5: Crear un servidor de base de datos</strong></li>
+<li>Amazon DynamoDB</li>
+<li>Demostración: Amazon DynamoDB</li>
+<li>Amazon Redshift</li>
+<li>Amazon Aurora</li>
+<li>Actividad: Caso práctico de base de datos</li>
+<li>Actividad: Pregunta de examen de ejemplo</li>
+<li>Prueba de conocimientos</li>
+</ul>
+<p><strong class="awsbold">Módulo 9: Arquitectura en la nube</strong></p>
+<ul>
+<li>Pilares de diseño del marco de AWS Well-Architected</li>
+<li>Actividad: Pilares de diseño del marco de AWS Well-Architected</li>
+<li>Excelencia operativa</li>
+<li>Seguridad</li>
+<li>Fiabilidad</li>
+<li>Eficiencia del rendimiento</li>
+<li>Optimización de costos</li>
+<li>Fiabilidad y alta disponibilidad</li>
+<li>AWS Trusted Advisor</li>
+<li>Actividad: Interpretación recomendaciones de AWS Trusted Advisor</li>
+<li>Actividad: Pregunta de examen de ejemplo</li>
+<li>Prueba de conocimientos</li>
+</ul>
+<p><strong class="awsbold">Módulo 10: Escalado automático y supervisión</strong></p>
+<ul>
+<li>Elastic Load Balancing</li>
+<li>Actividad: Elastic Load Balancing</li>
+<li>Amazon CloudWatch</li>
+<li>Actividad: Amazon CloudWatch</li>
+<li>Amazon EC2 Auto Scaling</li>
+<li><strong>Laboratorio 6: Scale and Load Balance Your Architecture</strong></li>
+<li>Actividad: Pregunta de examen de ejemplo</li>
+<li>Prueba de conocimientos</li>
+</ul>
+<h2 id="04-data-engineering">04 Data Engineering</h2>
+<p><strong class="awsbold">Module 1: Welcome to AWS Academy Data Engineering</strong></p>
+<ul>
+<li>Course prerequisites and objectives</li>
+<li>Course overview</li>
+</ul>
+<p><strong class="awsbold">Module 2: Data-Driven Organizations</strong></p>
+<ul>
+<li>Data-driven decisions</li>
+<li>The data pipeline – infrastructure for data-driven decisions</li>
+<li>The role of the data engineer in data-driven organizations</li>
+<li>Modern data strategies</li>
+<li><strong>Lab: Accessing and Analyzing Data by Using Amazon S3</strong></li>
+<li>Knowledge check</li>
+</ul>
+<p><strong class="awsbold">Module 3: The Elements of Data</strong></p>
+<ul>
+<li>The five Vs of data – volume, velocity, variety, veracity, and value</li>
+<li>Volume and velocity</li>
+<li>Variety – data types</li>
+<li>Variety – data sources</li>
+<li>Veracity and value</li>
+<li>Activities to improve veracity and value</li>
+<li>Activity: Planning Your Pipeline</li>
+<li>Knowledge check</li>
+</ul>
+<p><strong class="awsbold">Module 4: Design Principles and Patterns for Data Pipelines</strong></p>
+<ul>
+<li>AWS Well-Architected Framework and Lenses</li>
+<li>Activity: Using the Well-Architected Framework</li>
+<li>The evolution of data architectures</li>
+<li>Modern data architecture on AWS</li>
+<li>Modern data architecture pipeline: Ingestion and storage</li>
+<li>Modern data architecture pipeline: Processing and consumption</li>
+<li>Streaming analytics pipeline</li>
+<li><strong>Lab: Querying Data by Using Athena</strong></li>
+<li>Knowledge check</li>
+</ul>
+<p><strong class="awsbold">Module 5: Securing and Scaling the Data Pipeline</strong></p>
+<ul>
+<li>Cloud security review</li>
+<li>Security of analytics workloads</li>
+<li>ML security</li>
+<li>Scaling: An overview</li>
+<li>Creating a scalable infrastructure</li>
+<li>Creating scalable components</li>
+<li>Knowledge check</li>
+</ul>
+<p><strong class="awsbold">Module 6: Ingesting and Preparing Data</strong></p>
+<ul>
+<li>ETL and ELT comparison</li>
+<li>Data wrangling introduction</li>
+<li>Data discovery</li>
+<li>Data structuring</li>
+<li>Data cleaning</li>
+<li>Data enriching</li>
+<li>Data validating</li>
+<li>Data publishing</li>
+<li>Knowledge check</li>
+</ul>
+<p><strong class="awsbold">Module 7: Ingesting by Batch or by Stream</strong></p>
+<ul>
+<li>Comparing batch and stream ingestion</li>
+<li>Batch ingestion processing</li>
+<li>Purpose-built ingestion tools</li>
+<li>AWS Glue for batch ingestion processing</li>
+<li>Scaling considerations for batch processing</li>
+<li><strong>Lab: Performing ETL on a Dataset by Using AWS Glue</strong></li>
+<li>Services for stream processing</li>
+<li>Scaling considerations for stream processing</li>
+<li>Ingesting IoT data by stream</li>
+<li>Knowledge check</li>
+</ul>
+<p><strong class="awsbold">Module 8: Storing and Organizing Data</strong></p>
+<ul>
+<li>Storage in the modern data architecture</li>
+<li>Data lake storage</li>
+<li>Data warehouse storage</li>
+<li>Purpose-built databases</li>
+<li>Storage in support of the pipeline</li>
+<li>Securing storage</li>
+<li><strong>Lab: Storing and Analyzing Data by Using Amazon Redshift</strong></li>
+<li>Knowledge check</li>
+</ul>
+<p><strong class="awsbold">Module 9: Processing Big Data</strong></p>
+<ul>
+<li>Big data processing concepts</li>
+<li>Apache Hadoop</li>
+<li>Apache Spark</li>
+<li>Amazon EMR</li>
+<li>Managing your Amazon EMR clusters</li>
+<li><strong>Lab: Processing Logs by Using Amazon EMR</strong></li>
+<li>Apache Hudi</li>
+<li><strong>Lab: Updating Dynamic Data in Place</strong></li>
+<li>Knowledge check</li>
+</ul>
+<p><strong class="awsbold">Module 10: Processing Data for ML</strong></p>
+<ul>
+<li>ML concepts</li>
+<li>The ML lifecycle</li>
+<li>Framing the ML problem to meet the business goal</li>
+<li>Collecting data</li>
+<li>Applying labels to training data with known targets</li>
+<li>Activity: Labeling with SageMaker Ground Truth</li>
+<li>Preprocessing data</li>
+<li>Feature engineering</li>
+<li>Developing a model</li>
+<li>Deploying a model</li>
+<li>ML infrastructure on AWS</li>
+<li>SageMaker</li>
+<li>Demo: Preparing Data and Training a Model with SageMaker</li>
+<li>Demo: Preparing Data and Training a Model with SageMaker Canvas</li>
+<li>Working with generative AI</li>
+<li>Demo: Creating a Linear Regression Model Using Amazon Q Developer</li>
+<li>AI/ML services on AWS</li>
+<li>Knowledge check</li>
+</ul>
+<p><strong class="awsbold">Module 11: Analyzing and Visualizing Data</strong></p>
+<ul>
+<li>Considering factors that influence tool selection</li>
+<li>Comparing AWS tools and services</li>
+<li>Selecting tools for a gaming analytics use case</li>
+<li><strong>Lab: Analyzing and Visualizing Streaming Data with Amazon Data Firehose, OpenSearch Service, and OpenSearch Dashboards</strong></li>
+<li>Knowledge check</li>
+</ul>
+<p><strong class="awsbold">Module 12: Automating the Pipeline</strong></p>
+<ul>
+<li>Automating infrastructure deployment</li>
+<li>CI/CD</li>
+<li>Automating with Step Functions</li>
+<li><strong>Lab: Building and Orchestrating ETL Pipelines by Using Athena and Step Functions</strong></li>
+<li>Knowledge check</li>
+</ul>
+<p><strong class="awsbold">Module 13: Bridging to Certification</strong></p>
+<ul>
+<li>AWS Certification overview</li>
+</ul>
+<div class="admonition success">
+<p class="admonition-title">Correcto</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copiado al portapapeles", "clipboard.copy": "Copiar al portapapeles", "search.result.more.one": "1 m\u00e1s en esta p\u00e1gina", "search.result.more.other": "# m\u00e1s en esta p\u00e1gina", "search.result.none": "No se encontraron documentos", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Teclee para comenzar b\u00fasqueda", "search.result.term.missing": "Falta", "select.version": "Seleccionar versi\u00f3n"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+        <script src="../../assets/javascripts/nav-toggle.js"></script>
+      
+    
+  
+<script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(()=>{ lightbox.reload(); });
+</script></body></html>

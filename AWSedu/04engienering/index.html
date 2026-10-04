@@ -1,0 +1,2724 @@
+<!DOCTYPE html><html lang="es" class="no-js"><head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://ymorgil.github.io/formacion/AWSedu/04engienering/">
+      
+      
+        <link rel="prev" href="../02-lab-ec2/">
+      
+      
+        <link rel="next" href="../engineerdata-labmod4/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.7">
+    
+    
+      
+        <title>Engieneering - Mis apuntes</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&amp;display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/css/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  <link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"><script src="../../assets/javascripts/glightbox.min.js"></script><style id="glightbox-style">
+            html.glightbox-open { overflow: initial; height: 100%; }
+            .gslide-title { margin-top: 0px; user-select: text; }
+            .gslide-desc { color: #666; user-select: text; }
+            .gslide-image img { background: white; }
+            .gscrollbar-fixer { padding-right: 15px; }
+            .gdesc-inner { font-size: 0.75rem; }
+            body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color); }
+            body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color); }
+            body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color); }
+        </style></head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="green" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#01-organizaciones-basadas-en-datos-data-driven-organizations" class="md-skip">
+          Saltar a contenido
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabecera">
+    <a href="../.." title="Mis apuntes" class="md-header__button md-logo" aria-label="Mis apuntes" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"></path></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"></path></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Mis apuntes
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Engieneering
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="green" data-md-color-accent="indigo" aria-label="Modo oscuro" type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Modo oscuro" for="__palette_1" hidden="">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"></path></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="pink" data-md-color-accent="green" aria-label="Modo claro" type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Modo claro" for="__palette_0" hidden="">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"></path></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navegación" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Mis apuntes" class="md-nav__button md-logo" aria-label="Mis apuntes" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"></path></svg>
+
+    </a>
+    Mis apuntes
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix="">
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inicio
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2">
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inglés
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Inglés
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/01-EOI/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    EOI
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/02-gramatica/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gramática
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/03-grammar/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gramática II
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/04-phrasal/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Phrasal Verbs
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/11-reading/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reading
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/12-listening/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Listening
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/13-writing/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    PCTE Writing
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/14-speaking/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Speaking
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/15-mediacion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chunks
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/21-tutorclaude/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tutor Claude
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/22-vocabulary/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Vocabulary
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/23-dudas/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Dudas
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ingles/99-recursos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Recursos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked="">
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    AWS
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    AWS
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../01-listado/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Listado
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../03cursosaws/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cursos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../02-lab-ec2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    lab
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Engieneering
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Engieneering
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+      
+        <li class="md-nav__item">
+  <a href="#01-organizaciones-basadas-en-datos-data-driven-organizations" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        01📌 Organizaciones basadas en datos (Data-Driven Organizations)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#objetivos-del-modulo" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Objetivos del módulo
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1-decisiones-basadas-en-datos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1. Decisiones basadas en datos
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="1. Decisiones basadas en datos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#analitica-de-datos-vs-iaml" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Analítica de datos vs. IA/ML
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tipos-de-insights-de-menor-a-mayor-valor-y-de-menor-a-mayor-dificultad" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tipos de insights (de menor a mayor valor, y de menor a mayor dificultad)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mas-datos-menos-barreras-mas-decisiones-basadas-en-datos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Más datos + menos barreras = más decisiones basadas en datos
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#el-valor-de-los-datos-decae-con-el-tiempo" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        El valor de los datos decae con el tiempo
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#trade-offs-de-las-decisiones-basadas-en-datos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Trade-offs de las decisiones basadas en datos
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#puntos-clave" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📌 Puntos clave
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-el-pipeline-de-datos-infraestructura-para-decisiones-basadas-en-datos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2. El pipeline de datos: infraestructura para decisiones basadas en datos
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="2. El pipeline de datos: infraestructura para decisiones basadas en datos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#disenar-la-infraestructura-hacia-atras-work-backwards" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Diseñar la infraestructura "hacia atrás" (work backwards)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#capas-de-la-infraestructura-del-pipeline" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Capas de la infraestructura del pipeline
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#acciones-sobre-los-datos-data-wrangling" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Acciones sobre los datos: data wrangling
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#procesamiento-iterativo" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Procesamiento iterativo
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#puntos-clave_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📌 Puntos clave
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-el-rol-del-ingeniero-de-datos-en-organizaciones-basadas-en-datos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3. El rol del ingeniero de datos en organizaciones basadas en datos
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="3. El rol del ingeniero de datos en organizaciones basadas en datos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#preguntas-tipicas-del-data-engineer-centrado-en-la-infraestructura" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Preguntas típicas del data engineer (centrado en la infraestructura)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#preguntas-tipicas-del-data-scientist-centrado-en-el-analisis" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Preguntas típicas del data scientist (centrado en el análisis)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#puntos-clave_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📌 Puntos clave
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-estrategias-modernas-de-datos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        4. Estrategias modernas de datos
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4. Estrategias modernas de datos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#modernizar-aumentar-la-agilidad-y-reducir-la-carga-operativa-no-diferenciada" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🔧 Modernizar — aumentar la agilidad y reducir la carga operativa no diferenciada
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#unificar-crear-una-unica-fuente-de-la-verdad" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🔗 Unificar — crear una única fuente de la verdad
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#innovar-usar-ia-y-ml-para-descubrir-insights-mas-rapido" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        💡 Innovar — usar IA y ML para descubrir insights más rápido
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#puntos-clave_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📌 Puntos clave
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-caso-practico-de-ejemplo" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        5. Caso práctico de ejemplo
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resumen-general-del-modulo" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Resumen general del módulo
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../engineerdata-labmod4/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Engieneering-lab04
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4">
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Trade
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Trade
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../trade/00-introduccion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    00 Introducción
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../trade/01-tipos-de-activos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    01 Tipos de activos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../trade/02-ordenes-y-mercados/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    02 Órdenes y mercados
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../trade/03-riesgo-diversificacion-fiscalidad/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    03 Riesgo, diversificación y fiscalidad
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../trade/04-glosario-primeros-pasos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    04 Glosario y primeros pasos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5">
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Criptomonedas
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Criptomonedas
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../criptomonedas/00-introduccion-blockchain/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    00 Introducción y blockchain
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../criptomonedas/01-monederos-wallets/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    01 Monederos y wallets
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../criptomonedas/02-exchanges-seguridad-regulacion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    02 Exchanges, seguridad y regulación
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../criptomonedas/03-tipos-de-criptoactivos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    03 Tipos de criptoactivos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../criptomonedas/04-primeros-pasos-practicos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    04 Primeros pasos prácticos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6">
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    eXeLearning
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    eXeLearning
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../exelearning/00-introduccion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    00 Introducción
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7">
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    TikTok
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    TikTok
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../tiktok/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Apps y recursos (colección Inglés)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8">
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Webvilla
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Webvilla
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../webvilla/01webconf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Estandares
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../webvilla/tarjeta-noticia/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tarjeta de noticia
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../webvilla/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inicio
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../webvilla/claude-chrome-divi/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    MCP, Claude Code y Claude en Chrome
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9">
+        
+          
+          <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Prompts
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Prompts
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../prompt/pro-ingles/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inglés
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+      
+        <li class="md-nav__item">
+  <a href="#01-organizaciones-basadas-en-datos-data-driven-organizations" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        01📌 Organizaciones basadas en datos (Data-Driven Organizations)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#objetivos-del-modulo" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Objetivos del módulo
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1-decisiones-basadas-en-datos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1. Decisiones basadas en datos
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="1. Decisiones basadas en datos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#analitica-de-datos-vs-iaml" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Analítica de datos vs. IA/ML
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tipos-de-insights-de-menor-a-mayor-valor-y-de-menor-a-mayor-dificultad" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tipos de insights (de menor a mayor valor, y de menor a mayor dificultad)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mas-datos-menos-barreras-mas-decisiones-basadas-en-datos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Más datos + menos barreras = más decisiones basadas en datos
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#el-valor-de-los-datos-decae-con-el-tiempo" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        El valor de los datos decae con el tiempo
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#trade-offs-de-las-decisiones-basadas-en-datos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Trade-offs de las decisiones basadas en datos
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#puntos-clave" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📌 Puntos clave
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-el-pipeline-de-datos-infraestructura-para-decisiones-basadas-en-datos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2. El pipeline de datos: infraestructura para decisiones basadas en datos
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="2. El pipeline de datos: infraestructura para decisiones basadas en datos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#disenar-la-infraestructura-hacia-atras-work-backwards" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Diseñar la infraestructura "hacia atrás" (work backwards)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#capas-de-la-infraestructura-del-pipeline" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Capas de la infraestructura del pipeline
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#acciones-sobre-los-datos-data-wrangling" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Acciones sobre los datos: data wrangling
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#procesamiento-iterativo" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Procesamiento iterativo
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#puntos-clave_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📌 Puntos clave
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-el-rol-del-ingeniero-de-datos-en-organizaciones-basadas-en-datos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3. El rol del ingeniero de datos en organizaciones basadas en datos
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="3. El rol del ingeniero de datos en organizaciones basadas en datos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#preguntas-tipicas-del-data-engineer-centrado-en-la-infraestructura" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Preguntas típicas del data engineer (centrado en la infraestructura)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#preguntas-tipicas-del-data-scientist-centrado-en-el-analisis" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Preguntas típicas del data scientist (centrado en el análisis)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#puntos-clave_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📌 Puntos clave
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-estrategias-modernas-de-datos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        4. Estrategias modernas de datos
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4. Estrategias modernas de datos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#modernizar-aumentar-la-agilidad-y-reducir-la-carga-operativa-no-diferenciada" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🔧 Modernizar — aumentar la agilidad y reducir la carga operativa no diferenciada
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#unificar-crear-una-unica-fuente-de-la-verdad" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🔗 Unificar — crear una única fuente de la verdad
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#innovar-usar-ia-y-ml-para-descubrir-insights-mas-rapido" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        💡 Innovar — usar IA y ML para descubrir insights más rápido
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#puntos-clave_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📌 Puntos clave
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-caso-practico-de-ejemplo" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        5. Caso práctico de ejemplo
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resumen-general-del-modulo" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Resumen general del módulo
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+  <h1>Engieneering</h1>
+
+<h2 id="01-organizaciones-basadas-en-datos-data-driven-organizations">01📌 Organizaciones basadas en datos (Data-Driven Organizations)</h2>
+<blockquote>
+<p><strong>Fuente:</strong> AWS Academy Data Engineering — Módulo 1: <em>Data-Driven Organizations</em>
+<strong>Resumen elaborado a partir de las diapositivas y notas del instructor/alumno.</strong></p>
+</blockquote>
+<h2 id="objetivos-del-modulo">Objetivos del módulo</h2>
+<p>Al finalizar este módulo se debería ser capaz de:</p>
+<ul>
+<li>Comparar y contrastar cómo se aplican la analítica de datos y la inteligencia artificial / machine learning (IA/ML) a la toma de decisiones basada en datos.</li>
+<li>Nombrar y describir cada capa de un <em>pipeline</em> de datos.</li>
+<li>Enumerar las acciones que se realizan sobre los datos a medida que atraviesan un pipeline.</li>
+<li>Describir las responsabilidades del <em>data engineer</em> y del <em>data scientist</em> en el procesamiento de datos a través de un pipeline.</li>
+<li>Definir tres estrategias modernas de datos que influyen en cómo se construye la infraestructura de datos.</li>
+</ul>
+<hr>
+<h2 id="1-decisiones-basadas-en-datos">1. Decisiones basadas en datos</h2>
+<p>Las organizaciones, igual que las personas en su vida diaria (elegir restaurante, comparar precios, etc.), han pasado de tomar decisiones de forma subjetiva a apoyarse en datos y ciencia de datos. Esto se debe a la explosión de datos procedentes de webs, apps móviles y dispositivos inteligentes (IoT), junto con un abaratamiento del cómputo y del almacenamiento en la nube.</p>
+<h3 id="analitica-de-datos-vs-iaml">Analítica de datos vs. IA/ML</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><strong>Analítica de datos</strong></th>
+<th><strong>IA/ML</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Qué es</strong></td>
+<td>Análisis sistemático de grandes volúmenes de datos (<em>big data</em>) para encontrar patrones y tendencias</td>
+<td>Modelos matemáticos que hacen predicciones a partir de datos, a una escala difícil o imposible para humanos</td>
+</tr>
+<tr>
+<td><strong>Cómo funciona</strong></td>
+<td>Usa lógica de programación (reglas <em>if/then</em>) para responder preguntas</td>
+<td>Aprende a partir de ejemplos en los datos para responder preguntas</td>
+</tr>
+<tr>
+<td><strong>Cuándo es adecuada</strong></td>
+<td>Datos estructurados con un número limitado de variables</td>
+<td>Datos no estructurados y variables complejas</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Ejemplo — identificar fotos de perros:</strong>
+- <em>Enfoque analítico</em>: definir reglas (features) que determinen si una imagen es un perro.
+- <em>Enfoque IA/ML</em>: mostrar al modelo muchas imágenes etiquetadas como "perro" para que aprenda a identificar nuevas imágenes no etiquetadas.
+<strong>Ejemplo de negocio — gestión de relaciones con clientes (CRM):</strong>
+- <em>Analítica</em>: segmentar clientes por ingresos totales para dar mejor atención a quienes más gastan.
+- <em>IA/ML</em>: analizar el <em>churn</em> (abandono de clientes) para descubrir factores que influyen en la retención.</p>
+<blockquote>
+<p>En la práctica, muchas organizaciones combinan ambos enfoques como parte de una estrategia unificada de decisión.</p>
+</blockquote>
+<h3 id="tipos-de-insights-de-menor-a-mayor-valor-y-de-menor-a-mayor-dificultad">Tipos de insights (de menor a mayor valor, y de menor a mayor dificultad)</h3>
+<ol>
+<li><strong>Descriptivo</strong> — ¿Qué pasó?</li>
+<li><strong>Diagnóstico</strong> — ¿Por qué pasó?</li>
+<li><strong>Predictivo</strong> — ¿Qué pasará?</li>
+<li><strong>Prescriptivo</strong> — ¿Cómo hacemos que algo pase o evitamos que pase?
+El volumen de datos, el cómputo/almacenamiento necesario y la complejidad de la ciencia de datos aumentan a medida que se avanza de descriptivo a prescriptivo.</li>
+</ol>
+<h3 id="mas-datos-menos-barreras-mas-decisiones-basadas-en-datos">Más datos + menos barreras = más decisiones basadas en datos</h3>
+<p>El aumento del volumen de datos disponibles, junto con la reducción de barreras técnicas (gracias a servicios cloud <em>pay-as-you-go</em> y arquitecturas cada vez más accesibles), amplía la oportunidad de tomar decisiones basadas en datos.</p>
+<p>⚠️ <strong>Pero más datos no siempre implica más valor.</strong> Acumular datos sin criterio conlleva:</p>
+<ul>
+<li>Mayor coste de almacenamiento</li>
+<li>Más datos no estructurados</li>
+<li>Mayores riesgos de seguridad</li>
+<li>Consultas más lentas</li>
+</ul>
+<h3 id="el-valor-de-los-datos-decae-con-el-tiempo">El valor de los datos decae con el tiempo</h3>
+<table>
+<thead>
+<tr>
+<th>Tiempo de análisis</th>
+<th>Valor</th>
+<th>Tipo de uso</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Casi en tiempo real</td>
+<td>Más valioso</td>
+<td>Preventivo / predictivo</td>
+</tr>
+<tr>
+<td>En segundos</td>
+<td>Alto</td>
+<td>Accionable</td>
+</tr>
+<tr>
+<td>En minutos/horas</td>
+<td>Medio</td>
+<td>Reactivo</td>
+</tr>
+<tr>
+<td>En días/meses</td>
+<td>Menos valioso</td>
+<td>Histórico</td>
+</tr>
+</tbody>
+</table>
+<h3 id="trade-offs-de-las-decisiones-basadas-en-datos">Trade-offs de las decisiones basadas en datos</h3>
+<table>
+<thead>
+<tr>
+<th>Factor</th>
+<th>Preguntas clave</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Coste</strong></td>
+<td>¿Cuánto invertir para ir más rápido o predecir con más precisión? ¿Qué mejora incremental justifica un coste adicional?</td>
+</tr>
+<tr>
+<td><strong>Velocidad</strong></td>
+<td>¿Con qué rapidez se necesita la respuesta? ¿Se puede sacrificar precisión por velocidad?</td>
+</tr>
+<tr>
+<td><strong>Precisión</strong></td>
+<td>¿Qué nivel de precisión requiere la predicción? ¿Compensa esperar una respuesta mejor frente a responder más rápido?</td>
+</tr>
+</tbody>
+</table>
+<h3 id="puntos-clave">📌 Puntos clave</h3>
+<ul>
+<li>Las organizaciones basadas en datos usan ciencia de datos para tomar decisiones informadas.</li>
+<li>La analítica de datos se basa en lógica de programación; es adecuada para datos estructurados con pocas variables.</li>
+<li>La IA/ML aprende de ejemplos; es adecuada para datos no estructurados y variables complejas.</li>
+<li>El aumento de datos disponibles junto con la caída de costes tecnológicos incrementa la oportunidad de tomar decisiones basadas en datos.</li>
+</ul>
+<hr>
+<h2 id="2-el-pipeline-de-datos-infraestructura-para-decisiones-basadas-en-datos">2. El pipeline de datos: infraestructura para decisiones basadas en datos</h2>
+<p>Un <strong>pipeline de datos</strong> es la infraestructura que convierte datos en insights para apoyar decisiones. En su forma más simple:</p>
+<div class="highlight"><pre><span></span><code>Recolectar datos → Almacenar y procesar datos → Construir algo útil con los datos
+</code></pre></div>
+<h3 id="disenar-la-infraestructura-hacia-atras-work-backwards">Diseñar la infraestructura "hacia atrás" (<em>work backwards</em>)</h3>
+<ol>
+<li><strong>¿Qué decisión se quiere tomar?</strong></li>
+<li><strong>¿Qué datos se necesitan para respaldarla?</strong></li>
+<li>Sopesar los trade-offs de <strong>coste, velocidad y precisión</strong>.
+No es necesario (ni recomendable) construir una única infraestructura que sirva para todos los casos de uso: la nube facilita levantar infraestructuras distintas para cada necesidad de negocio.</li>
+</ol>
+<h3 id="capas-de-la-infraestructura-del-pipeline">Capas de la infraestructura del pipeline</h3>
+<div class="highlight"><pre><span></span><code>Fuentes de datos → Ingesta → Almacenamiento ⇄ Procesamiento → Análisis y visualización → Predicciones y decisiones
+</code></pre></div>
+<table>
+<thead>
+<tr>
+<th>Capa</th>
+<th>Función</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Fuentes de datos</strong></td>
+<td>Origen de los datos (sistemas internos, sensores, apps, etc.)</td>
+</tr>
+<tr>
+<td><strong>Ingesta</strong></td>
+<td>Mecanismos para traer los datos al pipeline</td>
+</tr>
+<tr>
+<td><strong>Almacenamiento</strong></td>
+<td>Dónde y cómo se guardan los datos</td>
+</tr>
+<tr>
+<td><strong>Procesamiento</strong></td>
+<td>Transformación y preparación de los datos</td>
+</tr>
+<tr>
+<td><strong>Análisis y visualización</strong></td>
+<td>Herramientas para extraer insights</td>
+</tr>
+<tr>
+<td><strong>Predicciones y decisiones</strong></td>
+<td>Resultado final que apoya la toma de decisiones</td>
+</tr>
+</tbody>
+</table>
+<h3 id="acciones-sobre-los-datos-data-wrangling">Acciones sobre los datos: <em>data wrangling</em></h3>
+<p>A medida que los datos avanzan por el pipeline, se les aplican tareas de <strong>data wrangling</strong>:</p>
+<ul>
+<li><strong>Descubrir</strong> (discover) — entender qué contienen los datos y si encajan con el objetivo.</li>
+<li><strong>Limpiar</strong> (clean) — corregir inconsistencias, fusionar fuentes, resolver datos mal mantenidos.</li>
+<li><strong>Normalizar</strong> (normalize) — preparar los datos para que sean viables para el análisis.</li>
+<li><strong>Enriquecer</strong> (enrich) — añadir metadatos, calcular valores adicionales, rellenar huecos.
+Además, los datos casi siempre se <strong>transforman</strong> (por ejemplo, cambiar de formato o sustituir valores nulos). Un proceso clásico que combina estas tareas es <strong>ETL</strong> (<em>extract, transform, load</em>): extraer datos de una fuente, transformarlos y cargarlos en el destino donde se analizarán.</li>
+</ul>
+<h3 id="procesamiento-iterativo">Procesamiento iterativo</h3>
+<p>El proceso de extraer insights del pipeline es casi siempre <strong>iterativo</strong>:</p>
+<ol>
+<li>Se parte de una hipótesis y se experimenta.</li>
+<li>Si el resultado no es el esperado, se refina el modelo y se reprocesan los datos.</li>
+<li>Si se necesita más detalle, se incorporan fuentes de datos adicionales y se vuelve a procesar.
+La iteración puede darse dentro de un segmento del pipeline o a lo largo de todo el pipeline, y a menudo incluye varias vueltas de almacenamiento y procesamiento con distintos niveles de refinamiento.</li>
+</ol>
+<h3 id="puntos-clave_1">📌 Puntos clave</h3>
+<ul>
+<li>El pipeline de datos aporta la infraestructura para la toma de decisiones basada en datos.</li>
+<li>Al diseñar un pipeline, hay que partir del problema de negocio y trabajar hacia atrás hasta los datos.</li>
+<li>El pipeline incluye capas de ingesta, almacenamiento, procesamiento, y análisis/visualización.</li>
+<li>El <em>data wrangling</em> describe cómo se actúa sobre los datos en su recorrido: descubrimiento, limpieza, normalización, transformación y enriquecimiento.</li>
+<li>El procesamiento es iterativo: se evalúan y mejoran los resultados progresivamente.</li>
+</ul>
+<hr>
+<h2 id="3-el-rol-del-ingeniero-de-datos-en-organizaciones-basadas-en-datos">3. El rol del ingeniero de datos en organizaciones basadas en datos</h2>
+<p>Para construir el pipeline correcto hay que responder muchas preguntas sobre la naturaleza de los datos y la intención de su procesamiento. Estas preguntas se agrupan en dos perfiles:</p>
+<h3 id="preguntas-tipicas-del-data-engineer-centrado-en-la-infraestructura">Preguntas típicas del <em>data engineer</em> (centrado en la infraestructura)</h3>
+<ul>
+<li>¿Dispone la organización de los datos que cubren la necesidad? ¿Dónde están almacenados y en qué formato?</li>
+<li>¿Habrá que combinar datos de múltiples fuentes?</li>
+<li>¿Cuál es el tipo y la calidad de los datos? ¿Cuál será la fuente de la verdad?</li>
+<li>¿Cuáles son los requisitos de seguridad? ¿Quién necesita acceso y en qué estado?</li>
+<li>¿Qué mecanismos se necesitan para transferir los datos hasta el pipeline?</li>
+<li>¿Cuánto volumen de datos hay y con qué frecuencia se actualiza o procesa?</li>
+<li>¿Qué importancia tiene la velocidad cuando se solicitan los datos?</li>
+</ul>
+<h3 id="preguntas-tipicas-del-data-scientist-centrado-en-el-analisis">Preguntas típicas del <em>data scientist</em> (centrado en el análisis)</h3>
+<ul>
+<li>¿Qué pueden decirme los datos?</li>
+<li>¿Cómo evaluaré los resultados?</li>
+<li>¿Qué tipo de visualización necesito?</li>
+<li>¿Con qué formatos y herramientas están familiarizados los analistas?</li>
+<li>¿Necesito un framework de <em>big data</em>?</li>
+<li>¿Qué tipo de modelos de IA/ML encajan?</li>
+<li>¿Cuál es la forma más sencilla de implementar IA/ML?</li>
+</ul>
+<h3 id="puntos-clave_2">📌 Puntos clave</h3>
+<ul>
+<li>Los roles de <em>data scientist</em> y <em>data engineer</em> trabajan ambos con el pipeline; algunas tareas pueden solaparse.</li>
+<li>El <em>data engineering</em> se centra en la infraestructura por la que pasan los datos; el <em>data scientist</em> se centra en trabajar con esos datos.</li>
+<li>Para construir el pipeline adecuado hay que preguntarse por los resultados deseados y los datos disponibles, e iterar a medida que se aprende más.</li>
+</ul>
+<hr>
+<h2 id="4-estrategias-modernas-de-datos">4. Estrategias modernas de datos</h2>
+<p>AWS recomienda abordar la infraestructura de datos siguiendo tres estrategias complementarias: <strong>modernizar, unificar e innovar.</strong></p>
+<h3 id="modernizar-aumentar-la-agilidad-y-reducir-la-carga-operativa-no-diferenciada">🔧 Modernizar — aumentar la agilidad y reducir la carga operativa no diferenciada</h3>
+<ul>
+<li>Migrar de infraestructura <em>on-premises</em> a servicios en la nube.</li>
+<li>Migrar a herramientas y almacenes de datos específicos (<em>purpose-built</em>) en lugar de una base de datos única para todo.</li>
+<li>Construir pipelines débilmente acoplados (<em>loosely coupled</em>) para poder escalar/modificar cada componente de forma independiente.</li>
+</ul>
+<h3 id="unificar-crear-una-unica-fuente-de-la-verdad">🔗 Unificar — crear una única fuente de la verdad</h3>
+<ul>
+<li>Romper los silos de datos.</li>
+<li>Democratizar el acceso (los usuarios acceden directamente en lugar de depender de un equipo central como IT).</li>
+<li>Dotar a los usuarios de herramientas para visualizar sus propios insights.</li>
+<li>Usar un <em>data lake</em> y permitir consultas directas sobre los datos.</li>
+<li>Facilitar el gobierno y el movimiento de datos entre el <em>data lake</em> y los almacenes específicos.<blockquote>
+<p>Este cambio suele requerir modificaciones culturales importantes sobre quién es "propietario" de los datos y qué gobernanza se necesita.</p>
+</blockquote>
+</li>
+</ul>
+<h3 id="innovar-usar-ia-y-ml-para-descubrir-insights-mas-rapido">💡 Innovar — usar IA y ML para descubrir insights más rápido</h3>
+<ul>
+<li>Pasar de una toma de decisiones reactiva a una proactiva.</li>
+<li>Incorporar IA/ML en la toma de decisiones para aprovechar grandes volúmenes de datos no estructurados.</li>
+<li>Aprovechar servicios cloud con funcionalidades de IA/ML que democratizan quién puede usar ML (por ejemplo, interfaces visuales sin código o integración de ML mediante SQL).<blockquote>
+<p><em>"Ser una organización basada en datos significa tratar culturalmente los datos como un activo estratégico y luego construir las capacidades para ponerlo en uso, no solo para grandes decisiones sino también para la acción diaria en primera línea."</em>
+— Ishit Vachhrajani, AWS Enterprise Strategist</p>
+</blockquote>
+</li>
+</ul>
+<h3 id="puntos-clave_3">📌 Puntos clave</h3>
+<ul>
+<li>Las organizaciones que quieren ser data-driven deben modernizar, unificar e innovar su infraestructura de datos.</li>
+<li><strong>Modernizar</strong>: moverse a infraestructuras cloud y servicios específicos para reducir el esfuerzo administrativo/operativo.</li>
+<li><strong>Unificar</strong>: crear una única fuente de la verdad y hacer los datos accesibles en toda la organización.</li>
+<li><strong>Innovar</strong>: buscar nuevas formas de extraer valor de los datos aplicando IA y ML.</li>
+</ul>
+<hr>
+<h2 id="5-caso-practico-de-ejemplo">5. Caso práctico de ejemplo</h2>
+<p><strong>Situación:</strong> Un minorista tradicional con poca presencia online invierte en marketing e infraestructura IT para aumentar las ventas online, pero los resultados trimestrales quedan muy por debajo de lo esperado.</p>
+<p><strong>Pregunta:</strong> ¿Cuál sería el primer paso apropiado para abordar esto de forma basada en datos?</p>
+<p><strong>Opciones evaluadas:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Opción</th>
+<th>Acción propuesta</th>
+<th>¿Cuándo sería apropiada?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A</td>
+<td>Entrenar un modelo de ML sobre comentarios de clientes</td>
+<td>Si se sospecha que la causa es insatisfacción del cliente</td>
+</tr>
+<tr>
+<td>B</td>
+<td>Test A/B con una nueva interfaz de compra simplificada</td>
+<td>Si se sospecha que la dificultad está en el proceso de compra</td>
+</tr>
+<tr>
+<td><strong>C ✅</strong></td>
+<td><strong>Usar una herramienta de BI para analizar los datos de ventas de los dos últimos trimestres y generar una hipótesis</strong></td>
+<td>Es el paso correcto como <em>punto de partida</em>, antes de tener una hipótesis concreta</td>
+</tr>
+<tr>
+<td>D</td>
+<td>Segmentar clientes por ingresos y personalizar ofertas</td>
+<td>Si se sospecha que el problema está en cómo compran los distintos segmentos</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Conclusión:</strong> El primer paso correcto es partir del problema de negocio (ventas bajas), analizar los datos disponibles para formular una hipótesis, y a partir de ahí construir el pipeline adecuado para recopilar y procesar datos de forma iterativa (opción <strong>C</strong>). Las demás opciones son válidas, pero solo <em>después</em> de haber formulado una hipótesis concreta.</p>
+<hr>
+<h2 id="resumen-general-del-modulo">Resumen general del módulo</h2>
+<ul>
+<li>Las organizaciones basadas en datos usan <strong>analítica de datos</strong> e <strong>IA/ML</strong> para tomar decisiones informadas; ambas ayudan con predicciones, pero la IA/ML aprende de los datos en lugar de aplicar reglas programadas.</li>
+<li>Un <strong>pipeline de datos</strong> tiene cuatro capas principales: <strong>ingesta, almacenamiento, procesamiento, y análisis/visualización</strong>.</li>
+<li>Los datos se someten a <strong>data wrangling</strong> (descubrir, limpiar, normalizar, transformar, enriquecer) en su recorrido por el pipeline.</li>
+<li>El <strong>data engineer</strong> se centra en la infraestructura; el <strong>data scientist</strong> se centra en el análisis de los datos dentro de esa infraestructura.</li>
+<li>Construir una infraestructura de datos moderna implica <strong>modernizar, unificar e innovar</strong>.</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copiado al portapapeles", "clipboard.copy": "Copiar al portapapeles", "search.result.more.one": "1 m\u00e1s en esta p\u00e1gina", "search.result.more.other": "# m\u00e1s en esta p\u00e1gina", "search.result.none": "No se encontraron documentos", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Teclee para comenzar b\u00fasqueda", "search.result.term.missing": "Falta", "select.version": "Seleccionar versi\u00f3n"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+        <script src="../../assets/javascripts/nav-toggle.js"></script>
+      
+    
+  
+<script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(()=>{ lightbox.reload(); });
+</script></body></html>
