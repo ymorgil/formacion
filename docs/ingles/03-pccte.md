@@ -29,10 +29,10 @@
 
     | Parte | Frases |
     |-------|--------|
-    | **Greeting** | 1. *Hi Sandy,*<br>2. *Hello John,*<br>3. *Dear John,* |
-    | **Opening** | 1. *Thanks a lot for writing back — it's great to hear from you!*<br>2. *Hope you're doing well. How are things going?*<br>3. *I'm sorry to hear that…* (si te cuenta malas noticias) |
-    | **Main 1, 2, 3** | 1. *I'd prefer to relax at home because I'll probably be tired after the trip.*<br>2. *As for climbing, I'm afraid I can't because I hurt my knee last week.*<br>3. *How about visiting some art galleries? What do you think?* |
-    | **Closing** | 1. *Anyway, I have to go now, but please let me know what you think.*<br>2. *I'm looking forward to hearing from you.*<br>3. *Write back soon!* |
+    | **Greeting** | *Hi Sandy,* |
+    | **Opening** | 1. *It's so good to read your email!*<br>2. *I'm really (great / sorry) to read your news.*<br>3. *Hope you're doing well. How are things going?* |
+    | **Main 1, 2, 3** | 1. *I'd prefer to relax at home* ***because*** *I'll probably be tired after the trip.*<br>2. ***As for*** *climbing, I'm afraid I can't* ***because*** *I hurt my knee last week.*<br>3. ***How about*** *visiting some art galleries? What do you think?* |
+    | **Closing** | 1. *I really hope to hear from you soon.*<br>2. ***Anyway,*** *I have to go now,* ***but*** *please let me know what you think.*<br>3. *I'm looking forward to hearing from you.* |
     | **Farewell + name** | 1. *Take care,*<br>2. *Lots of love,*<br>3. *Best wishes, / See you soon,* |
 
 !!! tip consejos "💡 5 consejos"
