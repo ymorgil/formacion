@@ -1,4 +1,4 @@
-# MEDIACIÓN
+# 🤝 Mediación
 
 ## Claude reading
 

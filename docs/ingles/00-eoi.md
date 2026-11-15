@@ -110,7 +110,9 @@ El examen de certificación se organiza siempre en torno a **cinco actividades**
 
 > Los detalles exactos de cada convocatoria (duración en minutos, número de tareas) se confirman siempre en la **Guía para los aspirantes** del curso vigente, ya que pueden variar ligeramente de una convocatoria a otra.
 
-![Estrategia de lectura](../assets/img/eoi/eoi-01.png)
+![Nivel Intermedio B1](../assets/img/eoi/eoi-b1.png)
+
+![Nivel Intermedio B2](../assets/img/eoi/eoi-01.png)
 
 El examen se administra en **dos sesiones distintas**, pero cuenta como una sola prueba a efectos de calificación:
 

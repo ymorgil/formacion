@@ -98,3 +98,112 @@ Clase específica para AWS
   padding: 2px 6px;
   border-radius: 4px;
 }
+
+/*--------------------------------------------------------------------------------------------------------------------
+WRITING · Cajas en tonos suaves (Tipos, Estructura, Frases clave, Consejos)
+Uso:  !!! success estructura "Estructura"   ·   !!! quote frases "..."   ·   !!! tip consejos "..."   ·   !!! question tipos "..."
+--------------------------------------------------------------------------------------------------------------------*/
+.md-typeset .admonition.estructura { --yer-c:#2b7a70; --yer-bd:#a8dcd3; --yer-m:#4db6ac; --yer-t:#d9f2ee; --yer-bg:#f5fbfa; }
+.md-typeset .admonition.frases     { --yer-c:#8a6a12; --yer-bd:#eed99a; --yer-m:#e3b93f; --yer-t:#fbf0cc; --yer-bg:#fffcf3; }
+.md-typeset .admonition.consejos   { --yer-c:#a9493a; --yer-bd:#f3c1b5; --yer-m:#e8826a; --yer-t:#fde3dc; --yer-bg:#fff8f6; }
+.md-typeset .admonition.tipos      { --yer-c:#5e4a85; --yer-bd:#d3c6ea; --yer-m:#9b85c4; --yer-t:#ece4f7; --yer-bg:#faf8fd; }
+
+.md-typeset .admonition.estructura,
+.md-typeset .admonition.frases,
+.md-typeset .admonition.consejos,
+.md-typeset .admonition.tipos {
+  border: 1px solid var(--yer-bd);
+  border-left: 5px solid var(--yer-m);
+  border-radius: 10px;
+  background: var(--yer-bg);
+  box-shadow: 0 2px 8px rgba(0,0,0,.04);
+  margin: 1.4em 0;
+}
+.md-typeset .admonition.estructura > .admonition-title,
+.md-typeset .admonition.frases > .admonition-title,
+.md-typeset .admonition.consejos > .admonition-title,
+.md-typeset .admonition.tipos > .admonition-title {
+  background: var(--yer-t);
+  color: var(--yer-c);
+  font-weight: 700;
+  letter-spacing: .04em;
+  border-radius: 0 9px 0 0;
+}
+.md-typeset .admonition.estructura > .admonition-title::before,
+.md-typeset .admonition.frases > .admonition-title::before,
+.md-typeset .admonition.consejos > .admonition-title::before,
+.md-typeset .admonition.tipos > .admonition-title::before {
+  background-color: var(--yer-c);
+}
+/* Números de las listas con el color de la caja */
+.md-typeset .admonition.estructura ol > li::marker,
+.md-typeset .admonition.frases ol > li::marker,
+.md-typeset .admonition.consejos ol > li::marker,
+.md-typeset .admonition.tipos ol > li::marker {
+  color: var(--yer-c);
+  font-weight: 700;
+}
+.md-typeset .admonition.estructura strong,
+.md-typeset .admonition.consejos strong { color: var(--yer-c); }
+
+/* Tablas dentro de las cajas: ancho completo y cabecera suave */
+.md-typeset .admonition.estructura .md-typeset__table,
+.md-typeset .admonition.frases .md-typeset__table,
+.md-typeset .admonition.tipos .md-typeset__table { width: 100% !important; }
+.md-typeset .admonition.estructura table,
+.md-typeset .admonition.frases table,
+.md-typeset .admonition.tipos table { width: 100% !important; border-radius: 6px; overflow: hidden; background: #fff; }
+.md-typeset .admonition.estructura th,
+.md-typeset .admonition.frases th,
+.md-typeset .admonition.tipos th {
+  background: var(--yer-t);
+  color: var(--yer-c) !important;
+}
+.md-typeset .admonition.estructura td:first-child,
+.md-typeset .admonition.frases td:first-child { white-space: nowrap; }
+.md-typeset .admonition.tipos td { width: 50%; vertical-align: top; }
+
+/* Modo oscuro: fondos casi neutros */
+[data-md-color-scheme="slate"] .md-typeset .admonition.estructura,
+[data-md-color-scheme="slate"] .md-typeset .admonition.frases,
+[data-md-color-scheme="slate"] .md-typeset .admonition.consejos,
+[data-md-color-scheme="slate"] .md-typeset .admonition.tipos {
+  background: rgba(255,255,255,.03);
+  border-color: rgba(255,255,255,.12);
+  border-left-color: var(--yer-bd);
+}
+[data-md-color-scheme="slate"] .md-typeset .admonition.estructura > .admonition-title,
+[data-md-color-scheme="slate"] .md-typeset .admonition.frases > .admonition-title,
+[data-md-color-scheme="slate"] .md-typeset .admonition.consejos > .admonition-title,
+[data-md-color-scheme="slate"] .md-typeset .admonition.tipos > .admonition-title,
+[data-md-color-scheme="slate"] .md-typeset .admonition.estructura th,
+[data-md-color-scheme="slate"] .md-typeset .admonition.frases th,
+[data-md-color-scheme="slate"] .md-typeset .admonition.tipos th {
+  background: rgba(255,255,255,.06);
+  color: var(--yer-bd) !important;
+}
+[data-md-color-scheme="slate"] .md-typeset .admonition table { background: transparent; }
+[data-md-color-scheme="slate"] .md-typeset .admonition.estructura strong,
+[data-md-color-scheme="slate"] .md-typeset .admonition.consejos strong { color: var(--yer-bd); }
+
+/*--------------------------------------------------------------------------------------------------------------------
+Títulos H2 con estilo de banda. Uso: ## Título {.yer-h2}
+--------------------------------------------------------------------------------------------------------------------*/
+.md-typeset h2.yer-h2 {
+  color: #3f4a7a;
+  font-weight: 700 !important;
+  letter-spacing: .03em;
+  text-transform: uppercase;
+  border-bottom: none;
+  border-left: 5px solid #9fa8da;
+  border-radius: 0 12px 12px 0;
+  padding: .45em .9em;
+  margin-top: 2.2em;
+  background: linear-gradient(90deg, #f1f3fb 0%, #f3fafb 60%, transparent 100%);
+  box-shadow: none;
+}
+[data-md-color-scheme="slate"] .md-typeset h2.yer-h2 {
+  color: #c5cae9;
+  border-left-color: #7986cb;
+  background: linear-gradient(90deg, rgba(57,73,171,.35) 0%, rgba(0,151,167,.15) 60%, transparent 100%);
+}

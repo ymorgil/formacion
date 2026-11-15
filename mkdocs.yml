@@ -21,18 +21,18 @@ theme:
 nav:
    - Inicio: index.md
    - Inglés:
-        - EOI: ingles/01-EOI.md
-        - Gramática: ingles/02-gramatica.md
-        - Gramática II: ingles/03-grammar.md
-        - Phrasal Verbs: ingles/04-phrasal.md
-        - Reading: ingles/11-reading.md
-        - Listening: ingles/12-listening.md
-        - PCTE Writing: ingles/13-writing.md
-        - Speaking: ingles/14-speaking.md
-        - Chunks: ingles/15-mediacion.md
-        - Tutor Claude: ingles/21-tutorclaude.md
-        - Vocabulary: ingles/22-vocabulary.md
-        - Dudas: ingles/23-dudas.md
+        - EOI: ingles/00-eoi.md
+        - 1 CTE Reading: ingles/01-cte.md
+        - 2 CTO Listening: ingles/02-cto.md
+        - 3 PCCTE Writing: ingles/03-pccte.md
+        - 4 PCCTO Speaking: ingles/04-pccto.md
+        - 5 Mediación: ingles/05-mediacion.md
+        - Gramática: ingles/06-gramatica.md
+        - Gramática II: ingles/07-grammar.md
+        - Phrasal Verbs: ingles/08-phrasal.md
+        - Tutor Claude: ingles/09-tutorclaude.md
+        - Vocabulary: ingles/10-vocabulary.md
+        - Dudas: ingles/11-dudas.md
         - Recursos: ingles/99-recursos.md
    - AWS:
         - Listado: AWSedu/01-listado.md

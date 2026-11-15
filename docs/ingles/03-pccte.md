@@ -1,73 +1,107 @@
-# WRITING
+# ✍️ PCCTE - Writing
 
-!!! success "Estructura"
+!!! question tipos "Task 1 · Task 2"
 
-    | 1. Leer y subrayar | 2. Planificar | 3. Redactar | 4. Revisar |
-    |--------------------|---------------|-------------|------------|
-    | Subraya siempre: <br>1. **Tipo de texto** (email, blog, essay...)<br>2. **Destinatario/registro** (amigo = informal, revista/empresa = formal)<br>3. **Puntos obligatorios** (busca viñetas o negrita, normalmente 2)<br>4. **Número de palabras** | Antes de escribir, ordena mentalmente (o en un borrador rápido) qué pasó primero, segundo, tercero... [4 parráfos] <br>  **TASK 1:**<br>1. Anota los puntos obligatorios, con 1-2 frases clave.<br>2. Asigna una estructura gramatical objetivo a cada frase: <br>*present perfect · past perfect · conditional · passive voice · relative clause · comparativo doble · cleft sentence · inversión · wish*<br>3. Usa conectores de tiempo para guiar al lector ("no los de siempre").<br>**TASK 2:**<br>Lo mismo, pero por párrafo en vez de por frase: intro, cuerpo 1, cuerpo 2 y conclusión, con una estructura objetivo por párrafo. | Sigue el esquema y controla el tiempo restante para no quedarte sin terminar la conclusión. | 1. **Concordancia verbal:** el tiempo verbal debe ser coherente. Si hablas de unas vacaciones pasadas, no puede haber estructuras en presente.<br>2. **Ortografía:** con la prisa es fácil escribir mal una palabra, y eso puede cambiar el significado.<br>3. **Conectores:** ten claros los tipos que hay y comprueba que encajan donde los has colocado.<br>4. **Características:** se cumple el número de palabras, el tipo de texto, el registro y los puntos obligatorios. |
+    | 1️⃣ Task 1 | 2️⃣ Task 2 |
+    |-----------|-----------|
+    | 1. **blog post**<br>2. **email/carta** (formal o informal)<br>3. **reseña**<br><br>*Temas cotidianos: viajes, salud, trabajo, tecnología, hábitos.* | 1. **essay de opinión**<br>2. **informe**<br>3. **complaint letter**<br><br>*Temas sociales/abstractos: redes sociales, publicidad, medio ambiente, educación, trabajo remoto.* |
 
-    **Consejos generales**
+!!! success estructura "Estructura"
 
-    1. Task 1 · Mínimo de 8 frases despues contar palabras 
+    | Paso | Qué hacer |
+    |------|-----------|
+    | **1. Leer y subrayar** | Subraya siempre: <br>1. **Tipo de texto** (email, blog, essay...)<br>2. **Destinatario/registro** (amigo = informal, revista/empresa = formal)<br>3. **Puntos obligatorios** (busca viñetas o negrita, normalmente 2)<br>4. **Número de palabras** |
+    | **2. Planificar** | Antes de escribir, ordena mentalmente (o en un borrador rápido) qué pasó primero, segundo, tercero... [4 párrafos] <br>**TASK 1:**<br>1. Anota los puntos obligatorios, con 1-2 frases clave.<br>2. Asigna una estructura gramatical objetivo a cada frase: <br>*present perfect · past perfect · conditional · passive voice · relative clause · comparativo doble · cleft sentence · inversión · wish*<br>3. Usa conectores de tiempo para guiar al lector ("no los de siempre").<br>**TASK 2:**<br>Lo mismo, pero por párrafo en vez de por frase: intro, cuerpo 1, cuerpo 2 y conclusión, con una estructura objetivo por párrafo. |
+    | **3. Redactar** | Sigue el esquema y controla el tiempo restante para no quedarte sin terminar la conclusión.<br>🔢 **Regla de las 10 palabras:** redondeando, cada frase tiene unas **10 palabras**. Si te piden **100 palabras → 10 frases**. |
+    | **4. Revisar** | 1. **Concordancia verbal:** el tiempo verbal debe ser coherente. Si hablas de unas vacaciones pasadas, no puede haber estructuras en presente.<br>2. **Ortografía:** con la prisa es fácil escribir mal una palabra, y eso puede cambiar el significado.<br>3. **Conectores:** ten claros los tipos que hay y comprueba que encajan donde los has colocado.<br>4. **Características:** se cumple el número de palabras, el tipo de texto, el registro y los puntos obligatorios. |
 
-## Tipos
+## ✉️ Email {.yer-h2}
 
-!!! question "Task 1"
-      1. **blog post**
-      2. **email/carta** (formal o informal) 
-      3. **reseña**
-   
-      — normalmente sobre temas cotidianos: viajes, salud, trabajo, tecnología, hábitos.
+!!! success estructura "Estructura · email informal (~100 palabras)"
 
-!!! question "Task 2"
-      1. **essay de opinión**
-      2. **informe**
-      3. **complaint letter**
-      
-      — temas más sociales/abstractos: redes sociales, publicidad, medio ambiente, educación, trabajo remoto.
+    1. **Greeting** — saludo + coma, y línea nueva: *Hi Sandy,* / *Dear John,*
+    2. **Opening** (párrafo 1) — reacciona a su e-mail y pregunta cómo está.
+    3. **Main 1, 2, 3** — un párrafo por cada nota de la tarea; justifica cada respuesta con *because* / *so*.
+    4. **Closing** — empieza a despedirte y pide respuesta.
+    5. **Farewell + name** — despedida con coma y tu nombre en otra línea, sin punto: *Take care,* / *Luis*
 
-### Blog post
+!!! quote frases "💬 Frases clave para memorizar"
 
-!!! success ""
-    1. **Título**: Frase corta que resuma el post (ej: "An Unplanned Adventure in Scotland")
-    2. **Introducción ( párrafo 1)**: presenta el propósito — de qué va a hablar el post, en **(1-2 frases)**
-    3. **Desarrollo (2 o 3 párrafos)**: el contenido principal — en tu caso, qué pasó y qué aprendiste **(1-2 frases)**
-    4. **Conclusión**: no solo una conclusión — una **pregunta** o llamada a la acción para el lector, típico de blogs, para "enganchar": "Have you ever had a trip that didn't go as planned? Share your story in the comments!" **(1-2 frases)**
+    | Parte | Frases |
+    |-------|--------|
+    | **Greeting** | 1. *Hi Sandy,*<br>2. *Hello John,*<br>3. *Dear John,* |
+    | **Opening** | 1. *Thanks a lot for writing back — it's great to hear from you!*<br>2. *Hope you're doing well. How are things going?*<br>3. *I'm sorry to hear that…* (si te cuenta malas noticias) |
+    | **Main 1, 2, 3** | 1. *I'd prefer to relax at home because I'll probably be tired after the trip.*<br>2. *As for climbing, I'm afraid I can't because I hurt my knee last week.*<br>3. *How about visiting some art galleries? What do you think?* |
+    | **Closing** | 1. *Anyway, I have to go now, but please let me know what you think.*<br>2. *I'm looking forward to hearing from you.*<br>3. *Write back soon!* |
+    | **Farewell + name** | 1. *Take care,*<br>2. *Lots of love,*<br>3. *Best wishes, / See you soon,* |
 
-### Essay de opinión
+!!! tip consejos "💡 5 consejos"
 
-!!! success ""
+    1. **Usa TODAS las notas:** subráyalas y táchalas al usarlas. Cada nota = un párrafo con su motivo (*because* / *so*).
+    2. **Registro informal:** contracciones (*I'm, can't, I'll*), frases cortas, preguntas directas y alguna exclamación. Evita *Dear Sir/Madam*, *Yours faithfully*, *Nevertheless* y abreviaturas tipo *LOL, b/c*.
+    3. **Fórmulas para opinar, rechazar y proponer:** *I'd like to / I'd prefer to* + infinitivo · *I'm afraid I can't…* · *How about* + -ing? / *We could…* / *Shall we…?*
+    4. **Tiempos verbales:** present perfect para novedades (*I've just finished…*), past simple con *last week*, y *will / going to* para planes (*I'm going to arrive on Friday*).
+    5. **Forma:** coma tras el saludo, la despedida y el conector al empezar frase (*However, … / As for climbing, …*). Párrafos separados por una línea en blanco, que parezca un e-mail real.
+
+??? note "Variante formal: email de queja a una empresa"
+    1. **Saludo**: *Dear Sir or Madam* → despedida *Yours faithfully*. Nada de contracciones (*don't → do not*) ni *Good morning/Hi*.
+    2. **Introducción (párrafo 1)**: qué pasó y por qué escribes **(1-2 frases)**: *"I am writing to complain about...", "I am writing regarding an order I placed on..."*.
+    3. **Desarrollo (párrafos 2 y 3)**: (**2**) el problema en detalle → (**3**) qué esperas que hagan (usa condicional: *if you don't..., I will...*). Frases de queja: *"I am extremely disappointed", "This is not what I expected", "I would like a replacement/refund"*.
+    4. **Conclusión (párrafo 4)**: cierre estándar (*I look forward to your reply/refund/response*) **(1-2 frases)**.
+
+## 📝 Blog post {.yer-h2}
+
+!!! success estructura "Estructura · blog entry (~100–125 palabras)"
+
+    1. **Cabecera** — usuario · fecha/hora · **título** llamativo: una pregunta o una idea corta que resuma el post (ej: *"An Unplanned Adventure in Scotland"*).
+    2. **Introducción** (párrafo 1) — engancha al lector y di por qué escribes **(1-2 frases)**.
+    3. **Desarrollo** (2 párrafos) — tu experiencia, opinión y ejemplos: qué pasó y qué aprendiste.
+    4. **Final** — resume y termina con una **pregunta** o llamada a la acción para que el lector comente: *"Have you ever had a trip that didn't go as planned? Share your story in the comments!"*
+
+!!! quote frases "💬 Frases clave para memorizar"
+
+    | Parte | Frases |
+    |-------|--------|
+    | **Cabecera** | 1. *Posted by LanguageLover on 10 November 2026, 18:30*<br>2. *Is online learning better than face-to-face classes?*<br>3. *You won't believe what happened…* |
+    | **Introducción** | 1. *Have you ever studied a language online?*<br>2. *The reason I'm writing this is that…*<br>3. *I'd like to share my experience with you.* |
+    | **Desarrollo** | 1. *Firstly / To start with, …*<br>2. *For example, … In addition, … That's why…*<br>3. *To my mind / I'm convinced that…* |
+    | **Final** | 1. *All in all, I think it's the best option for…*<br>2. *What do you think? Share your thoughts in the comments!*<br>3. *Let me know what you think!* |
+
+!!! tip consejos "💡 5 consejos"
+
+    1. **Tono cercano:** primera persona, contracciones (*I'm, don't*), háblale al lector (*you*) y alguna exclamación, sin pasarte.
+    2. **Pregunta al lector solo dos veces:** una al principio para enganchar y otra al final para que comente. Sin título y sin cierre con pregunta pierdes puntos en *adecuación a la tarea*.
+    3. **Varía la opinión:** no repitas *I think*; usa *To my mind, I'm convinced that, As far as I'm concerned*.
+    4. **Gramática de la unidad:** comparativos (*more flexible than*), superlativos (*the best option*), *-ed/-ing* (*I felt bored / it was boring*). Si narras, mantén el pasado (*have → had, feel → felt*).
+    5. **Conecta y separa:** al menos 3 conectores distintos (*However, In addition, For example, That's why, So*) y párrafos separados: intro · 1–2 de desarrollo · final.
+
+## 💭 Essay de opinión {.yer-h2}
+
+!!! success estructura "Estructura · opinion essay"
+
     1. **Título** — corto, directo, relacionado con el tema (no una frase completa).
-    2. **Introducción** (1 párrafo corto)
-          - Presenta el tema de forma general (sin dar tu opinión todavía del todo)
-          - Puedes usar: **Nowadays.../ In recent years.../ It is often said that...**
-          - Cierra con la idea que vas a desarrollar
-    3. **Desarrollo** (1-2 párrafos)
-          - Un párrafo por bloque de ideas: ventajas / desventajas, o argumento a favor / en contra
-          - Conectores de organización: **Firstly, Secondly, Moreover, On the other hand, However**
-          - Cada idea con un ejemplo o justificación breve
-    4. **Conclusión** (1 párrafo corto)
-          - Retoma tu opinión personal de forma clara: **In conclusion, In my opinion, Overall...**
-          - Puedes cerrar con una reflexión final o recomendación
-      
-      **Registro**
+    2. **Introducción** (1 párrafo corto) — presenta el tema de forma general, sin dar todavía tu opinión del todo, y cierra con la idea que vas a desarrollar.
+    3. **Desarrollo** (1-2 párrafos) — un párrafo por bloque de ideas: ventajas / desventajas, o argumento a favor / en contra. Cada idea con un ejemplo o justificación breve.
+    4. **Conclusión** (1 párrafo corto) — retoma tu opinión personal de forma clara y cierra con una reflexión final o recomendación.
 
-      - Revista de opinión = semi-formal: evita contracciones excesivas (don't→ok usar, pero no jerga), primera persona permitida (es tu opinión), pero evita coloquialismos.
+!!! quote frases "💬 Frases clave para memorizar"
 
-### Email
-!!! success ""
-    1. **Saludo**: Dear Sir or Madam / Yours faithfully. Nada de contracciones (don't→do not) ni "Good morning/Hi".
-    2. **Introducción ( párrafo 1)**: qué pasó y por qué escribes, en **(1-2 frases)**
-    3. **Desarrollo (párrafo 2 y 3)**: (**2**) el problema en detalle → (**3**) qué esperas que hagan (usa condicional: if you don't..., I will...)
-    4. **Conclusión (párrafo 4)**: (4) cierre estándar (I look forward to your reply/refund/response). **(1-2 frases)**
-      
-      **Consejos**
+    | Parte | Frases |
+    |-------|--------|
+    | **Título** | 1. *Online Work or Personal Life?*<br>2. *Social Media: Friend or Enemy?*<br>3. *The Pros and Cons of Remote Work* |
+    | **Introducción** | 1. *Nowadays, more and more people…*<br>2. *In recent years, … has become a hot topic.*<br>3. *It is often said that…, but is it really true?* |
+    | **Desarrollo** | 1. *Firstly, … On the other hand, …*<br>2. *Not only does it…, but it also…*<br>3. *Moreover, … For example, …* |
+    | **Conclusión** | 1. *In conclusion, I believe that…*<br>2. *Overall, the advantages outweigh the disadvantages.*<br>3. *In my opinion, the best solution would be to…* |
 
-      1. Registro · Queja a una empresa - Formal - registro formal todo el texto (nada de contracciones)
-      2. Intro · *"I am writing to complain about...", "I am writing regarding an order I placed on..."*.
-      3. Desa · Frases de queja: *"I am extremely disappointed", "This is not what I expected", "I would like a replacement/refund"*.
+!!! tip consejos "💡 5 consejos"
 
-## 📗 Conectores cat-6
+    1. **Registro semi-formal** (revista de opinión): primera persona permitida porque es tu opinión, pocas contracciones y nada de coloquialismos ni jerga.
+    2. **No reveles toda tu opinión en la intro:** plantea el tema y guárdala clara y firme para la conclusión.
+    3. **Equilibra los argumentos:** un párrafo a favor y otro en contra (o ventajas / desventajas), cada idea con su ejemplo.
+    4. **Conectores de organización y contraste:** *Firstly, Secondly, Moreover, However, On the other hand, Therefore*. Revisa el [esquema de conectores](#conectores-cat-6).
+    5. **Luce estructuras B2, una por párrafo:** comparativo doble (*The more…, the…*), inversión (*Not only do we…*), condicional (*If I had…, I would…*), pasiva o relativas.
+
+## Conectores cat-6 {.yer-h2}
 
 | Conectores | Uso | Ejemplo |
 |---|---|---|
@@ -167,7 +201,8 @@ No basta con poner el conector — el verbo también tiene que estar en el tiemp
 
 *"First, I woke up at 7 am. Before that, I had set my alarm the night before, just in case. Then, I had breakfast and got ready for work. While I was walking to the bus stop, it started to rain. Finally, I arrived at the office, a bit late but not too stressed."*
 
-## 📗Conjunciones 3 cat
+## Conjunciones 3 cat {.yer-h2}
+
 *Una conjunción es una palabra que une dos oraciones, cláusulas o palabras. Sin ellas, las frases quedarían sueltas y desconectadas. Son fundamentales para construir un discurso fluido y cohesionado*
 
 | Palabra | Uso | Ejemplo |
@@ -199,14 +234,14 @@ No basta con poner el conector — el verbo también tiene que estar en el tiemp
 | neither...nor / ni...ni | Niega dos elementos | Neither Mark nor Sue called. — Ni Mark ni Sue llamaron. |
 | not only...but also / no solo...sino también | Añade información extra enfatizada | She is not only smart but also kind. — No solo es inteligente sino también amable. |
 
-## → Mis errores
+## → Mis errores {.yer-h2}
 
 1. **No mezcles el orden narrativo** — si vas a contar del sábado antes que del viernes, dilo con "before that", no lo cuentes como si fuera después sin avisar.
 2. **"Before that" necesita pasado perfecto casi siempre**, porque señala algo anterior a lo que ya contaste: *Before that, I had finished the report.*
 3. **No repitas siempre "then"** — alterna con "after that", "next", "later", para variar (esto también puntúa en la tabla de corrección, apartado de vocabulario/cohesión).
 4. **Un solo conector por frase** — no mezcles dos a la vez ("before that then I went...").
 
-## → Mejoras
+## → Mejoras {.yer-h2}
 
 !!! bug "19-08-2026 blog post"
       1. **Consistencia de tiempo verbal en pasado** (have→had, feel→felt) — bajo la presión de escribir rápido, se cuelan presentes sueltos en medio de una narración pasada
@@ -218,7 +253,7 @@ No basta con poner el conector — el verbo también tiene que estar en el tiemp
       2. **Cuando una frase te salga muy enredada** (como la del final), párate y simplifícala en trozos más cortos antes de intentar decirlo todo junto — es preferible una frase simple y clara que una larga incomprensible.
       3. **Revisar la concordancia** -s en 3ª persona en generalizaciones (lifestyle define→defines, it help→helps) — sigue siendo un despiste recurrente cuando escribes rápido.
 
-## → Ejemplos
+## → Ejemplos {.yer-h2}
 
 !!! example "26-08-2026 blog post"
       **A Minimalist Lifestyle**
