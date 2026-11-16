@@ -1,5 +1,56 @@
 # 🎧 CTO - Listening 
 
+## Estrategia de examen
+
+![Estrategia de lectura](../assets/img/eoi/eoi-03.png)
+
+| Tipo de tarea | En qué consiste | Consejo específico |
+|---|---|---|
+| Task 1| **1. Multiple matching** Relacionar varios hablantes con varias afirmaciones | Escuchar hasta el final antes de decidir: la respuesta correcta a veces se confirma solo al final del turno de cada hablante |
+| Task 2 | **2. Note/sentence completion** Completar huecos con la palabra exacta que se oye <br>**2. Multiple choice**Elegir la opción correcta entre 3-4| - Prestar atención a la gramática del hueco (singular/plural, tiempo verbal) para no escribir una palabra que no encaja <br> - Las opciones incorrectas suelen mencionarse en el audio pero con una palabra que cambia el sentido (no, actually, but)|
+| Task 3 | **3. True/False/Not mentioned** Decidir si una afirmación es verdadera, falsa o no aparece | No dar por falso algo que simplemente no se menciona: son categorías distintas |
+
+!!! abstract "ESTRATEGIA"
+      - **ANTES** de escuchar
+          1. **Leer las preguntas con antelación**, durante el tiempo que se da antes de cada audio. Esto permite anticipar qué tipo de información hay que captar (un nombre, una cifra, una opinión) y "escuchar con un propósito" en lugar de escuchar pasivamente.
+          2. **Subrayar palabras clave de las preguntas** (nombres, fechas, lugares) para reconocerlas rápidamente cuando aparezcan en el audio.
+          3. **Predecir el contexto** a partir del título o la introducción de la tarea: ¿es una conversación informal, una entrevista, una noticia?
+      - **DURANTE** la escucha
+          1. **No bloquearse en una palabra que no se entiende.** Es preferible seguir escuchando y perder esa palabra que quedarse pensando en ella y perderse las tres frases siguientes.
+          2. **Aprovechar la segunda escucha** (cuando la haya) para confirmar respuestas dudosas, no para escuchar todo desde cero sin criterio.
+          3. **Tomar notas breves** (palabras sueltas, no frases completas) según se escucha, para no depender solo de la memoria.
+              - Usar flechas para relaciones causa-efecto: **rain → traffic jam**
+              - Abreviar palabras largas: **govt** (government), **info** (information), **approx** (approximately)
+              - Anotar solo números, nombres propios y palabras clave, nunca frases completas.
+              - Marcar con un signo de interrogación (**?**) las respuestas dudosas, para revisarlas en la segunda escucha en vez de perder tiempo decidiendo en el momento.
+
+!!! note "CONSEJOS"
+    1. **Practicar con material auténtico, no solo con exámenes de academia.** Noticias, podcasts, series con subtítulos en inglés, artículos de prensa británica o estadounidense.
+    2. **No traducir mentalmente palabra por palabra.** Cuanto más se traduce internamente, más lento es el procesamiento y más se pierde por el camino. El objetivo es entender directamente en inglés.
+    3. **Aceptar la ambigüedad tolerable.** No hace falta entender el 100% de las palabras para responder bien: el objetivo es entender lo suficiente para la tarea concreta.
+    4. **Cronometrar siempre la práctica.** La gestión del tiempo en comprensión es tan entrenable como el propio idioma.
+    5.  **Identificar los tipos de distractor** más habituales en preguntas de opción múltiple. (negaciones, generalizaciones y sinónimos parciales)
+    6.  Leer preguntas antes de escuchar, tomar notas breves, aprovechar bien la segunda escucha.
+
+!!! failure "ERRORES"
+    1. **Dejar preguntas en blanco por quedarse "atascado" en una sola tarea difícil**, en lugar de seguir avanzando y volver después si queda tiempo.
+    2. **Fiarse de la memoria en el listening sin tomar ninguna nota**, sobre todo en tareas con varios datos concretos (fechas, cifras, nombres).
+    3. **Responder según conocimiento previo del tema en vez de según el texto/audio**, especialmente en preguntas tipo "According to the speaker...".
+    4. **Ignorar la instrucción sobre el límite de palabras** en tareas de completar huecos, lo que puede anular una respuesta correcta por motivos de formato.
+
+**ACENTOS**
+
+Los audios pueden incluir **acentos no estándar**. Conviene practicar con fuentes variadas para no llevarse una sorpresa el día del examen.
+
+| Acento/variedad | Dónde practicarlo |
+|---|---|
+| Británico estándar (RP) | BBC News, BBC Learning English |
+| Británico regional (escocés, del norte de Inglaterra) | Series de la BBC ambientadas fuera de Londres |
+| Americano general | NPR, podcasts de noticias de EE. UU. |
+| Australiano/neozelandés | Podcasts de ABC Australia |
+| Hablantes no nativos con acento marcado | TED Talks de ponentes de distintos países |
+
+
 ## Recursos
 
 |  |  |

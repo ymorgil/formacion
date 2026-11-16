@@ -24,7 +24,7 @@ nav:
         - EOI: ingles/00-eoi.md
         - 1 CTE Reading: ingles/01-cte.md
         - 2 CTO Listening: ingles/02-cto.md
-        - 3 PCCTE Writing: ingles/03-pccte.md
+        - 3 PCTE Writing: ingles/03-pcte.md
         - 4 PCCTO Speaking: ingles/04-pccto.md
         - 5 Mediación: ingles/05-mediacion.md
         - Gramática: ingles/06-gramatica.md
@@ -83,3 +83,5 @@ markdown_extensions:
         use_pygments: true
    - pymdownx.superfences
    - pymdownx.inlinehilite
+   - pymdownx.tabbed:
+        alternate_style: true
