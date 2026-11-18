@@ -2,7 +2,9 @@
 
 ## Estrategia de examen
 
-![Estrategia de lectura](../assets/img/eoi/eoi-03.png)
+| 🟢 B1 | 🔵 B2 |
+|---|---|
+| ![B1](../assets/img/eoi/eoi-b1-cto.png) | ![B2](../assets/img/eoi/eoi-b2-cto.png) |
 
 | Tipo de tarea | En qué consiste | Consejo específico |
 |---|---|---|

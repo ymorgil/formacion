@@ -2,7 +2,9 @@
 
 ## Estrategia de examen
 
-![Estrategia de lectura](../assets/img/eoi/eoi-02.png)
+| 🟢 B1 | 🔵 B2 |
+|---|---|
+| ![B1](../assets/img/eoi/eoi-b1-cte.png) | ![B2](../assets/img/eoi/eoi-b2-cte.png) |
 
 !!! abstract "ESTRATEGIA"
       1. **Lectura rápida global** leer el texto completo en 1-2 minutos sin detenerse en palabras desconocidas, solo para entender de qué trata y cuál es su estructura (introducción, argumentos, conclusión).

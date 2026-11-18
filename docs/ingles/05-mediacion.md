@@ -4,7 +4,9 @@
 
 La mediación evalúa la capacidad de **actuar como puente entre un texto (o una persona) y otra persona que no tiene acceso directo a ese texto o a ese idioma**. No es traducción literal palabra por palabra: es selección, síntesis y adaptación de la información relevante.
 
-![Estrategia de lectura](../assets/img/eoi/eoi-07.png)
+| 🟢 B1 | 🔵 B2 |
+|---|---|
+| ![B1](../assets/img/eoi/eoi-b1-med.png) | ![B2](../assets/img/eoi/eoi-b2-med.png) |
 
 !!! success "Sinónimos para "subir de nivel" un texto"
       * good → **beneficial, advantageous, valuable, effective**

@@ -110,9 +110,9 @@ El examen de certificación se organiza siempre en torno a **cinco actividades**
 
 > Los detalles exactos de cada convocatoria (duración en minutos, número de tareas) se confirman siempre en la **Guía para los aspirantes** del curso vigente, ya que pueden variar ligeramente de una convocatoria a otra.
 
-![Nivel Intermedio B1](../assets/img/eoi/eoi-b1.png)
-
-![Nivel Intermedio B2](../assets/img/eoi/eoi-01.png)
+| 🟢 Nivel Intermedio B1 | 🔵 Nivel Intermedio B2 |
+|---|---|
+| ![Nivel Intermedio B1](../assets/img/eoi/eoi-b1.png) | ![Nivel Intermedio B2](../assets/img/eoi/eoi-01.png) |
 
 El examen se administra en **dos sesiones distintas**, pero cuenta como una sola prueba a efectos de calificación:
 
@@ -504,38 +504,6 @@ El examen EOI pone el foco sobre todo en la **producción activa**, así que est
 | **Future Continuous** | Acción en progreso en un momento futuro concreto|*I will be flying to London this time tomorrow*|
 | **Future Perfect** | Acción completada antes de un momento futuro. Muy útil en C1 para hablar de objetivos y proyecciones|*By next June, I will have finished my degree*|
 
-**VERBOS IRREGULARES**
-
-No hace falta memorizar los 200 verbos irregulares,estos son los que, por frecuencia de uso en textos y audios de nivel B1-C1, conviene tener totalmente automatizados:
-
-| Base | Past Simple | Past Participle | Traducción |
-|---|---|---|---|
-| be | was/were | been | ser/estar |
-| go | went | gone | ir |
-| do | did | done | hacer |
-| have | had | had | tener/haber |
-| say | said | said | decir |
-| get | got | got/gotten | conseguir/llegar a estar |
-| make | made | made | hacer/fabricar |
-| take | took | taken | coger/tomar |
-| see | saw | seen | ver |
-| know | knew | known | saber/conocer |
-| think | thought | thought | pensar |
-| come | came | come | venir |
-| give | gave | given | dar |
-| find | found | found | encontrar |
-| tell | told | told | contar/decir |
-| become | became | become | convertirse en |
-| leave | left | left | dejar/marcharse |
-| feel | felt | felt | sentir |
-| bring | brought | brought | traer |
-| begin | began | begun | empezar |
-| write | wrote | written | escribir |
-| understand | understood | understood | entender |
-| break | broke | broken | romper |
-| choose | chose | chosen | elegir |
-| lose | lost | lost | perder |
-
 ### Estructuras avanzadas
 
 ![Estructuras avanzadas C1](../assets/img/eoi/tiempos_avanzados.png)
@@ -599,69 +567,3 @@ No hace falta memorizar los 200 verbos irregulares,estos son los que, por frecue
       | Pasiva | Reconocimiento | Producción básica | Producción con verbos de opinión (is believed to...) |
       | Reported speech | Reconocimiento | Producción de afirmaciones y preguntas | Producción fluida, incluso con verbos introductorios variados (claim, admit, deny) |
       | Modales de deducción | No exigido | Básico (must/might) | Dominio completo, incluidas formas con "have" |
-
-## Estrategia día de examen — Writing (Task 1 y Task 2)
-
-## Reparto de tiempo orientativo
-
-| Fase | Task 1 (100-120 palabras) | Task 2 (230-275 palabras) |
-|---|---|---|
-| Leer + subrayar | 2 min | 3 min |
-| Planificar | 3 min | 5 min |
-| Redactar | 10-12 min | 25-28 min |
-| Revisar | 3 min | 5 min |
-| **Total aprox.** | **~18-20 min** | **~38-40 min** |
-
----
-
-## FASE 1 — Leer el enunciado (igual en las dos tareas)
-
-Subraya siempre estas 4 cosas antes de escribir una sola palabra:
-- **Tipo de texto** (email, blog, essay, report...)
-- **Destinatario** (amigo, empresa, revista del centro...) → esto define el registro
-- **Puntos obligatorios** que hay que incluir (normalmente 2, en negrita o con viñetas en el enunciado)
-- **Número de palabras**
-
----
-
-## FASE 2 — Planificar
-
-### Task 1 (esquema rápido, 3 min)
-1. Escribe los 2 puntos obligatorios como 2 mini-bloques
-2. Para cada bloque, anota 1-2 frases clave que quieres decir
-3. Asigna a cada frase una estructura gramatical objetivo — ej: "frase 1 → present perfect", "frase 2 → relative clause"
-4. Elige 2-3 conectores que vas a usar, para no repetir
-
-### Task 2 (esquema más completo, 5 min)
-1. Divide en los 4 bloques fijos: introducción / párrafo cuerpo 1 / párrafo cuerpo 2 / conclusión
-2. En cada bloque cuerpo, anota: idea principal + 1 ejemplo concreto
-3. Asigna 1 estructura gramatical objetivo por párrafo — ej: "párrafo 1 → conditional", "párrafo 2 → passive voice", "conclusión → cleft sentence"
-4. Elige 4-5 conectores distintos (uno por bloque más o menos)
-
-### Lista de estructuras candidatas (elige 3-5 según la tarea)
-present perfect · past perfect · conditionals · passive voice · relative clauses · reported speech · comparativos dobles · cleft sentences · inversión · causativa · wish
-
----
-
-## FASE 3 — Redactar
-
-- Sigue el esquema, no improvises sobre la marcha
-- Si te atascas en una palabra, no pares a buscar la perfecta — sigue escribiendo y revisa el vocabulario en la Fase 4
-- Vigila el tiempo: si vas muy retrasado en Task 2, prioriza terminar la conclusión antes que perfeccionar el cuerpo (un texto sin cierre penaliza más que uno con el cuerpo algo corto)
-
----
-
-## FASE 4 — Revisar (checklist, igual en las dos tareas)
-
-1. ¿Está el registro consistente de principio a fin? (nada de mezclar formal/informal)
-2. ¿Concordancia sujeto-verbo?
-3. ¿Usaste las estructuras gramaticales que planeaste, o se quedaron fuera?
-4. ¿Número de palabras dentro del margen (±10%)?
-5. Ortografía y mayúsculas sueltas
-
----
-
-## Diferencia clave entre las dos tareas
-
-- **Task 1:** prioriza precisión y que no falte ningún punto obligatorio — es corta, cada frase pesa mucho
-- **Task 2:** prioriza estructura clara en párrafos y variedad de conectores/gramática — aquí sí hay espacio para desarrollar argumentos

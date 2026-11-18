@@ -2,7 +2,9 @@
 
 Escribir bien en el examen no es solo "no cometer errores": es **responder exactamente a lo que pide la tarea**, con la estructura, el registro y la extensión adecuados, usando un lenguaje variado y bien conectado. 
 
-![Estrategia de lectura](../assets/img/eoi/eoi-05.png)
+| 🟢 B1 | 🔵 B2 |
+|---|---|
+| ![B1](../assets/img/eoi/eoi-b1-pcte.png) | ![B2](../assets/img/eoi/eoi-b2-pcte.png) |
 
 !!! question tipos "Task 1 · Task 2"
 
@@ -19,7 +21,7 @@ Escribir bien en el examen no es solo "no cometer errores": es **responder exact
     | **3. Redactar** | Sigue el esquema y controla el tiempo restante para no quedarte sin terminar la conclusión.<br>🔢 **Regla de las 10 palabras:** redondeando, cada frase tiene unas **10 palabras**. Si te piden **100 palabras → 10 frases**. |
     | **4. Revisar** | Reserva **3-5 minutos** al final.<br>1. **Concordancia verbal:** el tiempo verbal debe ser coherente. Si hablas de unas vacaciones pasadas, no puede haber estructuras en presente.<br>2. **Ortografía:** con la prisa es fácil escribir mal una palabra, y eso puede cambiar el significado.<br>3. **Conectores:** ten claros los tipos que hay y comprueba que encajan donde los has colocado.<br>4. **Características:** se cumple el número de palabras (±10% es un margen razonable), el tipo de texto, el registro y los puntos obligatorios. |
 
-## ✉️ Email {.yer-h2}
+## ✉️ Email
 
 !!! success estructura "Estructura · email informal (~100 palabras)"
 
@@ -49,19 +51,19 @@ Escribir bien en el examen no es solo "no cometer errores": es **responder exact
 
 ### Informal vs formal
 
-| Parte | Informal (a un amigo o familiar)| Formal (a una empresa, institución o desconocido)|
-|---|---|---|---|
-| Saludo | Hi Anna, / Dear John, | Dear Sir/Madam, / Dear Mr Smith,|
-| Apertura | How are you? / Thanks for your last email. <br> I hope you're doing well. | I am writing to enquire about... <br> I am writing with regard to...|
-| Cuerpo<br> (1-2 parr) | Lenguaje coloquial, contracciones (I'm, don't, can't), frases cortas | Sin contracciones, vocabulario preciso, tono neutro y respetuoso|
-| Cierre | Write back soon! <br> Can't wait to hear from you. |  I look forward to hearing from you. <br> Please do not hesitate to contact me. |
-| Despedida | Best, / Take care, / Love, | Yours faithfully, (si no se sabe el nombre) <br> Yours sincerely, (si se sabe el nombre)|
+| Parte | 😊 Informal (amigo o familiar) | 👔 Formal (empresa, institución o desconocido) |
+|---|---|---|
+| **Saludo** | *Hi Anna,* / *Dear John,* | *Dear Sir or Madam,* / *Dear Mr Smith,* |
+| **Apertura** | *How are you? Thanks for your last email.*<br>*I hope you're doing well.* | *I am writing to enquire about…*<br>*I am writing with regard to…* |
+| **Cuerpo** (1-2 párrafos) | Lenguaje coloquial, contracciones (*I'm, don't, can't*), frases cortas | Sin contracciones, vocabulario preciso, tono neutro y respetuoso |
+| **Cierre** | *Write back soon!*<br>*Can't wait to hear from you.* | *I look forward to hearing from you.*<br>*Please do not hesitate to contact me.* |
+| **Despedida** | *Best,* / *Take care,* / *Love,* | *Yours faithfully,* (si no sabes su nombre)<br>*Yours sincerely,* (si sabes su nombre) |
 
 > **Error típico:** mezclar registro formal e informal en el mismo texto (empezar con "Dear Sir/Madam" y despedirse con "Bye!"). El registro debe ser coherente de principio a fin.
 
 **Por nivel:** en B2 se espera cierta elaboración argumentativa (quejas, sugerencias); en C1 se valora la precisión del registro y el uso de fórmulas menos comunes (**I would be most grateful if**..., **Should you require further information**...).
 
-## 📝 Blog entry {.yer-h2}
+## 📝 Blog entry
 
 !!! success estructura "Estructura · blog entry (~100–125 palabras)"
 
@@ -76,10 +78,10 @@ Escribir bien en el examen no es solo "no cometer errores": es **responder exact
     | Parte | Frases |
     |-------|--------|
     | **Information** | 1. *Posted by LanguageLover on 10 November 2026, 18:30*<br>2. *Is online learning better than face-to-face classes?*<br>3. *You won't believe what happened…* |
-    | **Introduction** | 1. *Have you ever studied a language online?*<br>2. *The reason I'm writing this is that…*<br>3. *I'd like to share my experience with you.* |
-    | **Main part 1** | 1. ***Firstly / To start with,*** *…*<br>2. ***For example / For instance,*** *…*<br>3. ***In addition / Besides,*** *…* |
-    | **Main part 2** | 1. ***However,*** *…*<br>2. ***On the other hand,*** *…*<br>3. ***That's why / So*** *…* |
-    | **Ending** | 1. ***All in all,*** *I think it's the best option for…*<br>2. *What do you think? Share your thoughts in the comments!*<br>3. *Let me know what you think!* |
+    | **Introduction** | 1. **Catching attention:** *Have you ever…?*<br>2. **Catching attention:** *The reason I am writing this is…*<br>3. **Catching attention:** *Can you imagine…?* |
+    | **Main part 1** | 1. **Starting the main part:** *Firstly / To start with, …*<br>2. **Expressing an opinion:** *I'd like to share my experiences / thoughts with you.*<br>3. **Giving examples:** *For example / For instance, …* |
+    | **Main part 2** | 1. **Adding more information:** *Secondly / Apart from that / In addition, …*<br>2. **Expressing an opinion:** *In my opinion / To my mind, I am convinced that…*<br>3. **Giving explanations:** *That's why / So / Therefore …* |
+    | **Ending** | 1. **Summing up / Concluding:** *All in all / To sum up, I think…*<br>2. **Inviting comments:** *What do you think about this?*<br>3. **Inviting comments:** *Share your thoughts! / Let me know what you think…* |
 
 !!! tip consejos "💡 5 consejos"
 
@@ -89,7 +91,7 @@ Escribir bien en el examen no es solo "no cometer errores": es **responder exact
     4. **Gramática de la unidad:** comparativos (*more flexible than*), superlativos (*the best option*), *-ed/-ing* (*I felt bored / it was boring*). Si narras, mantén el pasado (*have → had, feel → felt*).
     5. **Conecta y separa:** al menos 3 conectores distintos (*However, In addition, For example, That's why, So*) y párrafos separados: intro · 1–2 de desarrollo · final.
 
-## 💭 Essay de opinión {.yer-h2}
+## 💭 Essay de opinión
 
 !!! success estructura "Estructura · opinion essay / composition"
 
@@ -128,7 +130,7 @@ Escribir bien en el examen no es solo "no cometer errores": es **responder exact
 
 **Por qué funciona:** responde exactamente a lo pedido (discutir ambas posturas + opinión propia), usa conectores variados, incluye ejemplos concretos en lugar de generalidades, y cierra con un matiz personal en vez de una conclusión genérica repetida.
 
-## 🎬 Reseña (review) {.yer-h2}
+## 🎬 Reseña (review)
 
 Combina descripción objetiva y opinión personal sobre un libro, película, serie, restaurante, producto o evento.
 
@@ -157,7 +159,7 @@ Combina descripción objetiva y opinión personal sobre un libro, película, ser
     4. **Registro neutro o semi-formal** según dónde se publique (revista, web, blog del centro), dirigiéndote al lector.
     5. **Cierra siempre con una recomendación clara** que diga a quién va dirigida.
 
-## 📊 Informe (report) {.yer-h2}
+## 📊 Informe (report)
 
 Un informe se diferencia claramente de un ensayo en el formato: usa **títulos y subtítulos**, no un texto corrido, y un tono objetivo, casi siempre en tercera persona o en voz pasiva.
 
@@ -186,7 +188,7 @@ Un informe se diferencia claramente de un ensayo en el formato: usa **títulos y
     4. **Recomendaciones concretas y accionables**, mejor en lista.
     5. **Apoya los hallazgos con datos o ejemplos** (*most / a few / the majority of…*), sin inventar cifras exageradas.
 
-## 📣 Complaint letter {.yer-h2}
+## 📣 Complaint letter
 
 **Carta de reclamación**, muy habitual en B2 y C1. Combina el formato de carta formal con un tono firme pero educado, nunca agresivo.
 
@@ -215,7 +217,7 @@ Un informe se diferencia claramente de un ensayo en el formato: usa **títulos y
     4. **Pide una solución clara y realista** (reembolso, sustitución, disculpa).
     5. **Despedida coherente con el saludo:** *Dear Sir or Madam → Yours faithfully*; *Dear Mr Smith → Yours sincerely*.
 
-## 🎯 Rúbrica, consejos y errores {.yer-h2}
+## 🎯 Rúbrica, consejos y errores
 
 !!! abstract "Rubricas B2"
       1. **COMPETENCIA LÉXICA**
@@ -252,7 +254,7 @@ Un informe se diferencia claramente de un ensayo en el formato: usa **títulos y
       4. **Errores sistemáticos de concordancia** (sujeto-verbo, singular-plural) que se repiten varias veces en el texto.
       5. **No dejar tiempo para revisar.** Muchos errores tontos (falta de -s, mayúsculas olvidadas, errores de ortografía básicos) se detectan solo con una relectura atenta.
 
-## Conectores cat-6 {.yer-h2}
+## Conectores cat-6
 
 Elige la categoría según lo que quieres hacer. En cada una, arriba tienes la regla de **qué va detrás** y debajo los conectores imprescindibles.
 
@@ -436,7 +438,7 @@ No basta con poner el conector — el verbo también tiene que estar en el tiemp
 
 *"First, I woke up at 7 am. Before that, I had set my alarm the night before, just in case. Then, I had breakfast and got ready for work. While I was walking to the bus stop, it started to rain. Finally, I arrived at the office, a bit late but not too stressed."*
 
-## Conjunciones 3 cat {.yer-h2}
+## Conjunciones 3 cat
 
 *Una conjunción une dos oraciones, cláusulas o palabras. Sin ellas, las frases quedan sueltas y desconectadas.*
 
@@ -478,14 +480,14 @@ No basta con poner el conector — el verbo también tiene que estar en el tiemp
     | **neither… nor** | ni… ni | Neither Mark nor Sue called. |
     | **not only… but also** | no solo… sino también | She is not only smart but also kind. |
 
-## → Mis errores {.yer-h2}
+## → Mis errores
 
 1. **No mezcles el orden narrativo** — si vas a contar del sábado antes que del viernes, dilo con "before that", no lo cuentes como si fuera después sin avisar.
 2. **"Before that" necesita pasado perfecto casi siempre**, porque señala algo anterior a lo que ya contaste: *Before that, I had finished the report.*
 3. **No repitas siempre "then"** — alterna con "after that", "next", "later", para variar (esto también puntúa en la tabla de corrección, apartado de vocabulario/cohesión).
 4. **Un solo conector por frase** — no mezcles dos a la vez ("before that then I went...").
 
-## → Mejoras {.yer-h2}
+## → Mejoras
 
 !!! bug "19-08-2026 blog entry"
       1. **Consistencia de tiempo verbal en pasado** (have→had, feel→felt) — bajo la presión de escribir rápido, se cuelan presentes sueltos en medio de una narración pasada
@@ -497,7 +499,7 @@ No basta con poner el conector — el verbo también tiene que estar en el tiemp
       2. **Cuando una frase te salga muy enredada** (como la del final), párate y simplifícala en trozos más cortos antes de intentar decirlo todo junto — es preferible una frase simple y clara que una larga incomprensible.
       3. **Revisar la concordancia** -s en 3ª persona en generalizaciones (lifestyle define→defines, it help→helps) — sigue siendo un despiste recurrente cuando escribes rápido.
 
-## → Ejemplos {.yer-h2}
+## → Ejemplos
 
 !!! example "26-08-2026 blog entry"
       **A Minimalist Lifestyle**

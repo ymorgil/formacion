@@ -9,14 +9,7 @@ h1 {
   text-align: center;
 }
 
-/* Resaltar los títulos H2 (##) */
-h2 {
-  color: #777;         /* Color Índigo estándar (puedes usar también #4b0082 para índigo oscuro) */
-  font-weight: 600 !important; /* Fuerza el grosor al máximo (Ultra-Bold) */
-  border-bottom: 3px solid #777; /* Línea inferior a juego con el color índigo */
-  padding-bottom: 3px;    /* Espacio entre el texto y la línea */
-  margin-top: 33px;       /* Espacio superior para separar del párrafo anterior */
-}
+/* Títulos H2 (##): estilo de banda (ver bloque "Títulos H2" más abajo) */
 
 /* Resaltar los títulos H3 (###) */
 h3 {
@@ -187,9 +180,9 @@ Uso:  !!! success estructura "Estructura"   ·   !!! quote frases "..."   ·   !
 [data-md-color-scheme="slate"] .md-typeset .admonition.consejos strong { color: var(--yer-bd); }
 
 /*--------------------------------------------------------------------------------------------------------------------
-Títulos H2 con estilo de banda. Uso: ## Título {.yer-h2}
+Títulos H2 con estilo de banda (todos los ## del sitio)
 --------------------------------------------------------------------------------------------------------------------*/
-.md-typeset h2.yer-h2 {
+.md-typeset h2 {
   color: #3f4a7a;
   font-weight: 700 !important;
   letter-spacing: .03em;
@@ -202,8 +195,53 @@ Títulos H2 con estilo de banda. Uso: ## Título {.yer-h2}
   background: linear-gradient(90deg, #f1f3fb 0%, #f3fafb 60%, transparent 100%);
   box-shadow: none;
 }
-[data-md-color-scheme="slate"] .md-typeset h2.yer-h2 {
+[data-md-color-scheme="slate"] .md-typeset h2 {
   color: #c5cae9;
   border-left-color: #7986cb;
   background: linear-gradient(90deg, rgba(57,73,171,.35) 0%, rgba(0,151,167,.15) 60%, transparent 100%);
 }
+
+
+/*--------------------------------------------------------------------------------------------------------------------
+Cajas de colores también en su versión plegable (??? estructura / frases / consejos / tipos)
+--------------------------------------------------------------------------------------------------------------------*/
+.md-typeset details.estructura { --yer-c:#2b7a70; --yer-bd:#a8dcd3; --yer-m:#4db6ac; --yer-t:#d9f2ee; --yer-bg:#f5fbfa; }
+.md-typeset details.frases     { --yer-c:#8a6a12; --yer-bd:#eed99a; --yer-m:#e3b93f; --yer-t:#fbf0cc; --yer-bg:#fffcf3; }
+.md-typeset details.consejos   { --yer-c:#a9493a; --yer-bd:#f3c1b5; --yer-m:#e8826a; --yer-t:#fde3dc; --yer-bg:#fff8f6; }
+.md-typeset details.tipos      { --yer-c:#5e4a85; --yer-bd:#d3c6ea; --yer-m:#9b85c4; --yer-t:#ece4f7; --yer-bg:#faf8fd; }
+.md-typeset details.estructura, .md-typeset details.frases, .md-typeset details.consejos, .md-typeset details.tipos {
+  border: 1px solid var(--yer-bd);
+  border-left: 5px solid var(--yer-m);
+  border-radius: 10px;
+  background: var(--yer-bg);
+  box-shadow: 0 2px 8px rgba(0,0,0,.04);
+}
+.md-typeset details.estructura > summary, .md-typeset details.frases > summary,
+.md-typeset details.consejos > summary, .md-typeset details.tipos > summary {
+  background: var(--yer-t);
+  color: var(--yer-c);
+  font-weight: 700;
+}
+.md-typeset details.estructura > summary::before, .md-typeset details.frases > summary::before,
+.md-typeset details.consejos > summary::before, .md-typeset details.tipos > summary::before,
+.md-typeset details.estructura > summary::after, .md-typeset details.frases > summary::after,
+.md-typeset details.consejos > summary::after, .md-typeset details.tipos > summary::after { background-color: var(--yer-c); }
+.md-typeset details.estructura strong, .md-typeset details.consejos strong { color: var(--yer-c); }
+[data-md-color-scheme="slate"] .md-typeset details.estructura, [data-md-color-scheme="slate"] .md-typeset details.frases,
+[data-md-color-scheme="slate"] .md-typeset details.consejos, [data-md-color-scheme="slate"] .md-typeset details.tipos {
+  background: rgba(255,255,255,.03); border-color: rgba(255,255,255,.12); border-left-color: var(--yer-m);
+}
+[data-md-color-scheme="slate"] .md-typeset details.estructura > summary, [data-md-color-scheme="slate"] .md-typeset details.frases > summary,
+[data-md-color-scheme="slate"] .md-typeset details.consejos > summary, [data-md-color-scheme="slate"] .md-typeset details.tipos > summary {
+  background: rgba(255,255,255,.06); color: var(--yer-bd);
+}
+
+
+/*--------------------------------------------------------------------------------------------------------------------
+Tablas con imágenes (B1 | B2): ancho completo, dos columnas iguales
+--------------------------------------------------------------------------------------------------------------------*/
+.md-typeset .md-typeset__table:has(img) { width: 100% !important; }
+.md-typeset table:has(img) { width: 100% !important; table-layout: fixed; }
+.md-typeset table:has(img) th { text-align: center; }
+.md-typeset table:has(img) td { vertical-align: top; padding: .4em; }
+.md-typeset table:has(img) img { width: 100%; height: auto; }
