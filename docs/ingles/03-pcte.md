@@ -1,23 +1,17 @@
 # ✍️ PCTE - Writing
 
-Escribir bien en el examen no es solo "no cometer errores": es **responder exactamente a lo que pide la tarea**, con la estructura, el registro y la extensión adecuados, usando un lenguaje variado y bien conectado. 
-
 | 🟢 B1 | 🔵 B2 |
 |---|---|
 | ![B1](../assets/img/eoi/eoi-b1-pcte.png) | ![B2](../assets/img/eoi/eoi-b2-pcte.png) |
 
-!!! question tipos "Task 1 · Task 2"
+Escribir bien en el examen no es solo "no cometer errores": es **responder exactamente a lo que pide la tarea**, con la estructura, el registro y la extensión adecuados, usando un lenguaje variado y bien conectado. 
 
-    | 1️⃣ Task 1 | 2️⃣ Task 2 |
-    |-----------|-----------|
-    | 1. **blog entry**<br>2. **email/carta** (formal o informal)<br>3. **reseña**<br><br>*Temas cotidianos: viajes, salud, trabajo, tecnología, hábitos.* | 1. **essay de opinión**<br>2. **informe**<br>3. **complaint letter**<br><br>*Temas sociales/abstractos: redes sociales, publicidad, medio ambiente, educación, trabajo remoto.* |
-
-!!! success estructura "Estructura"
+!!! question estructura "Estructura"
 
     | Paso | Qué hacer |
     |------|-----------|
     | **1. Leer y subrayar** | Lee el enunciado **dos veces** y subraya: <br>1. **Tipo de texto** (email, blog, essay...)<br>2. **Destinatario/registro** (amigo = informal, revista/empresa = formal)<br>3. **Puntos obligatorios** (busca viñetas o negrita, normalmente 2)<br>4. **Número de palabras**<br>5. **Propósito** (informar, quejarse, opinar, recomendar…) |
-    | **2. Planificar** | Dedica **3-5 minutos**: escribir sin plan es la causa nº 1 de textos desordenados, repetitivos o sin conclusión. Antes de escribir, ordena mentalmente (o en un borrador rápido) qué pasó primero, segundo, tercero... [4 párrafos] <br>**TASK 1:**<br>1. Anota los puntos obligatorios, con 1-2 frases clave.<br>2. Asigna una estructura gramatical objetivo a cada frase: <br>*present perfect · past perfect · conditional · passive voice · relative clause · comparativo doble · cleft sentence · inversión · wish*<br>3. Usa conectores de tiempo para guiar al lector ("no los de siempre").<br>**TASK 2:**<br>Lo mismo, pero por párrafo en vez de por frase: intro, cuerpo 1, cuerpo 2 y conclusión, con una estructura objetivo por párrafo. |
+    | **2. Planificar** | Dedica **3-5 minutos**: escribir sin plan es la causa nº 1 de textos desordenados, repetitivos o sin conclusión. Antes de escribir, ordena mentalmente (o en un borrador rápido) qué pasó primero, segundo, tercero... [4 párrafos] <br>**TASK 1:** (Temas cotidianos: viajes, salud, trabajo, tecnología, hábitos.)<br>1. Anota los puntos obligatorios, con 1-2 frases clave.<br>2. Asigna una estructura gramatical objetivo a cada frase: <br>*present perfect · past perfect · conditional · passive voice · relative clause · comparativo doble · cleft sentence · inversión · wish*<br>3. Usa conectores de tiempo para guiar al lector ("no los de siempre").<br>**TASK 2:** (Temas sociales/abstractos: redes sociales, publicidad, medio ambiente, educación, trabajo remoto.) <br>Lo mismo, pero por párrafo en vez de por frase: intro, cuerpo 1, cuerpo 2 y conclusión, con una estructura objetivo por párrafo. |
     | **3. Redactar** | Sigue el esquema y controla el tiempo restante para no quedarte sin terminar la conclusión.<br>🔢 **Regla de las 10 palabras:** redondeando, cada frase tiene unas **10 palabras**. Si te piden **100 palabras → 10 frases**. |
     | **4. Revisar** | Reserva **3-5 minutos** al final.<br>1. **Concordancia verbal:** el tiempo verbal debe ser coherente. Si hablas de unas vacaciones pasadas, no puede haber estructuras en presente.<br>2. **Ortografía:** con la prisa es fácil escribir mal una palabra, y eso puede cambiar el significado.<br>3. **Conectores:** ten claros los tipos que hay y comprueba que encajan donde los has colocado.<br>4. **Características:** se cumple el número de palabras (±10% es un margen razonable), el tipo de texto, el registro y los puntos obligatorios. |
 
@@ -77,8 +71,8 @@ Escribir bien en el examen no es solo "no cometer errores": es **responder exact
 
     | Parte | Frases |
     |-------|--------|
-    | **Information** | 1. *Posted by LanguageLover on 10 November 2026, 18:30*<br>2. *Is online learning better than face-to-face classes?*<br>3. *You won't believe what happened…* |
-    | **Introduction** | 1. **Catching attention:** *Have you ever…?*<br>2. **Catching attention:** *The reason I am writing this is…*<br>3. **Catching attention:** *Can you imagine…?* |
+    | **Information** | 1. Catchy title + on date <br>2. *Is online learning better than face-to-face classes?*<br>3. *Posted by LanguageLover on 10 November 2026, 18:30* |
+    | **Introduction** | 1. **Catching attention:** *Have you ever…? (¿Alguna vez has... ?*<br>2. **Catching attention:** *The reason I am writing this is…*<br>3. **Catching attention:** *Can you imagine…?* |
     | **Main part 1** | 1. **Starting the main part:** *Firstly / To start with, …*<br>2. **Expressing an opinion:** *I'd like to share my experiences / thoughts with you.*<br>3. **Giving examples:** *For example / For instance, …* |
     | **Main part 2** | 1. **Adding more information:** *Secondly / Apart from that / In addition, …*<br>2. **Expressing an opinion:** *In my opinion / To my mind, I am convinced that…*<br>3. **Giving explanations:** *That's why / So / Therefore …* |
     | **Ending** | 1. **Summing up / Concluding:** *All in all / To sum up, I think…*<br>2. **Inviting comments:** *What do you think about this?*<br>3. **Inviting comments:** *Share your thoughts! / Let me know what you think…* |

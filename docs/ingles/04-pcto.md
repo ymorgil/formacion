@@ -6,7 +6,7 @@
 
 ## T1 Monólogo
 
-Hablas tú solo sobre un tema de la tarjeta. **B1:** 3 min de preparación + 3 min de intervención · **B2:** 4 min + 5 min.
+Hablas tú solo sobre un tema de la tarjeta.
 
 !!! success estructura "Estructura · monólogo"
 
@@ -105,7 +105,7 @@ Conversas con otro candidato (o con el examinador). Se evalúa **mantener una co
 | **Discursiva y organizativa** | Empieza, mantiene y cierra; ideas conectadas con conectores. |
 | **Adecuación a la tarea** | Registro y cortesía adecuados; ideas con detalle y ejemplos. |
 
-## modismos de conversación y "hedging"
+## Modismos
 
 - I'd say that... (yo diría que...)
 - To be honest... (siendo honesto...)
@@ -120,10 +120,4 @@ Conversas con otro candidato (o con el examinador). Se evalúa **mantener una co
 > "Even though it was raining, we went for a walk."
 - **"What I'm looking forward to is..."** → algo que esperas con ilusión (para el futuro, no para algo que ya pasó).
 > "What I'm looking forward to is my trip next month." *Lo que más espero es mi viaje del mes que viene.*
-- 
-   
-
-
-
-## FRASES INTERESANTES
-1. Next year, I want to travel more.
+  

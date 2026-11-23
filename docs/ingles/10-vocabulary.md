@@ -1,5 +1,60 @@
 # 📘 Vocabulario
 
+## -ed and -ing adjectives
+
+En español decimos **"aburrido"** para las dos cosas: *estoy aburrido* y *la peli es aburrida*. En inglés son **dos palabras distintas**, y elegir mal cambia el sentido: *I'm bored* (estoy aburrido) ≠ *I'm boring* (soy un aburrido 😅).
+
+!!! success estructura "La regla de oro"
+
+    | | Qué describe | Ejemplo |
+    |---|---|---|
+    | **-ED** | Lo que **siente** una persona (el efecto, por **dentro**) | *I'm **bored**.* — Estoy aburrido. |
+    | **-ING** | Lo que **provoca** ese sentimiento (la causa, desde **fuera**) | *This film is **boring**.* — Esta peli es aburrida. |
+
+    **Esquema:** 🎬 la película es **boring** → 😴 yo estoy **bored**. La cosa **-ing** produce la emoción; la persona **-ed** la recibe.
+
+!!! tip consejos "💡 El truco en español: SER o ESTAR"
+
+    1. Si en español dirías **ESTAR** → casi siempre **-ED**: *estoy cansado* → I'm **tired** · *estoy interesado* → I'm **interested**.
+    2. Si dirías **SER** (o "es un/una…") → casi siempre **-ING**: *es cansado / agotador* → it's **tiring** · *es interesante* → it's **interesting**.
+    3. Detrás de **feel, get, become** va casi siempre **-ED**, porque hablan de lo que pasa dentro de ti: *I feel **tired*** · *She got **bored***.
+    4. Una **persona** también puede ser **-ING**, pero entonces es ella la que provoca el sentimiento a los demás: *He's **boring*** = es un muermo · *He's **bored*** = está aburrido.
+    5. Las de **-ED** suelen ir con preposición: interested **in** · bored **with** · tired **of** · excited **about** · worried **about** · disappointed **with**.
+
+!!! quote frases "💬 Las parejas más útiles"
+
+    | -ED (cómo me siento) | -ING (cómo es la cosa) | Ejemplo |
+    |---|---|---|
+    | **bored** · aburrido | **boring** · aburrido | *I was **bored** because the class was **boring**.* |
+    | **interested** · interesado | **interesting** · interesante | *I'm **interested** in history. It's really **interesting**.* |
+    | **tired** · cansado | **tiring** · agotador | *The trip was **tiring**, so I'm very **tired**.* |
+    | **annoyed** · molesto | **annoying** · molesto, pesado | *That noise is **annoying**. I'm getting **annoyed**.* |
+    | **excited** · emocionado | **exciting** · emocionante | *I'm so **excited** about the concert. It'll be **exciting**!* |
+    | **surprised** · sorprendido | **surprising** · sorprendente | *The ending was **surprising**. Everyone was **surprised**.* |
+    | **confused** · confundido | **confusing** · confuso | *The instructions were **confusing**, so I felt **confused**.* |
+    | **worried** · preocupado | **worrying** · preocupante | *The news is **worrying**. I'm **worried** about it.* |
+    | **embarrassed** · avergonzado | **embarrassing** · vergonzoso | *It was **embarrassing**! I felt so **embarrassed**.* |
+    | **disappointed** · decepcionado | **disappointing** · decepcionante | *The film was **disappointing**. I was **disappointed**.* |
+    | **frightened** · asustado | **frightening** · aterrador | *The storm was **frightening**. The kids were **frightened**.* |
+    | **relaxed** · relajado | **relaxing** · relajante | *A **relaxing** bath makes me feel **relaxed**.* |
+
+!!! failure "Errores típicos"
+
+    1. ~~I'm boring in class.~~ → I'm **bored** in class. (Si no, dices que *tú* eres un aburrido.)
+    2. ~~The trip was very excited.~~ → The trip was very **exciting**.
+    3. ~~I'm interesting in music.~~ → I'm **interested in** music.
+    4. ~~I feel tiring.~~ → I feel **tired**.
+
+??? question "Practica: ¿-ed o -ing?"
+
+    1. The match was really ______ (excite).
+    2. I'm ______ (interest) in learning Japanese.
+    3. After work I always feel ______ (exhaust).
+    4. His jokes are so ______ (annoy)!
+    5. We were ______ (surprise) by the result.
+
+    **Soluciones:** 1. exciting · 2. interested · 3. exhausted · 4. annoying · 5. surprised
+
 ## Vocabulario Grammar
 | Inglés | Pronunciación (aprox. en español) | Significado | Ejemplo |
 | :--- | :--- | :--- | :--- |
